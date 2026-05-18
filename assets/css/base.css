@@ -1,0 +1,23 @@
+body {
+  background:
+    radial-gradient(circle at top left, rgba(38, 63, 115, .055), transparent 28rem),
+    linear-gradient(180deg, var(--cd-page-soft), var(--cd-page));
+  color: var(--cd-ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.58;
+}
+
+a { color: var(--cd-link); text-underline-offset: .18em; text-decoration-thickness: .07em; }
+a:hover { color: var(--cd-link-hover); }
+
+h1, h2, h3, h4 { color: var(--cd-ink); line-height: 1.18; letter-spacing: -.018em; }
+h1 { font-size: clamp(1.9rem, 4vw, 2.75rem); font-weight: 740; }
+h2 { font-size: clamp(1.35rem, 2.2vw, 1.85rem); font-weight: 720; }
+h3 { font-size: 1.05rem; font-weight: 700; }
+h4 { font-size: .98rem; font-weight: 700; }
+p { color: var(--cd-ink-soft); }
+small { color: var(--cd-muted); }
+code, kbd, pre { font-family: var(--font-mono); }
+:focus-visible { outline: none; box-shadow: var(--focus-ring); border-radius: var(--radius-sm); }
+::selection { background: var(--cd-gold-soft); color: var(--cd-ink); }
