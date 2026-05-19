@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "exam_id": "jee",
+      "title": "JEE",
+      "status": "draft"
+    },
+    {
+      "exam_id": "bitsat",
+      "title": "BITSAT",
+      "status": "draft"
+    },
+    {
+      "exam_id": "tg-eapcet",
+      "title": "TG EAPCET",
+      "status": "draft"
+    },
+    {
+      "exam_id": "cbse",
+      "title": "CBSE",
+      "status": "draft"
+    },
+    {
+      "exam_id": "tgipe",
+      "title": "TGIPE",
+      "status": "draft"
+    }
+  ]
+}

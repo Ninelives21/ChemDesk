@@ -1,0 +1,16 @@
+{
+  "allowed_statuses": [
+    "raw",
+    "draft",
+    "cee_processed",
+    "user_reviewed",
+    "approved",
+    "published",
+    "deprecated",
+    "needs_update"
+  ],
+  "public_allowed_statuses": [
+    "approved",
+    "published"
+  ]
+}

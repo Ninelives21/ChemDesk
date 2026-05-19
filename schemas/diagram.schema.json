@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ChemDesk Diagram Metadata Schema",
+  "type": "object",
+  "description": "Placeholder schema. Full validation comes later."
+}
