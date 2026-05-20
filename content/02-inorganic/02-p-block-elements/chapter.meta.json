@@ -1,0 +1,51 @@
+{
+  "global_chapter_order": 11,
+  "category_order": 2,
+  "category_order_text": "02",
+  "category_id": "inorganic",
+  "category_folder": "02-inorganic",
+  "category_title": "Inorganic Chemistry",
+  "chapter_order": 2,
+  "chapter_order_text": "02",
+  "chapter_id": "p-block-elements",
+  "chapter_folder": "02-p-block-elements",
+  "title": "p block elements",
+  "canonical_path": "content/02-inorganic/02-p-block-elements",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "replace_standardize_to_jee_wallah_topic_only",
+  "source_plan_statuses": [
+    "Replace/standardize to JEE Wallah"
+  ],
+  "replace_standardize_to_jee_wallah": true,
+  "planned_lecture_count": 0,
+  "original_master_lecture_row_count": 31,
+  "current_playlist_urls": [],
+  "jee_syllabus_units": [
+    "Unit 10"
+  ],
+  "jee_syllabus_unit_names": [
+    "p-Block Elements"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [
+    "P Block Elements: Chemistry | Class 12th/JEE"
+  ],
+  "recommended_source_urls": [
+    "https://www.youtube.com/playlist?list=PLxyGaR3hEy3gUyoklkOVb5o5rSK8pmFWi"
+  ],
+  "source_plan_notes": [
+    "JEE Wallah playlist; search result says 10 lessons / 17 hours. Also consider one-shot: https://www.youtube.com/watch?v=qzFtiCIf9Ck"
+  ],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture subfolders intentionally skipped because this chapter is marked Replace/standardize to JEE Wallah in Master Lectures."
+}

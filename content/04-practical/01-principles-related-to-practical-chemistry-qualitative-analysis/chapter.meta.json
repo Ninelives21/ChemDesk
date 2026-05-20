@@ -1,0 +1,53 @@
+{
+  "global_chapter_order": 25,
+  "category_order": 4,
+  "category_order_text": "04",
+  "category_id": "practical",
+  "category_folder": "04-practical",
+  "category_title": "Practical Chemistry",
+  "chapter_order": 1,
+  "chapter_order_text": "01",
+  "chapter_id": "principles-related-to-practical-chemistry-qualitative-analysis",
+  "chapter_folder": "01-principles-related-to-practical-chemistry-qualitative-analysis",
+  "title": "Principles related to practical chemistry : qualitative analysis",
+  "canonical_path": "content/04-practical/01-principles-related-to-practical-chemistry-qualitative-analysis",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Partially update to JEE Wallah"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 16,
+  "original_master_lecture_row_count": 16,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PL_A4M5IAkMacB98GRxBk6Fs96_WwbyQdS"
+  ],
+  "jee_syllabus_units": [
+    "Unit 20"
+  ],
+  "jee_syllabus_unit_names": [
+    "Principles Related to Practical Chemistry"
+  ],
+  "syllabus_mapping_confidences": [
+    "Partial"
+  ],
+  "recommended_primary_sources": [
+    "SALT ANALYSIS in One Shot: All Concepts & PYQs Covered"
+  ],
+  "recommended_source_urls": [
+    "https://www.youtube.com/watch?v=8rRnn4ECwXI"
+  ],
+  "source_plan_notes": [
+    "Only clearly covers salt analysis part of Unit 20. Practical preparations/titrations/experiments still need source check."
+  ],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

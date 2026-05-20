@@ -1,0 +1,47 @@
+{
+  "global_chapter_order": 4,
+  "category_order": 1,
+  "category_order_text": "01",
+  "category_id": "physical",
+  "category_folder": "01-physical",
+  "category_title": "Physical Chemistry",
+  "chapter_order": 4,
+  "chapter_order_text": "04",
+  "chapter_id": "states-of-matter",
+  "chapter_folder": "04-states-of-matter",
+  "title": "States of Matter",
+  "canonical_path": "content/01-physical/04-states-of-matter",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Keep current source / no change decided"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 8,
+  "original_master_lecture_row_count": 8,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PLF_7kfnwLFCEzJZWNHb_K9tFC78F0AXOl"
+  ],
+  "jee_syllabus_units": [
+    "Not explicit in JEE Main 2025 Chemistry syllabus"
+  ],
+  "jee_syllabus_unit_names": [
+    "States of Matter / Gaseous State"
+  ],
+  "syllabus_mapping_confidences": [
+    "Review"
+  ],
+  "recommended_primary_sources": [],
+  "recommended_source_urls": [],
+  "source_plan_notes": [],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

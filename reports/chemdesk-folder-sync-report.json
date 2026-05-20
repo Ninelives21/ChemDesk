@@ -1,0 +1,46 @@
+{
+  "generated_from": "chemdesk_chemistry_lecture_master_UPDATED_SYNCED.xlsx",
+  "run_at": "2026-05-20T14:21:52.209Z",
+  "chapters_created_or_synced": 25,
+  "lectures_created_or_synced": 209,
+  "one_shot_topics": [
+    {
+      "chapter_id": "p-block-elements",
+      "folder": "content/inorganic/p-block-elements",
+      "source_url": "https://www.youtube.com/watch?v=1xIop-9UBXI&t=351s",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    },
+    {
+      "chapter_id": "d-and-f-block-elements",
+      "folder": "content/inorganic/d-and-f-block-elements",
+      "source_url": "https://www.youtube.com/watch?v=fVVJVlnSmn0&t=14s",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    },
+    {
+      "chapter_id": "coordination-compounds",
+      "folder": "content/inorganic/coordination-compounds",
+      "source_url": "https://www.youtube.com/watch?v=aGghmxSz-qI",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    },
+    {
+      "chapter_id": "amines-organic-compounds-containing-nitrogen",
+      "folder": "content/organic/amines-organic-compounds-containing-nitrogen",
+      "source_url": "https://www.youtube.com/watch?v=czKeoFS4QHg",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    },
+    {
+      "chapter_id": "biomolecules",
+      "folder": "content/organic/biomolecules",
+      "source_url": "https://www.youtube.com/watch?v=LcVNwEWJtyI",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    },
+    {
+      "chapter_id": "principles-related-to-practical-chemistry-qualitative-analysis",
+      "folder": "content/practical/principles-related-to-practical-chemistry-qualitative-analysis",
+      "source_url": "https://www.youtube.com/watch?v=o1bb1bWn7u0&t=8178s",
+      "segmentation_status": "needs_cee_or_ira_timestamp_split"
+    }
+  ],
+  "legacy_lecture_folders_under_one_shot_topics": [],
+  "notes": []
+}

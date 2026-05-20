@@ -1,0 +1,48 @@
+{
+  "global_chapter_order": 7,
+  "category_order": 1,
+  "category_order_text": "01",
+  "category_id": "physical",
+  "category_folder": "01-physical",
+  "category_title": "Physical Chemistry",
+  "chapter_order": 7,
+  "chapter_order_text": "07",
+  "chapter_id": "redox-reactions-and-electrochemistry",
+  "chapter_folder": "07-redox-reactions-and-electrochemistry",
+  "title": "Redox Reactions and Electrochemistry",
+  "canonical_path": "content/01-physical/07-redox-reactions-and-electrochemistry",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Keep current source / no change decided"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 13,
+  "original_master_lecture_row_count": 13,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PLTpsEaEiWczjpQ4bPDtfZa6cKie5wUU0m",
+    "https://www.youtube.com/playlist?list=PLF_7kfnwLFCF_VxKKAhHSLryCsJr3GW71"
+  ],
+  "jee_syllabus_units": [
+    "Unit 7"
+  ],
+  "jee_syllabus_unit_names": [
+    "Redox Reactions and Electrochemistry"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [],
+  "recommended_source_urls": [],
+  "source_plan_notes": [],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

@@ -1,0 +1,47 @@
+{
+  "global_chapter_order": 14,
+  "category_order": 3,
+  "category_order_text": "03",
+  "category_id": "organic",
+  "category_folder": "03-organic",
+  "category_title": "Organic Chemistry",
+  "chapter_order": 1,
+  "chapter_order_text": "01",
+  "chapter_id": "organic-chemistry-iupac-nomenclature",
+  "chapter_folder": "01-organic-chemistry-iupac-nomenclature",
+  "title": "Organic Chemistry: IUPAC nomenclature",
+  "canonical_path": "content/03-organic/01-organic-chemistry-iupac-nomenclature",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Keep current source / no change decided"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 12,
+  "original_master_lecture_row_count": 12,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PLgqhGKMp0Djaj_Tmch5c0zjqHEEHAGivd"
+  ],
+  "jee_syllabus_units": [
+    "Unit 14"
+  ],
+  "jee_syllabus_unit_names": [
+    "Some Basic Principles of Organic Chemistry"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [],
+  "recommended_source_urls": [],
+  "source_plan_notes": [],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

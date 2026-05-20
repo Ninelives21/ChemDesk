@@ -1,0 +1,47 @@
+{
+  "global_chapter_order": 1,
+  "category_order": 1,
+  "category_order_text": "01",
+  "category_id": "physical",
+  "category_folder": "01-physical",
+  "category_title": "Physical Chemistry",
+  "chapter_order": 1,
+  "chapter_order_text": "01",
+  "chapter_id": "some-basic-concepts-in-chemistry",
+  "chapter_folder": "01-some-basic-concepts-in-chemistry",
+  "title": "Some Basic Concepts in Chemistry",
+  "canonical_path": "content/01-physical/01-some-basic-concepts-in-chemistry",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Keep current source / no change decided"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 6,
+  "original_master_lecture_row_count": 6,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PLF_7kfnwLFCHzAKa-IGFTkzNKWgHWaqe5"
+  ],
+  "jee_syllabus_units": [
+    "Unit 1"
+  ],
+  "jee_syllabus_unit_names": [
+    "Some Basic Concepts in Chemistry"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [],
+  "recommended_source_urls": [],
+  "source_plan_notes": [],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

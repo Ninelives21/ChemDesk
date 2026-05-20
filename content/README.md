@@ -1,9 +1,9 @@
 # ChemDesk Content
 
-This folder stores portable Chemistry content.
+Portable Chemistry content lives here.
 
 Markdown/MDX explains.
 JSON connects.
-
-Do not place large monolithic Chemistry dumps here.
-Do not hard-code student notes inside UI/layout files.
+Folders preserve the Master Lectures playlist → lecture hierarchy.
+Category folders and chapter folders are prefixed to preserve familiar TSV order.
+Do not create one giant Chemistry data dump.

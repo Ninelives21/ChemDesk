@@ -1,0 +1,51 @@
+{
+  "global_chapter_order": 13,
+  "category_order": 2,
+  "category_order_text": "02",
+  "category_id": "inorganic",
+  "category_folder": "02-inorganic",
+  "category_title": "Inorganic Chemistry",
+  "chapter_order": 4,
+  "chapter_order_text": "04",
+  "chapter_id": "coordination-compounds",
+  "chapter_folder": "04-coordination-compounds",
+  "title": "Coordination Compounds",
+  "canonical_path": "content/02-inorganic/04-coordination-compounds",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "replace_standardize_to_jee_wallah_topic_only",
+  "source_plan_statuses": [
+    "Replace/standardize to JEE Wallah"
+  ],
+  "replace_standardize_to_jee_wallah": true,
+  "planned_lecture_count": 0,
+  "original_master_lecture_row_count": 18,
+  "current_playlist_urls": [],
+  "jee_syllabus_units": [
+    "Unit 12"
+  ],
+  "jee_syllabus_unit_names": [
+    "Coordination Compounds"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [
+    "Coordination Chemistry: Chemistry | Class 12th/JEE"
+  ],
+  "recommended_source_urls": [
+    "https://www.youtube.com/playlist?list=PLxyGaR3hEy3gH4UNRgnJK3rYaY38UlfPj"
+  ],
+  "source_plan_notes": [
+    "JEE Wallah playlist; search result confirms playlist. Playlist contents should be enumerated later."
+  ],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture subfolders intentionally skipped because this chapter is marked Replace/standardize to JEE Wallah in Master Lectures."
+}

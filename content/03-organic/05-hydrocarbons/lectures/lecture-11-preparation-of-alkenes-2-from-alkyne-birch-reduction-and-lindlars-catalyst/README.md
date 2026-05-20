@@ -1,0 +1,6 @@
+# Lecture 11 — Preparation of Alkenes 2: From Alkyne - Birch Reduction and Lindlar's Catalyst
+
+Generated lecture scaffold only.
+
+Do not add Chemistry teaching content yet.
+Keep lecture assets inside this folder's images/ subfolder.

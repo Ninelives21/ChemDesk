@@ -1,0 +1,47 @@
+{
+  "global_chapter_order": 9,
+  "category_order": 1,
+  "category_order_text": "01",
+  "category_id": "physical",
+  "category_folder": "01-physical",
+  "category_title": "Physical Chemistry",
+  "chapter_order": 9,
+  "chapter_order_text": "09",
+  "chapter_id": "chemical-kinetics",
+  "chapter_folder": "09-chemical-kinetics",
+  "title": "Chemical Kinetics",
+  "canonical_path": "content/01-physical/09-chemical-kinetics",
+  "status": "draft",
+  "source_status": "needs_review",
+  "review_status": "not_started",
+  "source_plan_mode": "lecture_scaffold",
+  "source_plan_statuses": [
+    "Keep current source / no change decided"
+  ],
+  "replace_standardize_to_jee_wallah": false,
+  "planned_lecture_count": 12,
+  "original_master_lecture_row_count": 12,
+  "current_playlist_urls": [
+    "https://www.youtube.com/playlist?list=PLF_7kfnwLFCHlh8wdeQ_ZZ96DhBDjqGMZ"
+  ],
+  "jee_syllabus_units": [
+    "Unit 8"
+  ],
+  "jee_syllabus_unit_names": [
+    "Chemical Kinetics"
+  ],
+  "syllabus_mapping_confidences": [
+    "High"
+  ],
+  "recommended_primary_sources": [],
+  "recommended_source_urls": [],
+  "source_plan_notes": [],
+  "exam_scope": [
+    "jee",
+    "bitsat",
+    "tg-eapcet",
+    "cbse",
+    "tgipe"
+  ],
+  "notes": "Lecture folders generated from non-replacement Master Lectures rows."
+}

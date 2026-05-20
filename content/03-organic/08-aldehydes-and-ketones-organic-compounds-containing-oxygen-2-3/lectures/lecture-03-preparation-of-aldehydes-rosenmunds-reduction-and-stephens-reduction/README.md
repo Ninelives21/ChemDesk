@@ -1,0 +1,6 @@
+# Lecture 03 — Preparation of Aldehydes: Rosenmund's Reduction & Stephen's Reduction
+
+Generated lecture scaffold only.
+
+Do not add Chemistry teaching content yet.
+Keep lecture assets inside this folder's images/ subfolder.

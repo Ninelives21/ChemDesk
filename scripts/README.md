@@ -1,5 +1,6 @@
 # Scripts
 
-Validation and utility scripts will live here later.
+Project maintenance scripts live here.
 
-Do not implement validation scripts in Codex Task 1.
+- scaffolding/ = folder and metadata creation scripts
+- audits/ = future validation and audit scripts
