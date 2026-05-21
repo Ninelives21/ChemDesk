@@ -2,6 +2,18 @@
 
 Last updated: 2026-05-20
 
+## Latest completed architecture work
+
+- Slice 1 content scaffold completed and committed.
+- Content registry generator created and passing.
+- Content scaffold audit script created and passing.
+- Authoring templates created under `templates/`.
+- Syllabus placeholder maps created under `data/syllabus/`.
+
+## Current verified commands
+
+# This below is the "older current"
+
 ## 1. Current phase
 
 ChemDesk is currently in **Architecture Slice 1: content scaffold foundation**.
@@ -248,9 +260,9 @@ Example:
 
 ```json
 {
-  "category_id": "physical",
-  "chapter_id": "chemical-bonding-and-molecular-structure",
-  "lecture_id": "chemical-bonding-and-molecular-structure-lecture-01"
+	"category_id": "physical",
+	"chapter_id": "chemical-bonding-and-molecular-structure",
+	"lecture_id": "chemical-bonding-and-molecular-structure-lecture-01"
 }
 ```
 
