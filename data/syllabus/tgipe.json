@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"exam_id": "tgipe",
+	"exam_title": "TGIPE",
+	"status": "placeholder",
+	"source_status": "needs_review",
+	"review_status": "not_started",
+	"last_reviewed_at": null,
+	"source_documents": [],
+	"notes": "Placeholder syllabus map. Do not use for public navigation, public search filters, or RAG until reviewed.",
+	"units": []
+}

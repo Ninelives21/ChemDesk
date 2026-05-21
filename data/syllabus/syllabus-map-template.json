@@ -1,0 +1,33 @@
+{
+	"schema_version": 1,
+	"exam_id": "example-exam",
+	"exam_title": "Example Exam",
+	"status": "placeholder",
+	"source_status": "needs_review",
+	"review_status": "not_started",
+	"last_reviewed_at": null,
+	"source_documents": [],
+	"notes": "Template only. Do not use for public navigation or RAG.",
+	"units": [
+		{
+			"unit_id": "unit-01",
+			"unit_number": 1,
+			"unit_label": "Unit 1",
+			"unit_title": "Example Unit Title",
+			"status": "placeholder",
+			"mapping_confidence": "not_reviewed",
+			"source_status": "needs_review",
+			"review_status": "not_started",
+			"chapter_links": [
+				{
+					"category_id": "physical",
+					"chapter_id": "example-chapter-id",
+					"mapping_status": "placeholder",
+					"mapping_confidence": "not_reviewed",
+					"notes": ""
+				}
+			],
+			"concept_links": []
+		}
+	]
+}
