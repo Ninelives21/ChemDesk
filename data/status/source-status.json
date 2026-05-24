@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "status_family": "source_status",
+  "description": "Source verification status for videos, playlists, syllabus documents, notes, and external references.",
+  "statuses": [
+    {
+      "id": "needs_review",
+      "label": "Needs Review",
+      "description": "Source has not been verified yet.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "in_review",
+      "label": "In Review",
+      "description": "Source verification is underway.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "verified",
+      "label": "Verified",
+      "description": "Source has been checked and accepted for the intended internal use.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "replace_recommended",
+      "label": "Replace Recommended",
+      "description": "Current source should likely be replaced with a better or safer source.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "rejected",
+      "label": "Rejected",
+      "description": "Source is not acceptable for use.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": true,
+      "deprecated": false
+    },
+    {
+      "id": "unknown",
+      "label": "Unknown",
+      "description": "Source status is unknown and must be clarified.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    }
+  ],
+  "notes": "Source verification is owned by Source Research/Ira, not Sia."
+}

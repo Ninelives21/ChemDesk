@@ -1,24 +1,22 @@
 # ChemDesk Current Project Checkpoint
 
-Last updated: 2026-05-20
+Last updated: 2026-05-21
 
-## Latest completed architecture work
+## Slice 1 status
 
-- Slice 1 content scaffold completed and committed.
-- Content registry generator created and passing.
-- Content scaffold audit script created and passing.
-- Authoring templates created under `templates/`.
-- Syllabus placeholder maps created under `data/syllabus/`.
+**Architecture Slice 1 is closed.**
 
-## Current verified commands
+Do not add more Slice 1 foundation tasks unless the slice is deliberately reopened.
 
-# This below is the "older current"
+Slice 1 created the structure, metadata, registry, audit, documentation, templates, syllabus placeholders, and status reference maps needed before real Chemistry content work begins.
+
+---
 
 ## 1. Current phase
 
-ChemDesk is currently in **Architecture Slice 1: content scaffold foundation**.
+ChemDesk is at the end of **Architecture Slice 1: Foundation Scaffold**.
 
-This means the project has a structured Chemistry content library, metadata placeholders, and a generated registry plan. It is **not yet** the final student-facing app.
+The project now has a structured Chemistry content library and control layer, but it is still **not** the final student-facing app.
 
 Current status:
 
@@ -32,11 +30,27 @@ Login/personalization: not added yet
 PDF downloads: not added
 ```
 
-The current work is about making sure the content structure is stable, ordered, searchable later, and safe to expand.
+---
+
+## 2. Completed Slice 1 work
+
+Completed:
+
+- Ordered content scaffold
+- Metadata-rich chapter and lecture placeholders
+- Content registry generator
+- Scaffold audit script
+- Project structure manual
+- Current checkpoint document
+- Change-management documentation
+- Manual content update rules
+- Authoring templates
+- Syllabus placeholder maps
+- Status reference maps
 
 ---
 
-## 2. Current content structure
+## 3. Current content structure
 
 The active Chemistry content scaffold lives in:
 
@@ -54,9 +68,9 @@ content/
   04-practical/
 ```
 
-The number prefixes are for **human display order**.
+Folder number prefixes are for **human display order**.
 
-The stable IDs remain unprefixed:
+Stable IDs remain unprefixed:
 
 ```text
 01-physical   → category_id: physical
@@ -69,7 +83,7 @@ Do not treat folder prefixes as identity. They are ordering helpers.
 
 ---
 
-## 3. Current expected counts
+## 4. Current expected counts
 
 The current scaffold should have:
 
@@ -98,7 +112,27 @@ Expected output:
 
 ---
 
-## 4. Current special paths
+## 5. Current verified commands
+
+Run these from the repo root:
+
+```bash
+node scripts/generate-content-registry.mjs
+node scripts/audit-content-scaffold.mjs
+```
+
+Current expected result:
+
+```text
+Registry generator: PASS
+Content scaffold audit: PASS
+```
+
+Both should pass after documentation/template/status-map changes.
+
+---
+
+## 6. Current special paths
 
 ### Chemical Bonding
 
@@ -130,7 +164,7 @@ Lecture folders should be added later only after the replacement source list is 
 
 ---
 
-## 5. Source of truth
+## 7. Source of truth
 
 The main source of truth for the content scaffold is:
 
@@ -152,11 +186,11 @@ review status
 copyright/source status
 ```
 
-The folder tree is important, but metadata is what future scripts, search, RAG, and UI should trust.
+The folder tree is important, but metadata is what future scripts, search, RAG, UI, and app features should trust.
 
 ---
 
-## 6. Generated files
+## 8. Generated files
 
 The generated content registry is:
 
@@ -183,7 +217,59 @@ If `data/content-registry.json` changes, the commit should also include the cont
 
 ---
 
-## 7. Safe manual edits
+## 9. Important control folders
+
+### `templates/`
+
+Reusable authoring templates for future manual additions.
+
+Current purpose:
+
+```text
+safe chapter README template
+safe lecture README template
+chapter metadata template
+lecture metadata template
+manual lecture addition checklist
+```
+
+Templates are not student-facing content.
+
+### `data/syllabus/`
+
+Placeholder syllabus mapping layer.
+
+Current purpose:
+
+```text
+exam-specific placeholder maps
+future syllabus-based navigation support
+no public mapping claims yet
+```
+
+These files are not complete syllabus maps yet.
+
+### `data/status/`
+
+Controlled status reference maps.
+
+Current purpose:
+
+```text
+standard content statuses
+standard review statuses
+standard source statuses
+standard copyright-review statuses
+standard workflow statuses
+```
+
+These prevent metadata drift.
+
+Only `published` content status is public/RAG eligible by default.
+
+---
+
+## 10. Safe manual edits
 
 These are generally safe:
 
@@ -194,13 +280,14 @@ artifacts/decisions/*.md
 artifacts/workflows/*.md
 future ideas/backlog documents
 manual notes and project explanations
+templates/*.md
 ```
 
 These are documentation or planning files. They do not usually affect the content scaffold or generated registry.
 
 ---
 
-## 8. Manual edits that are allowed with checklist
+## 11. Manual edits allowed with checklist
 
 These are allowed, but should be done carefully:
 
@@ -220,15 +307,16 @@ lecture.meta.json
 images/.gitkeep
 ```
 
-Then regenerate the registry:
+Then regenerate and audit:
 
 ```bash
 node scripts/generate-content-registry.mjs
+node scripts/audit-content-scaffold.mjs
 ```
 
 ---
 
-## 9. Risky manual edits
+## 12. Risky manual edits
 
 Avoid these unless there is a clear migration plan:
 
@@ -250,7 +338,7 @@ These can create downstream issues for future routing, search, RAG, bookmarks, w
 
 ---
 
-## 10. Stable ID rule
+## 13. Stable ID rule
 
 Stable IDs are sacred.
 
@@ -260,9 +348,9 @@ Example:
 
 ```json
 {
-	"category_id": "physical",
-	"chapter_id": "chemical-bonding-and-molecular-structure",
-	"lecture_id": "chemical-bonding-and-molecular-structure-lecture-01"
+  "category_id": "physical",
+  "chapter_id": "chemical-bonding-and-molecular-structure",
+  "lecture_id": "chemical-bonding-and-molecular-structure-lecture-01"
 }
 ```
 
@@ -276,7 +364,42 @@ But the stable IDs remain clean and unprefixed.
 
 ---
 
-## 11. What to do after content structure changes
+## 14. Status reference rule
+
+Use controlled status values from:
+
+```text
+data/status/
+```
+
+Do not invent new status labels casually.
+
+Examples of controlled values:
+
+```text
+raw
+draft
+ready_for_review
+approved
+published
+needs_review
+not_started
+in_review
+complete
+blocked
+rejected
+```
+
+Public/RAG safety rule:
+
+```text
+Only published content is public/RAG eligible by default.
+Draft, raw, needs-review, source-review, and copyright-review content must not be used in public RAG.
+```
+
+---
+
+## 15. What to do after content structure changes
 
 If you add, rename, move, or modify content folders or metadata:
 
@@ -286,7 +409,13 @@ If you add, rename, move, or modify content folders or metadata:
 node scripts/generate-content-registry.mjs
 ```
 
-2. Verify counts:
+2. Run scaffold audit:
+
+```bash
+node scripts/audit-content-scaffold.mjs
+```
+
+3. Verify expected counts if the change should not affect counts:
 
 ```bash
 find content -name "chapter.meta.json" | wc -l
@@ -294,7 +423,7 @@ find content -name "lecture.meta.json" | wc -l
 find content -path "*/images/.gitkeep" | wc -l
 ```
 
-3. Expected current counts:
+Current expected counts:
 
 ```text
 25
@@ -306,9 +435,9 @@ If future JEE Wallah replacement lectures are added, these counts will change. W
 
 ---
 
-## 12. What not to do right now
+## 16. What not to do right now
 
-Do not proceed to these until the scaffold and documentation are accepted:
+Do not proceed to these in Slice 1:
 
 ```text
 Astro setup
@@ -322,84 +451,70 @@ student-facing Chemistry notes
 bulk image import
 ```
 
-These will come later as separate architecture slices.
+These should come later as separate architecture slices.
 
 ---
 
-## 13. Current generated/utility scripts
+## 17. Current scripts
 
-Current important script:
+Current important scripts:
 
 ```text
 scripts/generate-content-registry.mjs
+scripts/audit-content-scaffold.mjs
 ```
 
 Purpose:
 
 ```text
-Reads chapter.meta.json and lecture.meta.json
-Builds data/content-registry.json
-Checks expected category/chapter/lecture counts
-Rejects known legacy paths
+generate-content-registry.mjs:
+  reads chapter.meta.json and lecture.meta.json
+  builds data/content-registry.json
+
+audit-content-scaffold.mjs:
+  validates ordered folders
+  validates expected counts
+  validates metadata shape
+  validates replacement-only chapter behavior
+  validates registry/content agreement
 ```
 
-Do not casually edit scripts. Script changes can affect generated data.
+Do not casually edit scripts. Script changes can affect generated data and audit behavior.
 
 ---
 
-## 14. Audit script status
+## 18. Current committed checkpoints
 
-The scaffold audit script was discussed as:
-
-```text
-scripts/audit-content-scaffold.mjs
-```
-
-But this should be paused until the current checkpoint is understood and accepted.
-
-When created later, it should validate:
+Known committed project states:
 
 ```text
-ordered category folders exist
-legacy unprefixed folders do not exist
-chapter metadata count is correct
-lecture metadata count is correct
-images/.gitkeep count is correct
-replacement-only chapters have no lectures
-Chemical Bonding is under Physical Chemistry
-registry and content metadata agree
+Complete Slice 1 content scaffold checkpoint
+Add content authoring templates
+Create syllabus mapping placeholder files
+Add status reference maps and close Slice 1 foundation
 ```
+
+Use GitHub Desktop to compare future changes against these commits if rollback or review is needed.
 
 ---
 
-## 15. Current manual-control rule
+## 19. Current next safe step
 
-When unsure, use this rule:
+Slice 1 is closed.
 
-```text
-Documentation edits are safe.
-Content metadata edits need care.
-Generated registry should never be edited manually.
-Folder renames need a migration note.
-Stable IDs should not change.
-```
-
----
-
-## 16. Current next safe step
-
-The next safe step is **not a new feature**.
-
-Recommended next step:
+Recommended next architecture slice:
 
 ```text
-Review this checkpoint.
-Confirm it matches the current workspace.
-Only then continue to a formal audit script task.
+Architecture Slice 2: First real content authoring workflow
 ```
 
-The next architecture-safe implementation task, after this checkpoint is accepted, is likely:
+Suggested focus:
 
 ```text
-Create/update scripts/audit-content-scaffold.mjs for the ordered folder structure.
+one chapter or one lecture only
+probably Chemical Bonding Lecture 01
+define how raw lecture/source material becomes safe student-facing content
+do not build the full app yet
 ```
+
+Do not begin Slice 2 until the user deliberately approves the next slice.

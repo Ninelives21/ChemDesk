@@ -1,0 +1,219 @@
+
+00:08 
+Hello बच्चों, आज हम chemical bonding का video number four लाए हैं और आज बड़ा ही important topic है। यहां से तो सवाल फंसना ही फंसना है। Topic है Fajan's rule, Fajan's rule और ये Fajan's rule क्या है यार?
+
+00:23 
+किस बारे में बात करता है?ये जो scientist हैं, ये जो भाई साहब हैं, ये जो uncle जी हैं, इन्होंने किस बारे में बात की है?देखो ionic bond जो होते हैं उनके अंदर कुछ कुछ covalent का character भी होता है। कोई भी bond ना perfectly नहीं ionic होता है, ना ही perfectly covalent.
+
+00:42 
+तो कोई भी ionic bond है, कोई भी ionic compound है उसके अंदर थोड़ा बहुत covalent character आ जाता है। Covalent character मतलब covalent वो होता है जहां electron की sharing हो और ionic वो होता है जहां electron का transfer हो। तो कुछ कुछ ionic bond के अंदर electron की sharing start हो जाती है। पहले तो electron transfer होता है cation से anion की तरफ, metal से nonmetal की तरफ ionic bond बनता है और फिर electron की sharing start हो जाती है जिससे की ionic bond देखने में कुछ कुछ covalent जैसा लगता है। अब मान लो हमको दो ionic compound दे दिए NaCL दे दिया, KCl दे दिया। क्या बोला मैंने NaCL और KCl। और हमसे पूछ रहा है कि इसमें से ज्यादा ionic कौन सा है या इसमें से ज्यादा covalent character किसके अंदर है?
+
+01:30 
+इस चीज को बताने के लिए जो rule आया वो था Fajan's rule.मतलब Fajan's rule हमें बताएगा क्या?Covalent character, covalent character in ionic bond.ठीक है। और भी बहुत सी चीजें बताएगा। जैसे covalent character आते ही melting, boiling point कम हो जाता है क्योंकि covalent bond का melting, boiling point कम होता है, ionic का ज्यादा। तो हमको दो compound दे के पूछ लेगा किसका melting point ज्यादा है। तो देख लो किसमें covalent character ज्यादा है। जिसका covalent character ज्यादा है उसका melting point कम है। जैसे हम water में solubility की बात करें बच्चों तो आपको पता होगा ionic compounds water में soluble होते हैं बहुत और covalent compound water में soluble नहीं होते। अब हमको दो compound देगा, पूछेगा इसमें water में soluble कौन ज्यादा है। जिसमें covalent character ज्यादा है वो soluble नहीं होगा। तो इस तरह के question आपको NEET या JEE mains में इसके मिल सकते हैं और उसके लिए Fajan's rule लगाएंगे। एक छोटा सा limitation है Fajan's rule का वो ये है की ये qualitative law है। मतलब calculate नहीं कर सकते कितना percent covalent है। ये नहीं बता सकते इसमें 30% covalent character है, 70% ionic, 20% covalent, 80% ionic ये नहीं पता चलेगा। Compare कर सकते हो दो compound को कि किस में covalent character ज्यादा है और वो rule दिया है Fajan uncle ने Fajan's rule.
+
+02:57 
+So my name is Alok Pandey channel Physicswala और चलिए इस video को हम लोग आगे देखते हैं, समझते हैं बातों को। कैसा लग रहा हूं मैं?अच्छा लग रहा हूं। Board चमक रहा है। सब दिख रहा है। बहुत बढ़िया। तो यार होता क्या है?
+
+03:12 
+ये सब होता कैसे है?चलो जैसे हम बात करते हैं हमारे पास कोई ionic compound है। ठीक है। कहानी क्या है ये?तो ionic compound किससे बनता है?एक cation से और एक anion से। ठीक है। cation size में छोटा होता है, anion बड़ा होता है ये आपको पता होगा। Atom से cation छोटा हो जाता है, anion बड़ा होता है। अब ये देखो इसके electron है ठीक है anion के। ये भी एक atom है, ये भी एक atom.
+
+03:35 
+ये metal है, ये non metal है। अब यहां पे इनके बीच में force of attraction लग रहा है cation और anion में। होता क्या है बच्चों ये जो electron cation के side है ये इस तरफ थोड़ा खिंचना start होते हैं और anion जो ideally spherical होना चाहिए, atom जो हमेशा spherical दिखता है उसका shape थोड़ा distort हो जाता है। ये जो electron के cloud है, electron के जो बादल हैं, जो electron हैं, cloud इसलिए बोलते हैं क्योंकि electron आपको पता है ऐसे तो होते नहीं है, wave है तो बोला जाता है cloud जैसे हैं। तो electron का ये जो बादल है ये थोड़ा सा shape से हट जाता है। ना थोड़ा सा deform हो जाता है। Electron cloud is deformed.
+
+04:19 
+मतलब बनाता हूं जैसे ये cation है और anion का shape कुछ ऐसा हो जाता है। ठीक है। Ideally उसको spherical होना चाहिए था। Ideally उसको spherical होना चाहिए था। थोड़ा सा इस तरफ झुकने लगते हैं electrons, इसकी तरफ भागने लगते हैं electrons.
+
+04:39 
+ये अपनी तरफ खींच लेता है। यानी ये deform हो गया electron cloud। किसकी वजह से?cation की वजह से। ठीक है। इसका shape थोड़ा change हो गया। ये जो process है बच्चों इसको हम बोलते हैं polarization.किसका polarization?
+
+04:56 
+Anion का.Anion polarize हो गया। Polarize मतलब poles में बंट गया। इस तरफ anion ज्यादा भागने लगा। Electron इस तरफ ज्यादा भाग रहे हैं। इस तरफ negative section anion का इस तरफ negative section ज्यादा हो गया, इस तरफ negative section कम हो गया। Polar poles बन गए। इस तरफ ज्यादा negative है। ये जो polarization का process है बच्चों इससे हुआ क्या है कि electron थोड़े से cation के पास आ गए। मतलब electron की sort of sharing start हो गई है। थोड़े से electron share जैसे लग रहे हैं। पहले cation इधर anion इधर separate दिख रहे थे। Electrons अलग दिख रहे थे, cation अलग। अभी electrons इस तरफ भाग रहे हैं। ये electrons अब anion के भी हैं और थोड़े से cation के भी हैं। यार ये character तो covalent bond का होता था। Sharing of electron तो covalent में होती है। तो ये जो process है electron cloud का deform होना या polarization होना anion का, electron की sort of sharing exactly नहीं बोलना, करीब करीब electron share जैसे दिखने लगे हैं। ये character covalent की तरफ जा रहा है और इसी वजह से ionic compound में covalent character दिखता है। कोई आपसे पूछे कि ionic compound में covalent character क्यों दिखता है तो आप बोलोगे polarization होता है किसका?
+
+06:05 
+Anion का।कौन करता है polarization anion का?cation। electron cloud को अपनी तरफ खींच लेते हैं। ये electron जो यहां पे ऐसे spherical होने चाहिए थे, ये थोड़े से deform होके थोड़े से deform होके कुछ ऐसा shape बना लेते हैं। इस तरफ electrons ज्यादा भाग आए। अब ये electron anion के नहीं दिख रहे, लग रहे हैं share हो गए। ये होता किससे है?
+
+06:27 
+ये होता है cation की polarizing power से। किससे होता है?cation की polarizing power। इसको polarize कर दिया, poles में बना दिया। इस तरफ ज्यादा negative कर दिया, इस तरफ कम। pole बन गए anion के अंदर। polarization किसका होता है?
+
+06:41 
+anion का। कौन करता है?cation। जिसकी वजह से जन्म हुआ covalent character in ionic compound। clear इतनी बात?hundred percent clear हुई। किसी भी ionic compound में होगा ये। किसी भी ionic compound में ये हो सकता है। भाई cation है तो electron को खींचेगा थोड़े से electron इस तरफ भागेंगे। देखने में लग रहा है ये covalent bond बनने वाले electron share होने वाले हैं। anion का polarization करता है cation। अब बात आती है की कितना ज्यादा covalent character होगा। तो ये चीज दो important point पर depend करेगी भाई साहब। एक तो polarization पे और एक polarizing power पे। जितना ज्यादा polarization उतना ज्यादा covalent character.
+
+07:23 
+जितना ज्यादा polarizing power उतना ज्यादा covalent character.अलग अलग क्यों बोला?क्योंकि एक property anion से आई, एक property cation से आई। anion का जितना ज्यादा polarization होगा, जितना ज्यादा झुकाव होगा उतना covalent character.
+
+07:37 
+cation की जितनी ज्यादा polarizing power होगी, जितना खींचेगा उतना ज्यादा covalent character.यानी दोनों ही बंदे responsible हैं और यही बात कही है फजान ने। यही फजान का rule है। फजान rule ये कहता है किसी भी ionic compound में covalent character होता है। जितना ज्यादा polarization anion का होगा उतना covalent character होगा। जितनी ज्यादा polarizing power cation की होगी उतना ज्यादा covalent character.
+
+07:59 
+यही है फजान का rule.बाकी मैं points बनाता जाऊंगा। main फजान rule यही है की हर ionic compound में क्या होता है covalent character?दो बातों पर depend करता है की anion का कितना polarization हुआ और cation की कितनी polarizing power.
+
+08:13 
+आइए समझते हैं इसको। चलिए पहले बात करते हैं इसको cation के terms में। cation के पास क्या होगी?polarizing power.चलिए सबसे पहला point है मेरा size of cation को लेकर। तो आपके दिमाग में जो आ रहा है वो बोलो। अब बताओ मुझे ये cation ज्यादा polarize करेगा, ये cation ज्यादा polarize करेगा। ठीक है। की ये cation ज्यादा polarize करेगा। भाई यहां पे charge की density ज्यादा हो गई। charge पूरा छोटी सी जगह में है। मतलब ये बहुत तेज electron को खींच सकता है। यहां पे charge बंटा हुआ है। size अगर cation की बढ़ जाएगी तो charge बढ़ जाएगा। उसकी इतनी power रहेगी ही नहीं की वो खींचे। बढ़ गया वो पूरा। जैसे तुम्हारे पांच दोस्त हैं। ठीक है। उनको मैं तुम्हारी class में छोडू, तुम लोग उधम मचा देते हो। और पांच दोस्त को हम back field में आपकी छोड़ दें, जो आपका ground होता है school का वहां छोड़ दें तो सब थक के हार के बैठे रहते हैं। कोई उधम नहीं मचा सकता। तो जितनी छोटी सी जगह में charge रहता है ना उतना ज्यादा वो उधम करता है। उतना ज्यादा सामने वाले को वो attract करता है। उतना ज्यादा anion को वो distort करता है। उतना ज्यादा deform करता है, उतना खींचेगा। तो size of cation जितनी ज्यादा small हो, जितना ज्यादा छोटा हो polarizing power उतनी ज्यादा। मैं इसको लिख देता हूं PP polarizing power उतनी ज्यादा और covalent character भी उतना ज्यादा। जितनी ज्यादा इसकी polarizing power होगी उतना ज्यादा CC covalent character.
+
+09:46 
+दूसरी बात करते हैं बच्चों charge of cation पे। charge of cation पे। क्या कहते हो charge of cation पे?simple सी बात है charge of cation जितना ज्यादा होगा polarizing power उतनी ज्यादा होगी covalent character उतना ज्यादा। भाई जितना ज्यादा charge होगा cation के अंदर उतनी आसानी से वो electron को खींच सकता है और electron को अपनी तरफ झुका लेगा। deform कर देगा electron cloud को। तो ये दो point तो clear हो गए। इनके basis पर हम आपको थोड़े बहुत example दे देते हैं। जैसे हम आपसे पूछ ले की Li+, Na+, K+, Rb+ सबसे ज्यादा polarizing power किसमें है?
+
+10:22 
+तो आपको पता है Li+ सबसे छोटा है तो सबसे ज्यादा खींचेगा। फिर Na+ फिर K+ फिर Rb+.जैसे हम आपसे पूछ ले Be2+, Mg2+, Calcium2+, Strontium2+.हम पूछ ले सबसे ज्यादा polarizing power किसमें होगी?तो आप बोलोगे Be2+ में। क्योंकि इसका size सबसे छोटा है। ये ज्यादा electron खींचेगा। charge की बात करें। हम आपसे पूछे Na+, Mg2+, Al3+ अब तीनों एक ही period से आए हैं। बगल बगल में neighbor हैं तो size का तो बहुत difference होगा नहीं। period में size बहुत धीमे धीमे घटती है तो यहां size का factor तो आने वाला नहीं है। charge का factor आ रहा है। इस पे charge one, इस पे two, इस पे three.
+
+11:03 
+इसका charge सबसे ज्यादा है। ये सबसे ज्यादा electron खींचेगा। तो ये हो गई polarizing power.clear है?clear है, समझ में आ रहा है?easy है, एकदम बढ़िया। जैसे हम आपसे पूछे हमारे पास K+ है, हमारे पास Ca2+ है। किसकी polarizing power ज्यादा होगी?
+
+11:18 
+Ca2+ की। क्योंकि size तो इनकी करीब करीब same.दोनों fourth period के हैं। एक के बाद एक आ रहे हैं। थोड़ा सा छोटा होगा Calcium.और इसके ऊपर charge ज्यादा है तो यहां charge तो कितना double हो गया है charge का factor.
+
+11:30 
+ये ज्यादा electron को खींच सकता है। तो दो factor याद रखने हैं। वैसे तीन बताएंगे पर दो factor अभी याद रखने हैं की size of cation जितना छोटा उतना ज्यादा electron को खींचा। जितना electron को खींचा उतना deformation उतना covalent character.
+
+11:45 
+charge cation पे जितना ज्यादा उतना ज्यादा polarizing power उतना ज्यादा electron को deform उतना ज्यादा covalent character.तो दो बातें आपको समझ में आ गई। बहुत बढ़िया। बहुत अच्छे। तीसरा point देखो ये किताब में दिया रहता है। यही समझ में नहीं आता और यहीं से इसलिए सवाल आता है। third point very important.
+
+12:04 
+third point very important.फजान rule सबने पढ़ रखा होगा जरूर से। पर तीसरा point देखो। अगर मेरे पास pseudo noble gasConfiguration है। pseudo मतलब नकली है ना fake pseudo force पढ़ा हमने Physics में pseudo Nobel gas configuration है PNGC pseudo Nobel gas configuration मतलब Nobel gas जैसी Nobel gas की configuration क्या होती है?
+
+12:32 
+ns2 np6 ये होते हैं Nobel gas.कोई भी ले लो Neon क्या होता है?2s2 2p6 Argon क्या होता है?3s2 3p6 है Crypton 4s2 4p6 ns2 np6 यानी आखिरी shell में इनके पास क्या होते हैं?आठ electron किनके पास Nobel gas के पास.
+
+13:00 
+पर Nobel gas की बात नहीं कर रहे। हम बात कर रहे हैं pseudo Nobel gas configuration की pseudo Nobel gas configuration बच्चों क्या होती है?Nobel gas जैसी configuration ns2 np6 n minus one sorry very sorry ns2 np6 nd10 ऐसी configuration कहीं मिल जाए तो इसको हम बोलते हैं pseudo Nobel gas configuration और जिनके पास यह configuration होती है उनके पास polarizing power बहुत ज्यादा होती है। उनके पास covalent character बहुत होता है। note कर लो इसको notes में डालो यार copy निकालो जिसकी configuration ns2 np6 nd10 मिलेगी उसके पास covalent character बहुत ज्यादा होगा। जो भी cation यहां cation की बात हो रही है। जो भी cation इस configuration को follow कर गया उसके पास covalent character बहुत ज्यादा। चलो example देता हूं ns2 np6 nd10 यानी कितने electron हो गए दो, छह, आठ, 18 electron 18 electron को हम बोलते हैं pseudo Nobel gas जैसी configuration example मैं देता हूं सबसे पहले copper ले लेते हैं। copper का बहुत आता है सवाल atomic number copper का 29 electronic configuration copper का अगर नहीं आता है तो periodic table का video देखो मैं अभी short में लिख दे रहा हूं। क्या हो जाएगा?
+
+14:23 
+Argon 18 electron ये हो गए फिर उसके बाद क्या आएगा?ये 29 तक जाना है 3d10 4s1 यही होगा 18, 10, 28 एक 29 यही होगा copper का 3d10 4s1 exceptional होता है। पता होगा की actual में होता चाहिए था 3d9 4s2 फिर electron jump कर जाता है। exceptional configuration होता है 3d10 4s1 यार इतना पता होना चाहिए मेरी video देखने के पहले नहीं पता है तो जाके electronic configuration का 15 मिनट का video है type कर दो ऊपर electronic configuration Physics वाला और electronic configuration में जाके ये exceptional copper का पढ़ लो क्या electronic configuration है ठीक है। अब ध्यान से देखो ये Argon का अच्छा Argon यहां पूरा लिखते हैं copper का पूरा configuration लिख देता हूं copper atomic number 29 start करते हैं 1s2, 2s2, 2p6, 3s2, 3p6, 3d10, 4s1 सही है। जरा ये देखो 3s2, 3p6, 3d10 pseudo Nobel gas जैसा दिख रहा copper का cation बनाते हैं Cu+ मतलब एक electron गया और electron कहां से जाता है सबसे आखिरी shell से मतलब ये गया अब क्या बचेगी configuration इसकी 1s2, 2s2, 2p6, 3s2, 3p6, 3d10 यही बचेगी। ये देखो कौन सा configuration है ये है pseudo Nobel gas configuration यानी Cu+ का जो cation होगा इसके पास बहुत ज्यादा polarizing power होगी। इसके पास बहुत ज्यादा covalent character होगा। क्यों?
+
+16:00 
+क्योंकि इसके पास है pseudo Nobel gas configuration copper की electronic configuration नहीं आती तो फिर से repeat कर रहा हूं type करो electronic configuration Physics वाला 15 मिनट का एक video है। 15 20 मिनट का उसको देख लो electronic configuration भी समझ में आ जाएगी। अच्छा नहीं आएगी तो अभी मैं तुमको एक short trick दे रहा हूं याद करा दूंगा अभी ठीक है। इसी तरह से बच्चों copper के नीचे periodic table में होता है silver और उसके नीचे होता है gold तो इसमें तुम देख रहे हो क्या बन रहा है 3s2, 3p6, 3d10 silver में बन जाएगा 4s2, 4p6, 4d10 gold में बन जाएगा 5s2, 5p6, 5d10 copper, silver, gold एक के नीचे एक होते हैं। इन तीनों की ये जो ion है Cu+, Ag+, Au+ इनके पास ज्यादा polarizing power होगी तो अगर नहीं आता है तो बस इसको याद कर लो copper, silver, gold इतना याद कर लो कौन आगे आया कौन आगे आया और कितना आसान बनाऊं यार हर तरह से बता रहा कौन आगे आया copper, silver, gold इनके जो cation है Cu+, Ag+, Au+ इनके पास बहुत ज्यादा covalent character होगा तो कभी अगर तुमको इसके cation मिलते हैं कहीं पे और किसी से compare करता है किसी से भी तो समझ जाना इनका covalent character उससे ज्यादा exceptional है इसीलिए JEE उससे खेलता रहता है हर बार कौन आगे आया similar चीज बच्चों आपको एक जगह पर और देखनी है अगर नहीं समझ में आया तो रख दे उसको पर बता रहा हूं साथ साथ में जैसे zinc atomic number 30 जरा configuration करो 1s2, 2s2, 2p6, 3s2, 3p6, 3d10, 4s2 ये होगा zinc का configuration हो गए दो, दो, चार, छह, 10, 12, 16, 18, दो 30 अगर मैं बोलूं Zn2+ बनाए हम तो दो electron निकलेंगे कहां से निकलेंगे valence shell से बचेगा क्या?
+
+17:44 
+ये बचेगा दो electron निकल गए 4s से 2+ का मतलब यानी यही बचेगा यानी क्या बचेगा pseudo Nobel gas configuration zinc की बात नहीं हो रही cation की बात हो रही है Zn2+ की दो electron यहां से निकल गए क्या बचा pseudo Nobel gas configuration यानी इसके पास भी बहुत ज्यादा बहुत ज्यादा covalent character होगा। periodic table की बात करें तो zinc के नीचे होता है cadmium, cadmium के नीचे होता है mercury तो Zn2+, Cd2+, Hg2+ के पास भी होगा बहुत ज्यादा covalent character.वही खेल होगा। यहां पर 3s2, 3p6, 3d10। यहां 4s2, 4p6। यहां 5s2, 5p6 और 5d10। जिनी कनाडा होगा। क्या?
+
+18:31 
+जिनी कनाडा होगा। कौन आगे आया?तो ये छह element तुम अलग से याद रख लो। अगर तुमसे कभी कोई question पूछता है कि कहां covalent character ज्यादा है?तो एक तो तुम charge of cation, size of cation देख लोगे और ये छह element याद रखो कौन आगे आया, जिनी कनाडा होगा। ये कहीं दिखते हैं समझ जाओ यही है covalent character जिनका ज्यादा है। ये exceptional कहानी है इनके बारे में जरूर पूछता है। तो covalent character वाले में cation में आपको pseudo noble gas configuration.
+
+19:00 
+यही वाला book में समझ में नहीं आता। यही वाला ज्यादातर पूछा जाता है। यही वाला गायब होता है। जिनी कनाडा होगा। कौन आगे आया। इनके पास है pseudo noble gas configuration.करते हैं बहुत ढेर सारा polarization और बनाते हैं covalent character.
+
+19:15 
+तो ये cation की कहानी थी। अच्छा! अब मैं आपसे बात कर लूं anion के बारे में। तो cation के पास होती है polarizing power खींचता है और anion का खुद का होता है polarization.वही तो है जिनके electron deform हो रहे हैं। सबसे पहला factor है बच्चों size of anion, size of anion.
+
+19:43 
+अब तुम मुझे बताना ये anion ज्यादा deform होगा कि ये anion ज्यादा deform होगा। Definitely ये वाला बड़ा है। Electron इसके जल्दी shift हो सकते हैं। भाई बड़ा unstable electron को संभाल ही नहीं पा रहा। कोई खींच के ले जाएगा। छोटा है तो इसका nucleus, भैया ये है क्या?
+
+19:59 
+Anion है ना। है तो ये कोई atom ही ना। Atom से एक electron ज्यादा आ गया तो बीच में nucleus तो होगा। तो छोटा होगा तो electron को बांध के रखेगा बगल से cation नहीं खींच पाएगा। बड़ा होगा तो electrons को बांध के नहीं रख पाएगा। बीच में तो nucleus ही होगा ना यार। Anion है माना मैंने वो तो negative लिख रहा हूं क्योंकि anion है पूरे पर charge negative.
+
+20:16 
+है तो atom का ही ना nucleus तो। तो बड़े में वो electron को संभाल नहीं पाएगा electron दूर भागने लगेगा। मतलब anion का size जितना ज्यादा बड़ा, polarization उतना ज्यादा और covalent character उतना ज्यादा। दूसरा factor है बच्चों charge on anion.
+
+20:40 
+अब तुम मुझको बताओ इसका ज्यादा polarization होगा कि इसका?भाई इसका होगा। इसमें charge ज्यादा है। ज्यादा electron है इसके पास। Anion के पास ज्यादा charge का मतलब क्या हुआ कि ज्यादा electron है। एक minus one है, एक minus two है। मतलब minus two वाले पर ज्यादा electron है तो उसके electron ज्यादा भागेंगे दूर दूर भाई। Minus three पर और ढेर सारा electron है। वो ज्यादा और polarize होंगे। इधर उधर भागने की कोशिश करेंगे। तो जितना ज्यादा charge और anion उतना ज्यादा उसका polarization उतना ज्यादा covalent character.
+
+21:09 
+तो anion में सिर्फ दो ही factor है। क्या क्या?Size of anion.जितना बड़ा है anion electron उतना भागेगा। जितना ज्यादा charge होगा anion पे उतना ज्यादा charge deform हो सकता है। ठीक है। तो ये सब मिलाकर भैया हमने आपसे Fajan's rule की बात की। जरा एक बार summarize करते हैं Fajan's rule को जल्दी से। Fajan's rule को हम जल्दी summarize करते हैं। Fajan's rule को हम summarize करते हैं। आइए। दो चीजें बोलता है ये कि covalent character उतना ज्यादा होगा जितना ज्यादा polarizing power हो। किसकी?
+
+21:55 
+Cation की। जितना ज्यादा polarization हो किसका?Anion का। आप में से कोई अगर कोटा में है, एलन में है, आकाश में है, फिरजी में है, resonance में है, vibrate में है, कहीं पर भी है। अगर आपको इस video में कोई भी एक point missing दिखे तो honestly comment कर देना। challenge के लिए नहीं improve करेंगे उसको हम। हम भी देखेंगे कहां पर हम miss कर दे रहे हैं point.
+
+22:21 
+ठीक है। मेरा पूरा content कोटा का content है। मतलब इसमें कोई कमी नहीं है। हां, बहुत से बच्चे आजकल एक comment करते हैं sir I am dependent on you.नहीं, ये मत करो यार। You cannot be dependent on me.हम एक online platform हैं। हम आपसे मिल नहीं पाते रोज। हम आपके बगल में बैठकर आपकी problem solve नहीं कर सकते। आप में से कई लोग का message आता है, mail आता है, calls भी आते हैं। Numerical बता दीजिए problem.
+
+22:43 
+वो possible नहीं है अभी आज के time पे। मैं कभी झूठ जाड़ बोलकर काम नहीं किया। जो नहीं हो सकता वो नहीं हो सकता अभी। हो सकता है आगे future में हमारा कोई platform बन जाए जिसमें हम आपसे problem आपकी solve कर सकें या आपको doubts बता सकें। But the moment आप comment कर देते हो नीचे I am dependent on you.
+
+22:59 
+मैं घबराने लगता हूं। फिर मुझे लगता है ये video बनाना सही है कि गलत है। इसको बंद तो नहीं करना चाहिए। मतलब ये गलत तरह तो नहीं ले जा रहा हूं मैं गलत direction में। ठीक है, मैं भी इंसान हूं। मुझे भी ये problem करता है कि sir मैं पूरी तरह से आप पर depend हूं। आप ही मेरा selection कराओगे। नहीं selection तुम्हारा खुद से होगा। मैं यहां सिर्फ H E L P help करने आया हूं। सिर्फ help करने। मुझे पूरा सहारा मत बना लेना कि इन्हीं के भरोसे में हूं। ना, ना, ना। अगर तुम्हारे पास पैसे हैं तो coaching जाओ। अगर तुम्हारे पास पैसे हैं तो definitely coaching जाओ। मैंने coaching institutes की बुराई की पर आपको बताने के लिए कि ये आपके साथ ना हो। मैंने ये नहीं कहा coaching जाना बंद कर दो। कभी ये नहीं बोला। मैंने कहा अच्छे coaching जाओ। अपने teacher को परखो। गलत हो रहा है तो आवाज उठाओ। ठीक है definitely जो बंदा आपसे साल के पचास साठ हज़ार रुपए लेगा वो आपको कुछ तो content देगा। Although ये fees बहुत ज्यादा मुझे लगती है। खैर anyways वापस आते हैं topic पर। तो भैया Fajan's rule बोलता है कि covalent character उतना ज्यादा होगा जितना ज्यादा cation की polarizing power और जितना ज्यादा anion का polarization.
+
+23:55 
+यानी दो तीन point में इसको summarize करते हैं। यहां आओ। अब लो summary दे रहा हूं। पहला cation की size जितनी छोटी उतना ज्यादा खींचेगा। Cation पर charge जितना ज्यादा उतना ज्यादा खींचेगा। यदि cation में तुमको मिल जाता है pseudo noble gas configuration जो कि मैंने तुम्हें रटा दिया। कौन आगे आया plus, plus, plus जिनी कनाडा होगा।Two plus, two plus, two plus.
+
+24:30 
+अगर ये दिख जाते हैं तो इनके पास covalent character ज्यादा है। ये तीन point cation के लिए याद हो गए। छोटा cation charge ज्यादा या pseudo noble gas configuration.Anion की जल्दी से बात करें। Anion size negative की size बड़ी। जितना बड़ा होगा electron उतना दूर भाग सकता है और anion की charge की बात करें.
+
+24:50 
+Anion की charge की बात करें तो जितना ज्यादा तो charge cation पर भी जितना ज्यादा anion पर भी जितना ज्यादा उतना ज्यादा मिलेगा covalent character in ionic bond clear.ये बात बस note कर लो। मेरे ख्याल से यही summary है जो इतनी देर मैंने पढ़ाया है ना। हां, एक और बात यहीं पर बात करते-करते ये तीन चार मिनट वाले videos पर विश्वास करना बंद कर दो। तुम्हें जो 10 मिनट में chemical bonding पढ़ा रहा है भाई बंद करो ये सब JEE है यार IIT JEE मजाक नहीं चल रहा IIT JEE NEET है यार वो मतलब भारत का सबसे tough exam माना जा रहा है। है आसान है but tough भी है। ऐसा नहीं है मतलब वो 10 मिनट में तुमको सिखा देंगे यार वो बेवकूफी छोड़ दो वो मत मानना करो। हम लोग की videos देख रहे हो length देख रहे हो। बहुत लोग मेरे जैसा काम कर रहे हैं मैं अकेला नहीं हूं। ये जो length हम लोग की चल रही है ना 30 मिनट, 40 मिनट, 60 मिनट इन पर trust करो। 50 मिनट कोई खड़े होकर आपसे फालतू बात कर ही नहीं सकता। पढ़ाना पड़ता है। ठीक है तो ये चीज समझ गई। सात आठ मिनट में ये कि हम आपको सात मिनट में such quick बता देंगे कि JEE qualify पागल हो यार ऐसे नहीं हो सकता। पागल थोड़ी ना बैठे हैं हम लोग। हम लोग क्यों 50 मिनट की video बना रहे हैं?
+
+25:54 
+Content बना रहे हैं ना हम लोग। अभी ये जो सात आठ मिनट की video बना रहे हैं exam हो जाने दो इन पर देखो इनके channel पर गालियां पड़ेंगी खूब सारी। ये सब बहुत हो रहा है सब। इन सब चक्कर में मत पड़ना। चलो आगे बढ़ते हैं। लोग बिक रहे हैं बहुत तेजी से तो समझ के चलो सब चीजें ठीक है। Content देखो last year के paper देखो और सबसे अच्छी चीज मैं बता रहा हूं। तुम्हारा कोई ना कोई जान पहचान का इंसान कोटा में होगा। उससे तुम बात करके पूछो कि ये सही चल रहा है कि नहीं। या तो comment पढ़ा करो कि कोटा वाले जो comment कर रहे हैं यहां पर या कहीं भी channel पर उनके पढ़ा करो। उनके पास content बड़ा अच्छा होता है to be very frank.
+
+26:25 
+कोटा में fees high है पर वहां पर content पूरा दिया जाता है। तो अगर content उनसे match कर रहा है तो सबसे चलो आगे बढ़ते हैं। तो इतनी बातें तुम्हें ध्यान देनी है। ज्यादा बातें कर ली ना हम लोग। चल कोई नहीं कर लिए, कर लिए पढ़ते हैं आगे ले, ले। Covalent character के लिए cation का size छोटा हो cation का charge ज्यादा हो या तो cation के पास pseudo noble gas configuration हो। जिनी का नाडा होगा कौन आगे आया copper, silver, gold, zinc, cadmium, mercury.
+
+26:48 
+Anion का size जितना बड़ा हो और anion का charge जितना ज्यादा। बस इतने से factors थे। चलो start करते हैं question number one बताओ covalent character किसमे ज्यादा है?चलो पहला सवाल NaCL, KCL, RbCL चलो compare करो। तो भैया anion तो यहां पर सबका हो गया same यानी comparison cation पर होगा。
+
+27:14 
+Na, K, Rb में क्या difference दिख रहा है cation में?Size का difference है। Na, K, Rb नीचे जाते वक्त size बढ़ेगी। इसका size बहुत ज्यादा cation का size बड़ा होगा तो covalent character कम होगा। Cation का size छोटा होना चाहिए ना। इसका cation सबसे छोटा है यानी इसमें covalent character सबसे ज्यादा तो इसमें, इसमें, फिर इसमें। जैसे ही आगे मैं LiCL लिख दूं तो उसका size उससे भी छोटा है ना। लीना की रुबी है ना याद आ गया safe friendship है तो lithium का size सबसे छोटा। जिसका size सबसे छोटा उसका covalent character सबसे ज्यादा। बहुत बढ़िया भाई। जैसे इसी पर मैं question ये आ रहा देखो NEET में ये सवाल आया हुआ BCL2, MgCL2, CaClएल2 बताइए सबसे ज्यादा covalent character किसमें है?
+
+28:02 
+तो भाई anion तो इसमें सबका same है हटाओ cation देखो two plus, two plus, two plus charge तो same है size में difference है। बेटा मांगे car scooter है ना तो beryllium का size सबसे छोटा। Cation का size जितना छोटा covalent character उतना ज्यादा तो ये most covalent ये most ionic.
+
+28:24 
+ठीक है। अरे मतलब बहुत सवाल बनाया जा सकता है जैसे मान लो ये बना दूं मैं NaCL, NaBr, NaI चलिए बताइए सबसे ज्यादा covalent character किसमें है?इस बार cation सब में same हो गया तो anion को compare करो। Cl minus, Br minus, I minus size का difference है Cl, Br, I.
+
+28:45 
+नीचे जाने पर size बढ़ती है। iodine का size सबसे बड़ा anion का size जितना बड़ा covalent character उतना ज्यादा यानी इसका covalent character इससे ज्यादा, इसका इससे ज्यादा। Cation का size जितना छोटा और anion का size जितना बड़ा anion का size जितना बड़ा तो iodine का size सबसे बड़ा तो इसमें covalent character सबसे ज्यादा हो जाएगा clear.
+
+29:09 
+अच्छा कुछ application की बात कर लें इनकी। क्या sir क्या application?आओ देखो। देखो बच्चों जितना ज्यादा covalent character होगा उतना कम ionic character होगा। है ना?Covalent character जितना ज्यादा ionic character उतना कम। अच्छा covalent character ज्यादा होगा बच्चों तो solubility के बारे में क्या कहते हो?
+
+29:34 
+Solubility कम हो जाएगी। भाई ionic compounds water में बहुत soluble होते हैं। Covalent compound बहुत कम। जैसे organic जितने भी हैं सब covalent होते हैं इसीलिए water में कम soluble.तो जितना ज्यादा covalent character solubility उतनी कम हो जाएगी। अच्छा covalent bond कैसा bond है?
+
+29:51 
+Ionic से comparison में weak bond है as compared to ionic.यानी अगर हम बात करें melting point, boiling point की तो वो भी कम होगा। क्यों कम होगा भाई?Covalent compounds के बीच में जो bond होते हैं वो ionic से weak है यानी उनको तोड़ना आसान है। उनको melt करना boil करना easy है तो जितना ज्यादा covalent character उतना कम melting point easily melt करेगा easily boil होगा। ठीक है। Ionic compounds की property पढ़ाई थी मैंने आपको right है ना तो मैंने बताया था कि ionic compounds का melting point, boiling point high होता है तो उल्टा समझ लो.
+
+30:24 
+Covalent character ज्यादा तो melting point, boiling point low.Solubility in water low and last में colorजितना ज्यादा covalent character उतना ज्यादा color imparting nature उतना ज्यादा color imparting nature.
+
+30:41 
+चलिए notes बनाइए इतने का ये application हो गए। अब सवाल घूम सकता है। अब आपसे सिर्फ covalent character नहीं पूछूंगा। अब मैं दो compounds ionic दूंगा। दो compound कौन से दूंगा?Ionic.दो compound ionic दूंगा और आपसे पूछूंगा की भाई कौन water में ज्यादा soluble है, किसका melting point ज्यादा है या किसका कम है। तो इसको notes बनाएं, notes बनाएं covalent character जितना ज्यादा solubility उतनी कम, melting point, boiling point कम क्योंकि ionic का ज्यादा होता है और color imparting ज्यादा होगा। जितना covalent character उतना color imparting.
+
+31:12 
+इतनी बातें का notes बनाएं। चलिए सवाल देखें। Question.Which will have higher melting point?सवाल number one higher melting point का सवाल है BeF2, MgF2 इनमें से melting point किसका ज्यादा होगा?तो anion तो दोनों का same है.
+
+31:41 
+cation में beryllium का size छोटा है मतलब इसके अंदर covalent character ज्यादा होगा। covalent character ज्यादा होगा मतलब इसका melting point कम होगा तो MgF2 का melting point ज्यादा होगा। Second one clear एकदम hundred percent समझ में आया बहुत बढ़िया.
+
+31:59 
+CaClएल2, कैबीआर2 which will have higher melting point?cation यहां पे same है anion है chlorine और bromine, bromine का size बड़ा है मतलब covalent character ज्यादा क्योंकि ये anion है anion का size बड़ा तो covalent character ज्यादा melting point उतना कम होगा मतलब CaCL2 का melting point ज्यादा clear.
+
+32:24 
+चलो एक question ये देखो आया हुआ दो question आया हुआ दे देता हूं very important ये सवाल NaCL, CuCL किसका melting point ज्यादा है?चलो anion तो same है Cu+ Na+ अब size मत compare करना अब देखो cation C दो noble gas configuration कौन आगे आया copper आ गया इसका covalent character exceptionally ज्यादा है यानी इसके पास covalent character ज्यादा है इसका melting point कम है तो NaCL का melting point इससे ज्यादा है। जैसे fourth KCL, AgCL अब देखो silver कौन आगे आया यहीं से आया मतलब इसके पास covalent character ज्यादा होगा melting point इसका कम होगा तो definitely KCL का melting point ज्यादा होगा clear है। जितना ज्यादा covalent character उतना कम melting point उतनी कम solubility.
+
+33:18 
+Question which is more soluble FeOH whole thrice, FeOH whole twice इसमें से ज्यादा soluble कौन है?तो anion तो दोनों के same है cation की बात करें तो ये cation है Fe3+ का ये cation है Fe2+ का। इस पे charge ज्यादा है cation का charge ज्यादा covalent character ज्यादा covalent character ज्यादा तो solubility कम क्योंकि ionic की solubility ज्यादा होती है covalent की कम तो इसकी solubility ज्यादा हो जाएगी। जैसे हमसे पूछा very important, very important question Ag2O, Ag2S चलो खुद से करो एक सवाल खुद से हो जाए भाई साहब pause करके video Ag2O, Ag2S, Ag2O, Ag2S अब ये मत देखना कौन आगे आया silver तो दोनों में है अब anion की कहानी है oxygen और sulphur क्या difference है दोनों में sulphur का size oxygen से बड़ा है कि नहीं?
+
+34:26 
+Oxygen के नीचे sulphur है.anion का size जितना बड़ा covalent character उतना ज्यादा। पूछ रहा है कौन ज्यादा soluble है?तो cation तो same था anion compare किया oxygen के नीचे sulphur, sulphur का size ज्यादा anion का size ज्यादा तो covalent character ज्यादा covalent character ज्यादा तो भैया solubility हो जाएगी कम और solubility हो जाएगी कम तो Ag2O की solubility Ag2S से ज्यादा क्योंकि इसमें है ionic character इसमें है covalent character.
+
+35:00 
+अच्छा जितना ज्यादा covalent character उतना कम melting point उतनी कम solubility और उतना ज्यादा color imparting nature.जितना ज्यादा covalent character melting point उतना कम solubility उतनी कम और color imparting उतना ज्यादा मतलब color आपको उतना ज्यादा मिलेगा जितना ज्यादा covalent character.
+
+35:23 
+जैसे AgF, AgCl, AgBr, AgI इसमें सबसे dark color किसका होगा?I repeat my question इसमें से darkest color किसका होगा?Darkest color उसका होगा covalent character जिसमें सबसे ज्यादा होगा तो यहां पे cation तो सबका same है। चलो बताओ खुद से pause करके एक, दो, तीन pause चलो मैं solve करूंगा अब एक, दो, तीन कर लो अगर नहीं किया तो चलो.
+
+35:53 
+anion देखना पड़ेगा fluorine, chlorine, bromine, iodine, iodine का size सबसे बड़ा यानी covalent character सबसे ज्यादा यानी इसका color darkest होगा और ये होता है बच्चों dark yellow क्योंकि anion का size सबसे बड़ा है cation तो same है.
+
+36:11 
+anion का size जितना बड़ा covalent character उतना ज्यादा dark yellow.ये हमारा होता है yellow, ये हमारा होता है white और ये होता है colorless.देख रहे हो इस तरफ जाते वक्त color dark हो रहा क्योंकि इस तरफ covalent character बढ़ रहा क्योंकि anion का size बढ़ रहा क्योंकि polarization बढ़ रहा। समझ में आ रही है बात?जैसे मान लो एक और सवाल मैं आपको दे दूं PbCl2, PbI2 इसमें से dark color का कौन होगा?
+
+36:44 
+जैसे मैं आपसे पूछूं इन दोनों में से yellow कौन है और white कौन है। मान लो exam में सवाल आया चार option है दो पहले कहीं से eliminate कर चुके हो अब दो बचे हैं और आपको बताना है इसमें से white कौन है yellow कौन है। तो देखो cation तो same है। iodine का size chlorine से बड़ा है। anion का size बड़ा तो covalent character ज्यादा, covalent character ज्यादा तो color होगा इसका dark मतलब ये वाला होगा yellow और ये वाला हो जाएगा white.
+
+37:12 
+Give reasons में भी आ सकता है की भैया ये dark yellow क्यों होता है ये colorless क्यों?तो आप बता दो की color imparting nature इसमें ज्यादा है, इसका anion बड़ा है, इसका polarization ज्यादा है, covalent character ज्यादा है। ओए होए Fajan's rule लगाया है काम खत्म। तो ये सारे questions आ सकते थे। जाते हो तो चले जाना। जाते जाते मेरा एक सवाल और बता जाना। Why SnCl4 is a volatile liquid while SnCl2 is a solid?
+
+37:48 
+ठीक है tin के दो chloride है एक SnCl2 एक SnCl4.ये volatile liquid बनता है और ये solid है ऐसा क्यों?बताइए। बताओ भाई SnCl2, SnCl4 तो anion तो same है छोड़ देते हैं। cation की बात करें यहां पर tin two plus में काम कर रहा है। यहां पर tin मेरे ख्याल से four plus में काम कर रहा है। है कि नहीं चार तो four plus में यहां two plus में। इन दोनों में से cation में इसमें charge ज्यादा है cation पे charge भैया ज्यादा है और cation में भैया जब charge ज्यादा होता है तो covalent character ज्यादा होता है। यानी ये ज्यादा covalent होगा और ये ज्यादा ionic होगा। बस खेल खत्म। covalent और ionic में से कौन solid होता है?
+
+38:38 
+Ionic.पिछले lecture में property बताया नहीं बताया तो सोचो ionic bond strong होते हैं strong होते हैं तो वो solid state में और covalent compound ज्यादातर किस में होते हैं या तो gaseous होते हैं या तो liquids होते हैं या तो soft solid हो सकते हैं। कुछ rare chances में covalent soft solid.
+
+38:56 
+Covalent solid में तो जल्दी मिलेगा नहीं soft solid में। मतलब most of the covalent compounds are either gaseous organic compounds सोचना start करो methane, ethane या तो gaseous मिलेंगे या तो alcohols volatile liquids मिलेंगे। तो क्योंकि ये covalent compound है इसलिए ये क्या होता है एक volatile liquid.
+
+39:13 
+ये मत बोलना covalent compound क्योंकि इसमें covalent nature ज्यादा है, है ना! Covalent character ज्यादा है और ये solid क्योंकि है तो दोनों ionic वैसे तो दोनों ionic हैं। इसमें covalent character ज्यादा है because of Fajan's rule.
+
+39:26 
+This is more covalent and hence covalent वाली property है.Covalent bond weak होता है तो या तो gaseous या तो liquid nature.तो ये था पूरा Fajan's rule.I hope आपको Fajan's rule clear होगा। ये Fajan's rule लिखा हुआ है यहां पे side में इससे ज्यादा कुछ नहीं है। मैंने सारे questions discuss किए हैं। बाकी मैंने बातें कर ली आपसे। All the very best.

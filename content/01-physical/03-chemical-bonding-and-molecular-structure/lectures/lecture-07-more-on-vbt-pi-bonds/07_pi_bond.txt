@@ -1,0 +1,120 @@
+
+00:21 
+Hello बच्चों, आज हम chemical bonding का video number seven लेकर आए हैं जिसमें हम p π, dπ और dπ-dπ bonding की बात करेंगे। तो देखो यार इस video को समझने के लिए बहुत जरूरी है कि तुमको valence bond theory अच्छे से आती हो। अगर valence bond theory का video देखना है तो YouTube पे type करो valence bond theory physics वाला और video देखो जिसमें मैंने आपको sigma और π bond कैसे बनता है ये बातें बताई हैं। आज यहां जो video है ये एक special type की bonding पर है pπ-dπ और dπ-dπ bonding पे। ये topic basically JEE mains, JEE advance और NEET के लिए है। school level पे ये topic जल्दी नहीं पूछा जाता, most of the case में नहीं पूछा जाता। छोटा video रहेगा क्योंकि एक particular case discuss करना है। जरूरी है कि आपको sigma, π bonding अच्छे से आती हो तभी ये video समझ में आएगा। तो जरूरी है कि आप valence bond theory का video देख लें। कुछ नहीं तो उसको 2 की speed में देख लो, at least यार तुमको sigma, π bond कैसे बनता है समझ में आ जाए। मैं एक बार जल्दी से आपको summarize करता हूं। sigma bond बनता है axial overlapping से। sigma बनता है s-s में, sp में, pp में, s-s में, sp में और pp में। और π किस में बनता है pp में, pd में, dd में। फिर से repeat कर दे रहा हूं। sigma bond किस में बनता है हमारा s-s में, sp में, pp में और π bond किस में बनता है हमारा pp में, pd में और dd में। कहीं पे मान लो single bond है दो atom के बीच में तो वो sigma होगा। कहीं पे double bond है दो atom के बीच में, एक sigma एक π होगा और कहीं पे यदि triple bond है दो atom के बीच में तो एक sigma दो π होगा। single bond है तो sigma, double bond है एक sigma एक π और triple bond है तो एक sigma और दो π। और ये knowledge याद रखनी है sigma s-s में, sp में, pp में, π pp, pd और dd। बस इतनी information रखोगे तो काम बन जाएगा। यहां लिख देते हैं इस बात को sigma बन रहा है किस में s-s, sp और pp और π किस में बन सकता है pp, pd और dd.
+
+02:32 
+तो इसमें से पहला वाला π का case आप discuss कर चुके हो जो pp था। अब बचे हुए दोनों discuss कर लें। मतलब π bond में कई बार exam पूछता है कि कौन सा π bond है pp के बीच का है, pd के बीच का है। इस compound में कितने pp π bond है, कितने pd π bond है, इस तरह के सवाल। होता क्या है π bond कैसे बनता है sidewards overlapping से, parallel overlapping से। तो हम pd bond की बात करते हैं pπ-dπ की बात करते हैं। मान लो मेरे पास p orbital है और मेरे पास एक d orbital है, ठीक है। d orbital ऐसे होती है four lobes वाली और p orbital में दो lobe होते हैं। ठीक है। check.
+
+03:12 
+बहुत बढ़िया। अच्छा। मान लो इसमें एक electron है और इसमें भी, दोनों unpaired हैं और कैसे हैं opposite spin.अब मान लो ये दोनों overlap कर गए तो कैसे overlap करेंगे जरा सोचो। ये, ये बना p और ये बना d। ऐसी overlapping होगी। ये p orbital, ये d orbital और ये हो गई overlapping, ये। ये और ये हुई overlapping। ये कौन सा bond है?
+
+03:45 
+Sidewards overlapping से बना है तो π bond और इस π bond को हम बोलेंगे pπ-dπ bond, pπ-dπ bond.मान लो हमारे पास dπ-dπ bond हो, कैसे बनेगा?एक d orbital और दूसरी भी d orbital.ठीक है। एक electron इसमें, एक इसमें with opposite spin.
+
+04:09 
+दोनों sidewise ही overlap कर सकते हैं। और कोई तरीका तो है नहीं overlapping का। ये overlap कर गए। ये electron की sharing हो गई। यहां पे हो सकती है और यहां पे। ये जो π bond बना sidewards overlapping से इसको हम बोलते हैं dπ-dπ bond.
+
+04:30 
+तो pπ-pπ कब बनेगा?जब p और d sidewise overlap करें। dπ-dπ कब बनेगा?जब d और d sidewise overlap करें। clear है?diagram दिखाया। अच्छा p और p का π bond कैसे बनता है वो तो बहुत ही easy है। यहां पे देख लो एक p orbital, दूसरी p orbital, एक electron इसमें, एक इसमें और दोनों overlap कर जाएंगे ऐसे और ऐसे। ये electron opposite spin वाला और ये। ये कौन सा π bond है pπ और pπ। जैसा कि आप देख रहे हो कि pπ-pπ में सबसे ज्यादा overlapping हो सकती है। दोनों एक दूसरे में ज्यादा घुस सकते हैं, ज्यादा interfere कर सकते हैं। तो pπ-pπ इस bond के और इस bond की comparison में ज्यादा strong होता है। These two π bonds are weaker.
+
+05:18 
+अगर आपसे पूछे इन तीनों में सबसे strong, सबसे ज्यादा overlapping वाला π bond कौन सा है?तो आप बोलो pπ-pπ। आइए अब सवाल solve करते हैं। इस तरह के सवाल तो नहीं आ रहे हैं। competition में जो सवाल आ रहे हैं वो देखो। क्या सवाल आ रहा है?
+
+05:33 
+Question number one हम ले लेते हैं। Question number one हमसे पूछा how many, how many pπ-pπ and pπ-dπ bonds are in sulphur dioxide?sulphur dioxide में कितने pπ-pπ, कितने pπ-dπ?तो sulphur dioxide का structure S double bond O, S double bond O और यहां पे lone pair.
+
+06:03 
+ये structure अभी हम आपको बता दिए। अगर structure बनाना सीखना है तो फिर YouTube पे type करोLewis dot structure Physics वाला तो आप इसका structure भी खुद से बना ले जाओगे अपने आप। मैंने पूरा सिखाया है। अभी के लिए structure मैं दे दे रहा हूं। अच्छा, यहां पर double bond है यानी एक sigma एक pi, double bond है एक sigma एक pi। तो दो pi bond है। अब हो सकता हो p pi p pi हो, हो सकता हो p pi d pi हो। पता नहीं क्या है, check करना पड़ेगा। sulphur di-oxide एक sigma एक pi, एक sigma एक pi। आइए देखते हैं sulphur का बच्चा atomic number sixteen configuration बोलो one s two, two s two, two p six, three s two, three p four हो गया two two four sixteen two twelve four sixteen। अच्छा, और कौन है?
+
+06:50 
+दो oxygen के atom है। अच्छा, इसको अब पहले हम बना लेते हैं three s two पूरी तरह से complete, three s पूरी तरह से complete। इन orbitals को नहीं बना रहे क्योंकि ये inner है। inner से मतलब नहीं, सिर्फ valence shell को बनाओ। three p में चार electron one two three four। अच्छा, अब कितने oxygen है?
+
+07:14 
+दो। और sulphur ने यहां bond कितने बनाए हैं?एक, दो, तीन, चार। कितने bond बनाए हैं?एक, दो, तीन, चार। तो sulphur की valency कितनी होनी चाहिए यहां पे?four होनी चाहिए और दिख कितनी रही है?दो। sulphur के पास यहां कितने unpaired electron है?
+
+07:29 
+सिर्फ दो। ये और ये। valence bond theory में क्या होता है?जो unpaired electrons होते हैं वही जाकर bond बनाते हैं। पर यहां sulphur के पास सिर्फ दो unpaired electron है और यहां bond कितने बना रहा है?एक, दो, तीन, चार। तो क्या करें?
+
+07:43 
+क्या करें?क्या करें?हम sulphur का ये होता है ground state.हम sulphur का first excited state use करेंगे। हम क्या use करेंगे?sulphur का first excited state.यहां sulphur की चार valency है। चार valency मतलब चार उसके unpaired electron होने चाहिए पर वहां तो दो ही है। तो first excited state में क्या होगा?
+
+08:06 
+ध्यान दो की three में three d भी होता है और d पूरा खाली है। मतलब यहां आगे मैं three d भी बना सकता हूं जो की अभी भरा नहीं है, पूरी तरह से खाली है three d orbital.तो excited state में क्या होगा कि ये three p से electron jump करके three d में चला जाएगा। ये जो paired electron है इसमें से एक electron jump करके three d में चला जाएगा। ठीक है। ये energy इसको oxygen देगा जो आया है यहां पे bond बनाने के लिए। इतनी energy मिलेगी की ये electron jump करके three d में चला जाएगा। फिर आएगी first excited state जिसमें three s तो as it is रहेगा। three s पे कोई फर्क नहीं पड़ेगा। three p थोड़ा बदल जाएगा। three p में एक electron, एक electron एक और three d भी change हो जाएगा थोड़ा सा। एक electron यहां। अब sulphur के पास, अब sulphur के पास कितने unpaired electron है?
+
+08:56 
+एक, दो, तीन, चार। मतलब अब sulphur कितने bond बना सकता है?चार। यहां पे sulphur कितने bond बनाए हैं?एक, दो, तीन, चार। चलिए अगला item है oxygen.तो oxygen का atomic number होता है eight one s two, two s two, two p four.
+
+09:13 
+तो oxygen की बात करें तो two p को बना लें। two p में चार electron एक, दो, तीन, चार। ये दूसरा oxygen item उसका भी atomic number eight same कहानी होगी उसकी भी two p में चार electrons होंगे एक, दो, तीन, चार two p, two p। ठीक है। अब oxygen ने sulphur के साथ क्या बना रखा है?
+
+09:34 
+एक sigma यानी ये वाला oxygen sulphur के साथ एक sigma बनाएगा और ये वाला oxygen भी sulphur के साथ एक sigma बनाएगा। बच्चों sigma किस में बन सकता है?s s में, s p में या p p में। ठीक है। यहां पे आप देख रहे हो उसके पास oxygen के पास p में unpaired electron है यहां पे भी p और sulphur में p और d में। मतलब sigma यहां से किस वाले से बन सकता है?
+
+09:55 
+सिर्फ इस वाले से। s तो है नहीं किसी के पास unpaired s तो है नहीं तो सिर्फ p से बन सकता है sigma। तो एक ये वाला, एक ये वाला बनाएगा sigma bond, एक ये वाला, एक ये वाला बनाएगा sigma bond.तो ये दो sigma bond बन गए यानी दो sigma bond किसके किसके बीच में मिले?
+
+10:14 
+यहां लिखूंगा मैं two p और यहां बोलो three p के बीच में बना पहला sigma bond और ये वाला sigma bond किसके बीच में बना?इस oxygen के two p और sulphur के three p के बीच में। अब बचा pi bond, pi bond किस में बन सकता है?
+
+10:32 
+p p में और p d में। इस oxygen के पास एक p खाली है sulphur के पास भी एक p खाली है तो बन गया pi bond। मतलब ये पहला वाला pi bond किस में बना है?two p और वहां से three p में। अब दूसरा वाला pi bond किसको बनाना पड़ेगा?
+
+10:49 
+इस वाले oxygen ने एक sigma बना लिया है एक क्या बनाएगा pi.तो ये वाला electron किससे overlap करेगा?three d से। क्या three d और two p मिलकर pi bond बना सकते हैं?Yes, ये वाला p और d, p और d। मतलब ये जो pi bond बना है ये किसके बीच में बना है?
+
+11:10 
+ये किसके बीच में बना है?three d sulphur की तरफ से और two p oxygen की तरफ से। तो इसमें कितने p pi p pi कितने p pi d pi?ये वाला pi bond इस वाले oxygen ने जो pi bond बनाया। देखो ये तो गया किसमें?sigma में इसके साथ। ये गया sigma में इसके साथ। अब pi बनाना है एक इसको, एक इसको तो इसने pi bond बनाया three p के साथ। मतलब एक pi bond है two p और three p के बीच में two p pi three p pi एक pi bond ये है। और ये वाली oxygen ने pi bond बनाया। इसने pi bond बनाया three d के साथ two p और three d मतलब एक बना two p pi three d pi.
+
+11:53 
+तो आप बोलोगे एक p pi p pi है, एक p pi d pi bond है। clear हुई क्या logic?चलिए एक और सवाल देखते हैं। ठीक है। चलिए एक और सवाल लेते हैं VBT आपको आनी चाहिए sigma pi bonding का concept आपको आना चाहिए तभी ये समझ में आएगा। Question number two how manyHow many p π p π and p π d π bonds are in sulphur trioxide?
+
+12:26 
+अब SO3 ले लिया हमने। sulphur trioxide का structure यहां पे हम देख लेते हैं s double bond और बड़ा structure बनाते हैं s double bond o double bond o double bond o.sulphur की configuration तो आप sulphur देख चुके हो क्या आ रहा था three s two three p four.
+
+12:45 
+ये आ रहा था sulphur three s two three p four.इसको बना लेते हैं three s कुचुक, कुचुक three p four कुचुक, कुचुक, कुचुक, कुचुक। यहां पे sulphur कितनी valency दिखा रहा?एक, दो, तीन, चार, पांच, छह। छह valency sulphur दिखा रहा है इस case में। और यहां कितनी valency दिख रही है?
+
+13:04 
+सिर्फ दो। दो ही unpaired electron है। कुछ नहीं करो यहां पे three d बना लो क्योंकि three d में zero electron खाली पड़ी है three d.ठीक है मैंने three d बना ली। एक electron jump करके यहां से यहां भेज दो। तो इसको मैंने उठाया यहां पे डाल दिया। एक electron यहां से jump करा के यहां भेज दो। ये sulphur की हो गई second excited state.
+
+13:26 
+क्यों second?क्योंकि दो electron jump किए। क्यों electron jump करा रहा?क्योंकि मुझे यहां sulphur की valency six चाहिए। sulphur की valency variable होती है two हो सकती है, four हो सकती है, पिछले वाले में four थी और six भी हो सकती है। क्या किया मैंने?
+
+13:41 
+एक electron यहां से jump करा दिया, एक electron यहां से jump करा दिया three p और three d.अब बात आई oxygen की। तीन oxygen है मेरे पास। oxygen का configuration क्या आया था हमारे पास?two p four आया था। तो oxygen मैं बना ही रहा हूं two p four एक, दो, तीन, चार। वैसे इसमें भी हो जाएगा same एक, दो, तीन, चार। ये इसमें भी हो जाएगा same एक, दो, तीन, चार। चलो भाई तो हर oxygen को एक एक sigma bond बनाना है पहले। है ना double bond में एक sigma होता है एक π तो हर oxygen को एक sigma bond बनाना है। तो इसने एक sigma बना लिया s के साथ चलो खत्म। फिर इसने भी एक sigma बनाना है दूसरे oxygen ने इसने एक sigma बना लिया p के साथ ये भी खत्म। है ना sp में भी sigma बन सकता है। इसने एक sigma बना लिया p के साथ sp में sigma बन सकता है खत्म। अब इस oxygen को क्या बनाना है?
+
+14:35 
+π bond देखो एक sigma हो चुका अब क्या बनेगा π.तो ये two p वाला π bond किससे बनाएगा?three p से three p में π bonding possible है। तो पहला π bond जो बना वो बना two p और three p के बीच में। बहुत बढ़िया। अब ये वाला oxygen किसके साथ π bond बनाएगा?
+
+14:55 
+ये भी खत्म हो गया। ये वाला oxygen किसके साथ π bond बनाएगा?two p वाला अब d के साथ बनाएगा क्योंकि pd में भी allowed है। तो ये two p किससे बनाने वाला है?three d से। तो दूसरे वाले ने π bond बनाया two p और three d.
+
+15:10 
+गया ये भी, गया ये भी। अब last वाला π bond किससे बनाएगा?three d से यानी last वाला oxygen भी two p ने बनाया three d से। अब इन्होंने पूछा कितने p π p π कितने p π d π?चलो देखते हैं तीन π bond है। ये वाला π bond किसने बनाया है two p और three p, two p π और three p π.
+
+15:31 
+ये वाला π bond किसने बनाया है three d और two p, three d π two p π.ये वाला π bond किसने बनाया है three d और two p यानी एक और हो गया three d π two p π.तो दो π bond बने हैं p और d के बीच में और एक π bond बना है p और three p के बीच तो p π p π एक p π d π दो। ये हो गई इसकी count clear है। चलिए एक question और करते हैं इसी logic पे exactly इसी same logic पे एक और सवाल करते हैं हम। Question number three.
+
+16:05 
+Find number of p π p π and p π d π in H3PO4 phosphoric acid.चलो इसको मैं बना देता हूं यहां पे p double bond O O H O H O H.phosphorus का atomic number fifteen configuration लिखोगे one s two two s two two p six three s two three p three.
+
+16:42 
+तो मैं last shell को बनाऊंगा सिर्फ ये three s एक electron दो electron ये three p एक, दो, तीन। यहां phosphorus कितनी valency दिखा रहा?one two three four five और यहां इसके पास कितने unpaired electron है?
+
+17:02 
+सिर्फ तीन मतलब काम नहीं बनेगा तो फिर से किसको खोल लो आगे three d zero को खोल के बैठ जाओ तो मैं three d zero यहां पे बना लेता हूं। अब मैं क्या करूंगा एक electron को excite करके यहां भेज दूंगा जो paired वाला है electron यहां गया यानी ये किस में आ गया first excited state.
+
+17:23 
+फायदा क्या हुआ?अब इसके पास कितने unpaired electron है एक, दो, तीन, चार, पांच मतलब ये पांच की valency दिखा सकता है। अब p से कौन जुड़ा है?एक, दो, तीन, चार oxygen जुड़े हैं तो चार oxygen बना लो एक, दो, तीन, चार। configuration oxygen का याद है अभी किया था हम लोगों ने two p four आ रहा था बार-बार और बना ले एक, दो, तीन, चार। oxygen configuration क्या आ रहा था बार-बार two p four तो यहां भी बना ले same बनेगा एक, दो, तीन, चार। यहां भी बना ले एक, दो, तीन, चार और एक यहां भी बना ले एक, दो, तीन, चार। बहुत बढ़िया। चलिए भाई ये वाला oxygen कौन सा bond बनाया है single यानी ये sigma होगा। तो पहले वाले oxygen ने एक bond बनाया है किसके साथ phosphorus के साथ तो ये गया इसके साथ sigma में। दूसरे oxygen ने भी phosphorus के साथ single bond है यानी sigma तो इसने भी एक bond बनायाSigma गया। तीसरे वाले Oxygen ने भी single bond बनाया है यानी Sigma तो Sigma s अरे Sigma two p और Sigma two p और three p में एक Sigma और गया। चौथे वाले ने एक Sigma बनाया है एक pi तो पहले एक Sigma बनाओ two p और three p गया और चौथे वाले ने क्या बनाया है एक pi bond तो pi अब किससे बन सकता है?
+
+18:46 
+यह वाला जाकर इसके साथ pi बना लेगा यानी two p और three d तो जो pi बना है वो two p और three d और कोई pi bond इसमें नहीं। इनकी tension मत लो इस electron की इस electron ये तो hydrogen के साथ bond बनाएगा। ये चला जाएगा hydrogen के साथ hydrogen के साथ ये चला गया hydrogen के साथ ये चला गया hydrogen.
+
+19:04 
+इन तीनों oxygen ने देखो hydrogen से single bond बनाए हैं Sigma bond, Sigma bond, Sigma bond s orbital के साथ है ना। ये सब तो hydrogen के s से overlap करेंगे। एक ही pi bond है किसके बीच में बना है two p और three d यानी two p pi three d pi तो इसमें p pi d pi one और p pi p pi zero.
+
+19:26 
+तो इस तरह से आपको p pi d pi निकालना होता है। मेरे ख्याल से अब आपको आ गया होगा। एक आखिरी question मैं दे रहा हूं उसको आप अपने आप try करो। Last question मैं दे रहा हूं। Question वही है आपको p pi p pi and p pi d pi निकालना है in H two SO four sulfuric acid में structure ये रहा S double bond O double bond O O H O H sulphur चलो pause करके कर लो एक बार एक, दो, तीन, चार pause करके आराम से आराम से solve करो इसको। चलो अब देखो atomic number sixteen configuration sulphur का क्या आ रहा था three s two three p four आ रहा था तो मैं यहां बना लूंगा three s और यहां बना लूंगा three p four एक, दो, तीन, चार। यहां sulphur कितनी valency दिखा रहा है एक, दो, तीन, चार, पांच, छह। मतलब हमको three d तो use करनी ही पड़ेगी। तो यहां पर मैंने three d बना ली। छह valency चाहिए एक electron इसको excite किया। कितनी हुई चार एक electron इसको भी excite किया। कितनी हो गई छह। कितनी हो गई छह। कितने oxygen है एक, दो, तीन, चार। एक, दो, तीन, चार। oxygen configuration बार बार देख चुके हो। जल्दी से उसी को यहां पर बना लो। है ना एक, दो, तीन, चार। एक, दो, तीन, चार। एक, दो, तीन, चार। एक, दो, तीन, चार। चलो भाई इस oxygen ने बनाया है Sigma bond तो ये इसने बना लिया Sigma bond two p ने three s के साथ Sigma bond oxygen में तो सब में क्या है two p चल रहा है। फिर इस वाले oxygen ने भी बनाया Sigma bond तो इसने भी गया इसके साथ Sigma bond और इनके एक एक electron hydrogen के साथ जुड़े मतलब इसका hydrogen से और इसका भी hydrogen से pi bond की बात नहीं। चलो अब ये दो oxygen बने। इनमें एक Sigma एक pi इनमें भी एक Sigma एक pi तो इस oxygen ने भी एक Sigma bond बनाना है तो एक Sigma bond two p और three p में बन गया p p में possible है Sigma bond तो बन गया। इस oxygen ने भी एक Sigma बनाया है तो two p और three p इन्होंने भी Sigma बना लिया खत्म। अब बचा pi bond इसने और इसने pi bond बनाना है तो ये pi bond two p किसके साथ overlap करेगा three d के साथ two p और three d यानी two p और three d.
+
+21:55 
+फिर ये वाला two p pi bond किससे बनाएगा?ये भी three d से ही बनाएगा तो दूसरा pi bond भी है two p और three d तो दो pi bond बने हैं किसमें two p pi three d pi और दूसरा भी two p pi three d pi मतलब इसमें p pi d pi कितने हैं दो और p pi p pi कितने हैं one। इस तरह से structure बना के calculate करके आप p pi p pi और p pi d pi या d pi d pi अगर कहीं मिलता है जिस पर सवाल नहीं आते तो आप निकाल सकते हो। चलिए enjoy करिए अगला video बड़ा important है hybridization पर all the best

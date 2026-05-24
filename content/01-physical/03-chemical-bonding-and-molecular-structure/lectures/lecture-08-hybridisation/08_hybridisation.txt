@@ -1,0 +1,312 @@
+
+00:13 
+Hello बच्चों, आज हम chemical bonding का video number eight लेकर आए हैं और आज का जो video है ये बहुत ही important है आपकी organic chemistry के लिए, inorganic chemistry के लिए। Topic है hybridization। Hybridization एक बहुत बड़ी दुविधा होती है बच्चों के लिए बहुत बड़ा problem होता है और hybridization निकालने की कहीं short trick बताई जाती है, कहीं method बताया जाता है, कहीं दूसरा method बताया जाता है और कहीं उसका concept बताया जाता है। This video covers everything.
+
+00:38 
+यहां सब कुछ होगा hybridization में इसके बाहर कुछ नहीं है, इसके बाहर कुछ नहीं है। Hybridization word से डर लगता है ना?Word के अंदर जाएंगे, depth में जाएंगे, जानेंगे hybridization है क्या?एकदम simple भाषा में। उसके बाद hybridization निकालने का conventional method जहां से शुरू हुआ वो सीखेंगे। उसके बाद hybridization निकालने का structure से method कि structure बना हो तो hybridization कैसे निकाले और उसके बाद एक super short trick hybridization की। ये करना है तो अभी कई लोग तो ये कह रहे हैं sir ये hybridization क्या होता है, पहले ये तो बताओ। तो hybridization क्या है इसको समझने के लिए आपको मेरे साथ एक छोटी सी मेहनत करनी है। हम आपसे पूछेंगे कि methane molecule कैसे बनता है CH4?
+
+01:25 
+थोड़ा सा हम use करेंगे valence bond theory का जिसमें orbitals overlap करती हैं। Unpaid electrons जो होते हैं different orbitals के वो overlap तो अगर ये theory आती है तो बहुत अच्छी बात नहीं आती है YouTube पे type करना है valence bond theory physics वाला और या chemical bonding zero six physics वाला जहां पे valence bond theory पूरी पढ़ाई है। अब valence bond theory के हिसाब से carbon का atomic number कितना होता है six configuration बोलो 1s2, 2s2, 2p दो दो चार 2p2 बहुत बढ़िया। यहां 2s में two electron one two, 2p में भी two electron one two ठीक है sorry one two.
+
+02:09 
+अब यहां carbon को hydrogen से कितने bond बनाने हैं?चार bond बनाने हैं। चार hydrogen हैं single bond बनता है hydrogen के साथ ठीक है चार bond बनाने हैं पर carbon के पास unpaid electron कितने हैं?दो ही हैं। Valence bond theory ये कहती है कि जो bond बनते हैं वो किससे बनते हैं unpaid electron से। यहां carbon के पास दो ही unpaid electron है तो अब carbon क्या करेगा?
+
+02:30 
+अपने इस electron को यहां पे jump करा देगा जिसको हम बोलते हैं first excited state। कई लोगों को बहुत boring लग रहा है ये video आगे बढ़ाओ, आगे बढ़ाओ सीधा hybridization पहुंचो जिनको पूरा समझना है starting से वो इसको देखें। चलो तो 2s में एक electron बचा और 2p में एक, दो, तीन ये electron excite होकर यहां चला गया। अब carbon के पास कितने unpaid electron है?
+
+02:56 
+एक, दो, तीन, चार। अब ये चार hydrogen के unpaid electron से overlap कर लेगा। जैसे मान लो हम चार hydrogen ले लें। एक hydrogen ये, एक hydrogen ये, एक hydrogen ये, एक hydrogen ये। Hydrogen का atomic number होता है बच्चों one configuration होगी 1s1 यानी इसके पास भी एक electron 1s1 इसके पास भी एक electron, इसके पास भी एक electron, इसके पास भी एक electron। उल्टा इसलिए बनाया है क्योंकि opposite spin वाले ही overlap करते हैं। Valence bond theory यही कहती है कि opposite spin वाले ही overlap ये 1s1, 1s1, 1s1 ये इसके साथ overlap किया, ये इसके साथ overlap किया, ये इसके साथ overlap किया और ये इसके साथ overlap किया। यानी चार bond बने हैं carbon और hydrogen के बीच में चार hydrogen के बीच में। चलो देखो पहला वाला किसमें बना 2s और 1s मतलब s और s के बीच में, दूसरा वाला 1s और 2p, 1s और 2p मतलब hydrogen की तरफ से तो s ही है carbon की तरफ से p आ गया। फिर hydrogen की तरफ से s है carbon की तरफ से फिर एक p है p और s फिर hydrogen की तरफ से s है carbon की तरफ से p है। तो यहां पे चार bond बने हैं चार bond एक बना है ss में, एक बना है sp में, sp में और sp में। अब मुझे बताओ ये चारों bond different होंगे कि same होंगे?
+
+04:17 
+भाई different होंगे ss का bond, sp का bond, sp का bond different होगा। तीन bond एक तरह के होंगे, एक bond different तरह का होगा because चारों bond अलग अलग orbital से बने हैं। ये कौन कहता है?ये कहती है valence bond theory। Valence bond theory कहती है कि भाई ये चारों bond अलग अलग orbital से बने हैं तो चारों bond different kind के होंगे और होना भी चाहिए। एक bond इन सब से अलग होना चाहिए। ठीक है, यहां तक valence bond theory चली। Problem यहीं पे आई और ये है birth of hybridization की hybridization को क्यों आना पड़ा?
+
+04:49 
+Problem क्या आई?All four bonds of CH4 are equivalent in all respects.इन चारों bond की bond length, bond energy सब same था। सब की bond length बराबर, सब की bond energy बराबर। जबकि हमें लग रहा था कि bond energy अलग अलग होगी, bond length अलग अलग होगी। तीन की एक जैसी, एक की एक जैसी पर ऐसा नहीं हुआ और यही है failure of valence bond theory और यही है birth of hybridization.
+
+05:33 
+यहां hybridization की अब जरूरत पड़ेगी। क्या है hybridization?Overall हमें practically दुनिया में यह समझ में आया experiments के द्वारा कि ये चारों bond same होते हैं मतलब ये concept गलत है कि एक ss में, एक sp में, sp में ऐसा हो ही नहीं सकता। ऐसा होता तो तीन bond एक तरह, एक bond एक तरह। तो हमने दिमाग लगाया और हमने एक नया process दिया जिसको हमने बोला hybridization.
+
+05:56 
+जरा देखिए hybridization क्या चीज है। यहां पे पहले मैं first excited state को बना लूंयहां तक तो कहानी same रहेगी। यहां से hybridization start होगा। ठीक है। ये मैंने क्या बना लिया?First excited state बना लिया। बहुत बढ़िया। अब hybridization क्या बोलता है कि ये चारों bond same होने हैं। अच्छा भाई! So what is hybridization?
+
+06:21 
+Hybridization क्या बोलता है?कि atomic orbitals of same or nearly same energy intermix to give new orbitals of exactly same energy.यहां देखो ये atomic orbitals different energy की हैं। 2s की energy अलग है, 2p की अलग है। भाई different तो हो ही जाएगी energy.
+
+07:07 
+2p की energy ज्यादा है तभी तो ये बाद में भरता है। अच्छा। पर इनकी energy आसपास तो है क्योंकि ये 2s है, ये 2p है, बहुत दूर तो नहीं हुआ। इसके बाद 2s, 2p यहां 2d नहीं होता। अगर three होता तो 3s, 3p, 3d। आसपास energy होती है क्योंकि shell number तो क्या है?
+
+07:22 
+Same.Shell same होने की वजह से energy close तो है। So atomic orbitals of same or nearly same energy इनकी nearly same है और इन सबकी तो क्या है?Same.इनकी क्या है सबकी?Same और इनकी इनके साथ?Nearly same.Intermix to give new orbitals of exactly same energy.
+
+07:41 
+ये सब आपस में intermix मिलेंगी और नई orbitals बनाएंगी। कितनी?चार। और इनकी energy क्या होगी?Same.अब देखो एक s orbital है, तीन p orbital है। तो total चार orbital थी तो चार ही नई orbital भी बनेगी। Hybridization ये भी कहता है कि जितनी orbital mix हुई हैं, पलट के उतनी ही orbitals बनेंगी। अब एक s और तीन p हैं तो इनका नाम पड़ गया sp3, इसका भी नाम sp3, इसका भी नाम sp3, इसका भी नाम sp3। तो चार नई orbital बनी जिनका नाम है sp3, sp3, sp3, sp3 और electron as it is रह गया। अब hydrogen आएगा यहां पे। यहां पे भी हर जगह hydrogen आएगा। जैसे मैं यहां पे बना लूं जैसे carbon, hydrogen, hydrogen, hydrogen, hydrogen.
+
+08:38 
+अब carbon की चारों orbital कौन सी हैं?sp3 तो इधर से भी sp3, इधर से भी sp3, इधर से भी sp3, इधर से भी sp3 और hydrogen के पास s, s, s, s। मतलब अब चारों bond किस में बने हैं?s sp3, s sp3, s sp3 और s sp3। क्योंकि carbon ने अपनी orbitals same कर ली है। Hydrogen के पास तो ऐसी ही था। तो पहला bond sp3 s में, दूसरा भी sp3s, ये भी sp3s, sp3s। अब ये बात justified है कि all four bonds of CH4 are equivalent in all respect.
+
+09:12 
+अब ये बात बोल सकते हैं क्योंकि carbon की चारों orbital same है। तो ये है birth of hybridization। इसको समझाने के लिए मेरे एक बहुत ही प्यारे teacher थे जिन्होंने मुझको समझाया था। तो उन्होंने मुझको क्या बोला था कि यार इसको तुम समझो मोतीचूर के लड्डू और मगज के लड्डू जैसा। मेरे पास तीन मोतीचूर के लड्डू हैं, एक मगज का लड्डू है। मुझे ये नहीं खाना। मैंने तीनों मोतीचूर के लड्डू तोड़ दिए, मगज का लड्डू भी तोड़ दिया और सबको आपस में मिला दिया। अब वापस कितने लड्डू बनेंगे?
+
+09:39 
+उसी size के अगर बनाएंगे तो। चार। पहले भी चार लड्डू थे। अगर मैं तोड़ के चार लड्डू को मिला दूं, तीन मोतीचूर के, एक मगज, मगज का। ठीक है, कई लोग यहां पे बह गए ना। कई लोग सोच रहे हैं ये लड्डू, लड्डू मिलेगा। तो अब मैंने एक मगज का, तीन मोतीचूर के लड्डू मिला दिए। वापस उसी size के कितने लड्डू बनेंगे?
+
+09:57 
+वापस चार बन जाएंगे। पर उन चारों में अब मगज का भी character होगा और मोतीचूर का भी। अब दोनों लड्डू का character होगा उसमें। दोनों dishes मिल गई हैं। कितना होगा?इसका एक और इसका तीन तो sp3, sp3, sp3। तो hybridization को आप समझ सकते हो लड्डू की तरह भी कि कुछ लड्डू हैं जिनकी energy अलग है, कुछ लड्डू हैं जिनकी energy अलग है। सबको तोड़ा, आपस में मिलाया। वापस उतने ही लड्डू बनेंगे अगर size वही है तो। और सब में दोनों के character होंगे। इधर वाले लड्डू के भी और इधर जैसे इसमें s का भी character होगा, p का भी, s का भी, p का भी, s का भी और p का भी। ये बात अलग है इसमें p का character ज्यादा होगा। क्यों?
+
+10:34 
+क्योंकि p के तीन orbital है। इसमें भी p का character ज्यादा होगा। क्यों?p के तीन orbital है। तो ये एक different चीज हो गई। तो ये था birth of hybridization.यहां से hybridization की कहानी शुरू हुई। ठीक है। अब ये जो चारों bond बने हैं, चारों एक जैसे होंगे। तो चार bond carbon के hydrogen, hydrogen, hydrogen, hydrogen.
+
+10:58 
+अब देखो इसको बनाने का तरीका भी अलग है। ऐसे, ऐसे, ऐसे, ऐसे। अब ये जो orbitals है ना, ये जो बनी है hybrid orbitals, ये और ये किससे overlap करेंगी?Hydrogen की s से, hydrogen की s से, hydrogen की s से, hydrogen की s से। Hydrogen के पास तो s ही है। और ये कौन सी orbital है?
+
+11:16 
+sp3 orbital.तो ये चारों orbital है ना, ये एक दूसरे से repulsion करती हैं और ऐसा shape लेती हैं कि repulsion सबसे कम हो। मतलब hybridization, मतलब hybridization responsible होता है compound की geometry के लिए। किसके लिए?
+
+11:37 
+Geometry के लिए। जैसे ये एक particular geometry है कि चारों hydrogen या चारों hybrid orbitals, इनको हम बोलते हैं hybrid orbitals। चारों hybrid orbitals minimum repulsion में रहना चाहेंगे। मतलब space में एक particular orientation लेंगे जिसमें उनमें repulsion कम हो। यानी hybridization होने के बादएक particular geometry बनती है। यानी hybridization responsible है किसके लिए?
+
+12:09 
+Geometry of compound.जैसे for example methane की जो geometry होती है उसको हम बोलते हैं tetrahedral। अभी सिर्फ example चल रहा है। अभी मैं introduction दे रहा हूं कि hybridization है क्या, क्या-क्या कर सकता है। इस geometry को हम बोलते हैं tetrahedral, tetrahedral geometry। tetrahedral मतलब चार पैर वाला या चार face वाला। ऐसी geometry बनके आती है। so what is hybridization?
+
+12:32 
+अब start करते हैं hybridization को, point wise लिखते हैं। hybridization का सबसे पहला point कि atomic orbitals जिनकी energy या तो same है या करीब-करीब same है वो आपस में mix होती हैं to give new orbitals जिनकी energy exactly same.
+
+12:48 
+इन सब की energy exactly same, एकदम identical हो गए। जितनी orbitals mix हुई उतनी orbitals बनेंगी। इनका character दोनों से लेकर आएगा। नाम कैसे लिखेंगे?एक s, तीन p तो sp3, sp3, sp3 और ये क्या देती हैं?geometry क्योंकि ये रहना चाहते हैं किसमें?
+
+13:04 
+minimum repulsion में। अभी बहुत से points आएंगे जब हम इसको detail में start करेंगे। तो चलिए hybridization के सारे points पहले पढ़ते हैं और फिर निकालने का तरीका सीखते हैं। तो आपको hybridization का basic concept समझ में आया कि valence bond theory ये बात नहीं समझा पा रही थी कि अलग-अलग orbitals से बनने वाले bond same कैसे हो गए। तो hybridization ने कहा कि पहले orbitals आपस में mix होंगी, same orbitals बनेंगी और तब bonding होगी। चलिए आज देखते हैं main points of hybridization। hashtag point number one, theory of hybridization start होती है। सबसे पहले hybridization क्या है?
+
+13:39 
+intermixing, intermixing of atomic orbitals of same or nearly same energy to give new orbitals of exactly same energy.Energy या बोल दो identical orbitals बनाती है। जो orbitals different थी या same थी सब आपस में मिलेंगी और सब एकदम same बन जाएंगी। point number two, hybridization किन orbitals का हो सकता है?
+
+14:24 
+very important topic, ये किताब में नहीं मिलेगा। किन orbitals का hybridization हो सकता है?किन orbitals का?तो सुनो। half filled orbitals का, empty orbitals का यानी जो vacant orbitals होती हैं, जिनमें एक भी electron नहीं होता। fully filled orbitals का, जिसमें दोनों electron होते हैं। सभी का hybridization हो सकता है। all can undergo hybridization.
+
+14:57 
+कई लोग बताते हैं कि सिर्फ half filled hybridization करेगा, ऐसा नहीं है। half filled, full filled, vacant orbitals सब के सब hybridization को show करते हैं। देखो जैसे vacant, empty orbital show करता है किसमें?
+
+15:10 
+coordinate bond में। coordinate में क्या होता है?एक lone pair देता है, दूसरा orbital पूरा खाली होता है। एक atom दो electron देता है, दूसरा atom दोनों electron ले लेता है। fully filled कहां पे होगा?जब lone pair बचते हैं। lone pair में क्या होता है?
+
+15:24 
+दो electron बचे रहते हैं तो एक orbital में दो electron बचे रहेंगे। तो तीनों में हो सकता है half filled, empty orbitals या fully filled.clear है?empty कहां पे?coordinate bond में। fully filled कहां पे?
+
+15:35 
+lone pair में। hashtag point number three, very very important, very very important, very very important.the number of hybrid orbital, hybrid मतलब जो नई orbitals बनी is always equals to number of intermixing orbitals, intermixing orbitals.
+
+15:56 
+तो मैं आपको समझा चुका हूं ये। भाई चार लड्डू तोड़ के मिलाकर वापस लड्डू बनाओगे तो फिर कितने बनेंगे?चार ही बनेंगे अगर size same है। तो जितनी orbitals mix करेंगी, जैसे वहां पे चार orbital mix की थी तो नई भी चार बनेंगी। very important उतनी ही orbitals बनेंगी जितनी पहली थी। ठीक?
+
+16:13 
+ये सब बातें याद रखना कि same और nearly same energy वाली ही mix करेंगी। ये नहीं कि तुमने 2s को 3p से mix करा दिया। ये नहीं चलेगा। energy का बहुत ज्यादा difference हो गया। हल्का-फुल्का difference चलेगा, बहुत ज्यादा difference नहीं और जो नई बनेंगी उनकी energy exactly same.
+
+16:30 
+कौन-कौन कर सकता है?half filled भी कर सकती हैं, empty orbitals भी और fully filled भी जिसमें दो electron है वो भी कर सकता है। जो खाली है orbital वो भी कर सकती हैं और जो half filled है वो भी। ये bond बनाएंगी, ये coordinate bond के electron accept करेंगी और ये lone pair के लिए use होंगी। number of hybrid orbitals is equals to number of intermixing orbitals.
+
+16:53 
+चलिए next point देखते हैं, point number four.अभी hybridization कोई नया word तो नहीं लग रहा। atomic orbitals का मिलना और नई orbitals का बनना जिनकी energy एकदम same.point number four, concept of hybridization, concept of hybridization is for sigma bond and lone pair.
+
+17:21 
+sigma bond सब समझते हैं। sigma bond मतलब single bond.pi bond का hybridization से कोई लेना-देना नहीं है। hybridization की theory very very important point, सिर्फ sigma bond और lone pair के आसपास revolve करती है। जो hybrid orbitals बनती हैं ना, जो नई orbitals बनी थी वो सिर्फ sigma bond बना सकती हैं या ये कह लो जो sigma bond थे वही hybridization में involve होते हैं और lone pair.
+
+17:55 
+ठीक?next point number five.ये धीरे-धीरे समझ में आ जाएगा। इतना समझो pi bond का hybridization से कोई लेना-देना नहीं, बस इतना समझ लो। pi bond का hybridization से कोई लेना-देना नहीं। point number five.next point.
+
+18:09 
+अब आपको और क्या बताएं किHybridization hybrid orbitals are named after the parent orbitals.जिन orbitals से वो बने हैं उन्हीं के ऊपर उनका नाम होता है। अब इसको ध्यान से समझो। मान लो मेरे पास एक s और एक p orbital है और दोनों mix कर जाए। एक s और एक p तो कितनी orbital बनेगी?
+
+18:42 
+दो बनेगी। दो mix हुई है, दो बनेगी। इसका नाम होगा sp, इसका नाम होगा sp, दोनों के नाम से मिलकर। मान लो मेरे पास एक s और दो p orbital है, एक s और दो p orbital mix कर जाए। कितनी orbital बनेगी?तीन बनेगी। नाम क्या पड़ेगा?
+
+19:00 
+एक s, दो p से बना है sp2, sp2, sp2। मान लो मेरे पास एक s और तीन p orbital हो, एक s और तीन p। कितनी orbital बनेगी?चार। चार hybrid orbital s और तीन p तो नाम पड़ेगा sp3, sp3, sp3, sp3। मान लो मेरे पास एक s हो, तीन p हो, एक d हो तो कितनी orbital बनेगी?
+
+19:27 
+एक, तीन, चार, एक, पांच। तो पांच orbitals बनेगी और उन पांचों orbitals का नाम क्या होगा?sp3d, sp3d, पांच orbital बनेगी सबका नाम sp3d.पांच बनेगी ना, एक s, तीन p, एक d मिलाकर। इसी तरह से करना है। मान लो एक s, तीन p, दो d मिल गए। अब क्या होगा?
+
+19:49 
+एक s, तीन p, दो d.क्या बन जाएगा नाम?sp3d2। कितनी orbital बनेगी?एक, तीन, चार, दो, छह। तो छह orbital बनेगी और सबका नाम क्या होगा?sp3d2, sp3d2, sp3d2 and so on.समझ में आ रहा है नाम कैसे लिखना है?जो मिलने वाली orbitals हैं उन्हीं के basis पर नाम को लिखना है। नाम लिखने का तरीका समझ में आया। एक s, दो p तो sp2, sp2, sp2.
+
+20:12 
+एक s, तीन p sp3, sp3.एक s, एक p sp, sp.एक s, तीन p, एक d sp3d.और कितनी orbital है?एक, तीन, चार, एक, पांच। तो पांच नहीं orbital। चलिए ये भी समझ में आया। आगे देखिए। आगे देखिए point number कौन सा?seven है कि six है?
+
+20:31 
+चलो ठीक है seven। गलती कर गए तो माफ कर देना number पे। next shape of hybrid orbitals, shape of hybrid orbitals.ठीक है। अब ये किसी किताब में लिखा हुआ नहीं मिलता। ये सब देखते देखते धीमे धीमे समझ में आता है। जैसे s orbital ऐसी दिखती है, p orbital ऐसी दिखती है, d orbital ऐसी दिखती है। hybrid orbital का अपना ही एक shape है। hybrid orbital जो भी hybrid orbital हो, चाहे sp हो, चाहे sp2 वाली हो, चाहे sp3 वाली, चाहे कोई भी hybrid orbital हो, सबके लिए एक common shape बना दिया गया है ना। मान लो chemistry किताब में कहीं पर diagram बना है तो हम देखते ही समझ जाएं यहां पर hybridization हो चुका है। उस orbital को देखते ही तो hybrid orbital का shape बच्चों होता है ऐसा। एक इसमें large lobe ले लेते हैं, एक बड़ा lobe और एक इसमें small lobe ले लेते हैं। कहीं पर भी chemistry में आपको ऐसी orbitals दिखें तो समझ जाओ क्या चल रहा है?
+
+21:33 
+hybridization चल रहा है। कहीं पर भी ऐसी orbital। जैसे मान लो मैं एक diagram बनाऊं s तो आप समझ जाओ ये कौन सी orbital है?hybrid orbital मतलब sulphur का हुआ होगा hybridization, clear है। एक और चीज है कि small lobe को generally represent ही नहीं करते, गायब कर देते हैं। इसको हम generally represent ही नहीं करते। मतलब generally हम ऐसे बनाते हैं इसको, एक ऐसे बस। सिर्फ बड़े lobe को दिखाते हैं, छोटे वाले lobe को generally नहीं दिखाते हैं। कई किताब दिखा रही हैं, maximum किताब नहीं दिखाती है। तो shape of hybrid orbital ऐसा ही होगा हमेशा। चाहे वो sp हो, चाहे sp2 हो, चाहे sp3 हो, sp3d हो, sp3d2 हो, sp3d3, dsp2 हो, कुछ भी हो। clear?
+
+22:17 
+अच्छा। चलिए आपको hybridization की मेरे ख्याल से basic, basic बातें तो समझ में आ गई। last एक point और बता देता हूं hashtag eight, the hybrid orbitals.ये सारी चीजें मैंने आपको starting में introduction दी। the hybrid orbitals orientate such that repulsion between them is minimum.
+
+22:53 
+ऐसे orientate होती हैं, ऐसे दूर भागती हैं या ऐसे अपने आप को 3D में arrange करती हैं कि उनके बीच में जो repulsion है वो सबसे कम हो ताकि stability ज्यादा हो more stability.repulsion कम होगा, stability ज्यादा होगी। और इस कहानी की वजह से hybridization एक geometry create कर देता है। भाई hybrid orbitals जिधर भागेंगी उधर ही आगे, उधर ही आगे वाला atom आके उसको bond बनाएगा। मान लो हम अपनी hybrid orbital ऐसे कर दें तो अगले atom को इधर आके bond बनाना पड़ेगा। एक ऐसे कर दें तो अगले atom को उधर जाके bond बनाना पड़ेगा जो incoming atom.
+
+23:32 
+मतलब ये क्या देती है compound को एक geometry provide करती है। तो hybridization एक important concept है। compound को क्या provide कर देगा?geometry provide कर देगा। ठीक है। चलिए अब start करते हैं hybridization in depth, types of hybridization, geometry and example.
+
+23:48 
+ठीक है। types of hybridization, geometry and example.वैसे दुख की बात ये है कि ये model भी आगे fail कर जाएगा क्योंकि इसके बाद valence electron pair repulsion theory आएगी। तो हमें दुख है इस बात का। चलो start करते हैं types of hybridization.
+
+24:13 
+हमने लिया एक s और एक p तो कितनी orbital बनेगी?दो orbital बनेगी। नाम क्या पड़ेगा?sp और sp.बनाएं इसको हम तो ये ऐसे बनती है बच्चों A ऐसे। दूर-दूर चली जाती है repulsion minimum shape होता है या geometry होती है linear। जब भी sp hybridization दिखे तो geometry क्या होगी linear और ये angle होगा 180 degree। जैसे example देखो example है मेरे पास BeF2 तो अब इसको करने के दो तरीके मैं आपको बताऊंगा。
+
+24:46 
+BeF2 कैसा होता है अभी आपको पता है कि दो bond बनते हैं fluorine से। अब ये straight होता है ये कैसे पता चला, है ना?Sir BeF2 ऐसा भी तो हो सकता था Be, F और F ऐसा होता है ये कैसे बता सकते हो?ऐसे ही मजे के लिए बना देते हैं। नहीं ऐसा नहीं है। मजे के लिए थोड़ी ना कि हम straight बनाएंगे। आओ थोड़ा सा देखते हैं। Beryllium atomic number four configuration 1s2, 2s2 दो fluorine से bond बनाने हैं। fluorine atomic number nine 1s2, 2s2, 2p5 तो fluorine का पहले 2p5 देखो एक, दो, तीन, चार, पांच एक और fluorine होगा same condition में एक, दो, तीन, चार, पांच और beryllium की बात करें तो इसमें 2s2 s में दो electron है। यार अब beryllium overlap कैसे करेगा?
+
+25:36 
+इसको तो दोनों fluorine से एक-एक bond बनाने हैं ना। दोनों fluorine से एक-एक bond बनाने हैं तो इसके तो electron paired है और theory ये कहती है कि unpaired electron होने चाहिए। तो beryllium के पास खाली पड़ी है 2p orbital उसमें एक भी electron नहीं है तो ये इसको use कर लेगा अपनी 2p orbital को। एक electron jump करा के यहां से 2p में भेज देगा ऐसे। अब इसके पास 2s में एक electron है और 2p में एक electron है। अब ये वाला fluorine इससे overlap कर गया, ये वाला fluorine इससे overlap कर गया। पर इसमें एक problem है कि एक bond बनेगा fluorine के p और beryllium के s के बीच में, दूसरा bond बनेगा fluorine के p और beryllium के p के बीच में पर ऐसा होगा नहीं। जब हमने experimentally देखा दोनों bond एकदम same identical हर तरह से। तो ये दोनों orbital अब intermix करेंगी और दो नए orbital बनेंगे। ये दोनों आपस में intermix की और दो नए orbital बने sp और sp इसका नाम भी sp, इसका नाम भी sp.
+
+26:36 
+अब एक bond बनेगा p और sp में, दूसरा bond भी बनेगा p और sp में और दोनों same.तो इसका आप देख रहे हो hybridization क्या आता है sp इसलिए geometry क्या होगी linear तो BeF2 will be linear like this Be, F and F.
+
+26:52 
+Similarly, the geometry for BCl2 will again be linear.Similarly, the geometry for Br2 will again be linear.Geometry not shape, geometry not shape, geometry not shape, geometry will be linear.ठीक है। अच्छा, एक तरीका और क्या है बच्चों?
+
+27:11 
+चलो थोड़ी देर बाद बात करते हैं। अभी पहले इसी को सीखो। तो ये आपको समझ गए भाई साहब कि 1s, 1p में कहानी linear चलेगी। मान लो एक s हो और 2p हो। अब कितनी hybrid orbital बनने वाली है?तीन। नाम पड़ेगा sp2, sp2, sp2। तीन orbital कैसे orientate होती हैं आइए देखिए। छोटा वाला lobe अब मैं भी नहीं बना रहा, सिर्फ बड़ा वाला lobe बना रहा। छोटा वाला lobe चाहो तो यहां पे ऐसे, ऐसे, ऐसे दिखा सकते हैं। बच्चों ये geometry बनी है triangular planar, triangular planar मतलब तीनों orbital same plane में ऐसा नहीं कि कोई उठा हुआ है plane से बाहर, कोई plane से नीचे। ये तीनों इसी plane में है orbital और यहां पे angle होगा 120, 120, 120 और hybridization क्या है sp2। तो जब भी sp2 hybridization हो बच्चों तो geometry होगी triangular planar angle होगा 120 degree geometry। Example sir इसका भी कोई example दो। आइए example देखते हैं boron trifluoride BF3 boron का atomic number five 1s2, 2s2, 2p1 और fluorine का तो आप समझ गए हो कि fluorine में पांच electron होते हैं एक, दो, तीन, चार, पांच इस तरह से तीन fluorine होंगे। ठीक है। तो fluorine तो तैयार है अपनी 2p orbital के साथ सब 2p, 2p, 2p। ये तैयार नहीं है क्योंकि इनके पास देखो 2s में दो electron है और 2p में एक electron है। अभी इन्हें कितने unpaired electron चाहिए?
+
+28:55 
+तीन। तभी तो तीन bond बनाएंगे। BF3 में boron तीन fluorine से bond बनाना चाहता है। तो इसके लिए इसको तीन unpaired electron चाहिए। इसके पास तो एक ही है तो इस electron को jump करा के यहां पहुंचा देगा first excited state में। ये पहुंच गया first excited state में, एक electron यहां चला गया। सीखते जाओ सब साथ-साथ first बाद में shortcut दे देंगे इन सब की जरूरत नहीं पड़ेगी। मतलब BF3 देखते ही तो hybridization बता दोगे बिना कुछ सोचे। trick है, trick है, बढ़िया trick है पर समझो पहले concept क्या है। अब हो गए। अब एक bond 2p, 2s में, एक bond 2p, 2p में, एक bond 2p, 2p में तो तीनों bond अलग-अलग हो जाएंगे। ये वाला bond जो बन रहा है वो इन दोनों से अलग हो जाएगा। एक तो ps में बन रहा और pp में और pp में तो ये वाला bond अलग। ऐसा है नहीं। BF3 के तीनों bond एक जैसे हैं मतलब अब इनकी होगी intermixing। तीन orbital मिलेंगे और तीन orbital बनेंगे। नाम पड़ेगा sp2, sp2, sp2 एक s, 2p मिली sp2, sp2। अब पहला bond p और sp2 में, दूसरा p और sp2 में, तीसरा भी p और sp2 मतलब तीनों bond same sp2 hybridization तो geometry क्या होगी?
+
+30:10 
+Triangular planar तो BF3 अगर हम देखें तो BF3 कैसा दिखता होगा?BF3 हमको ऐसा दिखाई पड़ता होगा triangular planar shape में। अब आपको feel आ रहा है कि hybridization कैसे करना है, कैसे हो रहा है?कुछ clear हो रहा है। चलिए एक और देख लेते हैं आगे। इसको हम हटा दें। BF3 का hybridization आपने देखा sp2 आता है। अभी याद मत करो कि BF3 का sp2 है। अभी कुछ याद मत करो। कुछ याद मत करो। मैं तुम्हें trick बताऊंगा निकालना उसी से। अभी समझते जाओ। जैसे मान लो मेरे पास एक s है और तीन p है p, p, p.
+
+30:43 
+अब क्या हो जाएगा बच्चों?sp3, sp3, sp3 एक और बनेगी ना sp3। चार orbital बन जाएंगी sp3.चार orbital orientate होती हैं tetrahedral geometry में, tetrahedral geometry.तो बच्चों tetrahedral geometry में ये जो angle होता है, ये होता है 109 degree 28 minute.
+
+31:20 
+Tetrahedral, tetrahedral head, head मतलब होता है face tetrahedral geometry चार face वाली geometry.ठीक चार face कैसे आपने देखा ऐसे चार बने थे एक, दो, तीन, चार face geometry.इसका example क्या है बच्चों tetrahedral का?
+
+31:40 
+Tetrahedral में क्यों गया?ताकि repulsion सबसे कम हो। दिखाया मैंने tetrahedral कैसा है सब। चलो मैं एक काम करता हूं आपको ये image दिखा देता हूं tetrahedral की। आप tetrahedral की ये image देखो। अब सही है image के हिसाब से, बहुत बढ़िया। अब इसका example देखो। Example अभी-अभी आपने किया था methane CH4.
+
+31:57 
+CH4 का example याद है?अभी हमने किया था पूरा। चाहो तो पीछे जाकर देख लो। sp3 hybridization आया था, है ना। Carbon की बात करें atomic number six, 1s2, 2s2, 2p2 तो इसके पास दो p में electron थे, दो s में electron थे और चार hydrogen से bond बनाना है तो इसको jump करा देगा, यहां पहुंच जाएगा। अब एक s में हो गया, तीन p में, सब मिल जाएंगे। क्या बनेगा?
+
+32:22 
+sp3, sp3, sp3 और tetrahedral geometry.So this is how hybridization works, this is how it happens.इसके बाद मैं आपको example देना बंद करता हूं और आपको geometry और hybridization दिखाता हूं। यहां तक मैंने example दिए। आगे आप कहानी समझ गए होंगे। ठीक है। चलिए next है एक s, तीन p और एक d.
+
+32:47 
+क्या बनेगा बच्चों अब बताओ?पांच orbital बनेगी sp3d, sp3d, sp3d नाम की बनेगी पांच orbital sp3d नाम की, पांच orbital.पांच orbital का बच्चों shape क्या होता है?Very important.ये shape होता है। अब ये जो तीन bond है, ये एक plane में है। ये जो तीन bond है they are in the same plane और ये bond plane के ऊपर और ये bond plane के नीचे। ये जो तीन आपकी orbital हैं, ये same plane में है। एक orbital plane के ऊपर, एक orbital plane के नीचे। ठीक है। तो ये जो बना है triangle इसको हम बोलते हैं trigonal और अगर ध्यान से देखो तो एक pyramid ऊपर बन सकता है, एक pyramid नीचे। Pyramid समझ रहे हैं?
+
+33:50 
+यहां पे देखो, इसमें देखो, इसमें ज्यादा समझ में आ रहा है। एक pyramid ऊपर बना सकते हैं हम, ये pyramid zoom, zoom, zoom, देखो zoom, zoom, zoom एक pyramid ऊपर और इसी तरह से एक pyramid नीचे। ठीक है, यहां पे ये देख लो। ये image दिखा रहा हूं मैं। तो इसका नाम पड़ता है trigonal bipyramidal क्योंकि दो pyramid बन सकते हैं। तो इसकी geometry किसकी sp3d की geometry होती है trigonal bipyramidal। फिर क्या होंगे?
+
+34:19 
+देखो इनके आपस में 120 degree, 120 degree, 120 degree जो same plane में है और जो plane के ऊपर और नीचे हैं उनका angle कितना होगा?90 degree, 90 degree, 90 degree और 90 degree.जो same plane में उनमें 120, 120, 120 और जो plane के ऊपर नीचे उन पे 90, 90 जैसे मान लो ये। तो यहां angle 120, यहां 120, यहां 120 और ऊपर वाले से 90, ऊपर वाले से 90, 90 और 90 degree, 90 degree.
+
+34:51 
+Example इसका, अब example यार आगे आते जाएंगे। Example की tension मत लो। जैसे example इसका हो जाएगा PCl5 तो अब example अब बना के नहीं दिखाएंगे। चाहो तो आप खुद से कर सकते हो उसको, खुद से try कर सकते हो। अब मैं shortcut बताने वाला हूं थोड़ी देर में की कैसे निकालना है। इसी तरह से बच्चों एक s, तीन p और दो d से बनेगा sp3d2। कितनी orbital बनेगी?
+
+35:20 
+चार, दो, छह, छह orbital बनेगी। छह orbital का shape क्या होगा बच्चों?छह orbital का shape क्या होगा?ये होगा shape.ये चारों फिर से same plane में होंगे। एक plane के ऊपर, एक plane के नीचे। ठीक है। वहां पे image मैं दिखा रहा हूं इसकी भी। जरा image ध्यान से देखो। ठीक है। चार तो हमारे same plane में, एक plane के ऊपर, एक plane के नीचे। छह orbital है। ठीक है। इसका नाम पड़ता है बच्चों octahedral, octahedral मतलब आठ face वाला। कैसे आठ face होंगे?
+
+35:59 
+एक face देखो इधर से, एक face इधर से, एक face इधर से, एक face इधर। मतलब कैसे?ये, ये जोड़ दिया तो ये एक face बना, ये, ये जोड़ दिया तो एक face ये बना। यहां पे image मैं दिखा रहा हूं octahedral। एक देखो face इधर, इधर, इधर चार face ऊपर दिख रहे हैं pyramid जैसा, चार face नीचे दिख रहे हैं। तो इसको हम बोलते हैं octahedral geometry.
+
+36:22 
+Example इसका हो गया जैसे SF6.ठीक। अब करके नहीं देख रहे हैं सबको, अब बताते जा रहे हैं हम आपको। sp3d2 octahedral। और क्या हो सकता है बच्चों?एक और हो सकता है last में that is एक s, तीन p और दो d, sorry, तीन d.
+
+36:46 
+अब कितने हो गए?sp3d3, हो गए?sp3d3। कितनी और orbital होगी?चार, तीन, सात और orbital.सात और orbital होंगी। सबका नाम होगा sp3d3। shape देखो कैसा होगा इसका। एक, दो, तीन, चार, पांच, एक orbital plane के ऊपर, एक orbital plane के नीचे। तो ये कौन सा geometry है?
+
+37:15 
+pentagonal, pentagonal और एक orbital plane के ऊपर एक pyramid ये बनेगा, एक plane के नीचे एक pyramid ये बनेगा। देखो वहां पे image दिखा रहे हैं। तो इसको बोलते हैं pentagonal bipyramid.बहुत ढेर सारा हो गया ना बच्चों याद रखने के लिए। तो भैया करो यार, हम क्या कर सकते हैं सर। इसको आप note कर लें या screenshot ले लें। है ना। इसमें आपको सबके hybridization और सबके geometry और examples सब साथ में मिल रहे हैं। चलिए भाई तो ये तो हुई कहानी। अब आता है how to find hybridization?
+
+38:04 
+अगला सवाल very important question, how to find hybridization?निकाले कैसे?सर आपने कहानी समझा दी, बातें समझा दी, geometry आपने कहा हमसे रख लो। हां भाई उसको तो रख लो geometry.अब आई बात how to find hybridization?
+
+38:20 
+कैसे निकाले hybridization?जैसे मान लो आपसे मैं पूछूं कि find the hybridization of sulphur in sulphate ion SO4 2-.हमने कहा sulphur का hybridization बताओ SO4 का। अब तुम एकदम, तुम क्या करोगे?अब इसमें bond बनाओगे पहले, फिर s से p में गया ये सब सोचोगे। जैसे मैं आपसे कहूं find the hybridization of कुछ भी पूछ सकता हूं मैं आपसे。SiF4 में silicon का hybridization बताओ। अब इसके लिए आप silicon का atomic number लिखोगे, configuration करोगे fluorine का, फिर jump कराओगे, फिर mix.
+
+38:53 
+नहीं, ये सब नहीं करना है। दो तरीके हैं hybridization find करने के। एक होगा हमारा structure से, कि कोई हमको structure बना के दे दे, जिसमें हमें पता चले कि single bond कितने हैं और lone pair कितने हैं। ये दो बात पता चल जाए। और दूसरा होगा हमारा कुछ नहीं, दूसरा formula.
+
+39:13 
+दूसरा तो super method है, एकदम super shortcut एक बार में। आइए पहले structure समझते हैं, last में समझेंगे formula.Structure में क्या?single bond कितने हैं ये पता चल जाए और lone pair कितने हैं। क्योंकि hybridization का pi bond से कोई लेना-देना नहीं है। चलिए भाई start करते हैं। पर उससे पहले बच्चों, उससे पहले मैं फिर से कहूंगा आप इस image को फिर से देखिए एक बार। इस चीज को फिर से देख लो। क्या-क्या?
+
+39:38 
+sp से sp बनेगा, एक s, दो p से sp2, दोनों की geometry देख लो linear, triangular planar.एक s, तीन p से sp3 tetrahedral.एक s, तीन p, एक d से sp3d.इसका नाम भूल जाते हैं बच्चे trigonal bipyramidal.तीन orbital same plane में है triangle की तरह, एक ऊपर, एक नीचे, एक pyramid ऊपर से, एक pyramid नीचे से। next है एक s, तीन p, दो d, sp3d2.
+
+40:04 
+ये क्या है?octahedral.octahedral क्यों बोला?चार orbital same plane में, एक orbital ऊपर, एक नीचे। ऊपर चार faces बन सकते हैं, नीचे चार faces बन सकते हैं। ठीक है। और last में हमारा क्या था?pentagonal bipyramid.
+
+40:20 
+चलिए, आइए अब structure से। तो आपको क्या करना है?calculate करना है एक नई चीज। आपको calculate करना है z, where z is equals to number of sigma bond plus lone pair किसका?of central atom.central atom क्या होता है?
+
+40:41 
+जो number में सबसे कम हो, जो सबसे कम हो atom, उसके अगल-बगल सारे atom arrange होते हैं। बाकी Lewis dot structure में central atom की पूरी कहानी भी बता चुके हैं। चलो start करते हैं। हम आपको structure देते हैं, आप हां। awesome! z की values और यहां पे hybridization.
+
+41:02 
+z की value versus hybridization.z की value two, hybridization sp2 मतलब दो orbital sp.z की value तीन मतलब तीन orbital मतलब sp2.z की value चार मतलब चार orbital sp3, इसमें चार थी। z की value पांच, पांच orbital sp3d.
+
+41:26 
+z की value छह, छह orbital sp3d2, clear?तो z की value से hybridization निकाल सकते हैं। और z कैसे निकालेंगे?number of sigma bond.sigma bond मतलब बच्चों single bond, pi को count नहीं करना plus lone pair of central atom.
+
+41:42 
+दो आया तो sp, तीन आया तो sp2, चार आया तो sp3, पांच आया तो sp3d, छह आया तो sp3d2। चलिए मैं structure बनाता हूं यहां पे आप बताना। सबसे पहले देख लेते हैं structure sulphur trioxide का। चलो s double bond o double bond o double bond o.
+
+42:00 
+अब मुझे बताओ sulphur central atom है। इसके पास कितने sigma bond हैं?ये double bond, एक sigma, एक pi, ये double bond, एक sigma, एक pi, ये double bond, एक sigma, एक pi और sulphur के पास कोई lone pair नहीं है। structure दिया होना चाहिए इस method में। तो कितने sigma है?
+
+42:17 
+एक, दो, तीन। तो z की value कितनी हो गई?तीन। तीन का मतलब hybridization sp2, इसका hybridization sp2.geometry क्या होगी?triangular planar.plane में triangle जो कि बनी हुई है। चलिए next देखिए। next है water.H2O water O H H lone pair lone pair ये मैंने आपको बना के दिया। अब oxygen के पास ये कौन सा bond sigma, ये कौन सा bond sigma, ये क्या lone pair, ये क्या lone pair। तो z is equals to number of sigma bond plus lone pair sigma bond मतलब single bond तो दो sigma bond है, दो lone pair है, z की value हो गई चार। चार का मतलब hybridization sp3 क्या hybridization sp3 geometry क्या होगी?
+
+43:04 
+tetrahedral, tetrahedral। किसकी geometry है?atoms की orbitals की किसकी orbitals की। दो orbitals इसमें कैसे हैं lone pair वाले और दो कैसे होंगे half filled वाले इनकी geometry next देखो मैं आपको next दे देता हूं। करते रहो ऐसे ही मान लो मैंने तुमको दे दिया NH3, NH3 का structure बना के दूं आपको N H H H lone pair तो एक sigma, दो sigma, तीन sigma और एक lone pair तो z की value कितनी हो गई?
+
+43:36 
+तीन plus एक चार। चार का मतलब hybridization कितना होगा इसका भी sp3 geometry कितनी होगी इसकी भी tetrahedral ammonia clear है। अगर आपको shape पता है, अगर आपको structure पता है तो काम बन जाएगा। अगर structure दिया हुआ है exam में तो काम बन जाएगा। चलो next sulphur in sulphur in जो दिया था मैंने SO4 2 minus आओ देखो S double bond O double bond O O minus O minus चलो sulphur के पास lone pair कितने एक भी नहीं। ये कौन सा bond है single sigma, sigma इसमें एक sigma, एक pi, एक sigma, एक pi z की value बोलो total कितने sigma bond हुए एक, दो, तीन, चार तो z की value हो गई चार। चार का मतलब hybridization sp3 और geometry tetrahedral geometry tetrahedral तो आपको shape या structure अगर दे दे तो कहानी बन सकती है जिसमें सारे bond हमको दिखा दे। जैसे आप find करो phosphorus in PCl5 तो PCl5 मैं आपको बना के दे दूं। यहां PCl5 में phosphorus ने कितने single bond बनाए एक, दो, तीन, चार, पांच तो z की value कितनी हो गई पांच। पांच का मतलब hybridization sp3d hybridization sp3d याद किया था, भूल गए trigonal bipyramidal भूल गए trigonal bipyramidal मतलब तीन तो plane में होंगे, एक ऊपर, एक नीचे। मतलब ये ऐसे बनाना चाहिए था मुझको कैसे, कैसे बनाना चाहिए था। तीन तो plane में होंगे Cl, Cl, Cl एक plane के ऊपर, एक plane के नीचे कोई lone pair तो है नहीं। ये बनेगा trigonal bipyramidal चलिए तो बच्चों इस तरह से मैं आपको तमाम दे सकता हूं मतलब कोई limit नहीं है। जैसे मैं आपको दे दूं nitrogen in NO3 minus 1। चलिए अब nitrogen के पास इसमें देख लो structure दिया है। कितने sigma bond है एक sigma, दो sigma double bond, एक sigma, एक pi तो z की value कितनी हो गई एक, दो, तीन lone pair एक भी नहीं है। तीन sigma bond मतलब hybridization क्या होगा sp2 इसकी geometry क्या होगी?
+
+46:06 
+triangular planar, triangular planar तो मैंने बनाया भी triangular planar है, दिख रहा है। तो अगर number of sigma bond और lone pair आप count कर लो तो काम बन सकता है कहीं पे भी z की value मिल जाएगी और उसके corresponding hybridization और उसकी corresponding geometry हमको मिल जाएगी, ठीक है। हम कोई भी example ले सकते हैं number of examples है जैसे मान लो H2S की बात करें तो S H H lone pair lone pair चलो sulphur की बात करें यहां पे एक sigma, एक sigma, एक lone pair, एक lone pair मतलब z की value कितनी हो गई दो sigma, दो lone pair चार। चार तो hybridization sp3, sp3 तो geometry tetrahedral, tetrahedral geometry। आ रहा है समझ में जैसे हमने next आपसे पूछ ले बहुत है यार मतलब करते रहो खत्म नहीं होंगे। आपसे पूछ ले SF4, SF4, SF4 हम आपको बना के दिखा दें S F F F F चार और lone pair SF4 ये है तो z की value बोलो एक, दो, तीन, चार। चार sigma bond और एक lone pair भी है चार एक कितना हो गया पांच। चार sigma bond एक, दो, तीन, चार मैंने structure बना के दे रहा हूं इसमें ये नहीं कि structure बनाओ आप बना के दे रहा हूं। जब structure बन के आया तो कैसे करोगे पांच। पांच का मतलब sp3d और sp3d में क्या होना है हमारा trigonal bipyramidal ये shape नहीं है। मेरी बात सुनते रहना ये geometry है shape नहीं है trigonal bipyramidal जो इसकी orbitals है वो trigonal bipyramidal में arrange होंगी, ठीक है। तो यार ऐसे, ऐसे आप कर सकते थे जैसे इसमें एक मैं last में ले लेता हूं एक सवाल JEE में जैसे इस तरह के सवाल आते हैं mains में find अब तो नहीं आ रहे find hybridization, hybridization of all carbon atoms in the given molecule नीचे मैं एक molecule बनाता हूं C double bond C C triple bond C C double bond C that's it चलो यहां पे कितने hydrogen लगेंगे एक, दो यहां पे एक, यहां पे एक भी नहीं, एक भी नहीं यहां पे एक, यहां पे एक, दो चलो अब हमें सारे carbon का hybridization निकालना है। इसकी बात करो एक sigma, एक sigma, एक sigma, एक pi इस carbon के पास कितने sigma हुए एक, दो, तीन।तीन sigma तो z की value हुई तीन तो hybridization इसका हो गया sp2.
+
+48:49 
+इस carbon की बात करो एक sigma, एक sigma, एक sigma, तीन sigma bond.एक, दो, तीन, तीन sigma bond.तीन sigma मतलब इसका hybridization भी sp2.इसकी बात करें इस carbon के पास ये sigma, ये sigma, ये pi, ये pi.इसके पास कितने sigma हैं?
+
+49:06 
+एक, दो। दो sigma मतलब sp.इस carbon की बात करो एक sigma इधर, एक sigma इधर hybridization क्या हो जाएगा?sp.z की value दो हो गई ना। इस carbon की बात करो एक, दो, तीन और ये pi.तीन sigma bond, तीन मतलब sp2.इस carbon की बात करो एक sigma, दो sigma, तीन sigma.
+
+49:26 
+तीन sigma मतलब sp2 क्योंकि यहां कहीं पे भी lone pair नहीं थे। तो इस तरह से आप carbon का भी hybridization निकाल सकते हो। ठीक है। जैसे मान लो हम आपको ये दे दे एक simple सा दे दे C double bond C H H single bond C H H H चल। इस carbon की एक sigma, दो sigma, तीन sigma, चार sigma यानी z की value हो गई चार lone pair है नहीं तो hybridization sp3.
+
+49:54 
+इस carbon की बात करें एक sigma, एक sigma और ये क्या है pi मतलब z की value हो गई दो hybridization क्या हो जाएगा?sp.इस carbon की बात करें एक sigma, दो sigma, तीन sigma.इसमें hydrogen नहीं लगा एक hydrogen लगेगा एक sigma और। एक, दो, तीन sigma यहां पे भी। तीन sigma तो z की value three hybridization sp2.
+
+50:14 
+इस carbon की बात करें एक sigma, दो sigma, तीन sigma.तीन sigma bond मतलब hybridization sp2.So this way you can find hybridization of any carbon in the such molecules by counting number of sigma bond and number of lone pair.
+
+50:30 
+तो एक method तो ये था जिसमें structure से आप काम कर सकते थे। जैसे carbon in CO3 2 minus carbonate ion.तो इस carbonate ion क्या होता है?C double bond O O minus O minus मैं बना दिया आपके लिए चल। गिनो एक sigma, दो sigma, तीन sigma और ये pi मतलब z की value हो गई तीन। तीन मतलब sp2, sp2 मतलब triangular planar, triangular planar plane में triangle जो की बना हुआ है। तो यार तमाम example हो सकते हैं कभी खत्म नहीं होगा। clear हो रहा है आपको?
+
+51:01 
+जैसे मैं आपको दे दूं next phosphorus in phosphate ion PO4 3 minus structure बना दे रहा P double bond O O minus O minus O minus चलो बताओ कितने sigma bond?एक sigma, दो sigma, तीन sigma, चार sigma.z की value हो गई चार। चार मतलब sp3, sp3 मतलब tetrahedral.
+
+51:25 
+तो geometry देख के तो आप hybridization निकाल लोगे मेरे ख्याल से आपको ये method अच्छे से आ गया। अब पढ़ते हैं की मान लो तुम्हें geometry नहीं पता। भाई कितने compounds की geometry पता होगी सब की तो नहीं पता होगी। तुम्हें सारे structure बनाने तो नहीं आते। तुम्हें नहीं पता कहां double bond है, single bond है, क्या बनना है, कैसे atom जुड़ेंगे, कुछ नहीं पता। You are blank.
+
+51:45 
+जैसे मैं अभी आपसे एक सवाल पूछूंगा आप बता दो चल बताओ मुझे। मैं आपसे पूछता हूं hybridization of xenon in xenon O2F2 dioxofluoride, xenon dioxofluoride अब बताओ hybridization?चार atom है कैसे लगाएं?Lone pair है कि lone pair नहीं है कुछ नहीं पता। कहां lone pair होंगे, कहां नहीं होंगे। जैसे एक और पूछ लूं मैं xenon in xenon fluoride XeF4 कुछ नहीं पता। sulfur in SF4 चार atom है तुम सोचोगे चार sigma bond ले लें z की value चार sp3 नहीं गलत आ रहा है। यानी structure सबका बनाना possible नहीं है आपके लिए तो कोई और method होना चाहिए तो last में video के हम आ गए हैं। अब आपको हम बताते हैं last में the best trick एकदम समझ लो मेरी super trick समझ लो जिसको last trick समझ लो जिसको। अगर मैं आपको z की value निकाल के दे दूं तो आप काम कर लोगे। z की value two तो sp, तीन तो sp2, चार तो sp3, पांच तो sp3d, छह तो sp3d2.
+
+52:53 
+तो मैं आपको z की value निकालने का एक नया method बताता हूं। z is equals to half into number of valence electron on central atom plus any negative charge on the compound minus any positive charge on the compound plus number of monovalent atom, number of monovalent atoms.
+
+53:25 
+Monovalent atoms कौन-कौन से हैं हमारे?hydrogen, fluorine, chlorine, bromine जिनकी valency monovalent मतलब जिनकी valency one है। यहां से आपको z की value मिल जाने वाली है इस formula से। और z की value जो आएगी उसके हिसाब से hybridization और geometry पता लगा लोगे। formula क्या है इसको याद रखना पड़ेगा z is equals to half number of valence electron on central atom, central atom के सिर्फ outermost electron, सारे electron नहीं सिर्फ outermost electron plus negative charge अगर compound पे है minus positive charge अगर compound पे है plus number of monovalent atom अगर अगल-बगल central atom के आसपास hydrogen, fluorine, chlorine, bromine दिखते हैं तो उनको भी जोड़ दो। अब यहां आपको sigma bond, lone pair की जरूरत नहीं है। structure है ही नहीं तुम्हारे पास बिना structure के काम होगा। चलो start करते हैं question चलो start करते हैं nitrogen in NH3.
+
+54:24 
+चलो अब कुछ नहीं structure बनाने नहीं सीधा z is equals to half number of valence electron on central atom.central atom कौन है?nitrogen atomic number 7, 2,5 तो valence shell में कितने electron है पांच plus any negative charge इस compound पे कोई negative charge नहीं minus positive charge वो भी नहीं plus monovalent atomHydrogen, fluorine, chlorine, bromine इसके पास hydrogen है। कितने हैं?
+
+54:51 
+तीन। तो तीन। पाँच, तीन, आठ by दो कितना आया?चार hybridization कितना हो गया?SP3 geometry क्या हो जाएगी?Tetrahedral so simple so, so very simple clear है। जैसे हम आपसे पूछ रहे हैं next question oxygen in H2O z is equals to half central atom कौन है इसमें H2O में oxygen ही है। oxygen का atomic number eight configuration two comma six valence electron on central atom valence electron होंगे छह plus any negative charge कोई negative charge नहीं positive charge भी नहीं plus number of monovalent atom हाँ hydrogen है। कितने हैं?
+
+55:33 
+दो। छह, दो, आठ by दो चार hybridization SP3 geometry tetrahedral मजा आया। तगड़ा method है। बढ़िया method है। चलो next देखो, next देखो, next देखो। देखते जाओ carbon in CO3 two minus बिना structure के carbonate का structure नहीं पता z is equals to half central atom के valence electron carbon का atomic number six two comma four तो valence electron कितने हुए?
+
+56:01 
+चार plus negative charge दो negative charge है add करो minus positive charge कोई positive charge नहीं plus monovalent atom क्या यहां पर कोई monovalent atom है hydrogen, fluorine, chlorine, bromine नहीं है छोड़ दो चार, दो, छह by दो तीन hybridization SP2 geometry triangular planar सीधा, सीधा भाई साहब ना structure बनाना ना 1s, 2s करना कुछ नहीं करना सीधा answer देना है। next देखते जाओ nitrogen in NO3 minus one चलो z is equals to half nitrogen के valence electron पांच plus negative charge एक monovalent atom नहीं है। छह by दो तीन hybridization SP2 geometry triangular planar। चलिए अब मैं आपको कुछ compounds देता हूं। कुछ atoms देता हूं। आप खुद से करके दिखाओ। चलो start करते हैं question number one silicon in SiF4 number two sulphur in SF4 number three sulphur in sulphur in H2S number fourth xenon in xenon O2F2 जो उस time पूछा था मैंने number five xenon in XeF4 चलो इतना कर दो पांच, पांच question करो आ जाएगा एक और कर लो sixth sulphur in SO3 two minus ion भी दे दिया। चलो खुद से pause करके कर लो एक बार फिर मैं start करूं। कर लिया pause करके चलो अब मैं start करता हूं silicon in SiF4 तो z निकालेंगे half silicon पर valence electron कितने होते हैं चार carbon के नीचे आता है plus negative charge positive charge नहीं है monovalent atom है चार, चार, आठ by दो चार hybridization SP3 geometry tetrahedral clear sulphur in SF4 z is equals to half sulphur के valence electron कितने होते हैं?
+
+58:12 
+छह sulphur का atomic number कितना होता है?16 two eight six last shell में छह electron plus negative charge positive charge नहीं है monovalent atom है चार, छह, चार, 10 by दो पांच, पांच मतलब SP3d, SP3d मतलब trigonal bipyramid clear next sulphur in H2S z is equals to half sulphur के valence electron छह negative positive charge नहीं है monovalent atom है दो आठ by दो आया चार hybridization SP3 geometry tetrahedral xenon in XeOF2 z is equals to half xenon अपनी एक noble gas है। noble gas के outer most shell में आठ electron होते हैं plus monovalent atom दो हैं। आठ, दो, 10 by दो पांच hybridization SP3d मतलब trigonal bipyramid xenon in XeF4 half xenon के valence shell में आठ negative positive charge नहीं है चार fluorine है monovalent आठ, चार, 12 by दो छह, छह मतलब SP3d2 छह हो गया geometry octahedral, octahedral next sulphur in SO3 two minus half sulphur के valence electron छह plus negative charge दो monovalent atom नहीं है कोई भी oxygen है आठ बत्ते दो चार, चार मतलब hybridization SP3 geometry tetrahedral so this is the method जिससे आप किसी का भी hybridization geometry निकाल सकते हो। बिना structure बनाए बिना कुछ किए तो यह hybridization का मेरे ख्याल से internet पर stream करने वाला सबसे बड़ा video होगा जिसमें hybridization क्या होता है basic concept hybridization के सारे points hybridization through structure and hybridization with the superscript formula बताया। कहीं ना कहीं hybridization भी fail कर गया। और तब आई valence shell electron pair repulsion theory तो अगला lecture हमारा वहीं से start होगा। all the very best

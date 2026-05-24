@@ -1,0 +1,171 @@
+
+00:07 
+Hello बच्चों, आज हम chemical bonding का video number three लाए हैं जिसमें हम आपसे lattice energy के बारे में बात करेंगे और Born-Haber cycle भी discuss करेंगे। तो lattice energy और Born-Haber cycle हमारा एक important topic है। video को ध्यान से देखें समझ में आएगा। हम यह भी आपको बताएंगे कि lattice energy किन-किन factor पर depend करती है। अगर आपसे compare करने को कहता है कि lattice energy को compare करो तो उस question को कैसे solve करें। तो शुरू करते हैं भैया lattice energy से। मेरा नाम है अलक पांडे। आप देख रहे हैं Physics वाला channel और topic चल रहा है Chemical bonding। तो भाई साहब lattice energy होती क्या है?
+
+00:42 
+तो फिर से मैं आपको बता दूं जब कोई ionic compound बनता है जैसे मान लो NaCl बना और वह बनता है किससे Na+ और Cl- से। Na+ हमें मिला gaseous form में Cl- मिला gaseous form में। दोनों मिलकर बने NaCl solid form में। जब ये दोनों आपस में combine करते हैं ना तो stable हो जाते हैं। Na+ gaseous form में Cl- gaseous form में इतना stable नहीं है। तभी तो combine किया और combine करके ये हो गए stable बच्चों। तो कोई भी system बच्चों जब stable हो जाता है तो उसकी energy कम हो जाती है। system stable तब होता है जब उसकी energy minimum हो। मतलब यहां से यहां आते वक्त system ने अपनी energy lose की होगी। जब energy कम होती है तभी system stable होता है। minimum energy में ही कोई भी system stable होता है। मतलब यहां से यहां में कुछ energy release हुई होगी और जो energy बच्चों इस process में release होती है उसी energy को हम lattice energy या LE बोलते हैं। तो lattice energy क्या है?
+
+01:49 
+Lattice energy the amount of energy released when one mole, one mole of an ionic compound is formed जब ionic compound का एक मोल बने from gaseous cation and gaseous anion.gaseous cation और anion मिलकर जब एक मोल ionic compound बनाते हैं तो system stable होता है और energy release होती है। जो energy release होती है उसको हम lattice energy बोलते हैं। lattice बन रहा है मतलब 3D solid बन रहा है। इसको उल्टे तरह से भी देख सकते हो कि अगर हम एक मोल NaCl को तोड़े तो कितनी energy required होगी?
+
+02:34 
+भाई जितनी energy release हुई है वापस उतनी ही energy दोगे तो ये टूट कर system वापस जाएगा। forward reaction में जितनी energy निकली है backward reaction में उतनी ही energy देनी पड़ेगी। तो ऐसे भी define कर सकते हो कि lattice energy is the amount of energy required to break one mole of ionic compound into its gaseous cation and gaseous anion.
+
+02:58 
+gaseous ion से relate करना जरूरी है। एक मोल ionic compound जब अपने gaseous ion से बने उस time जो energy release हो उसको बोलते हैं lattice energy। clear हो गया। अब lattice energy sir निकाले कैसे?कैसे इसकी value मिलेगी?
+
+03:14 
+क्या formula है इसका?तो बच्चों बात यह है कि lattice energy ध्यान से सुनिए प्यारे बच्चों lattice energy determine करने का कोई भी direct method नहीं है। There is no direct method to determine lattice energy.
+
+03:33 
+मतलब कोई indirect method use करना पड़ेगा। कोई सीधा साधा method नहीं है। ठीक है। समझ में आ रहा है। बढ़िया लग रहा है। board दिखाई पड़ रहा है। मैं सही लग रहा हूं। आप कुछ हैं। बढ़िया है। मस्ती से पढ़ाई कर रहे हैं। अच्छा, आपके school खुल गए होंगे। है ना?
+
+03:52 
+गर्मी की छुट्टियां खत्म हो गई। हालत खराब। school, coaching, video, पढ़ाई, दोस्त, यार, दुनिया। है ना?तो pressure कम लेने का है और काम ज्यादा करने का है। ठीक है। pressure कम लो, काम ज्यादा करो। ठीक है। tension नहीं लेना है। ठीक है। patience रखो, patience रखो। बहुत बड़ा syllabus है। patiently चलना है साल भर। साल भर, दो साल जो भी है patiently.
+
+04:14 
+ठीक है। patience नहीं रखोगे तो patient बन जाओगे। patience नहीं रखोगे तो patient बन जाओगे। ठीक है। patient बन जाओगे। बोलने में मजा आता है patient। ठीक है। तो कोई direct method नहीं है lattice energy का। indirect method है। क्या है?
+
+04:30 
+indirect method.सीधा-सीधा इस energy को निकालने का कोई तरीका नहीं है। indirect method है और उसी को हम बोलते हैं Born-Haber cycle। Born-Haber cycle BHC भी आप बोल सकते हो। Born-Haber cycle बड़ा important topic है। Born-Haber cycle का जैसे exam में आ गया कि किस लिए इस्तेमाल करते हैं। चार option है तो आप बोलना lattice energy की value निकालने के लिए हम Born-Haber cycle का use करते हैं। जैसे किताब में Born-Haber cycle आपने पढ़ ली, आपको पता ही नहीं इसका इस्तेमाल क्या था। इस्तेमाल था lattice energy को determine करना। वैसे तो बहुत सी calculation करोगे जब Born-Haber के numerical करोगे तो कुछ भी निकाल लोगे। पर basically Born-Haber किस लिए बना है lattice energy को निकालने के लिए। तो आइए समझते हैं Born-Haber cycle और कैसे lattice energy निकाले। तो बच्चों Born-Haber cycle में क्या होगा ना बहुत सारे energy के term आ जाएंगे। बहुत सारे energy के term आ जाएंगे और उन energy के term को अगर आप थोड़ा बहुत नहीं जानते हो तो periodic table के videos देखो जहां पर ionization energy का video है। electron affinity का individual video है। सबके अपने-अपने videos हैं। जैसे पिछले videos में बच्चे कह रहे थे समझ में नहीं आया energy का term.
+
+05:38 
+तो आप periodic table के वो videos देखो जिसमें मैंने ionization energy पूरा समझाया, electron affinity समझाया। तो Born-Haber cycle में बहुत से energy के term आने वाले हैं। मैं आपसे सबसे पहले आपको introduce करता हूं एक energy का term है heat of formation.
+
+05:52 
+इसको कई लोग enthalpy of formation बोलते हैं। enthalpy भी heat है। denote करते हैं delta H heat का symbol और यहां लगा दिया f, f मतलब formation heat of formation.ये क्या होता है बच्चों?ये क्या होता है?ये है amountOf heat released when, when one mole of compound is formed from its elements in pure and stable state.
+
+06:39 
+देखो lattice energy से ये difference है heat of formation.ये बोल रहा है amount of heat released when one mole of a compound is formed from its elements in pure and stable state.Lattice energy में किससे बन रहा था?
+
+06:56 
+gaseous iron से। ये किससे बोल रहे हैं?Element से, जो उसका elemental state है, natural state है। जिस तरह से वो मिलता है pure state में, वहां से compound बनाते वक्त जो energy release होगी उसको आप heat of formation कहोगे। ये एक बड़ा term है। जैसे हम फिर से आपसे NaCl का ही example लें। NaCl solid.
+
+07:20 
+अब किससे बनाना है?Element से in pure and stable state.Sodium हमको कैसे मिलता है?Solid form में। Sodium का metal मिलता है solid form में। Na ले लिया plus chlorine हमको कैसे मिलता है?Gaseous state में। तो हमने Cl2 gas ले ली और इनको इस reaction में लिख दिया। इस reaction की जो heat है उसको आप बोलोगे heat of formation.
+
+07:44 
+ये lattice energy वाली equation नहीं है। Lattice energy में किससे बनाना होता था हमको?Ion से, gaseous ion से। यहां pure and stable state.Sodium का pure stable state solid state होता है। Chlorine हमको कैसे मिलता है?
+
+07:57 
+Gaseous में। इसको balance करना है। यहां पे half लिख दिया। इस particular reaction में जो heat energy, जो energy release होगी उसको आप heat of formation बोलोगे lattice energy नहीं बोलोगे। Difference समझ में आ गया lattice energy और इसमें। बहुत बढ़िया। अब देखिए दोनों आपस में किस तरह से related हैं। ठीक है। इनका आपस में क्या रिश्ता है?
+
+08:21 
+आखिर क्या रिश्ता है तुम्हारा गंगा के साथ?है ना?चलिए देखते हैं। तो मैं फिर से एक बार यही question लिखता हूं। मैं NaCl form करूंगा from its pure and stable state.तो sodium मिलेगा solid state में, chlorine मिलेगा मुझे gaseous state में। यहां लिख लूंगा half और ये। इस reaction की जो heat है उसको हम बोलेंगे delta Hf heat of formation.
+
+08:47 
+Release होती है यहां पे। आइए अब step by step NaCl बनाने की कोशिश करते हैं। तो पहले Na से Na+ तक जाना होगा और Na से Na+ में जाना आसान नहीं है। Ionization energy कब define हुआ था?Amount of energy required to remove electron from gaseous atom.
+
+09:09 
+तो पहले इसको gaseous state में ले जाओ। तो पहले हमें Na से बनाना होगा Na gaseous, Na gaseous.अब इसमें से electron निकाल के बनेगा Na+.क्या समझ में आ रही है बात मेरी?Gaseous state में। सीधा Na से आप electron नहीं निकालते। हम electron किससे निकालते हैं?
+
+09:29 
+From neutral isolated gaseous atom.तो पहले इसको gaseous में convert किया फिर electron निकाला। Gaseous में convert करने के लिए solid से gas बनाने वाली energy, solid से gas बनाने वाली energy sublimation energy.
+
+09:42 
+तो सबसे पहले आप इसको एक energy दोगे कौन सी?Sublimation energy.इसको heat करोगे solid से gaseous form में change करोगे sublimation energy.ये आपको देनी पड़ेगी मतलब ये plus होगी जाएगी अंदर energy.फिर Na gaseous से तुम एक electron निकालोगे। electron निकालने के लिए कौन सी energy होती है?
+
+10:01 
+IE मतलब ionization energy.ये भी आपको देनी पड़ेगी。Ionization energy दोगे तब एक electron निकलेगा मतलब ये भी add हो जाएगी। इसी तरह से अब chlorine पे आते हैं। अब आपको Cl- ion चाहिए तो अपने half Cl2 को, अच्छा ये तो already किस form में है?
+
+10:21 
+Gaseous form में है। तो इसको sublimation तो करना नहीं है। पर आपको Cl2 नहीं चाहिए आपको Cl चाहिए gaseous form में। तो आपको इसको तोड़ना पड़ेगा Cl2 को तोड़ना पड़ेगा Cl-Cl में। Bond तोड़ना पड़ेगा। कौन सा bond?
+
+10:36 
+Cl-Cl के बीच का। इसको हम बोलते हैं bond dissociation energy या आप simple बोल दो dissociation energy देनी पड़ेगी। Bond dissociation energy Cl-Cl के बीच का bond तोड़ोगे तो Cl gaseous मिल जाएगा। पर भाई यहां एक chlorine का molecule तो है नहीं यहां तो half molecule है। तो यहां पे dissociation energy का भी half लगेगा। पूरी dissociation energy का भी use नहीं। भाई dissociation energy define होती है एक mole के लिए। यहां एक mole तो है नहीं half mole तो इसका half दे दिया। इससे Cl gaseous form में मिल गया। ये आपको देनी पड़ेगी तो ये भी plus में होगी। फिर Cl gaseous को आपने एक electron देकर बनाया Cl-.
+
+11:19 
+ये कौन सी energy होगी?Electron affinity पर इस बार energy release होगी। जब electron इसमें add होता है तो energy निकलती है। Electron affinity क्या था?Amount of energy released when an electron is added.
+
+11:32 
+तो यहां पे energy release हुई मतलब ये वाली energy negative होगी। बाकी सारी तो positive.अब देखो Na+ gaseous state में Cl- gaseous state में। अब ये दोनों combine करके बना लेंगे NaCl। और gaseous state में जब ये combine करके NaCl बनाएंगे उस time जो energy release होगी last step में जो energy release होगी वही होगी lattice energy.
+
+11:58 
+अब difference समझ में आ रहा होगा heat of formation और lattice energy का। Heat of formation pure state यानी Na solid state में chlorine gaseous state में stable form यानी Cl2 form में। उस reaction की जो heat है वो heat of formation.और lattice energy gaseous ions जब combine करके एक मोल compound बनाए तो जो energy निकले वो lattice energy.
+
+12:22 
+फिर मैंने step by step बताया कैसे-कैसे आप पहुंचोगे यहां तक। पहले Na को आपने sublimation किया, energy दी gaseous बना। फिर और energy दी electron निकल आया ionization energy.Chlorine को तोड़ा पहले तो dissociation energy half molecule है तो आपने half energy दी। फिर chlorine gaseous से electron निकालना था तो अपने आप निकलता है energy release करके तो electron affinity वो भी negative में electron affinity वो भी negative में निकल रही है बाहर जो बाहर निकल रही है वो minus में। last step में Na और Cl combine किए combine करके NaCl बनाए तो energy और बाहर निकली यानी lattice energy भी कैसी होगी negative release होगी। जो energy release हो रही है उनको minus लिया जो absorb हो रही है उसको plus लिया। अच्छा! यानी इस reaction को एक तरीका तो है यहां से सीधा-सीधा देख लो तब कितनी energy involved है Delta Hf और एक तरीका है ये सारे steps देखो तब कितनी energy involved है ये सारी। अब हमारे पास एक law होता है HESS law जिसके बारे में यहां bond Heber में कोई आपसे बात भी नहीं करता। Thermodynamics का law है या Thermo chemistry का law समझ लो आप। heat का law है कि एक reaction यदि एक step में हो या multiple step में हो। अगर multiple step में हो रहा है तो सभी step की heat को अगर जोड़ेंगे तो उतनी ही heat आएगी जितनी single step से आ रही। मतलब आप चाहे सीधा-सीधा चलो चाहे टेढ़े मेढ़े रास्ते से चलो total heat हर तरफ से बराबर होगी। सीधे-सीधे में heat मिली Delta Hf यानी Delta Hf जो की है that must be equal to इस रास्ते की heat। इस रास्ते में sublimation energy दी चलो ठीक है ले लिया plus ionization energy दी चलो इसको भी ले लिया plus bond dissociation energy दी उसको भी ले लिया। अब electron affinity release हुई minus electron affinity। अब lattice energy release हुई minus lattice energy.
+
+14:22 
+ये equation हमारे पास बन के सामने आएगी। चाहे ये reaction एक step में हो चाहे multiple step में हो heat का sum दोनों तरफ से क्या आएगा same आएगा। अब आपके पास ये equation हो गई exam में क्या करेगा आपको heat of formation दे देगा, sublimation energy दे देगा, ionization energy दे देगा, dissociation energy दे देगा, electron affinity दे देगा और आपसे पूछेगा lattice energy निकालो तो आप lattice energy निकाल लोगे। ठीक है। बहुत ज्यादा घुमाएगा तो आपसे ये करेगा कि heat of formation आपको per gram दे देगा तो per gram को आप per मोल में change कर लेना भाई। है ना molar mass आपको पता होगा एक gram की इतनी lattice energy तो molar mass की कितनी lattice अरे heat of formation निकाल लो। हो सकता है इसको आपको kilo joule per मोल में दे। हो सकता है इसको आपको electron volt per atom में दे तो convert करना होगा बस यही होगा। गायब lattice energy करता है। कई बार किताब में क्या करता है lattice energy दे देता है और उसमें से कोई और term गायब कर देता है। Question बनाने के तरीके हैं। originally तो equation use की गई थी lattice energy के लिए पर किताब में question बनाने के लिए कई बार एक term गायब करके बाकी term दे देता है। आपको यह समझना है कि एक step की heat और सारे step की heat का sum क्या आना है same आना है। चलिए मैं आपको इस पर एक अच्छे level का सवाल करा देता हूं जिसमें, जिसमें दो बार electron निकालने पड़े और दो बार electron देने पड़े। Let us take the example of formation of MgO, MgO magnesium oxide तो यहां मैं लिख लूंगा MgO solid.
+
+15:59 
+अब यह किससे-किससे बनेगा?Magnesium से Magnesium pure state में कैसे मिलता है solid और किससे बनेगा?Oxygen से O2 pure and stable state gaseous यहां लिख लेता हूं half MgO.इस step में जो heat release होगी इसको हम बोलेंगे Delta Hf heat of formation.
+
+16:19 
+आइए अब step by step किया जाए। Mg magnesium solid से पहले क्या बनाओगे?Magnesium gaseous कौन सी energy लगेगी?Sublimation energy plus फिर इसमें से एक electron निकाला क्या बन गया?Mg+ gaseous state में कौन सी energy?
+
+16:37 
+Ionization energy पर यार MgO तो तब बनता है जब Mg के ऊपर plus two charge हो O के ऊपर two minus charge हो। मतलब इसमें से अभी एक electron और निकालना है तो इसमें से एक electron और निकालेंगे तब बनेगा Mg2+ gaseous यानी यह ionization energy first वाली ये ionization energy second वाली इसीलिए मैं कह रहा था ionization energy का video देख लो successive ionization energy.
+
+17:01 
+पहले एक electron निकला फिर दूसरा क्योंकि Mg2+ तक जाना है। अच्छा कई बार exam में क्या करेगा?आपसे बोल देगा कि जैसे मान लो MgO है आपसे बोल दिया ionization energy इतनी है तो आप समझ जाना दोनों को मिलाकर दिया है। हां, अगर आपसे बोलता है first ionization energy इतनी है second इतनी है तो भी ठीक है जोड़ लेना। अगर सीधा बोल देता है ionization energy इतनी है तो समझ जाना दोनों का sum दे रहा है। ये भी होगी plus ये भी plus क्योंकि देनी पड़ती है। यहां तक आ गए। आइए इसको पहले तोड़ना पड़ेगा O बनाना पड़ेगा gaseous state में क्या लगेगी?
+
+17:33 
+Dissociation energy divide by two क्योंकि half मोल है। फिर इसमें एक electron देंगे तो O minus बनेगा। यह कौन सी energy?Electron affinity ये क्या होती है?निकलती है release होती है तो ये कैसी होगी minus amount of energy released.
+
+17:49 
+फिर एक electron और निकाल देना पड़ेगा O2 minus gaseous state में यहां से दो electron निकलेंगे यहां दो मिलेंगे। फिर कौन सी energy?Electron affinity ये कौन सी दूसरी वाली है पहली वाली successive electron affinity.
+
+18:05 
+अब दिमाग लगाओ कि ये दोनों negative होंगी या दूसरी electron affinity plus होगी याद करके बोलना।मैंने आपको बताया था कि पहला electron तो atom accept कर लेता है खुशी-खुशी और energy को release करता है इसलिए negative होता है। चलो ठीक है। दूसरा electron atom accept नहीं करना चाहता क्योंकि वो already negative charge है। अब तुम्हें energy लगानी पड़ेगी दूसरा electron डालने के लिए। मतलब second electron affinity कैसी होगी हमारी plus state में?
+
+18:41 
+ये energy देनी पड़ेगी तब ये दूसरा electron accept करेगा। पहला तो प्यार से accept कर लिया। दूसरे के लिए energy देनी पड़ेगी। इसमें तो सोचो ही मत। इसमें तो दोनों बार दे ही रहे हैं। पहला electron निकालना tough था। अब plus charge है। दूसरा निकालना और tough है तो और energy दी हमने। पर यहां पे पहले में तो उसने energy release की खुश हुआ electron पाकर। दूसरा वो लेना नहीं चाहता था तो energy देनी पड़ेगी। अब यहां से gaseous state में Mg two plus O two minus gaseous cation gaseous anion combine करके बनाएंगे MgO जो energy बाहर निकलेगी that will be lattice energy.
+
+19:17 
+Minus लिखा क्योंकि ये भी release होगी। अब आप यहां एक question लिख सकते हो Delta Hf एक step में और सारे step में देखेंगे हम sublimation energy plus ionization energy one plus ionization energy two plus dissociation energy by two minus first electron affinity plus second electron affinity minus lattice energy.
+
+19:42 
+ये बन गई हमारी equation.बढ़िया मस्त। अब इसमें से कुछ term गायब होंगे कुछ term दिए होंगे। Most probably lattice energy निकालनी होती है। हो सकता है वो दोनों ionization energy एक बार में दे दे कि magnesium की ionization energy इतनी है तो समझ जाओ दोनों step की एक बार में दे दिया है तो जोड़ के लिख दिया। Electron affinity तो अलग-अलग देता है जानबूझकर के कि आप कब plus लोगे कब minus.
+
+20:06 
+इसमें से एक term गायब होगा बाकी दे देगा। इसको बच्चों हम लोग कहते हैं Born Haber Cycle कि एक step में करो reaction या multiple step में करो। इस cycle के through lattice energy निकालते हैं। समझ में आ गया होगा। अच्छा बहुत बढ़िया। इसके बाद बच्चों हम बात करते हैं वो factors जिसपे lattice energy depend करती है यानी हम बात करने जा रहे हैं factors on which lattice energy depends.
+
+20:38 
+किन-किन कारणों पे lattice energy depend करती है। समझने के लिए थोड़ी lattice energy की basic फिर से समझनी पड़ेगी। Na plus gaseous Cl minus gaseous combines to form NaCl और इस process में जो energy निकली उसको हम बोलते हैं lattice energy.
+
+20:55 
+जब gaseous cation है ihnen से। ये आपस में attract होते हैं और इस attraction की वजह से इन्हें stability मिलती है और उस attraction की वजह से energy release होती है। जितना ज्यादा attraction होगा उतनी ज्यादा energy release होगी। अच्छा। इनके बीच में जो attraction की force होती है electrostatic force उसका formula होता है k q one q two बटे r square.
+
+21:25 
+k एक constant है q one इसके ऊपर charge q two इसके ऊपर charge r इन दोनों के बीच का distance.यहां पे Na plus और Cl minus के बीच का जो distance है that is r.ये force ही इन दोनों को चिपका रही है। जितना ये चिपकेगे उतनी lattice energy निकलेगी। मतलब जितनी ज्यादा ये force होगी उतनी ज्यादा lattice energy होगी। तो पहला conclusion तो हमें ये मिला कि हमें ये देखनी है कि अगर ions के बीच में force ज्यादा है तो lattice energy ज्यादा होगी। अब ये force किन-किन factor पे depend कर रही?
+
+22:00 
+Constant को छोड़ दो। एक तो charge पे depend कर रही cation के charge पे भी और anion के charge पे भी और एक r मतलब इनके बीच की distance पे depend कर रही है। यानी दो factor हमें देखने हैं कि जो हमारी lattice energy है वो charges के साथ बढ़ेगी क्योंकि force भी बढ़ेगी। यानी lattice energy is directly proportional to charge on cation and charge on anion positive negative.
+
+22:27 
+Cation पे charge ज्यादा तो भी lattice energy ज्यादा.Anion पे charge ज्यादा तो भी lattice energy ज्यादा क्योंकि attraction ज्यादा होगा। दूसरा factor है distance.अब distance को कैसे समझे?Distance को आप ऐसे समझो size of ions से। भाई size of ions जितना बड़ा होगा ion का size जितना बड़ा हो जाएगा उनके बीच का distance उतना ज्यादा होने लगेगा। Size of ions जितना बड़ा बीच का distance उतना ज्यादा। भाई जितने बड़े-बड़े ions होंगे उनके बीच का distance बढ़ता जाएगा। Distance जितना बढ़ेगा बच्चों force उतनी कम हो जाएगी। दिख रहा है?
+
+23:08 
+Force जितनी कम हो गई lattice energy उतनी कम हो जाएगी। तो फिर से lattice energy दो factor पे depend करेगी हमारी। एक तो charge जितना ज्यादा lattice energy उतनी ज्यादा। दूसरा size जितनी बड़ी lattice energy उतनी कम। जितनी बड़ी size होगी distance उतना ज्यादा होने लगेगा ions के बीच का। Distance ज्यादा होगा तो इतना attract नहीं कर पाएंगे। Attract नहीं कर पाएंगे तो lattice energy कम हो जाएगी। तो size जितनी बड़ी lattice energy उतनी छोटी। Charge जितना बड़ा lattice energy उतनी ज्यादा। तो दो factor हैं charge and size, charge and size conclusive factors हैं। इनके सिवा और कोई factor देखना भी नहीं पड़ेगा आपको charge and size.
+
+23:57 
+फिर से यहां लिख दे रहा हूं.Fadans rule से इसको confuse नहीं करिएगा। वहां अलग कहानी है। Lattice energy is directly proportional to charge and lattice energy is inversely proportional to size.दो factor लेकर चल रहे हैं। चलिए question करते हैं question number one.
+
+24:15 
+NaF MgF AlF3 NaMgF2हमसे कहा इन तीनों में सबसे ज्यादा lattice energy किसकी है?तीनों ionic compound है metal non metal, metal non metal, metal non metal.अच्छा ion तो तीनों का same है.Anion तो तीनों का same है F, F, F.
+
+24:40 
+अब charge factor देखें कि size factor देखें क्योंकि cation तीनों का difference है। तो अगर याद हो तो Na, Mg, Al तीनों ही third period से आते हैं neighbor हैं तो size का बहुत difference नहीं होगा। देखो period में size बहुत धीमे-धीमे कम होती है। Group में नीचे जाओगे तो बहुत तेज बढ़ेगी। Group में जैसे ही नीचे आते हैं तो shell बढ़ती है size बढ़ जाती है। Period में बहुत धीमे-धीमे कम होती है। वैसे भी ये neighbor हैं atomic number ग्यारह, बारह, तेरह तो बहुत धीमे-धीमे size कम हो रही है। मतलब size वाला factor तो यहां हमें consider ही नहीं करना है। इस case में हमें size नहीं देखनी क्योंकि एक ही period के बगल-बगल के atom हैं। यानी अब charge देखना है तो यहां Na के ऊपर कितना charge है plus Mg के ऊपर two plus, Al के ऊपर three plus charge जितना ज्यादा lattice energy उतनी ज्यादा ये order हो जाएगा क्योंकि इसका charge ज्यादा है। दूसरा example देखें जैसे हम आपको example दे दें Na2O, MgO, Al2O3.
+
+25:44 
+Anion तीनों का फिर से same size नहीं देखोगे क्योंकि element पास-पास हैं charge देखोगे Na पे plus one होता है, Mg पे two plus हो रहा है, Al पे three plus हो रहा है। बात साफ है इसका charge ज्यादा है, इसकी lattice energy ज्यादा होगी। चलिए अगला example देखिए। अगला example मैं आपको दे रहा हूं। आप खुद से बताना Li2O, Li3N lithium oxide, lithium nitride.
+
+26:15 
+इस बार metal दोनों का same है cation दोनों का same है छोड़ दो.Anion की बात करें oxygen और nitrogen में comparison है। दोनों ही neighbor हैं, दोनों ही neighbor हैं। दोनों ही period two से आते हैं। just बगल-बगल के atom हैं तो size का difference फिर से नहीं देखना है। मतलब size को consider तो नहीं करना है। oxygen पे charge two minus nitrogen पे charge three minus charge जितना ज्यादा lattice energy उतनी ज्यादा खत्म। फिर से बोल रहा हूं fazan's rule से compare नहीं करना। वहां पे कहानी अलग है। यहां पे कहानी अलग है। चलो एक और example last ले लेता हूं और आज का lecture उसी पे हम खत्म करेंगे। अच्छा पहले एक simple सा ले लेते हैं। मान लो एक simple सा example ले लिया हमने अरे रे रे NaCL, KCl। अब आपको बताना है इसमें से किसकी lattice energy ज्यादा है। Anion दोनों का same cation अलग है तो Na और K इस पे charge plus one, इस पे charge plus one तो charge से नहीं देख सकते। अब size की बात आई potassium का size sodium से बड़ा होता है। Group में नीचे होता है। size जिसका बड़ा lattice energy उसकी कम यानी इसकी lattice energy कम इसकी ज्यादा। So NaCL has more lattice energy than KCl। कोई doubt, कोई दुविधा, कोई दिक्कत बिल्कुल नहीं। समझ में आ रहा है। एक last question, दो last question एक last में तो एक अच्छा देना है। जैसे मैं आपसे ले लूं NaF, NaCL, NaBr compare करिए। तीनों में cation same.
+
+27:52 
+Anion fluorine, chlorine, bromine charge minus one, minus one, minus one charge same charge का factor खत्म। Size की बात करो fluorine, chlorine, bromine नीचे आते वक्त size बढ़ेगा। bromine का size सबसे ज्यादा lattice energy सबसे कम तो ये order हो जाएगा। clear है। चलिए अब मैं आपको अपना last question दे देता हूं। Last question अगर आपने video सही से देखा हो तो करें। NaF और MgCL2 चलो अब इसका answer खुद से बताओ। दोनों factor सोच के। चलो भाई video pause करो। pause करने का है pause करने का रे video answer निकालने का है रे बचो। चलो अब पहले cation को देखें Na और Mg, Na और Mg difference charge का है। Na plus, Mg two plus size का difference नहीं है। same period के neighbor हैं। Charge factor से Mg plus जीत रहा है। मतलब MgCL2 की lattice energy ज्यादा होनी चाहिए क्योंकि Mg पे charge two plus है। आई anion को check करते हैं। एक fluorine है, एक chlorine है। fluorine, chlorine पे charge minus one, minus one charge same size की बात करें तो chlorine बड़ा है। chlorine का size ज्यादा है। size ज्यादा है तो lattice energy कम होगी। मतलब fluorine जीत गया। मतलब इसका size छोटा है। fluorine is smaller in size और अगर fluorine is smaller in size है तो इसकी lattice energy ज्यादा होगी। तो भैया cation तो बोल रहा है कि Mg two plus की lattice energy ज्यादा है because of charge factor.
+
+29:21 
+Anion बोल रहा है कि इसकी lattice energy ज्यादा है because of size factor क्योंकि fluorine छोटा है। जब charge और size factor आपस में fight करने लगे तो ध्यान से सुनिए कि charge dominating factor होगा। जब दोनों dominate करने की condition में आ जाएं, लड़ने की condition में आ जाएं then charge will be dominating factor तब charge को आप देखेंगे size को भूल जाएंगे। क्यों?
+
+29:48 
+चलो किताब में लिखा है पर क्यों?भैया size का difference तुम्हारा मान लो ये मान लो 80 Pico meter तो ये तुम्हारा होगा 120 Pico meter.ठीक है 130 Pico meter इससे ज्यादा बड़ा नहीं होगा। Charge यहां पे plus one ये plus two double हो गया। Charge का factor सीधा-सीधा double हो रहा है। Size का factor double नहीं होता just नीचे में। तो जब भी charge और size fight करने लगे हैं तो आप charge को dominating factor मानोगे। मतलब इन दोनों में अब size देखने का कोई मतलब नहीं है क्योंकि charge अलग है। Charge की वजह से ये जीत जाएगा। Size की वजह से ये जीतता इसका size छोटा था but इसको देखना नहीं है। Charge factor dominate करेगा। कई लोग यहां पे ये कह रहे हैं कि sir जो आपने force का formula लिखा था वो था k q one q two बटे r square और size का तो square हो रहा है ना। ये force का formula है। Energy और force different चीज होती है। Atomic structure के video में इतने comment आए हैं ये वाले कि sir आपने r square लिखा है। Energy में आपने r लिख दिया। Sir आपने formula गलत लिख दिया। वहां पे r square नहीं गलत थोड़ी ना लिखा। Force अलग term है, energy अलग term है। अगर मैं lattice energy की बात करूं तो lattice energy is inversely proportional to r not r square.
+
+31:08 
+ये force है जो r square से inversely proportional है। Lattice energy inversely proportional to r and directly proportional to charge.पर अगर charge और size लड़ रहे हो तो charge dominate करता है क्योंकि charge just double या triple हो रहा है। Size इतना difference नहीं कर रहा। तो ये lattice energy का सारा video था। अभी ionic bond के अंदर दो important topic बचे हुए हैं। एक है fazan's rule और एक है lewis dot structure का detail video कि कैसे lewis dot structure बनाएं। बड़े-बड़े ions का nitrate ion का, carbonate ion का, sulfate ion का, बड़े-बड़े ions का, छोटे मोटे compound का MgCL2 का वो सब तो आप बना लेते हो। NaCL का MgO का वो सब तो आपने बनाया है। Magnesium oxide, NaCL उनका तो lewis dot structure सबको पता है। मैंने पिछले video में एकदम generally discuss किया। अभी बढ़िया-बढ़िया ions का nitrite ion, nitrate ion, sulfate ion, sulfite ion ये discuss करना है। तो ये दो video बचे हुए हैं हमारे एक fazan's rule और एक lewis dot structure ionic bond के अंदर। फिर covalent bond पे जाएंगे और तब theories of covalent bond.
+
+32:06 
+Physics के videos भी आते रहेंगे। पढ़ाई करते रहें। All the very best.

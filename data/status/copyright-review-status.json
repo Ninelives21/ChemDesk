@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "status_family": "copyright_review_status",
+  "description": "Copyright and usage-safety status for source-derived content, images, transcripts, notes, and public materials.",
+  "statuses": [
+    {
+      "id": "needs_review",
+      "label": "Needs Review",
+      "description": "Copyright or usage safety has not been reviewed.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "in_review",
+      "label": "In Review",
+      "description": "Copyright or usage review is underway.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "cleared",
+      "label": "Cleared",
+      "description": "Material is cleared for the intended ChemDesk use.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "restricted",
+      "label": "Restricted",
+      "description": "Material may be used only under limited conditions or internally.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "rejected",
+      "label": "Rejected",
+      "description": "Material is not safe or acceptable to use.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": true,
+      "deprecated": false
+    }
+  ],
+  "notes": "Copyright/source safety decisions are owned by Source Research/Ira and final user approval."
+}

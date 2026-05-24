@@ -1,0 +1,234 @@
+
+00:05 
+Hello बच्चों, आज हम chemical bonding का second video लेकर आए हैं जिसमें हम आपसे ionic bond के बारे में बातें करेंगे कि ionic bond कैसे बनता है?Lewis dot structure कैसे बनाएंगे?Electronegativity क्या चीज होती है?
+
+00:17 
+कैसे determine करेंगे?Ionic bond किन-किन conditions में बनता है?है ना?कुछ energy के terms के बारे में बातें करेंगे। कौन सा ionic bond ज्यादा ionic character का होगा?किससे decide करें कि कौन सा ionic bond ज्यादा strong है या weak है इसके बारे में बात करेंगे और ionic bond की कुछ basic properties से बात करेंगे। तो मेरा नाम है अलक पांडे और channel है Physics वाला। तो आज start करते हैं chemical bonding का video number two ionic bonding के बारे में भाई। तो चलिए ionic bond या इसका एक नाम और है electrovalent bond.
+
+00:53 
+ठीक है। तो बहुत ही basic से बात start करता हूं कि ionic bond क्या होता है। Ionic bond वो होता है बच्चा जो एक metal और एक nonmetal के दरमियान बनता है। Metal electron lose करते हैं, nonmetal उस electron को gain करते हैं। यानी कि complete transfer of electron होता है। Complete transfer of electron.
+
+01:19 
+एक electron पूरी तरह से metal से nonmetal को जाता है। क्यों जाता है?Stability achieve करने के लिए। जैसे हमारे पास एक metal है example के लिए हमने ले लिया sodium atomic number 11, 2,8,1 आखिरी shell में एक electron है उसको lose कर देगा Na+ एक electron configuration हो गई 2,8 octet मिल गया। जैसे हमारे पास chlorine है configuration 2,8,7 इसी electron को इसने gain कर लिया। Metal ने electron lose किया nonmetal ने electron gain किया बन गया Cl- configuration हो गई 2,8,8 octet complete.
+
+01:57 
+अब ये Na+ और Cl- एक दूसरे को attract करेंगे। ये Na+ और Cl- एक दूसरे को attract करेंगे और ये जो force of attraction है इसको अपन बोलते हैं electrostatic force of attraction.बच्चों सही बात करें तो ionic bond में कोई bond होता ही नहीं है। मतलब हम कभी ऐसे लिखे हैं क्या?
+
+02:21 
+कभी आपने ऐसा देखा है लिखा हुआ NaCl ऐसे bond बना के कभी नहीं लिखते हम। असल में ionic bond होता ही नहीं है। एक force of attraction होती है जो positive charge और negative charge के बीच में होती है जिसके वजह से दोनों एक दूसरे से जुड़े होते हैं। उसी force का नाम हम ionic bond दे देते हैं पर कभी भी डंडा नहीं बनाते। Ionic bond में कभी डंडा नहीं बनता क्योंकि ionic bond का कोई shape नहीं होता। Ionic bond का कोई direction नहीं होता, non directional होता है। इसका नाम electrovalent bond भी है क्योंकि electrostatic force आ जाती है जो की charges के बीच में होती है पर इनका कोई direction नहीं होता। एक positive charge के अगल बगल कहीं पर भी negative charge हो सकता है। बस एक दूसरे को attract करते रहते हैं। अब यहां पर मैं आपसे एक बड़ा बढ़िया सवाल पूछने वाला हूं। अच्छा Na से electron निकला Na+ बना बहुत बढ़िया 2,8 बहुत बढ़िया। Cl ने एक electron लिया Cl- बना 2,8,8 very good.
+
+03:13 
+तो यार ये तो stable हो गया ना। ये तो Nobel gas का configuration होता है octet rule आखिरी shell में आठ electron आ गया। इसके आखिरी shell में आठ electron आ गया एक electron gain करके। अब ये bond क्यों बना रहे हैं?
+
+03:27 
+मतलब इन दोनों step के बाद ये step क्यों हो रहा है?Na+ और Cl- मिलकर NaCl क्यों form कर रहे हैं?ये तो stable है अपने आप में Na+ Cl- भी अपने आप में stable है। सोचो। कभी सोचा था ये बात?कभी ये बात सोची थी कि हां ठीक है teacher ने बताया ये एक electron lose करेगा क्योंकि octet बनेगा। ये electron gain करेगा क्योंकि octet बनेगा तो Na+ तो stable हो गया ना भाई। तो फिर इसने bond क्यों बनाया?
+
+03:55 
+देखिए बात ये थी कि ये जो electron lose हुआ है ये gaseous state में हुआ है। याद है?Amount of energy required to remove electron from a neutral isolated gaseous atom gaseous.जैसे ये chlorine gaseous state में electron को accept करके Cl- gaseous state में बना है। Electron affinity वाली term amount of energy released when an electron is added to the valence shell of neutral isolated gaseous atom.
+
+04:25 
+अभी Na+ हमारा gaseous state में है Cl- gaseous state में है और ये unstable है। भाई gaseous state में कोई चीज stable कैसे होगी?Ions बन गए, ions free हैं, move कर रहे हैं ये stable कैसे हुए?अब इस Na+ ने Cl- को देखा दोनों आपस में चिपक के NaCl बना लिए। किस state में?
+
+04:40 
+solid state में और जो की कैसा हो गया?stable.So Na+ stable है Cl- भी stable है but अब ये gaseous state में है। ज्यादा stable हो सकता है जब एक दोनों attract करके NaCl बना ले और solid state में आ जाए। बहुत पास आ जाएंगे। क्यों पास आ जाएंगे?
+
+04:57 
+क्योंकि strong electrostatic force of attraction ये force of attraction बहुत strong होती है। Ionic bond covalent bond से कहीं-कहीं ज्यादा strong होता है। Covalent bond बहुत weak bond है ionic bond के सामने। क्यों ionic bond क्यों strong है?
+
+05:13 
+क्योंकि ये जो electrostatic force of attraction होती है ना F is equals to K Q1 Q2 बटे R square ये बड़ी strong force होती है। Q1 पहला charge, Q2 दूसरा charge, R इनके बीच का distance.अच्छा यहां पे इनके बीच का distance कैसा होगा?
+
+05:30 
+कम कि ज्यादा?बहुत कम। भाई बहुत पास होते हैं ions.R जितना छोटा force उतनी ज्यादा। ये बहुत पास आए R जितना छोटा force उतनी ज्यादा तो इसलिए बहुत close होते हैं। ये bond बहुत strong होता है और असल में तो कोई bond होता ही नहीं है। असल में तो electrostatic force of attraction.
+
+05:48 
+अच्छा यहां तक बातें समझ में आई। क्यों combine किया?क्योंकि gaseous state में था solid में जाने के लिए। फिर इसी में हमको पढ़ाया जाता है Lewis dot structure.नाम सुना होगा आपने Lewis dot structure थोड़ी सी बातें कर लेते हैं उसमें ज्यादा देर नहीं लेंगे Lewis dot structure.आप LDS भी बोल सकते हो। आगे भी इसके बारे में पढ़ाई करनी है हमको syllabus में। Lewis dot structure.
+
+06:11 
+जैसे मान लो हमारे पास Na+ है electron 2,8 आखिरी shell से एक electron जा चुका। हमारे पास Cl- है electron 2,8,8 gaseous, gaseous मिलकर बने NaCl solid.अब NaCl के electron dot structure हम ऐसे बनाएंगे की NaCl sodium की इस shell में देखो कोई electron नहीं यही electron तो इसने donate किया है sodium के ऊपर एक plus charge.
+
+06:38 
+chlorine के आखिरी shell में आठ electron आ गए हैं one, two, three, four, five, six, seven, eight.एक electron मैं cross से दिखा रहा हूं क्योंकि वो sodium से आया और chlorine के ऊपर एक minus charge.ये हो गया इनका Lewis dot structure.
+
+06:51 
+अब plus minus के बीच में force of attraction और इसलिए बन गया bond.इसको आप ऐसे भी दिखा सकते हो की Na के आखिरी shell में एक electron था chlorine के आखिरी shell में one, two, three, four, five, six, seven electron थे। sodium ने एक electron chlorine को दे दिया और यहां पे ionic bond का formation हो गया। दोनों ही तरीके सही है। ये bond बनने की पहले की कहानी है की sodium के valence shell में एक electron था chlorine को दे रहा है। ये बनने की बाद की कहानी है की electron दे चुका है इसके ऊपर plus charge है और chlorine electron ले चुका है इसके ऊपर minus charge है। chlorine के पास आठ electron one, two, three, four, five, six, seven, eight एक cross से दिखा दिया क्योंकि sodium के हैं। चलिए जल्दी से आप एक बार MgCl2 का electron dot structure Lewis dot structure very sorry Lewis dot structure बनाइए। किसका MgCl2 का। ठीक है ना?
+
+07:36 
+जल्दी से। तो Magnesium atomic number 12, 2,8,2 दो electron lose करेगा Mg2+ दो electron gaseous state में ये भी gaseous state में। chlorine के दो atom लेने पड़ेंगे 2Cl। दोनों ने एक-एक electron gain किया बन गया 2Cl- gaseous ये भी gaseous.
+
+07:57 
+अब हमसे कहा Lewis dot structure बनाओ। बनाते हैं Magnesium के ऊपर दो plus charge एक chlorine का atom ये रख लो एक ये रख लो। इनमें कितने electron हो जाएंगे?chlorine में कितने होते हैं 2,8,7 electron gain करते ही 2,8,8 तो आठ electron है one, two, three, four, five, six, seven, eight एक तो Magnesium से आया one, two, three, four, five, six, seven, eight एक Magnesium से। Magnesium के valence shell में two electron थे। एक उसने इस वाली chlorine को दे दिया, एक इस वाली को दे दिया। ये Lewis dot structure बन गया। या चाहो तो ऐसे बना लो की Magnesium के valence shell में दो electron थे। यहां chlorine one, two, three, four, five, six, seven यहां एक और chlorine one, two, three, four, five, six, seven एक electron इसको दिया, एक electron इसको दिया। ये भी सही है और ये भी सही है। तो Lewis dot structure में आपको valence shell के electron दिखाने हैं। चाहे तो ऐसे दिखाओ की electron जाने वाले हैं। चाहो तो जाने के बाद की कहानी दिखाओ की इसके ऊपर two plus charge, इसके ऊपर one minus, इसके ऊपर one minus और bond बन जाएगा या force of attraction आ जाएगी। तो बच्चों यहीं से एक term आता है जिसको हम बोलते हैं Electronegativity। क्या term आता है Electronegativity, Electronegativity.
+
+09:12 
+Electronegativity बच्चों होता है की कितने electron दिए या कितने electron लिए ionic bond के formation में electravalent bond के formation में बनाते वक्त किसी metal ने कितने electron lose किए या किसी nonmetal ने कितने electron gain किए। तो इसको हम define कर लेंगे number of electron lost और gained during the formation of electravalent bond.
+
+09:38 
+और ध्यान रखना की Electronegativity हमेशा plus में लोगे। चाहे electron gain कर रहे हो, चाहे lose कर रहे हो आप plus ही लोगे। जैसे nonmetal electron को gain करता है। एक electron gain किया तो Electronegativity one होगी minus one नहीं। दो gain करेगा तो two होगी minus two नहीं। चलिए जल्दी से बात करते हैं Electronegativity के ऊपर पहुंचते हैं Group One पे। Group One lithium, sodium, potassium, rubidium, caesium इन सबके valence shell में एक electron है तो ये एक electron दे देंगे और इनकी Electronegativity हो जाएगी one Electronegativity.
+
+10:12 
+Group Two की बच्चों बात कर लें। Group Two में beryllium, magnesium, calcium, strontium, barium वगैरह valence shell में two electron होते हैं तो दो electron donate कर देंगे, दे देंगे तो Electronegativity two.
+
+10:24 
+इसके बाद बात करते हैं Group 13 की two से 12 छोड़ दे रहे हैं sorry three से 12.वो d block के elements हैं उनकी बातें करेंगे अभी। अभी normal elements की बात कर रहे हैं, representative elements की बात कर रहे हैं। Group 13 में आओगे तो आपको मिलेगा aluminium, gallium वगैरह valence shell में three electron Electronegativity three.
+
+10:44 
+Group 14 की बात नहीं करेंगे क्योंकि Group 14 ionic bond नहीं बनाते ना। Group 14 कौन है?Carbon, silicon, germanium ये सब ionic bond कहां बनाते हैं?इनके valence shell में चार electron, चार electron ना देना चाहेगा ना लेना चाहेगा octet बनाने के लिए। वो तो sharing पे believe करते हैं तो इनकी तो बात ही मत करो। Group 15 पे आओ Group 15 में अपना nitrogen, phosphorus, arsenic वगैरह valence shell में nitrogen के पांच electron तो पांच तो donate करेगा नहीं बल्कि तीन accept कर लेगा तो इसकी Electronegativity three हो गई minus three नहीं three.
+
+11:13 
+Group 16 पे आए अपने oxygen, sulphur वगैरह selenium, polonium, tellurium O STYLE से तेल Polish सिखाया हुआ है आप लोगों को ये सब O STYLE से तेल Polish, oxygen, sulphur, selenium, tellurium, polonium.periodic table की video देखेंगे तो आपको याद करने की trick सिखाई गई है। इनके valence shell में छह electron तो ये दो लेना चाहेंगे। Group 17 की बात करें तो अपने fluorine, chlorine, bromine, iodine वगैरह valence shell में एक electron sorry seven electron है fluorine का atomic number nine, 2,7 सात electron तो सात तो donate करेगा नहीं एक ले लेगा तो Electronegativity one.
+
+11:48 
+तो इस तरह से आप Electronegativity define कर सकते हो number of electron gain या lost.बात करते हैं की ये बीच के group कहां गए?Group Two से 12 की बात करें Group number Two से Group number 12 की बात करें तो ये हमारा d block में fall करता है transition elements और इनकी होती है बच्चों variable Electronegativity तो इनकी Electronegativity की हम बात ही नहीं कर पाएंगे क्योंकि इनकी Electronegativity fixed नहीं होती, change होते रहते हैं।For example D block से आपको याद होगा iron आता है Fe और Fe की आप दो valency देखते हो plus two, plus three.
+
+12:21 
+तो D block की electro valency is not fixed, depend करती है कौन सा compound बना रहा है, कौन सा reaction हो रहा है और उसके हिसाब से अपनी electro valency को वो change करते हैं। बाकी electro valencies fix हैं group one की one है, group two की two है, thirteen की three है, fourteen की define नहीं है, fifteen की three है। क्यों?
+
+12:36 
+क्योंकि पांच electron हो गए तो पांच तो lose नहीं करेगा। Sixteen की two, seventeen की one.तो ये electro valency का concept था और कुछ elements show करते हैं electro val-- variable electro valency.खैर exam में सवाल भी आता है की variable electro valency क्यों होती है तो इसके पीछे कभी ना कभी हम आपसे discussion करेंगे D block पढ़ाते वक्त या transition element पढ़ाते वक्त कहीं ना कहीं इसके बारे में बात करेंगे हम आपसे। आज इसके बाद बात करते हैं कि कौन कौन से energy के terms involve होते हैं ionic bond के formation में। Energy terms involved in the formation of ionic bond या आप इसको ऐसे समझ लो favorable conditions for the formation of ionic bond.
+
+13:21 
+क्या क्या conditions satisfy होती हैं जब ionic bond ज्यादा बनता है। जैसे हम सबसे पहले बात करें बच्चों हम एक चाहिए होगा metal, एक चाहिए होगा nonmetal और फिर उनका combination.Metal plus nonmetal का combination.
+
+13:43 
+तो जैसे हमें metal मान लो मिल गया gaseous state में। सबसे पहले इसमें से एक electron निकालना पड़ेगा और ये बनेगा M plus। Electron को निकालने के लिए energy देनी पड़ती है ionization energy amount of energy required to remove an electron.
+
+13:58 
+मतलब इस step में हमको energy देनी पड़ेगी यानी energy absorb हो रही है, energy absorb हो रही है। इसको हम बोलते हैं ionization energy.जितनी कम energy देकर ये काम हो जाए उतना better है। भाई ज्यादा energy देना मुश्किल बात है। जितनी कम energy देकर काम बने उतना अच्छा है हमारे लिए cation का formation.
+
+14:19 
+ये cation बनेगा यहां से anion.फिर मान लो हमारे पास nonmetal है gaseous state में बच्चों और उसने electron accept करके बनाया X minus.जब कोई electron accept करता है तो energy release होती है। तो यहां पे हम लिखेंगे energy released, energy released कौन सी energy होती है?
+
+14:37 
+Electron affinity.जितनी ज्यादा energy release हो उतना अच्छा। भाई जितनी energy release होगी compound उतना stable होगा। आप पिछला video देखो chemical bonding का पहला video की chemical bond क्यों बनता है?
+
+14:52 
+ताकि energy कम हो जाए। तो भैया अच्छा है जितनी ज्यादा electron affinity उतना बढ़िया है। जितनी energy release हो electron affinity जितनी maximum हो उतना बढ़िया है। Ionization energy जितनी minimum हो उतना बढ़िया है। जितनी कम energy चाहिए उतना अच्छा और जितनी release हो जाए उतना बढ़िया है भाई उतना stable हो जाएगा। जितनी energy निकलती जाएगी उतना वो stable होता जाएगा। चलो भैया cation बन गया, anion बन गया, अब दोनों combine करेंगे। ये भी gaseous state में, ये भी gaseous state में। ये हमारा metal आ गया gaseous state में cation और plus anion आ गया gaseous state में। दोनों combine करेंगे form करेंगे MX.
+
+15:29 
+क्यों combine करेंगे?क्योंकि यहां पे stability मिल रही है। ये solid state में आ गए। इनको stability मिल रही है। Stability मिल रही है मतलब इस process में भी energy release होगी। भाई जहां पे भी stability आएगी वहां पे energy release होगी। यानी जब gaseous ions आपस में combine करेंगे तो energy को release करेंगे। इस step में बच्चों जो energy release होती है उसको हम बोलते हैं, उसको हम बोलते हैं, उसको हम बोलते हैं, उसको हम बोलते हैं lattice energy.
+
+15:57 
+क्या बोलते हैं?क्या बोलते हैं?क्या बोलते हैं?Lattice energy.अब lattice energy एक नया term आ गया। Lattice energy क्या है?जब gaseous cation, gaseous anion से combine करें और ionic compound बन जाए उस time जो energy release हो उसको lattice energy बोलते हैं। और technical बात करें तो जब एक mole ionic compound बने कितना when one mole of ionic compound is form from gaseous cation and gaseous anion then the amount of energy released is called lattice energy.
+
+16:32 
+जब एक mole ionic compound बनने में gaseous cation, anion से जो energy release होती है उसको lattice energy बोलते हैं। अब lattice energy जितनी ज्यादा निकले उतना अच्छा है। भाई जितनी energy release होगी उतना ये stable होगा। या इसको ऐसे सोचो कि जितनी energy release हो जाएगी इसको तोड़ने के लिए वापस उतनी energy देनी पड़ेगी। मतलब ये उतना strong bond बनेगा, उतना ज्यादा ionic bond बनेगा। जितनी energy निकली है अगर मैं इसको वापस तोड़ना चाहूं तो वापस उतनी ही lattice energy देनी पड़ेगी। मतलब lattice energy जो energy released है वो जितनी ज्यादा maximum हो उतना अच्छा है। जितनी energy release हो जाएगी bond उतना strong बन जाएगा। अब वापस उसको उतनी ही energy दोगे तभी वो टूटेगा। so तीन terms की बात की हमने ionization energy, electron affinity, lattice energy.
+
+17:20 
+Lattice energy पे एक पूरा separate video अगला video lattice energy पे ही है जिसमें lattice energy किन factor पे depend करती है, कैसे determine करें ये इन पे बात करेंगे कि किस तरह से calculation करते हैं इनका indirect method है calculation का जिसको हम Born Haber cycle से calculate करते हैं। बड़ा famous है वो topic भी Born Haber cycle अगला video उसी पे है और किन-किन factor पे lattice energy depend करता है। खैर अभी के लिए lattice energy amount of energy release जब एक mole ionic compound बने gaseous cation, anion से बार-बार बोल रहा हूं किससे gaseous cation, anion से। जितनी ज्यादा energy release होगी उतना stable bond.
+
+17:53 
+तो तीन condition है हमारी favorable conditions strong ionic bond बनने की कि ionization energy minimum हो किसकी metal की जितनी कम हो उतना अच्छा। Electron affinity maximum हो किसकी nonmetal की और lattice energy maximum हो इस reaction की। तीन बनते हैं तो ये metal की ionization energy कम हो, nonmetal की electron affinity ज्यादा हो और lattice energy दोनों की ज्यादा हो। अच्छा ये बात हो गई। अब जैसे कई बार हम लोग पास सवाल आते हैं किकौन सा better ionic bond है?
+
+18:23 
+कौन सा ज्यादा strong ionic bond है?कौन से ज्यादा ionic character है?Which is more ionic?ऐसे सवाल आ जाते हैं की which is more ionic?Which is more ionic?तो यार ionic compound की basic क्या है?Ionic compound की basic है metal और non-metal.
+
+18:42 
+क्या basic है?Metal और non-metal.जितना ज्यादा metallic character हो उतना अच्छा, जितना ज्यादा non-metallic character हो उतना अच्छा.ठीक है। जैसे हम आपको question दे दे। हमें question आया हमारे पास है NaF, NaCl, NaBr, NaI.
+
+19:04 
+हमसे पूछा which has maximum ionic character?या किसका ionic bond सबसे strong है?तो एक तरीका है Fajan's rule लगाएं जो की आगे हम सीखेंगे। एक तरीका है ऐसे ही हम सोचें इस बात को की metal तो यहां पे सब में same है। अब देखना पड़ेगा non-metal सबसे strong कौन सा है?
+
+19:23 
+तो यहां लिख लेता हूं fluorine, chlorine, bromine, iodine.Group में नीचे आते वक्त non-metallic character decrease करता है। नीचे जाओगे metallic character बढ़ता है। Metal नीचे ज्यादा होते हैं, ऊपर non-metal होते हैं। तो इनमें सबसे ज्यादा non-metallic हमारा fluorine होगा। इसलिए ये वाला ionic bond सबसे strong, फिर ये, फिर ये, फिर ये। अब इसमें ये भी सवाल हो सकता था की इनमें सबसे ज्यादा covalent कौन है?
+
+19:50 
+तो आप बोल दोगे NaI.ठीक है। तो यही देखना है की अगर पूछता है की किसमें ज्यादा ionic character है या कौन ज्यादा strong ionic bond है तो आप देखो किसमें ज्यादा metallic character है और किसमें ज्यादा non-metallic है। जैसे एक और question ले लेते हैं इसी पे हम। मान लीजिए हमको सवाल दे दिया अरे रे रे LiCl, NaCl, KCl, RbCl चलो। अब यहां पे non-metal सब में same है तो metal को पकड़ लो lithium, sodium, potassium, rubidium.
+
+20:22 
+नीचे आते वक्त metallic character increase करता है। सबसे ज्यादा metallic rubidium.इसमें metallic character बहुत है। Non-metal सबके लिए same है। Metallic character जितना ज्यादा ionic character उतना ज्यादा। तो ये, ये, ये। इनमें सबसे ज्यादा covalent कौन निकलेगा?
+
+20:37 
+LiCl निकलेगा। तो इस तरह से आप decision ले सकते हो की कौन सा strong ionic bond है या किसमें ionic character ज्यादा होगा। ऐसी बातें आप कर सकते हैं। इसके बाद बच्चों बात करते हैं properties of ionic compound की.
+
+20:51 
+Properties of ionic compound.ठीक है। पहली property आएगी physical state.ठीक है। तो जो बार बार बात हो रही थी lattice energy.तो ये lattice term क्यों आया?Lattice क्या है की ionic compound जो होते हैं ना एक three dimensional structure में होते हैं और उसी को हम lattice बोलते हैं। मतलब ये हमारे solid state में पाए जाते हैं 3D.
+
+21:28 
+जैसे NaCl की बहुत बात करते हो तो NaCl rock salt structure बोला जाता है। एक sodium के cation को छह chlorine के anion surround किए होते हैं और एक chlorine को भी छह sodium vice versa.इसकी बातें आप solid state chapter में करोगे class 12th में। कैसे कैसे structure होते हैं face centered structure, body centered structure, simple cubic cell है ना। अभी इतना समझना है की physical state इनकी solid है। क्यों है?
+
+21:56 
+क्योंकि electrostatic force बहुत strong है। ये gaseous state में हो ही नहीं सकते। इनके बीच में force इतनी strong है की इतनी दूर जा ही नहीं सकते they always exist in solid state.बहुत strong bond है। जैसे second हम आपसे बात करें melting point and boiling point की। Very high.
+
+22:16 
+क्यों high है?क्योंकि भैया electrostatic force of attraction बहुत ज्यादा है जो charges के बीच में। Force इतनी ज्यादा है की उनको boil करना यानी charges को separate करना यानी उनको उड़ा देना, उनको दूर करना possible नहीं है, easy नहीं है। So they have very high melting and boiling point.
+
+22:32 
+या तीसरे number में बात करें conductivity.ये सब आप पहले junior classes में पढ़ ही चुके होंगे conductivity.तो conductivity पे ध्यान देना they are bad conductors.Yes, yes what I am saying they are bad conductors in solid state.
+
+22:50 
+जब solid state में होते हैं तो ये अच्छे conductor नहीं होते। जैसे NaCl है हमारा ठीक है NaCl plus minus.तो solid state में क्या है की ions are not free.Ions fixed हैं एक strong electrostatic force से बंधे हुए हैं। अब कोई चीज electricity conduct कैसे करती है बच्चों?
+
+23:17 
+जब charge move करेगा what is electricity?Motion of charge.अब जब charge बंधा हुआ है तो charge motion कैसे करेगा?Charge तो fix है यहां पे। Ions are not free to move.तो अगर ions free होते motion के लिए तो it would have been a very good conductor.
+
+23:31 
+But in solid state the ions are not free to move.They are held together by strong electrostatic force of attraction.वो बंधे हुए हैं strong electrostatic force of attraction से plus minus वाली force से बंध गए हैं। पर यदि हम इनको molten state में ले जाएं तो ये good conductor बन जाते हैं। यदि हम इनको aqueous state में ले जाएं यानी पानी में डुबा दें तो भी ये good conductor of electricity बन जाते हैं। वैसा क्यों?
+
+24:06 
+Molten state कैसे आएगी आप इसको melt करोगे heat दोगे, heat दोगे जिससे इनके बीच की bond energy कम होगी। इनके बीच का bond weak होगा, ions free हो जाएंगे और ions motion कर सकते हैं। तो molten state में ions are free to move because you have given lot of heat.
+
+24:23 
+आपने काफी heat दे दी जिसकी वजह से ions separate हो गए हैं जिसकी वजह से ions motion कर सकते हैं। अब ये conduct करेंगे electricity को।Aquous state में क्या हुआ?पानी की एक property है कि force of attraction जो होती है उसको यह कम कर देता है। किसी दो charge के बीच की जो force of attraction है पानी उसको कम कर देता है। जैसे मान लो एक positive negative charge मैंने बाहर रखा, air में रखा, vacuum में रखा। उनके बीच में कुछ force of attraction है positive negative के बीच में। उसको मैंने पानी में डुबाया तो उनकी force of attraction 81 times कम हो जाती है। कितनी, कितनी, कितनी?
+
+25:00 
+81 times कम हो जाती है। पानी उनके बीच की force of attraction को काट देता है, कम कर देता है। Charges free हो जाते हैं move करने के लिए और फिर से electricity conduct हो जाती है because ions are free to move.
+
+25:14 
+Ions move करेंगे तभी charge carry होगा और charge के motion को electricity बोलते हैं। तो इन दो condition में ionic compounds are good conductor otherwise in solid state they are bad conductor because ions are not free to move.
+
+25:25 
+In molten state ions are free.In aqueous state water उनके force को weak कर देता है। Water की इस property को बोलते हैं dielectric property.Dielectric.Water is a very strong dielectric.दो charges के बीच की force को बहुत कम कर देता है 81 times as compared to air.
+
+25:42 
+तो यह बातें थी कि कब conductivity होगी, कब conductivity नहीं होगी। और properties की चलिए बात करते हैं। जैसे अगली दो property बड़ी important है। Next property is isomerism.Isomerism का नाम आपने सुन रखा होगा। शायद organic chemistry में सुना होगा। ठीक है। Isomerism क्या होता है कि same molecular formula हो, कि जो उनका formula है वो तो same है but different structural formula हो। जो structural formula है वो अलग है। जो structure बन रहे हैं वो different हैं। Molecular formula तो same है but जो structure बन रहे हैं वो अलग-अलग है। ये आपने organic compounds में देखा होगा और organic compounds बच्चों आपको इतना तो पता ही होगा कि covalent nature के होते हैं। Carbon-carbon के bond होते हैं organic compound में carbon covalent bond बनाता है। Ionic compound से उम्मीद मत करना isomerism की। Ionic compound का कुछ shape ही नहीं है, structure ही नहीं है। Lattice का है। Lattice का है single molecule का कोई shape नहीं है। खूब ढेर सारे NaCl लगा दोगे तो उसका एक shape है जिसको rock salt बोलते हैं। पर single NaCl molecule का कोई shape नहीं होता है। तो उनसे isomerism expect करना बेकार है। जैसे आपने बोला कि NaCl है तो NaCl का एक ही, कोई shape है ही नहीं। वो बस non directional.
+
+27:05 
+कोई direction ही नहीं है। Na+ अगल-बगल कहीं पे भी Cl- खत्म। Even इससे ज्यादा आपके atoms भी हो जाएं। जैसे आप कह रहे हो number of atoms बढ़ जाएं। है ना। Al2O3 हो गया aluminium oxide Al2O3.वहां पे भी कोई shape नहीं बनेगा। Charges आपस में जुड़े रहेंगे ऐसे force of attraction से। So they are non directional तो structure की बात ही नहीं हो सकती। Isomerism होता है same molecular formula different structural formula.
+
+27:30 
+ये सब चीजें show नहीं करते। They don't have any direction.तो isomerism की बात covalent compound में कर सकते हो ionic compound में नहीं because they are non directional in nature.पर एक property जो ये show करते हैं वो होती है isomorphism.
+
+27:46 
+सुना है?Isomorphism.Isomorphism क्या होती है कि आपका similar lattice हो। मतलब 3D में जो arrangement है सारे molecules जब साथ में देखे जाएं, एक molecule नहीं सारे molecule जब साथ में देखे जाएं तो वो देखने में एक जैसे लगें। उसको हम बोलते हैं isomorphism.
+
+28:10 
+Same 3D structure, 3D structure same हो single molecule का नहीं। कब होता है isomorphism?दो condition देखनी है आपको। एक तो similar formula हो। same नहीं similar formula हो। और दूसरा cation anion की size nearly same हो। तब उनका 3D structure करीब-करीब same होगा। जैसे मैंने आपको बताया कि एक Na को छह Cl ions अगल-बगल से घेरे होते हैं और एक Cl को छह Na ions घेरे होते हैं। यही same पूरे जो 3D geometry है follow है। ध्यान से देखना जैसे NaCl और हमने ले लिया MgCl.
+
+28:53 
+अब देखो formula तो करीब-करीब similar है। एक cation एक anion, एक cation एक anion.Cl भी दोनों में same ही है। अब size की बात आई तो anion का size तो same हो गया। Cation के size क्या same है?Sodium magnesium periodic table में देखो दोनों ही third period से आ रहे हैं और neighbour हैं। और period में size बहुत ज्यादा कम नहीं होता। बहुत धीमे-धीमे decrease करता है। और दोनों neighbour हैं तो बहुत ज्यादा difference भी नहीं होगा। So they almost have similar size.
+
+29:21 
+Period में धीमे-धीमे घटता है। Group में नीचे जाओ तो size बहुत तेजी से बढ़ता है क्योंकि shell बढ़ती है। Period में तो धीमे-धीमे घट रहा है। So इनका size भी करीब-करीब same है, formula भी same है तो ये हो जाएंगे isomer.
+
+29:31 
+मतलब MgCl का कोई हमसे पूछे 3D structure कैसा होगा तो हम बोलेंगे NaCl जैसा होगा similar होगा। जैसे हमसे कोई बोले NaF MgO इनके बारे में बात करें। अब sodium magnesium भी neighbour है, बगल-बगल है, ज्यादा size का difference नहीं, थोड़ा सा difference। Fluorine oxygen भी neighbour हैं, ज्यादा size का difference नहीं and they also have similar formula.
+
+29:55 
+तो ये isomers होते हैं जिनका similar formula हो और cation anion का size करीब-करीब same हो। क्या नहीं हो सकते हैं isomers वो भी देखो। जैसे हमसे बोला NaCl और हमसे बोला KCl। चलो anion तो same है छोड़ो। Formula भी same है। पर sodium और potassium में size का बड़ा difference है। Sodium third period से है, potassium fourth period से है। Sodium के पास तीन shell है, potassium के पास चार shell है। बहुत ही बड़ा है। तो size का difference हो गया तो they are not isomers.
+
+30:23 
+तो isomers के लिए दो चीजें check करो। एक तो neighbour हो periodic table में group period के अंदर। Same group से होंगे तो chance ही नहीं क्योंकि size बहुत तेज बढ़ रहा है और formula भी करीब-करीब same दिखे। ठीक है।तो ionic compound isomorphism दिखाते हैं, isomerism नहीं दिखाते। अगली चीज है बच्चों type of reaction कि किस तरह का reaction करते हैं ये। नाम है ionic compound reaction करते हैं ionic । मतलब जो reaction होता है वो ions का होता है और ये बहुत ही fast होता है। इनकी हम ज्यादा study नहीं कर सकते। जैसे हम एक chapter लेकर आएंगे chemical kinetics। वो reaction की speed की study होती है। किसी chemical reaction की speed के बारे में पढ़ना। तो कभी भी हम इन reactions की speed के बारे में study नहीं करते। हम covalent compound के reaction की study कर सकते हैं। जो organic reactions हैं उनके speed को पढ़ सकते हैं क्योंकि उनकी speed slow होती है। इनकी speed ten की power minus six seconds में complete हो गया पूरा reaction.
+
+31:26 
+Ten की power minus eight second में reaction खच्चर से खत्म तुरंत because they are very fast ions हैं। जैसे example ले लिया मैंने NaCL plus AgNO3 aqueous, aqueous, aqueous state में ions होंगे यानी Na plus CL minus ions होंगे क्योंकि aqueous state में है Ag plus NO3 minus ions होंगे solid state नहीं aqueous state यानी ions मिल रहे होंगे free हैं। तुरंत बनता है AgCL देख रखा होगा white precipitate होता है AgCL का। साथ में बनेगा NaNO3 aqueous यानी ये भी रहेगा फिर से ionic state में। This reaction is very very fast because this is an ionic reaction.
+
+32:06 
+तो ionic compound ionic reaction show करते हैं और covalent compound molecular reaction.Covalent compound molecular जिनकी speed काफी कम होती है। कोई पूछे कौन ज्यादा तेज react करेगा?मान लो चार reaction दे दे। आपको चार reaction दे दे। पूछे इसमें सबसे ज्यादा speed किसकी है?
+
+32:21 
+अगर कोई ionic reaction है तुरंत मारो कि उसकी speed तो सबसे ज्यादा। कहीं दिख रहा है कि पूरा पूरा reaction ions का है तो आप समझ जाओ that reaction is fastest.जहां पर भी precipitation हो, जिस reaction में भी precipitation हो, वो बहुत ही fast reaction होते हैं। तो ये अपना multiple choice में आ सकता है कि चार reaction दिए हैं, तीन organic के हैं, एक आपको inorganic का दे दिया तो आप समझ जाओ this is the fastest.
+
+32:43 
+इसके बाद बच्चों जो बात आती है वो है solubility के बारे में। Solubility है ना, ये property हम पढ़ते आ रहे हैं। तो आपने पढ़ा होगा कि water में बहुत soluble होते हैं वगैरह-वगैरह क्योंकि water में जाकर ions घिर जाते हैं, hydration हो जाता है, solvation हो जाता है। पर बच्चे इसकी पूरी कहानी है hydration energy से related.
+
+33:03 
+किससे related?Hydration energy से related या उसी को आप बोल लो solvation energy से। ठीक है। हमारे पास एक condition आएगी पूरी lattice energy, solvation energy की। कौन ज्यादा होगा तो क्या होगा?कब किसी चीज में वो soluble होगा, कब किस चीज में any compound soluble नहीं होगा। तो इसके लिए भी separate video करना पड़ेगा। तो आज हमने ionic compound की आपको बहुत ही basic चीजें बताई, properties बताई, कैसे बनता है lewis dot structure, कौन सा strong, कौन सा weak, क्या favorable conditions.
+
+33:34 
+अगला video हमारा lattice energy पर है कि जब ions combine करते हैं तो energy release होती है। तो lattice energy पर एक video करना पड़ेगा हमको। उसी तरह से hydration energy, solvation energy पर कि कब soluble है, कब नहीं। जैसे एक और हमारा topic यहां पर एक और property होगी वो होगी percentage of covalent character.
+
+33:53 
+मैंने आपको बताया है कोई भी ionic compound 100% ionic नहीं होता। कोई भी covalent compound 100% covalent नहीं होता। एक metal non-metal में ionic compound बना तो है पर उनमें कुछ ना कुछ covalent character भी है और उसको निकालने के लिए हमारे पास एक नियम है जिसको हम बोलते हैं Fajan's rule.
+
+34:10 
+तो अगला video Fajan's rule पर होगा। तो lattice energy then Fajan's rule then we will if we'll have time अगर तब time हुआ तो इस पर भी बात करेंगे। तो पढ़ते रहिए all the very best.

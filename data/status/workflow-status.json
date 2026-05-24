@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "status_family": "workflow_status",
+  "description": "Reusable workflow statuses for transcript mapping, timestamp mapping, concept mapping, image processing, and future task pipelines.",
+  "statuses": [
+    {
+      "id": "not_started",
+      "label": "Not Started",
+      "description": "Work has not begun.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "in_progress",
+      "label": "In Progress",
+      "description": "Work is underway.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "needs_review",
+      "label": "Needs Review",
+      "description": "Work is done enough to be reviewed but not approved.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "complete",
+      "label": "Complete",
+      "description": "Work item is complete for its current purpose.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "blocked",
+      "label": "Blocked",
+      "description": "Work cannot continue until a dependency is resolved.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "not_applicable",
+      "label": "Not Applicable",
+      "description": "This workflow does not apply to this item.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": true,
+      "deprecated": false
+    }
+  ],
+  "notes": "These statuses are for process tracking, not public publication."
+}

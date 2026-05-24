@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "status_family": "review_status",
+  "description": "General review workflow status for content, metadata, syllabus maps, and source mappings.",
+  "statuses": [
+    {
+      "id": "not_started",
+      "label": "Not Started",
+      "description": "Review has not begun.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "in_review",
+      "label": "In Review",
+      "description": "Review is actively underway.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "changes_requested",
+      "label": "Changes Requested",
+      "description": "Review found issues that must be fixed before approval.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "approved",
+      "label": "Approved",
+      "description": "Review is complete and approved.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "blocked",
+      "label": "Blocked",
+      "description": "Review cannot proceed until an external issue is resolved.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    }
+  ],
+  "notes": "Review approval alone does not mean public publication."
+}

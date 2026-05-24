@@ -1,0 +1,297 @@
+
+00:15 
+तो अब हम लोग बात कर रहे हैं कि electronic configuration कैसे करें molecular orbital के अंदर sigma one s, sigma one star one s, sigma two s में electron कैसे डालना है। तो उसके लिए दो rule पढ़ना है। पहला आपको पढ़ना है कि if total number of electrons in molecule, in molecule उस molecule के अंदर जो total electrons हैं in molecule is less than equal to fourteen मतलब fourteen तक fourteen भी use करेंगे। तब जो electronic configuration होगा बच्चों molecule का जो electronic configuration का order होगा, अब鲍न्स Transfer को follow कर रहा है sigma one s, sigma star one s, sigma two s, sigma star two s, pi two px equal to pi two py इन दोनों की energy बराबर है। Sigma two pz pi star two px equal to pi star two py bond anti bonding then sigma star two pz.
+
+01:20 
+तो इसको आप जरूर note करें पहले इस order को कि इसी order से हमें चलना है video को यहीं पर pause कर लें। इस order को note कर लें या screenshot ले लें जो भी करना हो do it इसको follow करना पड़ेगा और ये चीज learn करनी पड़ेगी क्योंकि यहां कोई n plus l rule नहीं है atomic orbital जैसा कि हम determine कर लें exam में तो ये चीज आपको याद करनी पड़ेगी। कब तक?
+
+01:41 
+Fourteen या fourteen से कम electron तक sigma one s, sigma star one s, sigma two s, sigma star two s, pi two px, pi two py, sigma pz तो इसको मैं side में ऊपर लिख लेता हूं कहीं। फिर हम लोग electronic configuration start करते हैं तो मैं side में यहां पे लिख लेता हूं sigma one s, sigma star one s, sigma two s, sigma star two s, pi two px equal to pi two py, sigma two pz, pi star two px equal to pi star two py and sigma star two pz.
+
+02:14 
+ठीक है तो इसको follow करेंगे। शुरू करते हैं सबसे पहला molecule लेते हैं H2 hydrogen, hydrogen के अंदर कितने electron होंगे?दो electron एक hydrogen atom में एक दूसरे में भी एक दो electron किसमें जाएंगे?
+
+02:26 
+पहले वाले में कितने electron जा सकते हैं एक orbital में?दो तो sigma one s two बन गया। हो गया hydrogen का कहानी। चलो दूसरा ले लेते हैं। दूसरा हमने ले लिया He2 मान लेते हैं कभी helium ने अपना molecule बना लिया although helium noble gas है मान लेते हैं बना लिया तो helium के अंदर कितने electron होंगे?
+
+02:44 
+चार एक में दो, दो में चार configuration sigma one s two, sigma star one s two.एक और example ले लेते हैं hydrogen plus ये क्या हुआ?Hydrogen के दो atom लिए molecule बना उसमें से एक electron बाहर निकाल लिया तो क्या बनेगा?
+
+03:05 
+H2 plus मतलब कितना electron?One electron H2 plus मतलब इसी में से एक electron निकाल लिया तो यहीं से निकल जाएगा तो बनेगा sigma one s one ये बनेगा। तो इस तरह से आप configuration कर सकते हो molecules की आगे बढ़ते जाएंगे। अब मैं यहां पे आपको बड़ी खास बात बताने जा रहा हूं बच्चों। खास बात ये है bond order, bond order.
+
+03:28 
+अब एक नई चीज हमको सीखनी है bond order मतलब number of bond मतलब number of bonds.इसका formula है number of electrons in bonding minus number of electrons in anti bonding divide by two.number of bonds पता लगाना है तो जितने bonding electron है minus जितने anti bonding में है divide by two.
+
+03:49 
+जैसे यहां पे मैं bond order पूछूं तो bonding में कितने हैं?दो anti bonding है ही नहीं zero divide by two कितना?एक मतलब H और H के बीच में कितना bond होता है?एक bond यहां पे bond order number of electrons in bonding दो minus number of in anti bonding दो anti bonding में भी दो, इसमें भी दो divide by two कितने bond?
+
+04:09 
+zero He2 में कितने bond होते हैं?zero इसका मतलब ये molecule exist नहीं करता bond ही नहीं है it do not exist.तो बढ़िया theory है किसी molecule का bond, bond order zero आ जाता है तो समझ जाओ वो exist नहीं कर सकता या किसी का bond order जितना छोटा आता है उतना वो कम stable यानी किसी भी molecule की जो stability होती है बच्चों वो bond order पर depend करती है। bond order जितना ज्यादा stability उतनी ज्यादा जैसे H2 plus की बात करें bond order number of electrons in bonding एक anti bonding zero divide by two bond order is one by two.
+
+04:46 
+अब मैं बोलूं इन तीनों में से सबसे ज्यादा stable कौन है तो ये valence bond theory नहीं बता सकती पर ये बता सकते हैं सबसे ज्यादा stable वो जिसका bond order सबसे ज्यादा यानी ये उसके बाद ये उसके बाद ये अगर मैं इसको बोलूं stability में आप arrange करो किसमें arrange करो?
+
+05:01 
+Stability में, stability में arrange करो तो आप बहुत easily कर सकते हो। आप बोलोगे सबसे ज्यादा hydrogen की फिर बोलोगे He2 plus sorry H2 plus की और उसके बाद He2 की clear है। अभी तक तो clear होगा। अब मैं आपको confuse करने जा रहा हूं। ध्यान रहे अभी energy वाला diagram बनाएंगे कई लोग tension आ गए वो energy वाला diagram कब आएगा?
+
+05:23 
+वो लंबा सा वो सब आएगा। सीखते जाओ मान लो मैं question दूं H2 minus का अभी आया वो सवाल JEE का अपना lithium में आया था Li2, Li2 plus, Li2 minus same सवाल होगा H2 minus कितने electron?H2 minus मतलब hydrogen के molecule में एक electron और मतलब तीन electron तो sigma one s two, sigma star one s one तीन electron ऐसे ही होंगे पहले इसमें दो फिर इसमें एक bond order की बात करें number of electron in bonding minus number of electron in anti bonding divide by two सही है। तीन electron होंगे इसमें दो इसमें, एक इसमें bonding में दो anti bonding में एक तीन कितना आया one by two.
+
+06:04 
+अब मैं पूछूं इन तीनों में stability order क्या है?अब बताओ इनका stability order क्या है?तो लग रहा होगा कि सबसे ज्यादा stable तो यह है और इन दोनों की stability बराबर। ऐसा नहीं है। note करके लिखो note डाल के लिखो if bond order is equal, if bond order is equal then stability is checked by seeing which has lesser number of anti bonding electron.
+
+06:31 
+अगर दो का bond order same है तो यह देखो किसमें anti bonding में electron कम है। इन दोनों का bond order same है half, half.दोनों में से anti bonding में electron किसमें कम है?इसमें। इसमें anti bonding में एक भी electron नहीं तो this is more stable.
+
+06:47 
+जब bond order बराबर आ जाए तो check करो anti bonding में किसके electron कम हैं। इसके पास anti bonding में electron नहीं है इसके पास है तो यह less stable क्योंकि anti bonding stability घटाता है। यानी stability का order होगा सबसे पहले H2 फिर H2 plus और फिर H2 minus.
+
+07:04 
+इन दोनों का bond order बराबर था पर इसके पास anti bonding में electron नहीं था इसके पास था। clear हो गया अभी?समझ में आ गया कैसे guess करना है stability वगैरह bond order कैसे निकालना है। अच्छा अब यहीं पर बात कर लेते हैं stability की बात हो गई समझ में आ गया। bond length की, bond length की। देखो bond order जितना ज्यादा होगा number of bond जितने ज्यादा होंगे atom उतने close हो जाएंगे bond length उतनी छोटी हो जाएगी। मतलब bond length is inversely proportional to bond order.
+
+07:35 
+Bond order जितना ज्यादा number of bond उतने ज्यादा atoms उतने close bond length उतनी छोटी। मतलब इससे मैं पूछ रहा हूं कि bond length का आप order बताएं। यही सब सवाल आ सकते हैं comparison वाले stability बताओ bond length का order बताओ bond length का order.
+
+07:50 
+तो जो हमारा bond order का order है उसके just opposite हो जाएगा। जैसे इन दोनों की bond length क्या हो जाएगी same.अब यहां पर stability check मत करना इन दोनों की bond length same और इसकी bond length उससे कम। bond order किस पर based है sorry bond length किस पर based है inversely proportional to bond order.
+
+08:06 
+सिर्फ bond order stability में मत चले जाना सिर्फ bond order.तो इन दोनों की bond length same और इसकी bond length उनसे कम inversely proportional जिसका bond length कम sorry bond order कम stability उतनी ज्यादा sorry bond order उतना bond length उतनी ज्यादा। तो cut करते नहीं चलो चलाते रहते हैं ठीक है ठीक है तो bond order जितना ज्यादा bond length उतनी कम clear हो गई सब चीजें छोटी मोटी बातें और क्या आता है?
+
+08:30 
+और आता है बच्चों magnetic nature.magnetic nature ठीक है इसको मैं हटा दूं note कर लिया है bond order कैसे निकालेंगे stability जितना bond order उतनी ज्यादा। magnetic nature दो तरह के हमें guess करना होगा एक होगा paramagnetic एक होगा diamagnetic । paramagnetic बच्चों वो जो magnetic field में थोड़े से attract हो जाए diamagnetic जो magnetic field में repel हो। तो बच्चों paramagnetic वो होंगे जिनके पास unpaired electrons हो। unpaired electron यानी एक electron इसका magnetic moment कोई cancel नहीं कर रहा तो यह magnetic property दिखाएगा और जिसके पास paired electrons हो वो कैसा हो जाएगा हमारा diamagnetic उसको magnetic field से कोई फर्क ही नहीं उसके electron paired है थोड़ा सा repel अलग हो जाएगा वो ठीक है। यह magnetic field में थोड़ा सा repel यह थोड़ा सा attract.
+
+09:29 
+तो इन तीनों में से बताओ सबका nature यहां पे electron दोनों paired, paired है यहां पे paired electrons का मतलब this is diamagnetic और यह experiment भी agree करते हैं। यहां पर बताओ यह paired है यह unpaired तो ये कैसा हो गया paramagnetic exam में सवाल आ गया इन तीनों में से paramagnetic कौन है?
+
+09:49 
+ये, ये वाला बताओ H2 plus unpaired दो electron नहीं है 1s में एक electron है sigma 1s में एक electron तो एक ऐसा हो गया unpaired electron that means again it is paramagnetic.तो ये दोनों paramagnetic and this is dia जहां पे paired electron वहां पे dia जहां पे unpaired वहां पे para जहां पे paired वहां पे dia जहां पे unpaired वहां पे para clear बहुत बढ़िया भाई तो मैंने ख्याल से मैंने आपको theory तो बता दी इसके अंदर अब electronic configuration और example करते जाओ हाथ set हो जाएगा। सारी चीजें बताएंगे अब ठीक है चलो आगे बढ़ते हैं next molecule ले लेते हैं H2 हो गया helium two हो गया अब Li2, Li2 बोलो Li2 lithium में तीन electron Li2 छह electron sigma 1s2 sigma star 1s2 sigma 2s2 हो गए छह bond order की बात करते हैं bond order number of electron in bonding minus anti bonding divide by two bonding में दो, दो, चार anti bonding में दो divide by दो bond order one यानी इनके बीच में कभी bond बनेगा तो एक bond बनेगा। Li2 plus कितने electron छह में से एक चला गया पांच electron तो sigma 1s2 sigma star 1s2 sigma 2s1 bond order की बात करें बोलो bonding में तीन anti bonding में दो divide by दो कितना हुआ one by two और साथ में Li2 minus की बात करें मतलब सात electron sigma 1s2 sigma star 1s2 sigma 2s2 इसके बाद कौन है sigma star 2s1 दो, दो, चार, दो, छह, एक सात bond order की बात करें दो, दो, चार, एक, पांच minus anti bonding sorry bond order दो, दो, चार minus anti bonding दो, एक, तीन divide by two कितना आया one by two stability सबसे ज्यादा इसकी फिर बताओ, फिर बताओ, फिर बताओ, फिर बताओ, फिर बताओ, फिर बताओ इसकी क्यों?
+
+11:42 
+क्योंकि anti bonding में electron नहीं है फिर इसकी क्योंकि anti bonding में electron bond order के हिसाब से सबसे ज्यादा इसकी फिर इन दोनों की बराबर पर इसके anti bonding में electron है इसमें नहीं तो stability क्या हो जाएगी Li2, Li2 plus Li2 minus ये order हो जाएगा चलिए भाई समझ में आ गया ये भी चलिए तो lithium हो गया hydrogen हो गया helium हो गया अब चाहो तुम beryllium कर लो अपने आप try Be2 beryllium में चार electron ये हो गए आठ electron आठ electron दो, दो, चार, दो, छह, दो आठ तो sigma 1s2 sigmaStar one s two sigma two s two sigma star two s two bond order zero आएगा देखो क्योंकि जितने bonding में है उतने anti bonding में है। है ना minus करोगे zero ये इससे cancel, ये इससे cancel bond order zero मतलब do not exist, do not exist। next ले लेते हैं B2 boron two दो कितने electron हो गए दस electron है ना boron पांच दस electron दस electron दो, दो चार, दो छह, दो आठ। अब देखो कैसे भरना है इसको sigma one s two sigma star one s two sigma two s two sigma star two s two कितने हुए दो, दो चार, दो छह, दो आठ। अब आए दोनों साथ में आएंगे ये pi two px equal to pi two py दोनों साथ में खुलते हैं। अब इन दोनों की energy बराबर है। कितने electron बचे हैं अभी दो आठ हो गए दो बचे तो एक इसमें जाएगा एक इसमें ग्यारह होता तो फिर एक इसमें बारह तो फिर उसमें किसी एक में दो मत डालना Hunt's rule पहले इसमें फिर इसमें bond order की बात कर ले bond order तो बोलो रे bond order bonding में दो, दो चार, पांच एक छह anti bonding में दो, दो चार divide by दो, दो by दो bond order one इसके बीच में कितना bond है one magnetic nature काफी देर से इसकी बात नहीं की थी now कर लेते हैं magnetic nature तो electron कैसे हैं इसमें unpaired unpaired मतलब moment cancel नहीं हुआ single electron attract हो जाएगा magnetic field में मतलब Paramagnetic unpaired electron दिखे तो Paramagnetic ये वाला बताओ Diamagnetic सारे electron paired all electrons paired वैसे तो exist नहीं करेगा करता तो कैसा होता Diamagnetic हो गया अब आप मेरे को करके दिखाओ C2 का चलो video को pause करो Carbon Two का सब कुछ खुद से करो bond order magnetic nature सब कुछ C2 का बारह electron C2 बारह electron one, two, three, four, five, six, seven, eight हो गया pause हो गया भाई चलो Carbon Two बारह electron बारह कैसे भरोगे sigma one s two sigma star one s two sigma two s two sigma star two s two अरे यार ये बड़ा बोर कर रहा है एक काम करते हैं इस पूरे को हम हटा देते हैं इस पूरे को हम हटा देते हैं आठ electron है दो, दो चार, दो छह, दो आठ bond order पर इसका कोई फर्क पड़ नहीं रहा है ये इससे cancel हो रहा है ये इससे cancel हो रहे हैं भैया bond order पर कोई फर्क पड़ रहा है ये इससे cancel हो जा रहे होंगे ये इससे cancel हो जा रहे होंगे तो बचे हुए electron से फर्क पड़ रहा होगा ये तो अंदर अंदर cancel हो रहे होंगे कोई फर्क नहीं और लिखने का बार बार मतलब नहीं है तो इसको आगे से हम लिखना बंद कर देंगे pi two px equal to pi two py चलो भाई ये हुए आठ electron बारह तो एक इसमें एक इसमें नौ दस फिर एक इसमें और ग्यारह फिर एक इसमें और बारह complete bond order की बात करें तो इससे कोई फर्क नहीं पड़ना कटने वाले हैं bonding कितने हुए चार anti bonding zero divide by two कितना आया दो अरे ये तो cancel हो जाएंगे ना गिन लो दो, दो चार, दो छह, दो आठ, आठ हुए bonding minus दो, दो चार anti bonding divide by two यही तो आ रहा है। यानी इसको ignore किया जा सकता है जब लंबे लंबे molecules लिखो तो इसको ignore मार दो bond order magnetic nature बोलो Diamagnetic क्यों Diamagnetic?
+
+15:25 
+क्योंकि सारे electrons all electrons are paired तो इसकी configuration हम ऐसे लिखेंगे K K, K K dash K K मतलब ये K K dash मतलब ये, ये दोनों fill हो गई इसके बाद pi two px equal to pi two py दो, दो क्या इनसे कुछ फर्क पड़ा bond order पर नहीं पड़ा देखो मैंने इनको छोड़ा बाहर के हमने क्योंकि ये से cancel ये इससे cancel बचे कितने bonding चार anti bonding zero divide by two तो अब ऐसे लिखना सीखो ये कहां तक के electron है आठ electron तो आठ electron को sigma two s sigma star two s तक लिखने की जरूरत नहीं है सीधा start कर दो pi two px pi two py से चलो Carbon हो गया next is Nitrogen next is Nitrogen N2 देखते हैं कितना bond order आता है N2 का चौदह electron चलो तो sigma one से लिखना छोड़ दूं मैं K K, K K dash कितने electron खत्म आठ खत्म कितने बचे छह अब pi two px equal to pi two py then sigma two pz दो, दो एक एक डाला होगा फिर एक एक डाला होगा बारह हुए और इसमें दो डाला fourteen electron ठीक है bond order number of electrons in bonding दो, दो चार दो छह anti bonding zero divide by two ये सब तो cancel हो रहे होंगे अंदर वाले दो, दो bonding दो anti bonding दो bonding दो anti bonding cancel तो छह bonding एक भी anti bonding नहीं तीन bond order तीन मतलब Nitrogen Nitrogen के बीच में कितना bond तीन bond सही है बढ़िया मस्त Paramagnetic Diamagnetic Diamagnetic क्यों Diamagnetic क्यों?
+
+17:10 
+क्यों रे क्यों हुआ ये Diamagnetic?क्योंकि इसमें एक भी electron unpaired नहीं है all electrons paired हैं magnetic field में थोड़ा सा repel हो जाएगा clear है अब देखो यहां पर मैं तुमको एक बड़ा ही clicking point बता रहा हूं जहां पर बच्चों को confusion होती है listen carefully N2 में मैंने एक electron जोड़ दिया क्या बनेगा N2 minus number of electron fourteen number of electron fifteen ये जो electronic configuration है ये कहां तक का था less than equal to fourteen electron तो क्या N2 minus पर ये configuration लगेगा या कोई दूसरा configuration लगेगा this is a big question यहीं पर सारे videos आपके flop होते हैं ये मेरा video आपको अंदर की detailing समझाता है यहीं आप फंसते हो कि N2 में चौदह electron ठीक है N2 minus में पंद्रह electron तो पंद्रह के लिए तो दूसरी configuration आएगी अभी ये चौदह तक की थी तो इसमें क्या करें पंद्रह वाली लगाएंगे चौदह वाली इसमें आप चौदह वाली लगा दो क्यों क्योंकि बना किससे है N2 से यानी N2 minus इसी configuration को follow करेगा so अगर मैं N2 minus की बात करूं जिसमें कितने electron पंद्रह electron इसी configuration को follow करेगा सब same रहेगा dash, dash, dash, dash, dash, dash, dash, dash ये कितने थे fourteen यहां तक पहुंच गए इसके बाद है pi star two pxपूरा लिख दूं मैं Sigma one S two थोड़ा मजा लेते हैं Sigma star one S two Sigma two S two Sigma star two S two pi two px equal to pi two py दो दो Sigma two pz दो pi star two px अरे छी! pi star two px equal to pi star two py चलो। दो दो चार दो छह दो आठ। ये तो आठ electron k k k k dash खत्म। ठीक है। दो दस बारह दो चौदह एक पंद्रह। इसी configuration में चलेगा पंद्रह electron क्योंकि ये N2 से बना है कोई नया molecule नहीं है। अब बोलो इसके लिए bond order?
+
+19:05 
+कोई tension नहीं सब आपस में cancel, cancel, cancel ये बचे। दो दो चार दो छह minus anti bonding में एक divide by two पाँच by two कितना हुआ ढाई। इन दोनों में से ज्यादा stable कौन है?ये रहा इसका bond order कितना था?
+
+19:18 
+छह minus zero by दो। कितना?तीन। This is more stable this is less stable.जैसे यहां पे कोई आपसे N2 plus पूछ ले तो उसमें कितने electron होंगे?तेरह तो कोई tension नहीं यही system रहेगा तेरह के लिए तो। fourteen thirteen, thirteen में उसमें एक electron कम कर देना। किसमें?
+
+19:33 
+last वाले से एक electron निकाल देना Sigma two pz में। Paramagnetic nature हो जाएगा। जैसे इसका nature भी कैसा होगा?Paramagnetic.Magnet से थोड़ा सा attract क्योंकि एक electron कैसा है?Unpaired.दिख रहा है ये वाला unpaired.
+
+19:47 
+ये two px two py orbitals है ना तो इसमें एक में electron है और completely fill नहीं है.Paramagnetic.N2 plus तेरह electron यहां पे Sigma two pz one हो जाएगा bond order दो दो चार एक पाँच by दो ढाई आएगा और, और, और, और, और, और, और paramagnetic nature क्योंकि उसमें एक electron.
+
+20:07 
+ठीक है। इसका configuration same रहेगा last में Sigma two pz one बन जाएगा। Bond order कितना आएगा बोलो?दो दो चार एक पाँच minus zero by दो कितना आया?ढाई। इन तीनों में सबसे ज्यादा stable ये। इन दोनों में कौन ज्यादा stable?
+
+20:19 
+इन दोनों में कौन ज्यादा stable?Anti bonding में electron इसके पास है इसके पास नहीं होगा। इसके पहले क्या होगा?इसकी पूरी यही configuration होगी यार यहां पे बस one electron.इन दोनों में से unpaired elect sorry इन दोनों में से anti bonding में electron किसके पास है?
+
+20:33 
+इसके पास। तो this is less stable this is more stable.तो N2, N2 plus N2 minus order N2, N2 plus N2 minus.तो बहुत बढ़िया आप ये सारी कहानी समझ गए bond order समझ गए। बहुत बढ़िया भाई बहुत अच्छा लगा हमें बहुत मजा आया। बहुत मजा आया सवाल आपने बनाया। अच्छा मान लो मैं तुम्हें घुमाऊं फिराऊं और तुमसे दूसरा सवाल करवाऊं। जैसे मैं तुम्हें दे दूं carbon monoxide या मैं तुम्हें दे दूं CN। दे सकता हूं क्यों नहीं दे सकता?
+
+21:06 
+दे सकता हूं। या मैं तुम्हें दे दूं CN minus.अब क्या करें?Number of electron गिनें configuration को करें। कर सकते हैं छह plus आठ कितने हुए?fourteen electron और fourteen electron के लिए पूरी कहानी लिखें और चीजों को समझें। ये कर सकते हैं या इसका कोई shortcut उठा ले। बिल्कुल एक shortcut समझो अब मैं यहां पे लिख रहा हूं एक shortcut समझो चौदह, तेरह, बारह, ग्यारह, दस bond order। चौदह पे bond order होता है तीन। तेरह पे ढाई। बारह पे दो। ग्यारह पे one point five। दस पे one खत्म। अगर number of electron fourteen bond order three, thirteen two point five, बारह दो, ग्यारह डेढ़, दस एक। चौदह पे तीन रखो उसके बाद point five, point five, point five कम कर दो। जैसे आपसे पूछे which is more stable?
+
+21:58 
+Which is more stable?या एक सवाल JEE में आया हुआ था which has same bond order as N2 similar सवाल था। अब चार option आपको दे दिया मान लो CN ठीक है CO, O2 चार option आपको कुछ भी दे दिया NO plus अब पूछा किसका bond order N2 के similar है?
+
+22:23 
+तो यार तुम कुछ मत करो number of electron गिन लो। ये मैंने क्या गिना?Number of electrons number of electron गिन लो। N2 में कितने electron हैं?fourteen तो bond order चौदह के लिए कितना होता है?तीन। चौदह के लिए तीन, तेरह के लिए ढाई, बारह के लिए दो। ठीक है। यहां पे आ जाओ CN छह और nitrogen सात छह सात तेरह तो इसका bond order कितना होगा?
+
+22:45 
+ढाई छोड़ दो। CO छह आठ चौदह, चौदह electron bond order कितना होगा?तीन। चौदह पे तीन, तेरह पे ढाई, बारह पे दो एक एक एक इधर गिरेगा इधर आधा आधा आधा आधा गिरेगा। oxygen कितना?सोलह electron भूल जाओ। NO plus सात oxygen में कितने electron होते हैं?
+
+23:05 
+आठ। total electron गिनने हैं valance shell के नहीं carbon पे छह nitrogen सात तेरह carbon छह oxygen पे आठ चौदह oxygen पे आठ आठ सोलह सात और आठ पंद्रह और एक electron चला गया चौदह। हां plus लगा सात और आठ पंद्रह एक electron चला गया चौदह। चौदह पे bond order कितना होता है?
+
+23:22 
+Bond order होता है तीन। तो इसमें से nitrogen का bond order कौन follow कर रहा है?D भी कर रहा D भी कर रहा। अब समझ में आया तो इस trick को आप use कर सकते हो। हां, इसमें कुछ चीजें छुप रही हैं कि paramagnetic है कि नहीं diamagnetic है कि नहीं। अभी तेरे कौन ज्यादा stable है?
+
+23:40 
+कौन ज्यादा stable है तुम्हें क्या पता होना चाहिए?किसमें?Anti bonding में electron है तो वो चीज यहां से गायब है तो कहीं जगह काम कर जाएगा। जहां हल्के फुल्के सवाल होंगे वहां चल जाएगा। Stability में काम कर जाएगा। जैसे हम पूछे which is more stable?
+
+23:51 
+Which is more stable?ठीक है। option A आपका मैंने रख दिया CN option B रख दिया मैंने NO plus sorry NO option C मैंने रख लिया मान लो O2 option D मैंने रख लिया CN minus.अब हमसे पूछा कौन ज्यादा stable है?तो आप bond order निकाल लो। number of electron six plus seven thirteen bond order two point five.
+
+24:19 
+Seven plus eight fifteen, fifteen का हमें पता नहीं fifteen का भी two point five तो इसको change कर लेता हूं मैं अभी के लिए NON O plus कर लेता हूं चलो। तो ये कितना हो गया seven plus eight, fifteen minus one fourteen bond order three.
+
+24:38 
+इस पर आ जाओ oxygen सोलह electron bond order, bond order सोलह के लिए हमें नहीं पता है। सोलह के लिए आगे जाते हुए भी ये decrease करता है। चाहो तो लिख लो पंद्रह सोलह चलो लिखवा देता हूं। यहां फिर two point five सोलह पे दो, सत्रह पे one point five, अठारह पे one.
+
+24:57 
+Same order इस तरफ भी same order ऊपर भी clear है। चौदह पे तीन रख लो उसके बाद चाहे आगे की तरफ बढ़ो चाहे पीछे की तरफ point five, point five कम कर लो। तो इस सोलह electron के लिए bond order कितना होगा?Bond order होगा दो। फिर यहां आए carbon छह nitrogen सात, छह सात तेरह minus एक चौदह.
+
+25:17 
+Bond order कितना हुआ three.तो आप समझ गए इसमें से ज्यादा stable इसमें से most stable तो नहीं इसमें से आप least stable select कर सकते हो least stable.इसमें से least stable कौन होगा जिसका bond order सबसे कम। तो ढाई तीन, ढाई तीन दो तीन सबसे कम किसका है दो तो हम बोलेंगे oxygen least stable.
+
+25:39 
+अगर stability order पूछ लेगा तो थोड़ा सोचना पड़ेगा यार। देखो ये दोनों की stability बराबर हो सकती है। अब check करना पड़ेगा क्या की anti bonding में किसके electron पड़ा है तो वो confuse हो जाएगा। यहां पे least stable पूछेगा ऐसे सवाल में अगर JEE आसानी से तो आप बता दोगे। पूरा पूछेगा तो configuration करना पड़ेगा। तो bond order निकालने का एक shortcut आपके पास सीधा-साधा पड़ा हुआ है। क्या पड़ा है bond order का आपके पास shortcut?
+
+26:00 
+चौदह पे तीन मानो इसके ऊपर तेरह पे ढाई, बारह पे दो, ग्यारह पे डेढ़, दस पे एक। नीचे जाते हुए फिर वही पंद्रह पे ढाई, सोलह पे दो, सत्रह पे डेढ़, अठारह पे एक shortcut है bond order के लिए लगा सकते हैं इसको clear है। Which has same order?
+
+26:14 
+Which has greater bond order?हो सकता है वो दो का same ना आए अगर सिर्फ bond order compare करने को कहा clear है। बहुत बढ़िया तो ये एक shortcut भी आपको पता चल गया इसको भी आप याद रख सकते हो। अब आया बच्चों energy level diagram.
+
+26:28 
+अभी मैं इसी के चल रहा हूं less than equal to fourteen electron.अभी पंद्रह सोलह के लिए मैंने configuration नहीं बताया shortcut बता दिया shortcut सब पे valid है, है ना। बस ये याद रखना है चौदह पे तीन bond order.
+
+26:41 
+अगर electron चौदह है तो तीन bond order पंद्रह पे ढाई, तेरह पे भी ढाई, बारह पे दो, सोलह पे दो। बस ये चौदह वाली figure याद रखो फिर point five, point five कम करते जाएंगे। अब बनाते हैं बच्चों energy level diagram ठीक है। Orbitals का energy level diagram.
+
+27:03 
+तो आइए मैं इसको समझाऊं आपको energy level diagram की कहानी। सबसे कम energy है sigma one s कैसे बना होगा?जब एक 1s दूसरे 1s से मिला होगा तो 1s 1s मिले होंगे और दो orbital बने होंगे sigma one s, sigma star 1s.
+
+27:19 
+दोनों में से energy किसकी ज्यादा है?इसकी तो मैं यहां से दो platform बनाऊंगा एक orbital यहां एक यहां ये sigma star 1s ये sigma 1s इसकी energy ज्यादा इसकी energy कम। ठीक है ऊपर की तरफ हम energy दिखा रहे हैं तो इसकी energy ज्यादा इसकी energy कम। 1s 1s मिले 1s। इसी तरह से 2s 2s मिले होंगे तो इधर से एक 2s इधर से एक 2s मिले दोनों। ये बन गया sigma star 2s ये बन गया sigma 2s.
+
+27:59 
+Energy किसकी ज्यादा है sigma star की order of energy में चल रहे हैं ऊपर की तरफ clear है। इसके बाद आए होंगे 2p और उससे बहुत कुछ बना है तो आओ 2p को बना लें। p में कितने orbital होते हैं तीन तो p के तीन orbital और इधर भी p के तीन orbital.
+
+28:16 
+अब देखो इसको कैसे बनाना है ये दो orbital की energy same है। फिर इसके बाद एक sigma 2pz भी है sub bonding में। इसके बाद इन दोनों की energy same है anti bonding में तो ऊपर उठा दिया। उसके बाद उसकी energy और ऊपर है anti bonding में तो उसको और ऊपर उठा दिया ये बन गया। देखो अब क्या है सबसे पहले pi 2px, pi 2py तो दो orbital यहां साथ में है कौन-कौन सी pi 2px, pi 2py.
+
+28:46 
+इसके बाद इसके ऊपर है sigma 2pz तो ये हो गई इसके बाद sigma 2pz.इसके ऊपर है pi star 2px, pi star 2py तो इस पे रख दी मैंने pi star 2px, pi star 2py और उसके ऊपर है sigma star 2pz तो यहां आ गया sigma star 2pz ऊपर। ये energy level diagram है इसको आप follow करके किसी में भी electron put कर सकते हो। किसी भी molecule के electronic configuration का energy level diagram बना सकते हो molecule का energy level diagram बना सकते हैं। कैसे-कैसे किया समझ में आया?
+
+29:21 
+कोई नई चीज नहीं की 1s 1s लिया एक anti bonding एक bonding, 2s 2s लिया anti bonding bonding इसमें confusion होती है सबसे ज्यादा p में तो इसको फिर से एक बार यहां पे देख लो फिर उसको practice तो करेंगे ही। ये मैंने p के तीन orbital, p के तीन orbital.
+
+29:34 
+देखो पहले pi 2px, pi 2py कैसे है bonding तो bonding को नीचे रखना है नीचे रख लिया। ये बना लिया मैंने दोनों की energy बराबर pi 2px, pi 2py.फिर sigma 2pz bonding है तो उसको भी नीचे ही रखा sigma 2pz.फिर pi star 2px, pi star 2py anti bonding तो ऊपर चला गया क्यों?
+
+29:57 
+क्योंकि anti bonding unstable होता है। चलो अच्छा अभी एक बात और बता देता हूं note में डालनी पड़ेगी pi star 2py.इसके बाद sigma 2pz, sigma star anti bonding तो ये भी ऊपर आ गया sigma star 2pz.ये हो गया हमारा p orbital का px, py, pz से नहीं देखना है हमने बनाने को बना दिया। अब चलो एक बड़ी important बात ये atomic orbital, ये atomic orbital है कि नहीं?
+
+30:19 
+ये atom की orbital थी, ये atom की orbital थी और बीच में molecule की orbital आ रही है। So जो bonding molecular orbital notes note ले लेना इसका copy में डाले noteजो bonding molecular orbital होती है उसकी energy atomic orbital से कम होती है। इसलिए देखो उसके नीचे चला गया। और जो anti bonding molecular orbital होती है उसकी energy atomic orbital से ऊपर। इसीलिए यहां पर मैंने इन दोनों को नीचे बनाया। एक को ऊपर नहीं बना सकता क्योंकि यह भी bonding है, यह भी bonding। bonding molecular orbital की energy atomic orbital से कम होती है और anti bonding की atomic orbital से ज्यादा। ये इससे ज्यादा stable, ये इससे कम stable। इसलिए ये ऊपर चले गए। bonding molecular orbital has lesser energy than atomic.
+
+31:04 
+इसलिए यहां पर दोनों bonding molecular orbital नीचे आएंगे। Notes में जाएगी ये बात। दोनों bonding molecular orbital नीचे आई। एक number का question पूछेगा कि ये diagram ऐसा है because...अब reason देना पड़ेगा, है ना?
+
+31:16 
+तो because में आपको ये लिखना पड़ेगा reason या statement two में आपको ये मिलेगा कि bonding molecular orbital has lesser energy than atomic orbitals.ये हो गया। बस इसके बाद आप इसको diagram वगैरह बना सकते हो यार। जैसे मान लो मैं तुमसे बोलूं अरे कर लोगे यार H2 hydrogen.
+
+31:33 
+तो यार hydrogen में क्या होता है H, H से बनता है 1s1, 1s1 तो एक electron इसमें, एक electron इसमें। दो electron होते हैं configuration क्या होगा?Sigma 1s2 दो electron किसमें चले गए?Bonding में। तो ये दोनों मिलाकर यहां पर बना दो खत्म। यही तो करना है। ये नहीं कर पाओगे। अरे हलवा! अरे भाई! अच्छा जैसे मान लो मैं तुमसे कहूं ये बनाओ। थोड़ा बढ़ा लेते हैं है ना level को थोड़ा, level को थोड़ा बढ़ा लेते हैं। मान लो मैं कहूं B2 बनाओ 10 electron का system.
+
+32:04 
+ठीक है B2 10 electron का system.तो बोलो B2 boron दो sigma 1s2, sigma star 1s2, sigma 2s2, sigma star 2s2 और क्या आएगा?बोलो, बोलो, बोलो, बोलो, बोलो pi 2px equal to pi 2py one, one.दो, दो, चार, दो, छह, दो, आठ, एक, नौ, एक, दस। अच्छा boron का configuration क्या होता है?
+
+32:28 
+boron के पांच electron configuration 1s2, 2s2, 2p1 तो boron का configuration बना ले दोनों तरफ। दोनों तरफ boron configuration इधर भी boron, इधर भी boron 1s2 कचक कुचुक, कचक कुचुक 2s2 कचक कुचुक, कचक कुचुक। दोनों boron आ रहा है दोनों तरफ से। और क्या है?
+
+32:46 
+2p1 p में एक electron होना है। p में सिर्फ एक electron इधर भी one, इधर भी one clear.हो गया। अब बोलो configuration क्या है?Sigma 1s2 यानी इसमें दो electron sigma star 1s2 इसमें भी दो electron sigma 2s2 दो electron sigma star 2s2 दो electron pi 2px में one pi 2py में one parallel spin डाला Hand's rule को follow किया। यहां गलती मत करना कि दोनों को उल्टा उल्टा दोनों की energy same.
+
+33:11 
+किसी का भी electronic configuration आप कर सकते हो। electronic configuration atom का कर लो, molecule का कर लो और फिर इस diagram पर आ जाओ। चलो nitrogen का कर लेते हैं। The last example N2, N2 कितने electron?
+
+33:26 
+14 electron 14 electron के लिए बोलो sigma 1s2, sigma 1s2 star, sigma 2s2, sigma star 2s2, pi 2px equal to pi 2py एक, एक, दो, दो ये कितने हुए इन?12 इसके बाद sigma 2pz2 चौदह nitrogen configuration का कर लो सात electron configuration 1s2, 2s2, 2p3 दो, दो, चार, तीन, सात 1s2, 1s2 दो nitrogen होंगे ना 2s2, 2s2 सही है 2p में three एक, दो, तीन एक, दो, तीन। इधर से एक nitrogen आया, इधर से भी एक nitrogen आया। अब sigma 1s2 ठीक है sigma star 1s2 ठीक है sigma 2s2 ठीक है sigma star 2s2 सही है pi 2px2 इसमें दो electron pi 2py2 इसमें दो electron sigma 2pz2 इसमें दो electron.
+
+34:19 
+आ गया मजा समझ में आ गया energy level diagram कैसे बनाना है। clear हो गया। electronic configuration याद रखोगे तो energy level diagram बन जाएगा。This is this whole this whole is the electronic configuration for less than equal to 14 electron in total of the molecule.
+
+34:38 
+अगर इसमें N2 minus आता है तो याद रखना इसी configuration को follow करना है। तो इसको note कर ले। अब हम लोग चलते हैं electrons greater than 14 पे यानी 15 से लेकर 20 electrons तक के system की हम बात करेंगे 15 से लेकर 20। ये वाला part आपका complete हो गया। चलिए आगे बात करते हैं 15 से लेकर 20 क्या change होगा electronic configuration में और energy level diagram में भी क्या change होगा आइए। तो greater than 14 या 15 से 20 की बात करें 14 तक में यही लगाना था। So electronic configuration for total number of electrons greater than 15 and less than 20 है ना 15 से लेकर 20 और दोनों limit included है। क्या करना है अब आपको?
+
+35:24 
+ये वही रहेगा sigma 1s2, sigma star 1s2, sigma 2s2, sigma star 2s2 experimentally आ गया ये pi 2px equal to pi 2py में two, two हटा दूं। अभी electrons नहीं भरते pi 2px, pi 2py यहां पे change होगा। हम लोग यही लिखते आ रहे थे और इसके बाद क्या लिखते थे sigma 2pz उसके बाद pi star 2px equal to pi star 2py और उसके बाद sigma star 2pz ये लिखते थे। बस यहां पे एक change होना है बस। सिर्फ एक interchange है। ये कहां की थी configuration?
+
+36:01 
+Notes, note, note में डालेंगे ये कहां की थी less than equal to 14 ये उठा के वहां वो उठा के यहां काम खत्म। बस ये interchange है ये, ये। यहां पे डालो sigma 2pz यहां डालो pi 2px equal to pi 2py that's it, that's it for 15 to 20 electron that's it.
+
+36:30 
+अब 15 to 20 electron का सबसे important example is O2 oxygenसोलह electron आएगा ही आएगा paper में चलो sigma one s two sigma star one s two sigma two s two sigma star two s two that is kk, kk.Okay.kk, kk dash इसका कुछ फर्क नहीं पड़ना। आगे sigma two p z two फिर pi two p x equal to pi two p y एक इसमें, एक इसमें, दो इसमें, दो इसमें। कितने हुए?
+
+37:00 
+दो, दो चार, दो छह, दो आठ, दो दस, दो बारह, दो चौदह। next ये आएगा pi star two p x equal to pi star two p y कितने electron बचे?दो। इसमें दो मत डालना एक इसमें, एक इसमें क्योंकि दोनों बराबर। सोलह हो गए दो, दो चार, दो छह, दो आठ, दो दस, दो बारह, दो...
+
+37:18 
+दो, दो चार, दो छह, दो आठ, दो दस, दो बारह, दो चौदह, दो सोलह। पहले सीधा बताओ magnetic nature बिना कुछ सोचे। magnetic nature में क्या देखना है तुमको?कि सारे electron paired हैं कि नहीं। तो दिख रहा है यहां पर दो electron unpaired है। ये paired थोड़ी ना हैं ऐसे एक, एक unpaired.
+
+37:36 
+So since oxygen has unpaired electron hence we can say it is paramagnetic.और यह सवाल बहुत आता है show that oxygen is paramagnetic तो electronic configuration कर देना और दिखा देना oxygen के पास क्या है unpaired electron है इसलिए भैया oxygen क्या हो गया हमारा?
+
+37:54 
+paramagnetic हो गया clear.Clear है एकदम?समझ में bond order?Bond order number of electrons in bonding minus anti-bonding.तो इसको तो छोड़ दो ये इससे cancel हो जाएगा bonding, anti-bonding, bonding, anti-bonding यहां से आओ दो, दो चार, दो छह, दो छह हुए bonding एक, दो, दो, दो चार, दो छह。
+
+38:13 
+anti-bonding में एक, दो divide by दो। छह minus दो चार by दो, दो। मतलब O2 में oxygen, oxygen में कितने bond होंगे?दो। क्योंकि bond order देखो कितना आ रहा है?दो। Bonding में देखो दो, दो चार, दो छह minus anti-bonding में दो divide by दो। Bond order कितना है?
+
+38:32 
+दो। मैंने shortcut से भी बताया हुआ है। fourteen पे कितना होता है?three.fifteen पे बोलो two point five, sixteen पे बोलो दो। देखो वही चीज आ रही है calculation करके। clear है?अब आप मेरे लिए एक question solve करोगे। इसी electronic configuration को follow करते हुए यानी चौदह से ऊपर वाले के लिए आप O2 plus का, O2 minus का, O2 two minus का electronic configuration लिखोगे। O2 plus सोलह से एक electron कम O2 minus सोलह से एक electron ज्यादा O2 two minus सोलह से दो electron ज्यादा। इनका electronic configuration और इनका bond order चलिए करके दिखाइए। इसको हो गई configuration O2 plus, O2 minus इसको आप fourteen electron case में तो जाएंगे नहीं वैसे भी पंद्रह है तो बोलो दो, दो चार मतलब kk, kk dash.
+
+39:19 
+सही है भाई?आठ electron हो गए। बचे कितने?पंद्रह और। तो अब आएगा sigma two p z two pi two p x equal to pi two p y दो, दो। कितने हुए?fourteen electrons.अब pi star two p x equal to pi star two p y कितने electron जाएंगे इसमें बताओ?
+
+39:41 
+आठ, दो दस, दो बारह, दो चौदह, एक पंद्रह। पंद्रह electron.Bond order निकाल सकते हो खटाक से। Bond order कितना होगा?इनका तो cancel हो जाएगा। दो, दो, दो, दो cancel.यहां पर दो, दो चार, दो छह minus anti-bonding में एक divide by two पाँच by दो कितना आया?
+
+40:00 
+ढाई। देखो पंद्रह का ढाई इधर लिखा हुआ है। पंद्रह का ढाई। सत्रह, सत्रह में same configuration पंद्रह, सोलह, सत्रह। समझ में आ गया?नहीं आया। पंद्रह है सोलह, सत्रह मतलब सारी configuration same रहेगी last में pi star two p x sorry yes is equal to pi star two p y.
+
+40:23 
+यह था पंद्रह तो...सोलह, सत्रह यही बनेगा। Bond order बोलो सत्रह का। बाकी सब तो ठीक रहेगा। दो, दो चार, दो छह minus तीन divide by दो। तीन by दो कितना आया?हमम yes तीन by दो कितना आया?one point five.देखो सोलह से सत्रह की तरफ जाओगे तो one point five, point five और कम हुआ। कहानी समझ में आ रही है?
+
+40:55 
+चौदह से जितना एक, एक नीचे जाओगे ये point five, point five करो। सोलह पर दो था पंद्रह पे ढाई सत्रह पे डेढ़। अच्छा अठारह में क्या होगा?अठारह में यही होगा सत्रह तक हो गया एक electron इसमें और डाल दो अठारह। मतलब same यहां पे pi star two p x equal to pi star two p y दो इसमें, दो इसमें। Bond order बोलो दो, दो चार, दो छह minus anti-bonding है दो, दो चार divide by दो, दो by दो एक। यहां से देखो सत्रह पे डेढ़ है तो अठारह पे कितना आएगा?
+
+41:27 
+एक। सत्रह पे डेढ़ अठारह पे एक bond order एक। सीधा, सीधा कर सकते थे। clear है एकदम बढ़िया से?paramagnetic, diamagnetic की बात करें इसमें एक unpaired paramagnetic, इसमें एक unpaired paramagnetic, इसमें एक भी unpaired नहीं diamagnetic.
+
+41:45 
+O2 two minus is diamagnetic बाकी O2 plus paramagnetic O2 minus paramagnetic, oxygen itself is paramagnetic.clear हो गया?तो ऐसे आप electronic configuration कर सकते हो और इसका भी energy level diagram बना सकते हो। difference क्या होगा?
+
+42:02 
+जो इसमें difference है वही energy level diagram में reflect हो जाएगा। किया जाए इसका energy level diagram?आइए let us make energy level diagram of this story sigma one s two sigma star one s two sigma two s two sigma star two s two.
+
+42:20 
+यहां पर difference क्या है?sigma two p z.Okay.इसके बाद बोलो pi two p x equal to pi two p y.Okay.Then practice कर लो pi star two p x equal to pi star two p y.Okay.Then comes sigma star two p z.diagram इस तरफ energy इस तरफ orbitals तो यह 1s, 1s sigma 1s sigma star 1s इसी तरह से 2s, 2s ये sigma 2s ये sigma star 2s bonding की energy atomic orbital से कम anti bonding की atomic orbital से ज्यादा। ये इधर इधर क्या लिख रहे हैं हम atomic orbitals है ना, है ना और बीच में क्या लिख रहे हैं molecular orbital.
+
+43:28 
+फिर p आएगा p में तीन orbitals p में तीन orbitals अब energy का order देखो पहले sigma 2pz bonding है तो नीचे करेंगे sigma 2pz इसके बाद pi 2px, 2py bonding है मतलब यहां से तो नीचे ही होगा। ये हो गए दोनों pi 2px and this is pi 2py इसके बाद pi star 2px, pi ये anti bonding तो यहां से ऊपर pi star 2px, pi star 2py इसके बाद sigma star 2pz anti bonding sigma star 2pz.
+
+44:04 
+पूरा तरीका समझ में आ गया। किसी का भी कर लो जिसका मन करे। oxygen का कर लो oxygen कर लो NO का मन करे NO का जिसका मन हो कर लो किसी एक का भी electronic का जैसे我们 oxygen का ही कर लेते हैं हम तो oxygen का पूरा ये सब full होगा दो, दो चार, दो छह, दो आठ, दो 10, दो 12, दो 14, एक 15, एक 16 यानी last में होगा pi star 2px1 equal to pi star 2py1 दो, दो चार, दो छह, दो आठ, दो 10, दो 12, दो 14, एक 15, एक 16 यही बनेगा oxygen का बन गया। अब oxygen item का बोलो electronic configuration आठ electron 1s2, 2s2, 2p दो दो चार चार आठ तो 1s में two, 2s में two और p में चार एक, दो, तीन, चार इस तरफ भी 1s2, 2s2 एक, दो, तीन, चार। इधर क्या है?
+
+44:57 
+oxygen इधर भी क्या है?oxygen clear.अब यहां देखो sigma 1s2 दो electron इसमें sigma star 1s2, sigma 2s2, sigma star 2s2, sigma 2pz में two electron pi 2px, 2py में एक एक electron paramagnetic, diamagnetic, paramagnetic तो इस तरह से आप कर सकते थे। चलिए अब करते हैं इससे कुछ अच्छे-अच्छे last में बचे हुए questions को करता हूं। जैसे हमसे पूछा गया हमारे पास चार option है की आप सब की compare करो bond order, bond length, stability तो मैं आपको चार option दे रहा हूं। आपको तीनों चीज compare करनी है O2, O2 minus, O2 plus, O2 2minus तो सबके order में arrange करो। करना क्या है इन सबको side में यहां पर आके लिख लो कुपचे में O2, O2 minus, O2 plus, O2 2minus.
+
+45:50 
+अब आप याद रखो 14 पे bond order कितना आता है?तीन 15 पे ढाई 16 पे दो 17 पे डेढ़ और 18 पे एक ये याद रखो। अब यहां आ जाओ चलो O2 मतलब कितने electron?16, 16 मतलब bond order दो O2 minus 17 electron 16 में एक बढ़ गया bond order 17 के लिए डेढ़ O2 plus, O2 plus मतलब 16 में से एक गया 15 electron 15 के लिए 2.5 O2 minus 16 में दो बढ़ गया 18 तो 18 के लिए one तो bond order is one bond order मिल गया। अब bond order का order अगर लगाना हो तो simple सबसे ज्यादा किसका?
+
+46:32 
+इसका फिर इसका, फिर इसका, फिर इसका। फिर पूछ रहा है क्या bond length तो bond length is inversely proportional to bond order.तो देख लो भैया किसका bond order सबसे ज्यादा है?देख लो किसका है इसका तो इसकी bond length सबसे कम। जिसकी bond order सबसे कम उसकी bond length सबसे ज्यादा है ना। मतलब bond order को उल्टा कर दो तो ये फिर ये, फिर ये, फिर ये। फिर stability, stability is directly proportional to bond order तो सबसे ज्यादा stability है इसकी फिर इसकी, फिर इसकी, फिर इसकी। चार सवाल हो गए। इसी सवाल को घुमा के JEE में कैसे पूछेगा?
+
+47:03 
+Which has नहीं arrange in order of bond length O-O अब देखना कैसे होगा?पहला option KO2 दूसरा option Na2O2 तीसरा option O2 इन तीनों molecules में oxygen, oxygen के बीच का जो bond है उसकी length कैसी है?
+
+47:24 
+तो K2 KO2 कैसे बनेगा?K+O2 sorry KO2 कैसे बना होगा?Yes K+O2 minus तो यहां पर कौन सा molecule है?O2 minus का है Na2O2 2Na+O2 2minus ऐसे ही तो बना होगा। ठीक है। ये कैसे बना होगा?2Na+O2 2minus यानी इसमें है O2 2minus और ये सीधा क्या है?
+
+47:48 
+O2, O2 minus, O2 minus bond order 1.5 bond order O2 2minus bond order one O2 bond order दो निकाल सकते हो number of electron गिन के। पूछा है bond length bond length is inversely proportional to bond order सबसे छोटा bond order सबसे ज्यादा bond length सबसे ज्यादा bond length इसकी उसके बाद इसकी उसके बाद इसकी मतलब order होगा B A C सबसे ज्यादा इसकी bond order सबसे कम है फिर इसकी फिर इसकी। ऐसे सवाल पूछ सकता है आपसे तो ये सब चीजें आपको ध्यान रखनी है। जैसे एक बच्चों को confusion और होता है हमने पहले भी discuss किया अभी फिर discuss करते हैं। हमसे कहता है electronic configuration करो N2 का और N2 minus का तो N2 मतलब 14 electron N2 minus मतलब 15 electron बड़ा confusion है ये की ये वाले किस वाले से करोगे?
+
+48:42 
+less than equal to 14 electron वाले तरीके से जिसमें पहले कौन आता है pi 2px equal to pi 2py और तब आता है sigma 2pz और ये वाला 14 से बड़ा है तो क्या इसको change करो?नहीं N2 minus बना कैसे है?N2 में एक electron जोड़ के N2 minus बना तो पहले क्या N2 minus बना होगा कि पहले N2?
+
+49:01 
+पहले N2 बना होगा मतलब इसी configuration को follow करते हुए आगे चलना है। मतलब this will be included in less than equal to 14 electron वाले case में जैसे एक ये confusion होता है NO, NO plus, NO छह sorry सात और आठ कितने electron हुए 15 तो ये तो greater than equal to 14 वाला case है मतलब 15 से 20 वाला अच्छा 15 से 20 में क्या change होता था?
+
+49:25 
+sigma 2pz पहले आता है फिर pi 2px, pi 2py फिर pi star वगैरह 2px, pi star 2py और यहां पे इसके बाद pi star आता है। ठीक है तो ये तो greater than 14 वाले case पे चला गया। NO plus सात, आठ 15 plus मतलब एक electron गया 14 तो क्या ये 14 वाले case पे जाएगा?
+
+49:49 
+नहीं पहले NO बना होगा उसमें से एक electron निकला होगा तब NO plus मतलब NO plus को भी आपको treat करना है किस से किस से greater than equal to 14 जब electronic configuration करो तब अगर bond order पूछता है तो कोई दिक्कत नहीं shortcut से मारो दोनों के answer same आएंगे पर अगर electronic configuration paramagnetic, diamagnetic nature पूछता है तब आपको इस चीज का ध्यान रखना पड़ेगा की NO plus में भले ही 14 electron है पर ये बना NO से है जो की 15 से 20 के case से होगा जिसका configuration ये चलना चाहिए clear है। तो बस यही सारी बातें थी जो हमको पढ़नी थी molecular orbital theory में सारे concept हमने आपके cover किए। पढ़ाई करते रहिए all the very best.

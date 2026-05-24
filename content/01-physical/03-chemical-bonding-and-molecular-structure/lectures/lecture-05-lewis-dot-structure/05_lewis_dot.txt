@@ -1,0 +1,390 @@
+
+00:23 
+Hello बच्चों, आज Chemical Bonding का हम video number five लाए हैं जिसमें हम आपसे Lewis Dot Structure के बारे में बातें करेंगे और Lewis Dot Structure का यह video देख के आपका यह topic completely तैयार हो जाएगा। इस video के बाद आप किसी भी ion का structure जैसे मैं आपसे बोलूं कि carbonate ion का structure बनाना है CO3 2- तो अभी आप सोच रहे हो कैसे बनाएं carbon, oxygen, oxygen कहां पे double bond लगाएं, कहां पे single bond लगाएं। ये कैसे sir ने किया यहां पे single bond, double bond minus minus लगा दिया। मैं आपसे अभी आपसे कहूं कि आप sulphate ion का structure है SO4 2- का structure बनाओ तो S, O, O, O लगाया double bond, double bond, single bond, single bond, minus, minus.
+
+01:05 
+तो ये सारी चीजें कैसे होती है, किताब में कैसे structure बनाता है ये आज आप सीखोगे मेरे साथ Lewis Dot Structure में। बड़ा ही important video है। मजा आने वाला है। बहुत बढ़िया trick है, बहुत बढ़िया formula है, method है। कैसे-कैसे charge पता चलेगा, कैसे decide करेंगे कौन सा item कहां रहेगा ये सब आज के video में आपको सिखाएंगे। बीच में एक topic है covalent bond, coordinate bond जिसको हम discuss नहीं किए क्योंकि खुद से पढ़ने लायक topic है.
+
+01:32 
+Covalent bond electron की sharing एक-एक electron share हुआ तो single bond दो-दो हुआ तो double bond तीन-तीन तो triple bond और एक coordinate bonding है ना जिसमें एक lone pair donate करता है, एक accept करता है। आज हम आपको structure बनाना सिखाएंगे। क्या सिखाएंगे?
+
+01:46 
+Structure बनाना। कहां double bond लगाएं, कहां minus लगाएं, कैसे structure बनाएं। तो ये Lewis Dot Structure हमें सीखना है जिसको आप electron dot structure भी बोल सकते हो। इस तरह के तमाम video internet पे पड़े हैं but अगर आप मेरा video देख रहे हैं तो be confident and be assured.
+
+02:01 
+एकदम चिंता ना करें इस video में मैं सारी बातें समझा दूंगा। ठीक है। मेरे video आठ-दस मिनट के रहते नहीं कि मैं एक trick बता के भाग जाऊं। मैं आपको तीस-चालीस मिनट का full length का video दूंगा और 15 example कराऊंगा इससे कम से कम। ठीक है, कम से कम 15 example आपको practice करा दूंगा। चलिए शुरू करते हैं भाई साहब Lewis Dot Structure कहां किस चीज पे based है ये। Basically Lewis Dot Structure हमसे कहता है कि जब भी आप structure बनाओ, जब भी आप structure बनाओ तो सिर्फ outermost electron को दिखाओ। किसको दिखाओ सिर्फ?
+
+02:27 
+Outermost electron यानी सिर्फ किसको show करो valence electron को show करो सिर्फ only.दूसरा Lewis Dot Structure work करता है octet rule पे। किस पे work करता है?Octet rule पे। मतलब ये कहता है कि सभी atom जो structure में है सबके पास valence shell में, सबके पास valence shell में कितने electron होने चाहिए?
+
+02:49 
+Eight electron होने चाहिए। Exception हो जाएगा कौन?Hydrogen क्योंकि सबको पता है hydrogen दो electron में खुश हो जाता है। बाकी सबको आठ electron चाहिए। यही Lewis की theory है। Lewis theory.Actual में है क्या ये सब?
+
+03:03 
+ये सब बच्चों theories of covalent bond है। Covalent bond को बनाने की अलग-अलग theory आई। Ionic bond तो simple था electron इधर से इधर transfer हुआ फिर charge positive negative attract.Covalent bond की electron share होता कैसे है इसके लिए सबने अपनी-अपनी theory दी तो उसमें सबसे पुरानी theory Lewis की है। इसके बाद आई valence bond theory जो आप लोग request करते हो video अगला video बनेगा उसपे भी। फिर आई valence shell electron pair repulsion theory VSEPR theory किताब में देखा होगा। उसके बाद आई MOT molecular orbital theory.
+
+03:32 
+तो ये सारी theories हैं जो बता रही है कि electron की sharing होती कैसे है। आप nine, ten से पढ़ते आ रहे हो कि covalent bond electron की sharing.तो पहली theory है अपनी Lewis theory और उसके अंदर हम सीखने जा रहे हैं Lewis Dot Structure.
+
+03:44 
+Lewis की theory यही है octet rule.अगर कोई आपसे पूछे कि Lewis की theory क्या है, है ना?Koushal and Lewis theory कहते हैं। तो कोई आपसे पूछे Lewis theory क्या है?तो Lewis theory ये कहती है कि atom electron की sharing करते हैं और sharing इसलिए करते हैं कि उनके valence shell में eight electron आ जाए octet rule और वो stable हो जाएं। जैसे noble gas stable होती है valence shell में eight electron के साथ, ठीक है। But dot structure बनाते वक्त आपको एक बड़ी important बात ध्यान रखनी है कि, कि, कि octet rule को हम तोड़ सकते हैं for central atom.
+
+04:24 
+Central atom के लिए हम octet rule को तोड़ सकते हैं, neglect कर सकते हैं। ये Lewis को भी धीमे धीमे structure बनाते-बनाते समझ में आया क्योंकि आपको भी पता है कि इसके बाद valence bond theory VSEPR theory क्यों आई और?
+
+04:36 
+क्योंकि octet rule पूरी तरह से सही नहीं था। Sedwick concept आया, Sedwick concept आया। क्यों आया?क्योंकि octet rule पूरी तरह से सही नहीं था। तो Lewis भी ये बात समझ गए थे उन्होंने कहा कि central atom के लिए octet rule को आप neglect कर सकते हो और central atom structure में बड़ा important है। जैसे अभी मैंने carbonate का structure बनाया था तो बीच में C रखा था जो सबसे बीच में होता है। तो चलिए शुरू करते हैं आपको मैंने basic understanding दे दी कि structure बनाने के लिए use करेंगे, outermost electron ही सिर्फ दिखाने हैं। कोशिश करेंगे कि outermost में आठ electron किसी भी तरह हो जाएं hydrogen case में two electron.
+
+05:08 
+Central atom के लिए octet rule को हम छोड़ सकते हैं, neglect कर सकते हैं पर central atom में आठ electron या उससे ज्यादा होंगे कम नहीं, कम नहीं, कम नहीं। चाहे corner के atom हो, चाहे बीच के atom हो सबके पास आठ electron या उससे ज्यादा हो सकता है central के पास, corner के तो आठ ही रहेगा। Central जो बीच वाला atom उसपे आठ या आठ से ज्यादा चलेगा कम नहीं चलेगा। मतलब central के लिए octet rule neglect कर सकते हो पर आठ electron से कम नहीं उससे ज्यादा के लिए। चलिए मैं आपको कुछ आपको points बता रहा हूं points को note करें अगर आपका pen paper है। अगले पांच-छह minutes कुछ points लिखाएंगे और उसी के ऊपर अगले 20, 25 minute, 30 minute हम discussion करेंगे जब हम structure बनाते जाएंगे。
+
+05:49 
+nitrate ion का बनाएंगे, carbonate का, sulphate का, sulphide का, sulphur dioxide, sulphur trioxide, hydronium ion, ammonium ion जो तुम कहोगे उसका structure बनेगा। जो तुम सोचोगे phosphate ion सबका structure.
+
+05:58 
+जो आज तक confuse थे कि structure कैसे बनता है सब बनेगा। चलो देखो। तो भाई साहब start करते हैं।मेरा नाम चिन चिन चिन चिन चिन चिन। सबसे पहले rule for selecting इन नियम को लिखेंगे आप भी मेरे साथ central atom और central atom के लिए हम symbol use करेंगे CA ठीक है CA Chartered Accountant central atom तो भाई central atom का पहला नियम यह है जो least number में हो। जो atom सबसे कम हो अकेला हो दुकेला हो जो सबसे कम number में atom हो उसको ले लो या जिसकी electronegativity least हो जिसकी electronegigheid least हो या जिसका size largest हो जो सबसे बड़ा atom हो या जिसका atomic number highest हो। ठीक है सबसे पहले priority इसको देना फिर इसको फिर इसको फिर इसको बीच में कौन सा atom रखना है जो सबसे कम number में है। अब दो atom है कम number में compare करना पड़ रहा है तो जिसकी electronegigheid कम है फिर जिसकी size बड़ी है फिर जिसका atomic number यहां तक में काम हो जाएगा वैसे most of the time.
+
+07:02 
+अच्छा second point very important hydrogen and fluorine hydrogen and fluorine can never be central atom hydrogen और fluorine कभी भी central atom की तरह behave नहीं कर सकते कभी भी। oxygen हो सकता है क्या क्या हो सकता है central atom oxygen मिलेगा बहुत sulfur मिलेगा बहुत nitrogen मिलेगा बहुत phosphorus मिलेगा बहुत carbon मिलेगा बहुत ये सब हो सकते हैं central atom silicon हो सकता है क्या नहीं हो सकता hydrogen and fluorine chlorine भी हो सकता है bromine भी हो सकता है ये दोनों नहीं हो सकते central atom rule number one rule number two rule number two octet of corner atom must be complete तो ये तो मैंने पहले ही बोला था सभी atom की octet complete हो और अगर hydrogen होगा तो duplet complete हो मतलब दो electron.
+
+08:03 
+ठीक point number three point number three central atom can have can have eight or more electron कोशिश करना आठ पे कोशिश करना आठ पे but it can have eight or more ज्यादा भी हो सकता है। कैसे decide करेंगे sir कैसे decide करेंगे?
+
+08:22 
+देखो ध्यान देना central atom tries to remain very important point बच्चों note करें tries to remain in maximum covalency tries to remain in maximum covalency जो central atom है वो अपनी सबसे maximum covalency में रहना चाहता है। covalency क्या होती है?
+
+08:50 
+covalency होती है की कितने electron उसने share किए bond बनाए या lone pair में क्या बोला bond बनाए या lone pair में तो central atom की maximum covalency होना चाहिए। देखो ये video बड़ा है इसलिए क्योंकि मैं एक एक point discuss कर रहा हूं। मैं बार बार बोलता हूं कोटा में पढ़ लो नीचे comment करो की क्या कमी रह गई video मेरा क्यों चालीस minute पचास minute का है बाकी लोग का क्यों दस minute का है क्योंकि मैं एक एक point बता रहा हूं confusion नहीं छोड़ूंगा ये नहीं की दो question करा दिए उसमें चल गया सब में लगेगा tries to remain in maximum मतलब वो जितने ज्यादा हो सके उतने bond बनाएगा पर maximum covalency की भी एक हद होती है एक limit होती है पहले इतना note करें फिर आगे बताएं की maximum covalency कैसे पता चलेगी। देखो जैसे हम बात करते हैं सबसे पहले आपसे central atom कौन हो सकता है oxygen तो oxygen की maximum covalency होती है two दो से ज्यादा valency कभी oxygen तुमने नहीं देखा होगा तीन valency वाला कभी नहीं देखा होगा next है sulfur sulfur की maximum होती है छह sulfur छह valency तक दिखा सकता है यानी छह bond बना सकता है या चार bond एक lone pair चार bond एक lone pair ऐसा भी हो सकता है समझ रहे हो चार bond एक lone pair दो electron छह electron हो गए जैसे हम nitrogen की बात करें तो बच्चों nitrogen की maximum covalency पांच हो सकता हो पांच पर ये पांच bond नहीं बनाएगा है ना maximum covalency पांच but ये bond सिर्फ चार बनाएगा bond सिर्फ चार सब बातें note करनी पड़ेगी आपको ऐसे काम चलेगा नहीं nitrogen can never be pentavalent लिख लो मेरी ये बात copy में nitrogen can never be pentavalent nitrogen पांच bond नहीं बना सकता तीन bond एक lone pair रख सकता है क्या बोला मैंने तीन bond एक lone pair रख सकता है तीन bond एक lone pair रख सकता है पांच bond नहीं बना सकता ठीक है चार bond बना सकता है maximum maximum कितने bond चार bond next इसके बाद हमारे बाद आया phosphorus phosphorus can form five bonds maximum covalency पांच carbon की maximum covalency चार और चार ही दिखाता भी है all the times most of the time चार दिखाएगा silicon की चार chlorine की सात chlorine की सात silicon की चार carbon की चार phosphorus की पांच nitrogen चार से ज्यादा नहीं दिखाएगा sulfur की छह से ज्यादा नहीं हो सकती oxygen की दो से ज्यादा नहीं तो central atom कोशिश करेगा की अपनी maximum covalency में आ जाऊं कोशिश करेगा हां उसके लिए वो octet rule को तोड़ भी सकता है वही stable Lewis structure होगा actual में Lewis structure जो तुम्हारे competition में आ रहा है वो resonance को मिला के आ रहा है resonance topic को मिला के आ रहा है तो मैं तुम्हें वैसा structure बनाऊंगा जो चार option में exactly correct होगा अगर सिर्फ Lewis की theory जो किताब में लिखी है ना उसे तुम JEE के चार option compare करोगे चारो सही निकलेंगे क्या बोला मैं अगर तुम अपनी किताब से जो Lewis theory पढ़ोगे और उन्होंने जो Lewis के structure बनाने के तरीके बताए हैं उससे तुम चार option compare करोगे चारो सही निकलेंगे वो पूछता है की इसमें सबसे best structure कौन सा है तो best structure के लिए मैं आपको पूरी तरीके बता रहा हूं तो note करने के बाद oxygen दो sulfur छह nitrogen चार phosphorus पांच carbon चार silicon चार chlorine सात इसके बाद आपको और कोई मिलने वाला नहीं clear है फिर से oxygen दो sulfur छह nitrogen चार nitrogen can never be pentavalent can never be pentavalentअच्छा ये इनसे कम भी Covalency show कर सकते हैं। जरूरी नहीं कि अपनी maximum show करें, उससे कम कर सकते हैं। अगर electron available है तो वो कोशिश करेंगे maximum में जाने की। अभी note करो शुरुआत में मेरा lecture धीमे ही चलता है। phosphorus पांच, carbon चार, silicon चार। जैसे oxygen की बात करें तो oxygen one, two दोनों दिखा सकता है। sulphur की बात करें तो दो, चार, छह दिखाता है। nitrogen की बात करें तो nitrogen हमारा तीन दिखाता है या चार दिखाता है। phosphorus की बात करें तो phosphorus तीन और पांच दिखाता है। carbon generally चार ही दिखाएगा। silicon generally चार ही दिखाएगा। chlorine की बात करें तो one, three, five, seven सारी valencies दिखाता है। note करें बातों को। क्या दिखाई पड़ रहा है?
+
+12:44 
+X दिखाई पड़ रहा है ना?पक्का ना?oxygen एक और दो, sulphur दो, चार, छह, nitrogen तीन और चार, चार से ज्यादा नहीं, phosphorus तीन और पांच, carbon चार, silicon चार, chlorine one, three, five, seven.ये Covalency है मतलब कितने bond बना सकता है। variable Covalency है, है ना। देख रहे हो sulphur के पास variable है। दो बना सकता है, चार बना सकता है, छह बना सकता है। अलग-अलग Covalency, अलग-अलग bonding कर सकता है। अगर electron होंगे तो maximum में जाना चाहेगा। नहीं होंगे मजबूरी होगी electron ही कम है तो दो में रह जाएगा, चार में रह जाएगा। चलो इतनी बातें लिख ली आपने। बहुत बढ़िया। ये basic नियम थे। ठीक है। और नियम बताऊं?
+
+13:23 
+हर rule का भाई, हर rule का भाई use होगा। next देखो if positive charge is there, if positive charge is there example दे दूं?जैसे तुमसे बोला जाएगा H3O plus का structure, तुमसे बोला जाएगा NH4 plus का structure.
+
+13:40 
+अगर positive charge है it will be on central atom पक्का। prove भी कर दूंगा अभी but पहले से बता दे रहा हूं अगर positive charge है तो वो किस पर present होगा हमेशा?central atom पे अगर positive charge है तो। and if negative charge is there negative charge जैसे कहीं से भी उठा लो NO3 minus one है ना SO4 two minus देख रहे हो CO3 two minus सब पे negative charge है। it will be on corner atom clear है?
+
+14:21 
+positive charge किसी भी ion पे, किसी भी ion पे ही होगा charge है तो, है ना। किसी भी ion पे यदि positive charge है तो वो central atom पे होगा और अगर negative charge है तो वो corner atom पे होगा। ठीक है?
+
+14:34 
+clear है?बढ़िया से एकदम समझ में आ गया पक्का। चलिए भाई चलिए इतनी चीजें आपको clear हो गई। अब मैं आपको rules बताता हूं last के मतलब कुछ calculation बताता हूं जिससे काम होने वाला है। किसी चीज का structure बना रहे हो सोच रहे हो NO3 minus one लिखा है तुरंत ही structure बना दोगे तो अब मैं तुमको rules दिखाने वाला हूं या तुमको calculation बताने वाला हूं। इतना clear हो गई इतनी बातें?
+
+14:56 
+मैंने क्या-क्या बातें की कि central atom चुनना है जो least in number हो, है ना। जो सबसे कम हो, जिसकी electronegativity या तो कम हो। फिर मैंने बताया hydrogen, fluorine central atom नहीं हो सकते। फिर मैंने बताया central atom कौन हो सकता है oxygen, sulphur, nitrogen, phosphorus, carbon, chlorine, silicon.
+
+15:16 
+फिर मैंने बताया कि corner atom के पास आठ electron होने चाहिए। hydrogen है तो दो electron.फिर मैंने बोला central atom के पास आठ electron या उससे ज्यादा होने चाहिए। कम में तो काम नहीं चलेगा। फिर मैंने बताया central atom की अलग-अलग valency हो सकती है। जैसे oxygen की one और two है, sulphur की दो, चार, छह है, carbon की चार है, nitrogen की तीन और चार है। nitrogen पांच valency नहीं show करता। phosphorus की पांच है, silicon की चार है, chlorine की one, three, five, seven है। कोशिश करते हैं ये अपनी maximum Covalency में रहने की उससे कम में भी settle हो सकते हैं। अच्छा, इतनी बातें clear है। बहुत बढ़िया। आइए देखिए calculation, calculation.
+
+16:02 
+सबसे पहले आप calculate करोगे, सबसे पहले आप calculate करोगे Q where Q is total electrons.Q का formula है valence electron of all atoms plus any negative charge अगर है compound पे minus any positive charge अगर है compound पे। next आप calculate करोगे bond pair electrons, bond pair electrons.
+
+16:35 
+ये क्या होते हैं?two into number of bonds, two into number of bonds.next आप calculate करोगे lone pair electron.ये क्या होता है?Q minus bond pair electron.total electron में से जितने bonding में use हो गए वो खत्म फिर बचे lone pair electrons.
+
+16:58 
+ठीक है?अब lone pair electron दो काम करेंगे तुम्हारे। या तो सच में lone pair बनेंगे या तो double bond या triple bond के लिए हम use करेंगे। note करें इतनी बात फिर से structure बनने वाले हैं। time लग रहा है क्योंकि आपको चीज अच्छी सिखा रहा हूं। अभी note करते चलो इतना मजा आएगा ना, इतना मजा आएगा इस topic में आगे। इतना मजा आएगा ना मतलब नहीं मतलब उतना मजा तो नहीं आएगा जितना तुम लोग PUBG खेलते हो। सब game आजकल तुम लोग start कर दिए हो और Clash of Clans उतना तो नहीं दिला सकते मजा है ना। दोस्तों के साथ घूमते हो फिर भी मजा आ जाएगा। ठीक है। पर्याप्त मजे आ जाएंगे तुमको जितने आ सकते हैं पढ़ाई में maximum chemistry में। chemistry जैसे अच्छे topic में जितने मजे आ सकते हैं वही है ये। ठीक है?
+
+17:43 
+note कर लिया Q valence electron of all atoms plus negative charge minus positive charge bond pair electron two into number of bonds lone pair electron Q minus bond pair electron lone pair use करेंगे lone pair के लिए double bond या triple bond के लिए। अब समय आ गया example का note कर लिया है, note कर लिया है। बिना note किए तो काम बनेगा नहीं। note कर लिया है। चलो देखो अब examples कराता जाऊंगा यार तुम अभी पक्के हो जाओगे एकदम। चलो सबसे basic से start करते हैं अपनठीक है basic से शुरू करें। सबसे पहले ले लेते हैं बोलो जल्दी से बोलो किसका ले ले। सबसे पहले लेते हैं चलो अब तो अच्छी हो रही है H2 का structure बनाते हैं ये तो आता है सबको फिर भी चलो मतलब method लगाना सीखते हैं। सबसे पहले Q, Q क्या था total valence electron hydrogen पर कितने valence electron होते हैं one दूसरे पर भी one तो कितने हो गए two चलो अब दोनों hydrogen को बना लो। central atom कौन है किसी भी hydrogen को central atom मान लो ठीक है। अब इनके बीच में बनाओ single bond क्या बनाओ single bond। अब देखो bond pair electron, bond pair electron कितने होंगे 2 into number of bond इसमें कितने electron है दो मतलब दो। अब lone pair electron कितने हो गए Q minus bond pair electron two minus two कितने zero मतलब कोई lone pair नहीं है structure देखो complete हो गया। बन गया hydrogen का lewis dot structure electron dot structure इसकी octet complete duplet complete है दो electron इसकी duplet complete है दो electron। चलो एक काम करते हैं oxygen का structure बनाते हैं O2 का Q निकालो oxygen के valence shell में कितने electron होते हैं आठ, छह, छह होते हैं ना oxygen के valence shell में six electron है oxygen का atomic number कितना है अपना eight तो 2,6 valence shell में six दो oxygen है 6 into 2 कितना हुआ 12 दोनों oxygen को बना लो। किसी को भी central atom मान लो अभी तो खैर सब कहानी है ही नहीं एक single bond double bond नहीं पहले क्या बनाओ single bond अब निकालो bond pair electron कितने हुए दो। अब क्या निकालोगे lone pair electron Q minus bond pair electron 12 minus दो कितने बचे 10। अब सुनो क्या करना है अब lone pair बच गए। अब octet complete करना start करो corner atoms की इसकी octet इसकी octet चलो इसके पास कितने electron है अभी दो कितने और चाहिए छह एक, दो, तीन, चार, पांच, छह, एक, दो, तीन, चार, पांच, छह, सात, आठ complete हो गए। तुम्हारे पास 10 electron थे तुमने छह इसको दे दिए। अब कितने electron बचे चार एक, दो, तीन, चार ठीक है। सबसे पहले Q निकालो total number of valence electron निकाल लिया Q कैसे निकाला oxygen के valence shell में छह electron दूसरे में भी छह 12 फिर एक single bond बना लो फिर bond pair electron कितने हुए दो फिर lone pair electron 12 minus दो 10 अब इन lone pair electron से सबकी octet complete करो तो मैंने oxygen की इधर की octet complete करनी चाहिए 10 में से एक, दो, तीन, चार, पांच, छह इधर आया कितना बचा चार एक, दो, तीन, चार। अब इसके बाद step होता है multiple bond बनाने का मैंने बताया था ना जो lone pair बचे हैं वो दो चीज में use होंगे एक तो lone pair electrons में और दूसरे double bond या triple bond में। अब double bond, triple bond बनाने की जरूरत है कि नहीं ये देखो इस oxygen को देखो तो एक, दो, तीन, चार, पांच, छह, सात, आठ ठीक है इसकी octet complete है। इस oxygen को देखो एक, दो, तीन, चार, पांच, छह इसकी octet complete नहीं है एक, दो, तीन, चार, पांच, छह octet complete नहीं। एक काम करते हैं इस oxygen के दो electron उठाते हैं और यहां पर एक bond बना लेते हैं इनसे अब इसकी octet one, two, three, four, five, six, seven, eight complete one, two, three, four, five, six, seven, eight complete काम खत्म। सोच रहे हो कि क्या sir क्या बता रहे हो ये सब तो मतलब हम लोग खड़े-खड़े बनाते थे रुको practice करा रहा था आपको मैं। भैया practice करा रहे थे आपको आ जाओ चल भाई आजा बनाते हैं NO3 minus one बनाएगा चल भाई आजा NO3 अच्छा पहले इसका बनाओ H3O plus hydronium iron का चलो start करते हैं। सबसे पहले Q निकालेंगे level wise level बढ़ रहे हैं ठीक है oxygen के पास छह electron hydrogen के पास तीन oxygen के valence shell में six hydrogen के valence shell में one तीन है तो 6 plus 3 into 1 और एक positive charge है तो minus करेंगे positive charge को minus करते हैं negative charge को add करते हैं positive charge को minus करते हैं negative charge को add 6, 3, 9 minus एक कितना हुआ eight। अब central atom देखो इसमें कौन सा है definitely oxygen central atom है क्योंकि least number है सबसे पहली condition अगल बगल hydrogen बना लो एक, दो, तीन सबसे एक एक single bond बना लो सिर्फ single bond अब निकालो bond pair electron कितने हुए एक, दो, तीन, चार, पांच, छह, छह electron हुए है ना एक bond में दो electron होते हैं एक, दो, तीन, चार, पांच, छह। अब निकालो lone pair electron Q minus bond pair electron आठ minus छह कितने हुए दो। अब lone pair electron दो चीज के काम आएंगे पहले तो lone pair ही और उसके बाद double bond, triple bond अगर जरूरत पड़ी तो चलो सबसे पहले start करो corner atom से corner atom check करो hydrogen के पास कितने electron है दो ठीक है खुश है duplet चाहता था complete इसके पास दो duplet चाहता था complete इसके पास दो duplet चाहता था complete oxygen की बारी एक, दो, तीन, चार, पांच, छह कमी है कितने electron की दो कितने बचे हैं दो काम करो बन गया structure दो electron बचे थे oxygen देखो एक, दो, तीन, चार, पांच, छह, सात, आठ पूरा structure complete है जितने electron थे पूरे use हो गए plus charge कहां पर होता है central atom पर तो oxygen पर लगा दिया plus charge negative charge होता कहां लगाते corner atom पर खत्म positive charge कहां लगाते हैं central पर negative कहां लगाते हैं corner पर sir ये तो रटा दिया आओ सीखो फिर एक नई चीज सीखो सिखाया जाए आपको एक नई चीज चलिए आइए side में charge कितनी logic clear हो गई आपको clear हो गई चलो एक structure और बना लो फिर आपको charge निकालना भी सिखाते हैं एक structure और चलो एक अपने आप बनाने की कोशिश करो अगला फिर आपको ये भी सिखाते हैं कि कैसे पता चलेगा कि कहां positive charge है कहां negative charge वो भी निकल आता है सबके लिए formula है भाई NH4 plus अपने आप सब लोग try करें video को pause करके NH4 plus एक, दो, तीन, चार भाई video है pauseइसमें तेरा घटा मेरा कुछ नहीं जाता। बिना video pause किए तू हर बार आगे बढ़ जाता। Q is equals to nitrogen के total electron होते हैं सात, two comma five valance shell में हुए पांच। hydrogen में एक और चार hydrogen है तो one.
+
+24:29 
+positive charge को minus करना है। पांच चार नौ minus एक is equals to आठ। positive को minus करते हैं। central item कौन है?nitrogen सबको दिख रहा है least in number.अगल बगल बना लो hydrogen, hydrogen, hydrogen, hydrogen.
+
+24:41 
+फिर बनाओ single bond, single bond, single bond, single bond.अब निकालोगे आप bond pair electron.कितने हुए?एक, दो, तीन, चार, पांच, छह, सात, आठ। ठीक है आठ electron हो गए। अब निकालोगे lone pair electron.कितने हुए?
+
+24:53 
+अ, Q minus bond pair electron आठ minus आठ। कितने हुए?Zero.कोई lone pair नहीं है, जरूरत भी तो नहीं है। जरा check करो। hydrogen के पास दो electron, hydrogen के पास दो electron इसके पास भी दो, इसके पास भी दो। nitrogen के पास एक, दो, तीन, चार, पांच, छह, सात, आठ nitrogen के पास आठ electron.
+
+25:15 
+सही तो है सब कुछ। positive charge किस पर होगा?central item पर nitrogen पर positive charge.This is ammonium ion structure.इसमें coordinate bond नहीं show करते। Lewis ने coordinate bond की बात ही नहीं की है। single bond, double bond के basis पर positive negative charge के basis पर structure को बनाना चाहते हैं। nitrogen की यहां covalency कितनी है?
+
+25:31 
+सारी चीजें देखनी पड़ेगी। एक, दो, तीन, चार। ठीक है nitrogen चार valency दिखा सकता है और दिखाना चाहता है। कोशिश करता है वो कि चार किसी तरह से हो जाए। पांच की कोशिश नहीं करता। clear हो गया?clear हो गया। अच्छा, अब ये charge निकालने का तरीका सीखो। charge कैसे निकलता है ये भी सीखो। अगले structure में सिखाता हूं। अगला structure थोड़ा सा हम लोग एक level ऊपर बनते हैं। अ, बढ़ के structure बनाते हैं। किसका बनाओगे?
+
+25:59 
+आ जाओ nitrate का बनाया जाए NO3 minus one.आओ इसका structure बनाए। Q निकालो nitrogen के valance shell में पांच electron, oxygen के valance shell में छह electron.भाई nitrogen होता है two comma five, oxygen होगा two comma six.
+
+26:15 
+Atomic number seven, atomic number eight.इतनी बात समझ में आ रही है?Two comma six तो पांच और छह। छह और कितने अ, तीन item है three into six negative charge है तो add कर लो तो eighteen और six कितना हुआ?twenty four.
+
+26:32 
+central item nitrogen कि oxygen?nitrogen least in number.oxygen, oxygen, oxygen single bond, single bond, single bond.bond pair electron चलो बताओ कितने?एक, दो, तीन, चार, पांच, छह। छह electron.lone pair electron Q minus bond pair electron twenty four minus six.
+
+26:52 
+Oh my god! अठारह electron.अब इन lone pair electron से दो काम होंगे या तो lone pair की या तो double bond और triple bond का काम होगा। अब काम क्या है?ये बचे हुए electron किस लिए होते हैं?octet complete करने के लिए। पहले corner item की octet complete करो। चलो तो oxygen के पास कितने electron हैं?
+
+27:14 
+दो। कितने और चाहिए?छह। एक, दो, तीन, चार, पांच, छह। इसके पास दो। एक, दो, तीन, चार, पांच, छह। इसके पास दो। एक, दो, तीन, चार, पांच, छह, सात, आठ। एक, दो, तीन, चार, पांच, छह, सात, आठ। एक, दो, तीन, चार, पांच, छह, सात, आठ। कितने electron use किए मैंने?
+
+27:31 
+छह, छह, छह अठारह। use हो गए पूरे। बहुत बढ़िया। oxygen की octet भी complete बहुत बढ़िया। अब nitrogen को देखो। nitrogen के पास कितने electron है?One, two, three, four, five, six.ओए होए! इसका octet complete नहीं हुआ। central item का भी octet complete करना है। ज्यादा जा सकते हो उससे कम पे तो काम चलेगा ही नहीं, चलेगा ही नहीं। nitrogen case में ज्यादा भी नहीं होता। ये भी लिख लो। देखो inorganic chemistry क्या है?
+
+27:59 
+बहुत ज्यादा learning है। हम लोग कोशिश करते हैं कि उसमें कुछ formula डाले कुछ चीजें but है तो वो लिखी हुई चीजें हैं। जैसे मैं बता दिया nitrogen octet कभी exceed भी नहीं करेगा। एक, दो, तीन, चार, पांच, छह। अब क्या करें?
+
+28:09 
+अब क्या करें?अब क्या करें?अब क्या करें?तो मैंने बताया था ल-ये जो lone pair electron है ये पहले use करो lone pair के लिए। फिर यदि central item की octet complete नहीं हो रही तो use करो double bond, triple bond के लिए। ये दो electron यहां से हटा कर यहां पर लगा लो। यानी double bond, triple bond सबसे last में बनाओ। जब देखो कि central item का पेट नहीं भरा है। हो गया खत्म clear बन गया। nitrogen की maximum covalency कितनी हो सकती है?
+
+28:37 
+चार। कितनी है?एक, दो, तीन, चार। आठ electron हो गए one, two, three, four, five, six, seven, eight.अब बात आई भाई साहब charge की कि minus one charge किसको दे?तो sir ने कहा था negative charge दो corner के item को और positive charge दो central item को। तो sir इस बार तो corner में तीन item है कौन सा oxygen negative charge लेगा?
+
+28:58 
+ये वाला, ये वाला कि ये वाला?अब problem आई तो इसके लिए हम लोग excuse me so much.अब इसके लिए हम लोग सीखना पड़ेगा कि charge किस पर दें। इस पर दें, इस पर दें, किस पर दें। तो बच्चों इसके लिए एक heading डालेंगे आप थोड़ी देर हो गई। मेरे ख्याल से ये सब आपको समझ में आ गया होगा। तो नया topic सीखो formal charge.
+
+29:21 
+ठीक है formal charge मतलब formally हमको लगता है कहां पर charge है हम सोच रहे हैं। actual में जो charge होता है बच्चों अगर मैं आपको सही बताऊं तो resonance होता है आपको पता होगा। नहीं पता है मैं बता रहा हूं resonance charge एक घूमता रहता है। कभी इस पर आता है, कभी इस पर आता है, कभी इस पर जाता है। तीनों पर charge घूमता रहता है। electron का cloud भागता रहता है तीनों पे। खैर अभी formally इस structure में वो charge कहां पे है?
+
+29:42 
+ये particular जिस structure को हमने देखा वो charge कहां पे है। तो इसको निकालने के लिए एक formula किसी भी item के लिए लगा सकते हो उसको individual item के लिए use करोगे इसके लिए, इसके लिए, इसके लिए सबका निकाल सकते हो। formula क्या है FC का formal charge का?
+
+29:57 
+valence electron minus lone pair electron minus bond pair electron divide by two.formal charge का formula लिख लिया। लिख ले इसको valence electron minus lone pair electron minus bond pair electron divide by two किस पर लगाओगे?
+
+30:14 
+individual item पर एक एक item पर पता चल जाएगा negative charge किस पर है। अभी एकदम clear आ जाएगा सामने।कैसे manage होगा?इस पे है, इस पे है कि इस पे है पता नहीं। valence electron किसी भी item का minus lone pair electron उस item पे minus bond pair के जितने electron divide by two.
+
+30:30 
+चलो मैं numbering कर देता हूं। इसको बोल दिया item one, इसको बोल दिया item two, इसको बोल दिया item three और इसको बोल दिया item four और सब पे हम निकालेंगे क्या formal charge.Two और three तो similar है एकदम तो जो भी आएगा उनके लिए same आएगा। चलो शुरू करते हैं। इसको मैं टाल दूं मैं। अब charge निकालना भी सिखा रहा हूं आपको कि कहां पे charge लगाते हैं। ठीक है। मजा आ रहा है अब?
+
+30:57 
+लग रहा है कुछ सीख रहे हो। चलो item number one पे आओ। item number one is this oxygen.चलो भाई formal charge is equals to valence electron.Oxygen के पास कितने valence electron होते हैं?छह minus lone pair.
+
+31:11 
+कितने lone pair हैं?एक, दो, तीन, चार। है ना?मतलब चार electron है lone pair के electron.Minus bond pair के electron divide by two.Bond pair के electron कितने हैं?एक, दो, तीन, चार। इसके bond कितने हैं?एक, दो और electron कितने हुए?
+
+31:26 
+एक, दो, तीन, चार divide by two.कितना हुआ?Six minus four minus two यानी zero.मतलब इस पे कोई charge नहीं है। इस पे formal charge कितना है?Zero.इस पे कोई charge नहीं आएगा। item number two पे आते हैं। ये भी oxygen है। formal charge is equals to valence electron छह lone pair electron एक, दो, तीन, चार, पांच, छह minus bond pair electron divide by two.
+
+31:56 
+Bond pair में दो electron है divide by two छह minus छह zero और ये हो गया minus one.यानी इस पे charge है minus one.ये जो minus one था corner item पे वो इस पे है। पर एक minute जो calculation इसकी है वही इसकी होगी। अरे यार! मतलब तीसरे oxygen item पे आओ formal charge तीसरे oxygen के लिए valence electron छह lone pair electron one, two, three, four, five, six minus bond pair के electron divide by two.
+
+32:24 
+Bond pair में कितने electron है?Two divide by two छह minus छह zero minus one.ओए होए! इसके ऊपर भी charge minus one.अब क्या भाई compound पे तो एक ही minus one है यहां पे तो दोनों पे minus one, minus one.
+
+32:37 
+अब करते हैं fourth item पे charge निकालते हैं तब कहानी clear होगी। item number fourth which is nitrogen इस पे निकालते हैं formal charge.formula क्या है?valence electron nitrogen पे कितने valence electron होते हैं?
+
+32:49 
+पांच minus lone pair इसके ऊपर कोई lone pair नहीं है.Minus bond pair के electron divide by two.Bond pair के कितने electron है?एक, दो, तीन, चार, पांच, छह, सात, आठ। nitrogen के पास कितने bond pair electron है?
+
+33:04 
+एक, दो, तीन, चार, पांच, छह, सात, आठ। आठ divide by two.यानी ये हो गया five minus four that is plus one.तो nitrogen के ऊपर भी charge है plus one.अब इस structure पे total charge बताओ कितना हुआ?total ये plus minus cancel हो जाएगा बचेगा minus one जो कि real formula में मिल रहा है। This is the exact structure of nitrate ion । कितना percent clear हुआ आपको?
+
+33:32 
+confusion हुई?first time मेरे को भी हुई थी। मजा आ रहा है। लग रहा है ना कुछ सीख रहे हो नई चीज। formal charge निकालने का तरीका है valence electron किसी भी item के लिए minus lone pair के electron उसके ऊपर जो lone pair है minus bond pair के electron divide by two.
+
+33:46 
+बने रहो मेरे साथ अभी तो शुरू हुआ है ना बने रहो। करते जाओ exam पे लाता ही जाएगा। note करो इसको total charge मिला लिया करो इसको और इसको same है कि नहीं। इस पे minus one है इस पे total कितना आएगा?minus one plus minus cancel इस पे minus काम बन गया । यार बोलने को दिल में बहुत कुछ है मैं control करता रहता हूं । nitrogen की जब भी चार valency होती है उसके ऊपर plus charge लग जाता है। ठीक है। nitrogen की जब भी चार valency होती है उसके ऊपर plus charge लग जाता है और oxygen की दो valency है तो वो खुश है एक होती है तो minus one.
+
+34:25 
+तीन कभी कदार हो जाती है तब plus one.ठीक है। nitrogen की normal valency कितनी होती थी?तीन। चार होती है तो plus ले लेता है। oxygen की normal होती है दो। एक होती है तो minus.तीन होती है तो plus.चल छोड़ formal charge calculate करना आया ना। चलो calculation से देखो। हम लोग भी teacher हैं यार याद हो जाता है ना करते-करते। है ना?
+
+34:45 
+रटती जाती हैं बातें। आप तो अभी first time देख रहे हो तो कोई बात नहीं। आप calculation पे believe करो formulas पे believe करो जो मैं आपको बता रहा हूं और उनके according चलो धीमे-धीमे practice बनेगी। चलो अपन next structure लेने वाले हैं, लेने वाले हैं, लेने वाले हैं NO2 minus one का। चलो आप लोग अपने आप करना चाहोगे क्या pause करके?
+
+35:03 
+एक मैं करा देता हूं वो दिया खुद से चलो। Q is equals to nitrogen पे valence electron पांच होते हैं.Atomic number seven two, five oxygen के आठ electron two, six valence में छह। दो oxygen के item है two into six negative charge add होता है plus one पांच एक छह two six are twelve और six eighteen electron total है। central item कौन होगा?
+
+35:27 
+nitrogen least in number.इधर एक oxygen, इधर एक oxygen single bond, single bond.Bond pair electron कितने हुए?एक, दो, तीन, चार लिख लिया। lone pair electron कितने होंगे?18 minus चार । total में से bond pair हटा दो। कितने बचे?
+
+35:45 
+14.अब ये दो चीज में use होते हैं lone pair में और उसके बाद double bond या triple bond.तो अब इन electron से क्या करते हैं हम?octet complete करते हैं। पहले किसकी?corner item की। oxygen के पास कितने electron है?
+
+36:00 
+दो। तो एक, दो, तीन, चार, पांच, छह इधर लगा दिए। एक, दो, तीन, चार, पांच, छह इधर लगा दिए। छह, दो, आठ, छह, दो, आठ। कितने थे?14.कितने खर्च हुए?छह, छह 12 खर्च हुए। दो बचे हैं। दो बचे हैं तो दो nitrogen पे लगा दिए मैंने। है ना?
+
+36:18 
+पहले lone pair में use करो इसको। कितने थे?14 तो छह इधर लगाएंछह दूनी आठ, इसका complete octet खुश हो गया। फिर छह इधर लगाए six two eight इसका octet complete खुश हो गया। कितने बचे?दो nitrogen को दे दिया। अब nitrogen को check करो। एक, दो, तीन, चार, पांच, छह। ओ भाई साहब nitrogen की octet complete नहीं हुई। अब अगर lone pair से octet complete नहीं हो रही तो क्या बनाऊं?
+
+36:41 
+Double bond या triple bond। Nitrogen को जरूरत है double bond की क्योंकि एक, दो, तीन, चार, पांच, छह। तो ये electron यहां से उठा के यहां पे ला दिया। बना दिया bond.इस oxygen को कोई problem नहीं। एक, दो, तीन, चार, पांच, छह, सात, आठ। अब nitrogen भी खुश हो गया। एक, दो, तीन, चार, पांच, छह, सात, आठ। एक, दो, तीन, चार, पांच, छह, सात, आठ। Nitrogen के electron लिखो one, two, three, four, five, six, seven, eight.
+
+37:03 
+ये oxygen पहले से खुश था। ये हो गया किसका structure?NO2 minus one का। अब charge क्या है?Minus one.Negative charge कहां होता है?Corner item पे। किस पे लगाएं?इस पे। किस पे?थोड़ी देर पहले मैं बात तुमको बता रहा था कि oxygen के जब दो bond होते हैं तो कोई charge नहीं होता। तीन पे plus होता है, एक पे minus.
+
+37:20 
+तो definitely इसी पे आएगा minus one.नहीं believe हुआ और निकाल लेते हैं। इस item का number दे दिया मैंने one और इस पे formal charge निकाल लो। Formal charge on one.Formula बोलो valence electron.मैं लिख रहा हूं बार-बार.
+
+37:32 
+Minus lone pair के electron, minus bond pair के electron divide by two.आ जाओ इस पे oxygen पे। Valence electron कितने होते हैं oxygen के?छह minus lone pair के कितने electron है?एक, दो, तीन, चार, पांच, छह minus bond pair कितने electron है?
+
+37:47 
+Two divide by two.छह से छह कट गया two by two कितना आया?Minus one.देखो oxygen की जहां पे भी single valency दिखे ना minus one लगा दो। तीन valency दिखे plus one लगा दो। Nitrogen की चार दिखे plus लगा दो। वरना calculate कर लो। कोई दिक्कत नहीं है। Calculation है, formula है। अच्छा नहीं मजा आया। चलो इसका भी formal charge निकालते हैं item two का। Formal charge on item two सीखो ना.
+
+38:10 
+Is equals to क्या होगा?Valence electron oxygen के कितने होते हैं?छह minus lone pair electron कितने हैं?एक, दो, तीन, चार minus bond pair electron divide by two कितने हैं?एक, दो, तीन, चार। ये bond pair के electron है इसके पास divide by two.
+
+38:26 
+कितना हुआ?Six minus four minus two.कितना आया?Zero.मैंने बोला था इस पे charge zero आने वाला है। इस nitrogen के ऊपर भी charge निकालना है निकाल लो। Item number three, item number three, item number three.
+
+38:40 
+यहां पे आ जाओ item number three पे formal charge.Formula valence electron nitrogen के valence electron पांच minus lone pair electron lone pair कितने electron?Two minus bond pair के electron divide by two.
+
+38:54 
+एक, दो, तीन, चार, पांच, छह। ये bond pair के electron है। एक, दो, तीन, चार, पांच, छह। Nitrogen के पास कौन से हैं?ये वाले और ये वाले। यानी छह divide by two.Five minus two minus three.कितना आया?Zero.इसके ऊपर charge zero.
+
+39:08 
+मैंने बोला था जब nitrogen तीन bond बनाता है तो charge zero आता है। जब चार bond बनाएगा तब plus बनाएगा। तो कुछ चीजें याद भी कर सकते हो। नहीं याद हो रही है you have this formula.Step wise चलोगे कभी, कभी गलत होगा ही नहीं। चलो next, next मिटा रहा हूं। चलो next अब अपने आप करोगे तभी believe होगा क्या आया कि नहीं। परेशान नहीं हो अभी मेरे पास बहुत structure है practice कराता रहूंगा जब तक तुम्हें आना जाए। चलो सब लोग अपने आप करेंगे। Next structure मैं आपको दे रहा हूं SO, SO three two minus sulfide ion का। अब इसको आप खुद से करोगे pause करके। pause करके खुद से करने का रे! सुबह के बज रहे हैं शायद eleven thirty maybe है ना कुछ around यही time चल रहा है। तो भाई साहब क्यों निकालोगे सबसे पहले?
+
+40:02 
+Sulphur का configuration atomic number 16 होता है two eight six.Oxygen का atomic number eight होता है तो two comma six.Valence electron दोनों में छह-छह.Sulphur पे छह, तीन oxygen के item उस पे भी छह.Negative charge है तो add हो जाएगा plus two.
+
+40:17 
+तो eighteen six twenty four और two, twenty six.Central item कौन है?Sulphur.है ना least in number.अगल बगल oxygen, oxygen, oxygen.फिर बनाओ single bond, single bond, single bond.अब क्या निकालोगे?Bond pair electron.
+
+40:35 
+कितने हुए?एक, दो, तीन, चार, पांच, छह। एक bond में कितने electron होते हैं?दो होते हैं ना। एक, दो, तीन, चार, पांच, छह। फिर निकालोगे lone pair electron.छब्बीस minus छह। कितने हुए?बीस। अब ये किसमें use होंगे?
+
+40:50 
+Lone pair के लिए use होंगे और double bond या triple bond.इन lone pair से क्या करना है?Octet complete करनी है। पहले किसकी?Corner item की। तो इसको देखो एक, दो है तीन, चार, पांच, छह, सात, आठ। इधर एक, दो, तीन, चार, पांच, छह, सात, आठ। एक, दो, तीन, चार, पांच, छह, सात, आठ complete.
+
+41:11 
+कितने electron use हुए?छह, छह, छह मतलब अठारह use हुए। कितने थे?बीस। दो बचे sulphur को दे दो। दो बचे किसको दे दो?Sulphur को दे दो। बीस थे एक, दो, तीन, चार, पांच, छह। एक, दो, तीन, चार, पांच, छह। एक, दो, तीन, चार, पांच, छह। कितने हुए?
+
+41:27 
+अठारह। कितने बचे?दो। बीस में से sulphur को दे दिया। Octet check करो oxygen की complete है छह, दो, आठ। छह, दो, आठ। छह, दो, आठ। Sulphur की एक, दो, तीन, चार, पांच, छह, सात, आठ complete.क्या ये structure सही है?
+
+41:42 
+नहीं, नहीं। तभी तो video लेंडी है। नहीं सही है। Point याद करो मैंने आपको क्या बोले थे। Atom कोशिश करता है अपनी maximum covalency में रहने की central item और central item आठ से ज्यादा electron रख सकता है। ये वो case है। Sulphur अभी चाहेगा कि मैं इससे ज्यादा valency show करूं। तीन तो वैसे भी sulphur की कोई covalency ही नहीं है। Sulphur की covalency क्या, क्या है?
+
+42:14 
+दो, चार, छह। तीन तो है ही नहीं उसके पास। अब sulphur क्या करेगा?यहां से electron उठेंगे और यहां पे bond बना लेंगे।अभी यह justified लग रहा है। कितनी valency हो गई?एक, दो, तीन, चार justified octet टूट गया इसका। मुझे पता है ज्यादा electron हो गए एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, दस but central atom को allowed है भाई octet का rule तोड़ना। यह ज्यादा appropriate structure है। अब आपके दिमाग में मुझे पता है क्या चल रहा है। आपके दिमाग में चल रहा है sir ये दो electron उठा के यहां लगा दें। sulfur की तो छह valency कर सकते हैं और इसको उठा के यहां लगा दे। आपके दिमाग में ये चल रहा है की इसको उठा के यहां लगा दे और इसको उठा के यहां लगा दे ये electron उठा के। कितनी valency हो जाएगी?
+
+42:53 
+एक, दो, तीन, चार, पांच, छह गलत। गलत। इसके पास lone pair भी है। गिनो एक, दो, तीन, चार, पांच, छह complete है ये। इससे ज्यादा bond नहीं बना सकता ये अब। हो गया इसका, इसका पेट भर गया। एक, दो, तीन, चार, पांच, छह covalency कैसे गिननी है ये भी समझो। This is the best video you can ever found on internet on lewis dot structure I can claim you this.
+
+43:19 
+जितने भी videos लोगों ने बनाए तुम देखो उनमें सब में गलतियां हैं। तुम कहोगे अरे ये क्यों किया?मैं हर चीज का reason बताता जाऊंगा। गिनो एक, दो, तीन, चार, पांच, छह। कितना charge चाहिए?Two minus oxygen के ऊपर single bond minus one single bond minus one.
+
+43:35 
+Double bond zero charge इसके ऊपर zero charge निकाल के देख लो। atom one, atom two, atom three इस पर निकालने की जरूरत नहीं है ना। ये और ये similar है। atom four one और four क्या है similar जो one पे आएगा वही four पे आएगा और one पे निकालते हैं one पे formal charge.
+
+43:52 
+Valence electron minus lone pair electron minus bond pair electron divide by two.Valence electron कितने होते हैं oxygen के?छह minus lone pair भी कितने हैं?छह bond कितने हैं?दो divide by दो कितना आया?Minus one इस पे minus one, minus one.
+
+44:06 
+One पे भी यही होगा fourth पे भी यही होगा। one और fourth क्या है similar.Three पे निकालना है sulfur पे आओ three sulfur पे देखो formal charge on sulfur, on sulfur.Valence electron sulfur के valence electron भी होते हैं छह minus lone pair electron दो minus bond pair electron divide by two एक, दो, तीन, चार, पांच, छह, सात, आठ divide by two.
+
+44:31 
+Bond pair electron divide by two एक, दो, तीन, चार, पांच, छह, सात, आठ divide by two छह minus दो minus चार कितना आया?Zero बोल के रखा हूं ना formal charge इस पे भी निकाल लेना oxygen पे आएगा zero और इस पे minus one.
+
+44:44 
+यही structure सबसे best है क्योंकि ये charge की condition को भी satisfy कर रहा है। Covalency भी sulfur की छह हो चुकी है। बात मानो मेरी चार नहीं है छह हो गई है। एक, दो, तीन, चार, पांच, छह काम हो गया भाई ये है तो। अभी और electron गिराओगे इसके पास, इसके पास अब जगह नहीं बची है। electron कहां जाते हैं?
+
+45:01 
+Chemistry कितनी पढ़ी है orbital में इसकी orbital full है यार इसके पास lone pair पड़ा है उस orbital में। इसकी जो वो डब्बा होता है ना वो भर चुका है। कहां से लाओगे electron कहां पे डालोगे?जगह ही नहीं इसके पास। This is the exact structure of sulfite ion.
+
+45:15 
+हां, not a shape.कई लोग अब नीचे comment करना start कर देंगे की sir ये इसका shape नहीं है। structure की बात हो रही है आज shape अलग कहानी है। वो VSEPR पढ़ना पड़ेगा उसके लिए hybridization पढ़ना पड़ेगा उसके लिए clear हुआ?
+
+45:29 
+Logic समझ में आ रही है मेरी आपको की मैंने ये क्यों गिराया?ऐसा क्यों किया मैंने?sulfur का octet complete था ऐसा क्यों किया?क्योंकि sulfur की तीन covalency नहीं होती। सब चीजें ध्यान में रखोगे चार होती है चार किया और चार क्या है छह हो गई एक, दो, तीन, चार, पांच, छह complete हो गई.
+
+45:44 
+Valence अ, ये तुम्हारे formal charge इस structure में satisfy हो रहे थे पिछले structure में satisfy नहीं हो रहे थे। अगर मैं इसको काट दूं, इसको काट दूं यहां पे तो यहां minus one, minus one, minus one फिर sulfur पे भी plus one आ जाता पर ज्यादा स, ज्यादा formal charge रखने वाला structure stable नहीं होता। सारी बातें हैं। ये resonance की बात थी। ठीक है तो कुछ चीजें आप follow करते चलो धीमे धीमे आ जाएगा। चलो next structure देखें। इसीलिए बोलता हूं बच्चों वो पांच minute की video, आठ minute की video मत देखा करो। छह minute में निकाल लिया IIT JEE अबे मजाक चल रहा है छह minute में IIT JEE निकलेगा तुम्हारा। वो गधे बैठे हैं paper बनाने हैं। छह minute में कोई इतनी तुमको detail में चीजें बता देगा अंदर तक की। हद मचा रखी है भैया इस time YouTube पे लोगों ने मजाक कर रखा है। मैं नहीं कह रहा की मैं पूरा JEE का syllabus पढ़ा दूंगा ना भाई हो ही नहीं सकता possible ही नहीं है। मैं help करने आया हूं पर जितने topic पढ़ा रहा हूं complete पढ़ा रहा हूं। ठीक है जब चीजें बताता हूं तो depth में बताता हूं detail में बताता हूं concept से initial से last तक। आ जाओ SO4 2 minus देखते हैं कौन सही बनाता है। Q निकाला जाए इसका sulfur का atomic number 16 two, eight, six oxygen का atomic number eight two, six आइए valence electron sulfur पे छह oxygen पे चार item है और सब पे छह valence electron दो negative charge add कर लो 24, छह, 30, दो, 32 thirty two four six twenty four और six thirty, thirty two.
+
+47:07 
+Central item sulfur होगा किसी को doubt तो नहीं है। oxygen, oxygen, oxygen, oxygen क्या बनाओगे?single bond, single bond, single bond, single bond.Bond pair electron की बात करें कितने होंगे?एक, दो, तीन, चार, पांच, छह, सात, आठ, आठ lone pair electron की बात कर लें thirty two minus eight अरे बाप रे बाप कितने 24 electrons.
+
+47:28 
+अब lone pair electron का दो काम होगा या तो lone pair में जाएंगे और तब भी काम नहीं बना तो double bond और triple bond में। पहले किसकी octet भरनी है?Corner वाले item की तो शुरू करते हैं यहां से oxygen के पास कितने electron है?
+
+47:40 
+दो एक, दो, तीन, चार, पांच, छह एक, दो, तीन, चार, पांच, छह एक, दो, तीन, चार, पांच, छह एक, दो, तीन, चार, पांच, छह सही है, बढ़िया। छह दो आठ, छह दो आठ, छह दो आठ सबकी octet complete कितने electron use किए तुमने?
+
+47:59 
+24, 24 थे use हो गए छह, छह, छह, छह 24 हो गई complete कि नहीं 24 थे छह, छह, छह, छह sulfur के लिए नहीं बचा कोई बात नहीं sulfur के electron गिनो one, two, three, four, five, six, seven, eight यानी sulfur का भी octet complete इसका भी complete, इसका भी complete, इसका भी complete, इसका भी complete.
+
+48:24 
+क्या ये सही structure है?बोलो बच्चों नहीं क्यों नहीं, क्यों नहीं?क्योंकि sulfur की covalency दिख रही है इस बार चारकोई lone pair तो है नहीं। कितनी दिख रही है चार और sulphur चाहता कितनी covalency है?छह। कितनी चाहता है?
+
+48:38 
+छह। तो ये दो electron यहां से उठाओ, यहां बांध दो। ये दो electron यहां से उठाओ, यहां बांध दो। अब sulphur की covalency गिनो एक, दो, तीन, चार, पांच, छह। octet rule को तोड़ रहा है, इसको permission है। central atom को permission दी गई है octet rule को तोड़ने की। sulphur की covalency एक, दो, तीन, चार, पांच, छह। octet को तोड़ चुका है देखो एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10, 11, 12 कोई दिक्कत नहीं। इसको allowed है आठ से ज्यादा electron रखना। पर ये अपनी covalency कितनी चाहता है?
+
+49:07 
+छह की। ये structure ज्यादा सही है compared to previous structure जो बना था। octet rule से वो भी justified, यही तो बोल रहा हूं exam में जो चार option आएंगे उसमें वो वाला structure भी होगा और octet rule से देखोगे वो भी सही है। formal charge की बात करोगे समझ गए होंगे single bond oxygen, single bond oxygen minus one, minus one इस पर आएगा zero, इस पर आएगा zero, sulphur पर भी आएगा zero.
+
+49:29 
+कितना charge है?Two minus हो गया। इनका तो कई बार निकाल के देख चुके हो single bond oxygen पर minus one आता है double bond पर zero.sulphur पर और निकाल लेते हैं। sulphur पर और निकाल के देख लेते हैं formal charge.
+
+49:40 
+valence electron minus lone pair electron minus bond pair electron divide by two.sulphur valence electron छह lone pair यहां है नहीं zero.bond pair गिनो एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10, 11, 12, 12.
+
+49:51 
+एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10, 11, 12 divide by two कितना हुआ?Zero.ये sulphate ion का सही structure है। दो double bond, दो single bond से और ये minus, minus.इन पर चाहो तो charge निकाल के देख लेना formal charge। निकालोगे?
+
+50:04 
+और निकाल लो atom number one formal charge.valence electron oxygen पर six lone pair छह bond pair एक है यानी दो electron divide by two.bond pair के electron लेने हैं। कितने हुए?Minus one.इस पर minus one तो इस पर भी same minus one same structure इन पर zero, zero.
+
+50:21 
+अब आ गया होगा आपको। अब मुझे पूरा भरोसा है की आपको आ गया होगा। नहीं, मत करो sir हम पे भरोसा। नन्हे मुन्ने बालक हैं हम sir.चल भाई अगला structure बनाएंगे sulphur trioxide gas का। ठीक है SO3 gas का। pause करके video खुद से बनाएंगे। एक, दो, तीन, चार और मैं बोल चुका इसमें तेरा घटा मेरा कुछ नहीं जाता। तू video को बिना pause किए हर बार आगे बढ़ जाता। चल भाई Q निकाले pause करके कर लो अपने आप। sulphur पर valence shell six, oxygen भी six, six plus तीन oxygen है three into six charge neutral कोई charge नहीं है zero.
+
+51:01 
+18 और six, 24 central atom sulphur, oxygen, oxygen, oxygen single bond, single bond, single bond.bond pair electron कितने हो गए?एक, दो, तीन, चार, पांच, छह, छह हो गए। lone pair electron 24 minus छह 18। किसमें use होंगे?
+
+51:22 
+lone pair में। किसमें use होंगे?double bond, triple bond में। अब इन 18 electron को पहले किसमें use करोगे?corner atom के octet में। एक, दो, तीन, चार, पांच, छह, सात, आठ complete.एक, दो, तीन, चार, पांच, छह, सात, आठ complete.
+
+51:39 
+एक, दो, तीन, चार, पांच, छह, सात, आठ complete और electron भी खत्म हो गए। 18 ही तो थे। छह, छह, छह, 18 खत्म। sulphur एक, दो, तीन, चार, पांच, छह इसकी octet complete ही नहीं हुई। भैया इसके पास छह electron रह गए। तो अब ये कहेगा की भैया लाओ क्या बना दो मेरे लिए एक double bond.
+
+52:03 
+अब इसकी octet भी complete हो गई। एक, दो, तीन, चार, पांच, छह, सात, आठ। क्या ये structure सही है?क्यों नहीं सही है?क्योंकि sulphur चाहेगा अपनी valency को छह करना, छह करना। अभी कितनी है?एक, दो, तीन, चार कोई lone pair तो है नहीं जो गिनोगे। एक, दो, तीन, चार कोई lone pair नहीं है। तो ये इससे भी कहेगा लाओ electron ये वाले यहां पे दे दो। इसको तो कोई दिक्कत हुई नहीं। एक, दो, तीन, चार, पांच, छह, सात, आठ यही दो electron इसने यहां दे दिए। कोई दिक्कत नहीं। कितनी हुई?
+
+52:31 
+एक, दो, तीन, चार, पांच हुई। तो इससे भी कहेगा लाओ तुम भी दो electron इधर दो। इसको भी कोई दिक्कत नहीं। एक, दो, तीन, चार, पांच, छह, सात, आठ। अब sulphur खुश हो गया। एक, दो, तीन, चार, पांच, छह। sulphur ने octet rule तोड़ दिया। sulphur has more than eight electron.
+
+52:45 
+पर इन्हें भैया हक मिला है। इन्हें permission मिली है ऐसा करने की। इसके पास 12 electron हो गए इससे कोई दिक्कत नहीं। खुश है ये बढ़िया chill.He is chill, it is chill इसको कोई फर्क नहीं पड़ रहा है, सही है। छह covalency तो यही structure तुमको अगर तुम ढूंढोगे internet पे सबसे best structure SO3 gas का ये ही है। structure सारे सही होते हैं। इसके पहले जो बना था वो गलत नहीं था most appropriate ये था। और उसके पहले जो बना था उसमें सब पे formal charge वगैरह आएगा सब balance हो जाएगा। क्या बोल रहे हैं sir?
+
+53:12 
+जैसे structure ये भी गलत नहीं है अगर मैं बताऊं तो। ध्यान से देखो बना के दे रहा हूं आपको ये structure SO3 का और ये structure भी सही है। दोनों सही है पिछली बार यही बनने वाला था। ये structure पूरी तरह से सही है। देखो एक, दो, तीन, चार, पांच, छह ये sulphur की covalency चार, एक, दो, तीन, चार कोई दिक्कत नहीं सही है। इसमें total charge plus two minus two zero सही है। total charge यहां पे भी zero plus two minus two zero.
+
+53:44 
+But appropriate structure ये है reason ये होता है की charge structure से ज्यादा neutral structure stable होते हैं। charge structure से ज्यादा neutral structure stable होते हैं। ठीक है तो इसलिए ज्यादा अच्छा है। covalency चार है, covalency छह है better है। जहां ज्यादा covalency है, जहां ज्यादा bond है वो structure ज्यादा stable होता है। Resonance में ये चीज पढ़ोगे तुम। जिस structure में ज्यादा number of bonds है that structure is more stable.
+
+54:10 
+इसमें ज्यादा bond है छह bond आ रहे हैं। इसमें सिर्फ चार bond आ रहे हैं ये कम stable होगा। सही तो ये भी था देखो बना दिया मैंने। check कर लो पूरी तरह से सही है ये। ये मतलब यहां पे था मैं। देखो A, A, A, A, A, A ये यहां पे रुक गया मैं पिछले step पे। sulphur की octet complete है। एक, दो, तीन, चार, पांच, छह, सात, आठ। ये oxygen पे single bond है minus one आएगा single bond है minus one आएगा sulphur पे calculate करोगे plus two आएगा इस पे zero.
+
+54:35 
+total charge देखो कितना आ रहा है two minus two zero सही था।But चार bond ज्यादा अच्छे नहीं हैं compared to छह bond.तो यहां से दो electron उठा के यहां डाल दो। यहां से दो electron उठा के यहां डाल दो। अब इस oxygen पर चार zero, zero, zero क्योंकि दो bond बना चुका है। चाहो तो निकाल लो formal charge किसी का भी निकालोगे zero आएगा अपने आप कर लेना formal charge calculate कर लेना सब पे कितना आएगा zero.
+
+54:57 
+Clear है?अब तो आ गया होगा। चलो अब अगला वाला खुद से जो नहीं किया वो बहुत बड़ा गधा, बहुत ही बड़ा। चलो अगला structure है CO3 2 minus carbonate ion.चलो एक, दो, तीन, चार, पांच शुरू करूं मैं pause कर लिया चल। Carbon छह two comma four, oxygen आठ two comma six carbon के valence shell में चार electron होते हैं कई लोग छह करते हैं ऐसी गलती ना करें please don't do this और oxygen पे six.
+
+55:30 
+तो Q carbon पे चार oxygen के छह तो three into six plus negative charge को add करेंगे two eighteen four twenty two और two twenty four.Central atom कौन है?Carbon अगल बगल oxygen, oxygen, oxygen क्या बनाऊं single bond, single bond, single bond निकाल लो bond pair electron कितने हैं एक, दो, तीन, चार, पांच, छह; एक, दो, तीन, चार, पांच, छह.
+
+56:00 
+फिर निकाल लो lone pair electron कितने हो जाएंगे 24 minus छह that is 18.इनको कहां use करोगे पहले corner atom के octet complete करने में one, two, three, four, five, six; one, two, three, four, five, six; one, two, three, four, five, six.
+
+56:20 
+18 थे छह, छह, छह; 18 खत्म इस oxygen की octet complete हो गई छह दो आठ इसकी भी छह दो आठ इसकी भी छह दो आठ। Carbon की बात करें carbon पे कितने electron हुए एक, दो, तीन, चार, पांच, छह ओए होए इसकी octet complete नहीं हुई तो ये क्या कहेगा अपने electron इधर दो अब मैं खुश हूं। कितनी हो गई एक, दो, तीन, चार, पांच, छह, सात, आठ; आठ से ज्यादा भी कर सकता था पर कर नहीं पाएगा। कई लोग कह रहे हैं sir इसको उठा के भी यहां बना दे अरे गधे carbon है ना carbon की covalency तुमको बताई है मैंने चार उससे ज्यादा जा ही नहीं सकता चार हो गई ना एक, दो, तीन, चार इससे ज्यादा बना भी नहीं सकता। अब formal charge की बात करो तो देख रहे हो double bond वाले oxygen पे zero आता है single bond वाले oxygen पे minus one इस पे भी minus one और carbon पे निकाल लोगे zero आएगा.
+
+57:09 
+Minus two charge होना चाहिए minus two दिख रहा है हो गया negative charge corner atom पे होता है दिख रहा है carbon पे निकालना हो निकाल लो carbon पे निकाल के दिखा देता हूं formal charge ये तो समझ में आ रहा है ना single bond वाले oxygen पे minus one हर बार आया है हम लोग ने देखा carbon पे निकाल लो। अअअ क्या formula है formal charge का मैं तो भूल ही गया क्या है valence electron minus lone pair electron minus bond pair electron divide by two.
+
+57:30 
+Carbon के valence electron चार lone pair कुछ है नहीं zero bond pair एक, दो, तीन, चार, पांच, छह, सात, आठ divide by two एक, दो, तीन, चार, पांच, छह, सात, आठ कितना आ रहा है zero.ये carbonate ion का structure है most stable resonance structure Lewis से बना के दिखाया सबकी octet complete है। ये अपनी maximum covalency पे है formal charge बने हुए हैं इससे ज्यादा क्या पूछेगा आ गया। मैं टाड़ दूं reality में क्या होता है ये negative charge घूमता रहता है ये negative charge इस oxygen पे आता है double bond यहां भाग आता है फिर double bond यहां भागता है negative charge यहां इसको resonance बोलते हैं ये भी एक phenomenon होता रहता है अंदर compound के। अब मेरे ख्याल से आपको किसी भी structure को बनाने में कोई तकलीफ नहीं होगी। चलो एक last structure मैं आपको दे रहा हूं और उसके बाद मैं आपसे कहूंगा टटा bye bye शायद 15 structure नहीं हो पाए होंगे फिर भी मेरे ख्याल से sufficient हो गए मुझे खुद feel आ रहा है phosphate के लिए एक, दो, तीन, चार, पांच, छह pause play मैं start कर रहा हूं.
+
+58:27 
+Phosphorus atomic number 15 two eight five oxygen atomic number eight two comma six valence electron पांच valence electron छह। पांच oxygen के छह four into six plus three twenty four five twenty nine three thirty two.
+
+58:46 
+Central atom कौन होगा?Phosphorus least in number इधर oxygen, इधर oxygen, इधर oxygen, इधर oxygen single bond, single bond, single bond, single bond.Bond pair electron एक, दो, तीन, चार, पांच, छह, सात, आठ; आठ lone pair electron 32 minus eight that is 24 ये use होंगे किसमें lone pair में और किसमें double bond और triple bond.
+
+59:15 
+पहले किसकी octet complete करो corner की one, two, three, four, five, six; one, two, three, four, five, six; one, two, three, four, five, six; one, two, three, four, five, six आठ हो गए ना छह दो आठ, छह दो आठ, छह दो आठ। मेरे ख्याल से 24 electron खर्चे हो गए छह, छह, छह, छह; 24 खत्म.
+
+59:36 
+Phosphorus एक, दो, तीन, चार, पांच, छह, सात, आठ phosphorus की octet complete oxygen की octet complete सब खुश हैं। क्या ये structure सही है?सोचो phosphorus की covalency कितनी बताई थी आपको मैंने तीन और पांच, तीन और पांच चार तो होती ही नहीं ये तो चार में है तीन और पांच कोशिश करेगा maximum में जाने की। तीन और पांच याद आ रही है phosphorus की maximum covalency कितनी थी पांच और उससे पहले तीन ये तो चार है तो ये oxygen से कहेगा इधर ला रे खच्चक अब सही। इस oxygen पर double bond है charge जाएगा zero इस पे single bond है charge जाएगा minus one single bond charge जाएगा minus one single bond charge जाएगा minus one.
+
+01:00:19 
+तीन oxygen पे minus one, minus one, minus one phosphate पे charge minus three हो गया.Phosphorus पे charge calculate कर लोगे कितना आएगा zero। निकाल दूं phosphorus पे formal charge valence electron minus lone pair electron minus bond pair electron divide by two.
+
+01:00:32 
+Phosphorus valence electron पांच lone pair है नहीं zero bond pair एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10 एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10; 10 divide by two पांच minus पांच zero.Phosphorus आठ से ज्यादा electron रखा है इस समय एक, दो, तीन, चार, पांच, छह, सात, आठ, नौ, 10 पर उसको allowed है क्योंकि वो central atom है। So this was all about Lewis dot structure ठीक है मेरे ख्याल से इतने examples करने के बाद आपको बातें मेरी समझ में आ गई होगी तो 10 मिनट में इतना कोई बता ही नहीं सकता आपको ठीक है मैंने भी YouTube पे videos देखे हैं छह मिनट में Lewis dot structure बता रहे हैं 15 मिनट में Lewis dot structure क्या बताओगे 15 मिनट में कितनी बातें बताओगे टिकडम बता दोगे दो question करा दोगे carbonate ion, sulphate ion ये, ये आओ यहां तक आओ इस level पे आओ कुछ भी बोलो कुछ भी बोलो यहां से कुछ भी सब बन जाएगा। तो logics भी ध्यान में रखनी है maximum covalency वाली बात central atom कौन सा लेना है positive charge central atom पे आता है negative charge side में जाता है formal charge कैसे निकालते हैं जैसे यहां पे formal charge phosphorus पे निकाला हमने zero आया इस पे zero आएगा इस पे calculate करोगे minus one आएगा। तो चलिए बच्चों पढ़ाई करते रहिए all the very best I hope आपको मजा आया होगा।

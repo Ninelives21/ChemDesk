@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status_family": "example-status-family",
+  "description": "Template for controlled ChemDesk status maps.",
+  "statuses": [
+    {
+      "id": "example_status",
+      "label": "Example Status",
+      "description": "Describe when this status should be used.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    }
+  ],
+  "notes": "Template only."
+}

@@ -1,0 +1,180 @@
+
+00:13 
+Hello बच्चों, आज जो हम topic लेकर आए हैं वो है Molecular Orbital Theory, MOT और Chemical Bonding का ये एक बड़ा ही important topic है या शायद सबसे important topic है। Competitions में इसके बहुत questions आते हैं और school वगैरह में इसके ऊपर से सवाल पूछे जाते हैं। तो Molecular Orbital Theory में हमें बहुत कुछ cover करना है। पर पहले थोड़ा सा introduction ले लो कि ये theory है क्या?
+
+00:36 
+इसकी जरूरत क्यों पड़ी?इससे पहले की theories क्यों खराब थी?Molecular Orbital Theory से लेकर तुम्हारे जितने भी doubts हैं, जितने भी, वो इस video में या अगले दो video में, शायद मुझे दो video करने पड़े, इससे काफी लेंदी topic है, पूरे cover हो जाएंगे, पूरे। जो तुम्हें doubts है कि क्या है Molecular Orbital, कैसे बनती है, वो electronic configuration अगर पढ़ा है Sigma 1s, Sigma star 1s कैसे सही होता है, bond order कैसे निकालेंगे, कैसे stability compare करेंगे या कैसे short trick में हम जल्दी-जल्दी answers mark करेंगे। सब मिलेगा, है ना?
+
+01:05 
+तो start करते हैं concept से एकदम starting से। मेरा नाम अलक पांडे है और आज का topic है Molecular Orbital Theory। तो Molecular Orbital Theory हमसे क्या बोलती है?जैसे मान लो atom की orbital है। यहां मान लो एक hydrogen, एक hydrogen का atom है, दोनों मिलकर बना लेंगे H2। ये atom की orbital है। Hydrogen का configuration 1s1, 1s1 एक electron इस में, एक electron इस में वो भी opposite spin के साथ ताकि overlap करके H2 बना सके। ये किसकी orbital?
+
+01:36 
+Atomic orbital। ये किसकी orbital?Atomic。Atomic orbital आपस में overlap करती हैं और molecule बन जाता है। मतलब molecule के अंदर भी, मतलब molecule के अंदर क्या होती हैं?Atom की orbital होती हैं जो आपस में overlap कर रही होती हैं। ये पूरा concept था Valence Bond Theory का। किसका था?
+
+01:58 
+VBT Valence Bond Theory का ये concept था। पर MOT को ये चीज समझ में नहीं आई। MOT ने कहा Molecular Orbital Theory। उसने कहा ठीक है साहब बिल्कुल दो hydrogen की orbital होती हैं, एकदम सही बात है आपकी साहब। पर ये दोनों जब मिलती हैं तो ऐसा कुछ overlapping नहीं होता है। उन्होंने कहा कि ये दो atomic orbital जब मिलती है तो overlapping से bond नहीं बनता। उन्होंने कहा बल्कि ये overlap करके दो नई orbital बनाती हैं। अब ये क्या कहानी है?
+
+02:27 
+इन्होंने कहा hydrogen के molecule के पास भी orbitals होती हैं। यानी अभी तक Valence Bond Theory बात कर रहा था atomic orbital की, atom की orbital की जो exist करती हैं atoms में और molecules में भी। Molecular Orbital Theory ने कहा ठीक है atomic orbital exist करती है किसमें?
+
+02:49 
+Atoms में। जैसे ही molecule का formation होगा हमें मिलेगी molecular orbitals, molecular orbitals। मतलब हम H2 का भी electronic configuration लिख सकते हैं अगर हमें इस theory के बारे में पता चल जाए। हम atom की सारी property किससे predict कर रहे थे?
+
+03:07 
+Electronic configuration से। अगर हमें molecule की electronic configuration मिल जाए तो molecule की पूरी stability, पूरी कहानी खुल के सामने आ जाएगी। मगर ये theory molecule के formation पे नहीं, form होने के बाद molecule कैसे behave करेगा इस पे बहुत बातें करेगा। इन्होंने कहा कि atomic orbital होती हैं और जब वो combine करती हैं वो 1s1 और 1s1 जब combine करता है ना साहब तो एक नया orbital बनता है। ऐसा दो, दो थी तो दो बनी। तो अब दो से दो क्यों बनी और एक क्यों नहीं बनी?
+
+03:36 
+इन दो का नाम क्या है?इन दो में electron कैसे जाएंगे?इनकी वजह से property क्या change होगी?यही सब कहानी पढ़नी है。Valence Bond Theory भी एक अच्छी theory थी। काफी कुछ समझा रहे थे ये पर ये बात किसकी नहीं कर पाए?
+
+03:46 
+ये molecule की orbitals की बात नहीं कर पाए। ये molecules के magnetic nature की बात नहीं कर पाए। Valence Bond Theory molecule के magnetic nature की बात नहीं कर पाया। किया है ऐसा नहीं, नहीं किया, किया है but इतना well explained नहीं है। जैसे इनके हिसाब से O2 oxygen is diamagnetic, diamagnetic। वो जो diamagnetic क्या होता है?
+
+04:12 
+Diamagnetic जो magnet से थोड़ा सा repel हो जाए तो इनके हिसाब से oxygen का molecule magnet से या magnetic field के अंदर repel होगा, field से दूर भागेगा। पर experiments ने बताया कि oxygen is paramagnetic मतलब ये magnet की तरफ थोड़ा सा attract होगा repel नहीं, थोड़ा सा attract होगा। ये nature explain किया Molecular Orbital Theory ने। Exact magnetic nature बताती है Molecular Orbital Theory। ये भी काफी successful थे पर कहीं-कहीं पे flop हो जा रहे थे। और क्या गलती थी Valence Bond Theory में?
+
+04:43 
+ये कभी भी stability की बात नहीं की है। Stability की बात नहीं की इन्होंने। जैसे मैं आपसे पूछूं H2 stable है कि H2+ stable है कि H2- तो आप बोल दोगे H2 stable है ठीक है। पर इन तीनों में अगर मैं stability का order पूछूं कौन कम stable कौन ज्यादा stable तो ये Valence Bond Theory नहीं बता सकता। MOT ये बताएगा। यही सब question आ रहे हैं। मैं आपको बता रहा हूं किस तरह question पूछे जाएंगे। आपसे पूछेगा oxygen कैसा है diamagnetic, paramagnetic या कोई भी molecule दे देगा xyz और पूछेगा तो निकालने का तरीका होगा। जैसे stability पूछेगा किसकी ज्यादा है। तो ये सब चीजें Valence Bond Theory नहीं tackle कर पा रहा था और इसके लिए birth हुआ Molecular Orbital Theory। Molecular Orbital Theory आपको number of bonds भी बता देगा। क्या बता देगा?
+
+05:22 
+Number of bonds बता देगा कि किसी दो atom के बीच में कितना bond है। ये भी बता रहे थे Valence Bond Theory पर ये जब भी bond बताते थे तो बोलते थे या तो एक bond है या तो दो bond है या तो तीन। ये पढ़ते थे हम या तो single bond, double bond या triple। Molecular Orbital Theory interesting है। वो बोलती है ढाई bond, दो atom के बीच में साढ़े तीन bond, डेढ़ bond ये भी बन सकते हैं। इनके हिसाब से number of bond डेढ़, ढाई, साढ़े तीन मतलब ये पहली theory थी जो bond order मतलब number of bond को fractional मानने को भी तैयार थे। Depth में बातें कर रहे थे ये। Bond order को fractional, number of bond को fractional मानने को तैयार हो गए। और क्या advantage है?
+
+06:00 
+आपको पता है electronParticle है या wave है?तो आपको पता है both है but atom के अंदर it behaves as a wave.Wave होती है electron की। Schrodinger ने equation भी थी। तो molecular orbital theory पूरी wave mechanics को लेकर ही चल रहा है साथ में। मतलब modern view point of view को भी बहुत ज्यादा support कर रहा है। Wave mechanics के बहुत ही अंदर के concept use कर लिए इन्होंने। इन्होंने यह बात की कि जब दो waves आपस में मिलती हैं तो क्या होगा?
+
+06:26 
+ये शायद आपने light में पढ़ा हो interference में। तो वही चीज इन्होंने यहां पर use की कि जब waves आपस में मिलेंगी तो क्या क्या result हो सकते हैं। तो इसको note करें ये था कि क्यों molecular orbital theory required हुई, क्या क्या बता देगी हमको, किस किस बारे में बात होने वाली है। इसके बारे में इसके major points, main points जो इसके हैं वो discuss करते हैं। पहले इसको note कर लें। Note कर लिया one, two, three, four, five। बाहर हो रही है बारिश। बजे हैं दोपहर के दो और मैं पढ़ा रहा हूं molecular orbital theory। आपका दोस्त, आपका teacher अलक पांडे। चलो भाई तो आगे बढ़ेंगे अपन और पढ़ेंगे what are the main points?
+
+07:04 
+What are the main points?Of MOT, MOT, MOT नहीं MOT, MOT, MOT.हमम तो main point ये थे कि पहली बात कि atomic orbitals atoms में होती है पर molecular orbital होती है molecules में। तो atomic orbitals combine करती हैं और बनाती हैं molecular orbital.
+
+07:27 
+Molecule के अंदर, molecule के अंदर atom की orbital नहीं होती। दूसरी बात atomic orbitals का नाम याद है?याद होगा 1s, 2s, 2p, 3s यही सब नाम था। ये orbital 2s की फिर 2p की याद है उसके अंदर तीन होते थे तो px orbital, py orbital, pz and so on s, p, d, f ये नाम थे orbitals के। s के अंदर एक, p के अंदर तीन, d के अंदर पांच dxy, dyz, dxz, dx square minus y square, dz square और f के अंदर सात orbitals। पर molecular orbital की naming अलग है। यही तो बात होगी ना कि sir अगर molecule के अंदर भी orbital है और मैं molecule का electronic configuration लिखूं तो कैसे लिखूंगा?
+
+08:10 
+1s2, 2s2, 2p2 ऐसे लिखूंगा नहीं। Molecular orbital का नाम है sigma, pi, del and so on.Sigma molecular orbital, pi molecular orbital.Del के बारे में बहुत बातें नहीं होंगी। हमारा syllabus molecular orbital theory को बहुत ऊपर से cover कर रहा है। बहुत बड़ा topic है तो हम sigma molecular orbital और pi molecular orbital की बात करेंगे। कहीं ना कहीं ये sigma pi उसी से जुड़ा है जो आपने valence bond theory में sigma pi पढ़ा था कि जब axial या head on overlapping होती है तो कौन सा bond बनता है sigma। इसी तरह से atomic orbital जब axially overlap करेंगी तो जो molecular orbital बनेगी वो बनेगी sigma और जब side wise overlap करेगी तो जो बनेगी वो बनेगी pi。
+
+08:53 
+तीसरा important point number of molecular orbitals formed is equals to number of atomic orbitals combining। जितनी atomic orbital combine करेंगी उतनी molecular orbital बनेगी। जैसे मान लो दो atomic orbital हैं ये 1s 1s combine की तो molecule की भी दो orbital बनेगी different, different। दो से दो बनेगी। अब दो से दो कैसे बनेगी, क्यों बनेगी, क्या nature होगा, क्या नाम होगा ये भी पढ़ते हैं। पहले ये point समझ गए atom के अंदर atomic orbital, molecule के अंदर molecular orbital.
+
+09:31 
+Molecular orbital का नाम sigma, pi, s, p, d, f नहीं sigma, pi.Number of molecular orbital उतनी ही बनेगी जितनी atomic orbital combine करेंगी। दो से दो बनेगी। अच्छा आगे पढ़ते हैं point number four कि ये बनी कैसे?
+
+09:45 
+Very important point.Point number four कि दो से दो कैसे बनी very important.मान लो यहां पे एक 1s है और यहां पे एक और 1s है। दोनों combine किए और दो molecular orbital बनी। ठीक दो molecular orbital बनी। अब आपको पता है जो Schrodinger ने बोला था कि orbital, orbital क्या होता है?
+
+10:09 
+वो जगह जहां पे electron को पाए जाने की chance सबसे ज्यादा हो। यानी एक wave probability wave है। Electron क्या है?एक probability wave और उसी को हम orbital बोलते हैं। उस जगह को जहां पे electron के पाए जाने की chance है सबसे ज्यादा। Schrodinger ने उस wave के लिए, Schrodinger ने उस wave के लिए symbol use किए थे psi तो ये वाला orbital हो गया psi1 wave function ये हो गया psi2 दोनों एक एक wave हैं। बच्चों दो wave जब आपस में मिलती हैं तो दो चीजें हो सकती हैं। क्या क्या हो सकता है देखो। मान लो एक ये wave है, एक ये wave है। ठीक है दो waves हैं। अगर मैं इनको plus कर दूं तो क्या होगा?
+
+10:47 
+ऊपर वाला lobe बढ़ जाएगा, नीचे वाला lobe भी बढ़ जाएगा। ये होगा और अगर मैं इन दोनों wave को minus कर दूं तो क्या होगा?ये वाला इससे cancel, ये वाला इससे cancel.ये एक wave ये एक wave दोनों को add किया तो इसमें ये add होकर बड़ा हो गया। इसमें ये add होकर बड़ा हो गया। इसमें से इसको minus किया तो भैया खेल खत्म हो गया। अगर minus कर देंगे तो कहानी खत्म हो जाएगी। खत्म हो गई। बच्चों इसको कहते हैं हम लोग interference दो waves का मिलना। अगर दो wave add हो रही हैं positively और ऐसा कुछ बन रहा है तो इसको हम बोलते हैं constructive interference.
+
+11:23 
+इसके बारे में मैं आपसे बात करूंगा जब मैं YDC पढ़ाऊंगा class twelfth का topic है और यार YDC मेरा बहुत ही बहुत ही favorite शायद तुमको YDC में Young's double slit experiment में शायद confusion हो। शायद तुम्हें नहीं समझ में आता हो light wave और particle है ये चीज का मतलब। वो सब चीजें मैं बहुत detail बताऊंगा physics में। अभी सुनो अभी short में चलना है बहुत detail में नहीं सुनना कि दो waves combine की तो अगर मिल गई तो हम बोलते हैं constructive मिलके constructive कुछ किया है और अगर minus हो गई तो हम बोलते हैं destructive interference, destructive interference कट गई दूसरे को destruction कर दिया destructive interference.
+
+11:54 
+अच्छा भैया यहां तक बातें समझ में आ गई। फिर क्या हुआ?इसको आप बोल सकते हो psi1 plus psi2 की कहानी इसको बोल सकते हो psi1 minus psi2 की कहानी। ये दो orbitals हैं। ये भी दो orbitals हैं। तो दो orbital के मिलने के दो तरीके या तो वो constructive interference करें या तो destructiveअगर वो constructive interference करते हैं बच्चों तो उसको हम बोलते हैं bonding molecular orbital.
+
+12:18 
+क्या बोलते हैं?Bonding molecular orbital और destructive करते हैं तो हम बोलते हैं anti bonding molecular orbital.तो दो तरह की molecular orbital, दो atomic orbital से ऐसे बनती है। Constructive interference मिल गया तो bonding नहीं मिला तो anti bonding.
+
+12:36 
+क्या difference होता है दोनों में?जो bonding molecular orbital होती है बच्चों वो stable होती है और जो anti bonding होती है वो unstable होती है। बच्चों कौन सी चीज stable होती है जिसकी energy ज्यादा या जिसकी energy कम?
+
+12:51 
+जैसे मान लो तुम school में बैठे हो, है ना। तुमने lunch में आया tiffin खाया उसके क्या energy होती है?खतरनाक। फिर तुम stable ही रहते हो। इसको पीटा, उसको पीटा, यहां गए, इसको देखा, ये चुरा लिया, ये कर लिया और जब खाना वाना नहीं मिलता शांति से बैठे रहते हो stable। मतलब stable वो system है जिसकी energy less हो। So bonding molecular orbital की energy less और anti bonding की energy ज्यादा तो it has energy more, more energy। किसके पास?
+
+13:16 
+Anti bonding और bonding के पास less energy but more stable.ये बनता है constructive से, ये बनता है destructive से। इसके लिए एक symbol भी है bonding के लिए, bonding के लिए कोई symbol नहीं anti bonding के लिए हम use करते हैं star symbol.
+
+13:30 
+तो ये 1s, 1s मिलकर दो orbital बनाए। इसकी energy ज्यादा, energy more इसीलिए मैंने इसको अ, board पर ऊपर बनाया। इसकी energy ज्यादा। इसका मतलब ये कौन सा है?Anti bonding और ये bonding.It is more stable and this has more energy.
+
+13:55 
+इसके लिए तारा use करेंगे। इसके लिए तारा नहीं use करेंगे। यही difference है। अब समझ में आ गया दो orbital से दो क्यों बनती हैं?एक बनती है किससे?Destructive interference और ये वाली stable वाली किससे?Constructive interference.
+
+14:08 
+Bonding molecular orbital constructive, anti bonding molecular orbital destructive.दो wave function है दोनों add होके। ये वाला किससे आया है?psi one plus psi two.ये वाला किससे आया है?Sorry.ये वाला किससे आया है?
+
+14:21 
+psi one plus psi two.जो plus होके आया है ना उसकी energy कम है और stability more है। तो ये थी कहानी की दो orbital से दो orbital कैसे बनी। clear हो गई एकदम?Hundred percent clear हो गई?अच्छा। एक छोटी सी condition भी है बच्चों। यहां लिखता हूं point number five छोटी सी condition.
+
+14:37 
+Combining molecular orbital must have, must have same or nearly combining atomic orbital must have same or nearly same energy and same shape.जैसे ये 1s है तो ये 1s से ही combine करेगा। 1s को 2s से combine मत करा देना। Same या nearly same energy हो तो आप बोलोगे nearly same का क्या मतलब है?
+
+15:12 
+मान लो दो atoms आए। एक carbon आया, एक oxygen आया मिलके बना यह carbon monoxide यानी इसकी s इसके s से overlap करेगी इसका 1s इसके 1s से कहीं ना कहीं अंदर ही अंदर। क्या दोनों की energy same होगी?नहीं, nearly same क्योंकि atom different हो गए तो same energy होगा same atom में जैसे hydrogen, hydrogen है तब तो same और different atom है तो nearly same energy हो and same shape.
+
+15:37 
+Same shape का मतलब समझो कि s वाला s से overlap करेगा, px वाला px से overlap करेगा, py वाला py से overlap करेगा। s और p आपस में overlapping नहीं करेंगे। Same shape हो एकदम same symmetry हो तभी overlapping होगी या तभी molecular orbital form होगा। clear रहेगी ये बात कि molecular orbital तभी बनेगा जब atomic orbitals की energy और shape करीब-करीब same हो। shape तो hundred percent same, energy same या nearly same.
+
+16:03 
+clear?चलिए अब बात करते हैं कितने तरह की molecular orbital होती है। अरे sir अभी बताया तो आपने bonding, anti bonding.नहीं, नहीं, नहीं, नहीं, नहीं, नहीं, नहीं bonding, anti bonding तो उनका नाम है। अभी हम जानने जा रहे हैं कैसे-कैसे बन सकती हैं। मतलब, मतलब sigma और pi कैसे बनेगी। हमारे पास दो तरह की molecular orbital हैं sigma, pi molecular orbital.
+
+16:24 
+तो पहले बात करते हैं sigma molecular orbital की। तो बच्चों sigma molecular orbital बनेगी जब क्या होगा axial atomic orbitals का interference.ठीक है। अब हम यहां पर overlapping की जगह interference word use कर रहे हैं। overlapping भी use कर लेते हैं normal language में atomic orbitals का axial interference हो। तो आपको याद होगा s और s sigma बनाता है क्योंकि axially overlap करता है। तो मैंने ये ले लिया 1s ये ले लिया 1s दोनों को add कर दिया। ये यहां पर हमारे पास resulting molecular orbital आ गया। 1s, 1s से बड़ा और क्योंकि axial overlapping sigma नाम पड़ेगा 1s.
+
+17:07 
+कैसा है ये?Bonding molecular orbital.क्यों?क्योंकि दोनों wave function add हुए हैं तो constructive interference construction हुआ। दूसरा क्या हो सकता था?दूसरा ये हो सकता था कि 1s minus से 1s minus कर दें। ये कौन सा है?
+
+17:20 
+Destructive interference.तो यहां पर क्या होगा?बीच में से electron density कुछ गायब सी हो गई इस जगह से। जहां पर electron की density नहीं होती बच्चों उसको हम बोलते हैं nodal plane.देखो orbital वो जगह जहां electron के मिलने की chances बहुत ज्यादा। जहां electron के मिलने की chances zero उसको nodal plane तो यहां पर एक nodal plane है। इसका नाम 1s, 1s से बना sigma तरीके से बना axial overlapping sigma 1s और साथ में use करेंगे star क्योंकि ये कौन सा है?
+
+17:52 
+Anti bonding molecular orbital.क्यों anti bonding?क्योंकि minus हो गए destructive interference.इस तरह से 2s, 2s भी same काम करेंगे sigma 2s, sigma star 2s, s वाला pi तो बना नहीं सकता तो sigma 1s, sigma star 1s, sigma 2s, sigma star 2s ऐसे बन जाएगा shape भी same होगा। जैसे competition में question आ सकता है कि sigma star 1s में या 1s के anti bonding मेंकितने Nodal plane हैं?
+
+18:17 
+अब वो तुम सवाल का जवाब दे ही नहीं सकते। उसके लिए आपको image याद होनी चाहिए एक Nodal plane.इस तरह से 2s, 2s इस तरह से 3s, 3s पर 3s, 4s की हमें बात नहीं करनी theory में। हम 1s, 2s की बात करके ही पूरा topic निपटा लेंगे। उतने में ही खत्म हो जाएगा सारा competition, सारा school का पढ़ाई clear.
+
+18:34 
+ये हो गई sigma ss से और बच्चों sigma कौन बनाता है?मेरे ख्याल से और sigma बनाता है p वाला। अच्छा इसको ऐसे भी दिखा सकते थे दिखाने को 1s plus 1s आगे हम ऐसे ही दिखाएंगे कौन भाई बार-बार पूरा shape बनाएगा। 1s, 1s एक यहां एक यहां इसको बोलेंगे sigma 1s इसको बोलेंगे sigma star 1s ये anti bonding molecular orbital ये bonding molecular orbital इसकी energy ज्यादा इसकी energy कम ये ज्यादा stable ये less तो आगे हम ऐसे ही बनाएंगे anti bonding को ऊपर बना देंगे bonding को नीचे। ठीक है अभी shape सिखा रहे हैं। अब और कौन sigma बना सकता है?
+
+19:10 
+देखो एक example लेते हैं nitrogen, nitrogen triple bond आपको पता है इस triple bond में एक sigma होता है दो pi होता है ये पता होगा triple bond में एक sigma दो pi ठीक। nitrogen का configuration बच्चों होता है 2p3 इधर भी 2p3 एक, दो, तीन एक, दो, तीन ये आपस में overlap कैसे करेंगे?
+
+19:37 
+ये हो गया px, py, pz, px, py और pz इन्हीं तीनों को overlap करके एक bond ये एक bond ये एक bond ये तीन bond बने हुए हैं यहां पे। तो यानी तीन में से एक को तो sigma बनाना होगा। किसी एक की overlapping तो sigma की होगी। तो हम मान लेते हैं की pz, pz ने sigma बनाया। तीनों orbital की energy same है। किसी से भी आप sigma मान सकते थे पर chemistry में convention चला आता आ रहा है। सारी किताबें जिसको follow कर रही हैं, सारे competition इसको follow कर रहा है तो हम भी मान लेंगे pz, pz sigma बना रहा पर अच्छी किताबें साफ-साफ बोलती हैं कोई भी sigma बना सकता है और बचे हुए दोनों px, px, py, py क्या बना रहे हैं?
+
+20:17 
+pi bond बना रहे हैं ये हम मान सकते हैं। ये भी pi ये भी pi यानी p में भी एक sigma molecular orbital बन रही होगी। तब हम बात करते हैं pz और pz orbital की we are talking about pz and pz तो example के लिए 2pz, 2pz use कर लें। चलिए बहुत बढ़िया ये हुआ एक 2pz ये हुआ एक 2pz दोनों को add कर दिया यानी constructive interference तो बीच में एक बड़ा positive lobe यहां negative यहां negative ये कौन सी हो गई हमारी sigma 2pz, 2pz, 2pz मिले तो बन गई sigma 2pz, 2pz sigma बनाएगी हमने decide कर लिया। इसमें Nodal plane बिल्कुल ये रहा एक Nodal plane जहां electron नहीं एक रहा ये Nodal plane यानी इसके पास दो Nodal plane हैं। बहुत ही depth का सवाल है दो Nodal plane इस तरह से दोनों minus भी हो सकते हैं minus plus minus कर दिया। ठीक है इसमें से इसको मैंने minus कर दिया तब क्या बनेगा minus करने पे shapes आपको थोड़े से याद रखने पड़ेंगे इसका कोई trick नहीं है। ये बन गया मेरे पास sigma star 2pz ये कौन सी overlapping हुई या कौन सा interference हुआ?
+
+21:31 
+destructive interference zi1 minus zi2 इसके पास एक Nodal plane दो Nodal plane तीन Nodal plane तो sigma star 2pz has three Nodal planes, sigma star 2pz has three Nodal planes diagrams को ध्यान से देखिए और better ध्यान देना सब experimentally आया है clear 2pz, 2pz से एक sigma एक sigma star और दिखाने को exam में simple 2pz, 2pz add हुआ तो बोलो ए भाई तिड़ा line एक चकरे एक चकरे कु sigma star 2pz sigma 2pz ऐसे बना देंगे simple ऊपर वाला sorry ये ऊपर जाएगा ना sigma star 2pz sigma 2pz star को ऊपर बनाओ क्योंकि उसकी energy ज्यादा ये anti bonding ये bonding और कौन sigma बनाएगा?
+
+22:18 
+अब तो कोई sigma नहीं बनाएगा px, px, py, py pi बनाएगा तो sigma molecular orbital समझ में आ गई axial overlapping से ss में बनेगी और pz, pz में बनेगी बस। इसके बाद pi molecular orbital तो pi molecular orbital कब बनेगी जब side wise overlapping हो या side wise interference में लिख लूं। किसका atomic orbital का तो px, px भी करेगी py, py भी करेगी दो को हमने उठा लिया है pi के लिए एक को छोड़ दिया sigma के लिए। तो मान लो ये px, px है या py, py है कुछ भी मान लो और ये दोनों को add कर दिया तो कौन सा interference?
+
+23:00 
+constructive interference तो constructive interference से मेरे पास आएगा जुम्बारे जुंबरो ऐसे आ जाएगा। कितने Nodal plane?एक Nodal plane नाम क्या पड़ेगा इसका?ये है मान लो 2px ये है 2px pi bonding pi 2px कौन सी orbital है?
+
+23:20 
+bonding molecular orbital इसी तरह से इसमें से मैंने इसको minus कर दिया minus करने पर जो shape बनेगा ध्यान से देखें कुछ ऐसा shape बन जाएगा। नाम क्या पड़ेगा?pi star 2px anti bonding molecular orbital Nodal plane देखो एक Nodal plane दो Nodal plane, two Nodal plane कौन सा interference?
+
+23:50 
+destructive interference Nodal plane वो जगह जहां electron नहीं मिल सकता orbital में electron मिल सकता है। बोलिए कितना percent clear हुआ?clear हुआ है एकदम बढ़िया से समझ में आ गया है pi और sigma molecular orbital इस तरह से pi 2py pi star 2py तो ये थे shapes of molecular orbital और किस-किस नाम से पाए जाते हैं और कौन sigma और कौन pi कहलाता है। अब बात आई बच्चों बड़ी important जिसके लिए आप पूरा lecture शायद देख रहे होंगे that how to doHow to do electronic configuration of molecules?
+
+24:34 
+जैसे मैं आपसे बोलूं इसका electronic configuration करो तो आप बोलोगे atomic number eight one s two, two s two, two p दो, दो चार four eight.मैं आपसे कहूं इसका electronic configuration करो। क्या करोगे?सोलह electron दो oxygen ऐसे ही लिख दोगे?
+
+24:51 
+नहीं। ये क्या है?Molecule.मतलब इसका electronic configuration कुछ ऐसा होगा Sigma one s two, sigma star one s two.ओए होए ये क्या हो रहा है?Molecule के orbital के अंदर अब electron जा रहे हैं तो हम बात करने जा रहे हैं कि electronic configuration molecules का कैसे करें। इसके लिए आपको कुछ rules पढ़ने पड़ेंगे। जैसे atomic orbitals में rule पढ़े थे। याद आए electronic configuration के rules याद करो। पहला rule, पहला rule Afbau principle, Afbau principle मैंने video कर रखा है इसके ऊपर YouTube पर search करना होगा Afbau principle Physics वाला मिल जाएगा। Afbau principle ये क्या बोलता था?
+
+25:28 
+ये बोलता था atom की orbitals में electron भरता है increasing order of energy में। पहले electron उसमें जाता है जिसकी energy कम, फिर उसमें जिसकी energy ज्यादा, फिर उसमें जिसकी energy और ज्यादा। तो ये rule follow होगा molecular orbitals में भी कि आप energy के order में electron की filling करिए। जैसे हम पूछे bonding और anti bonding में electron किसको दोगे?
+
+25:51 
+Anti bonding molecular orbital, bonding molecular किसको electron पहले दोगे?Bonding को। इसकी energy कम, इसकी energy ज्यादा। Second बच्चों principle था Pauli's principle.Pauli's principle याद है?कहता था एक orbital में दो electron हो सकते हैं और दोनों का spin opposite हो। ये भी यहां valid है। एक molecular orbital के अंदर चाहे bonding हो, चाहे anti bonding दो electron हो सकते हैं और दोनों का spin opposite.
+
+26:19 
+तीसरा rule था बच्चों Hund's rule.Hund's rule हमसे क्या कहता था कि Hund's rule याद दिलाने के लिए ये याद दिलाता हूं मैं p orbital, p में जब electron भरते हैं तो ऐसे अगला इसमें डालते हैं नहीं इसमें। कैसे?
+
+26:33 
+ऐसे। इसमें ऐसे। कि अगर orbitals की energy same है तो उसमें electron unpaired रहेंगे और with same spin रहेंगे। अगर orbital की energy same है तो उसमें electron unpaired रहेंगे और with same spin रहेंगे और उसके बाद pairing start होगी। तो ये चीज भी यहां पे valid है for example pi 2px की energy pi 2py के बराबर होती है। z की तो अलग होती है वो sigma में चला गया। तो एक electron इसमें एक इसमें फिर इसकी pairing फिर इसकी pairing ये भी follow करेंगे। किसमें?
+
+27:08 
+Molecular orbital में। तो तीनों ही rule valid है molecular orbital theory पे। क्या नहीं valid है?n plus l rule नहीं है। n plus l rule याद है वो यहां पे valid नहीं है क्योंकि यहां उस तरह के orbital नहीं है one s two s यहां तो sigma one s pi 2px इस तरह की है तो गिन नहीं सकते। यानी overall जो इसका आप configuration करोगे वो experiment से करोगे। Experiment से properties predict होंगी, properties से electronic configuration predict होगा और फिर उसको लेकर हम बताएंगे कि Afbau principle valid है। है तो वही increasing order of energy ये तो देखा गया but actual जो configuration आना है वो experiment से आना है। मतलब इसकी जो भी हम energy का order बनाएंगे वो experiment से मिलेगा हमको। तो experiment से हमें जो order मिला वो हम आपको बता देंगे। आप उसको copy में लिख के अब याद कर लेंगे और उसी को apply कर देंगे। ज्यादा difficult नहीं है practice करते-करते याद हो जाता है। चलिए भाई हम आपको start करें क्या बताना कि कैसे-कैसे करना है। चलिए मान लीजिए if we have less than or equal to fourteen electrons जिस molecule की बात कर रहे हैं उसमें चौदह या चौदह से कम electron हो तो आप क्या करोगे?
+
+28:21 
+Configuration sigma one s सबसे पहले उसके बाद sigma star one s इसके बाद sigma two s इसके बाद sigma star two s.यहां तक तो दोनों में ही doubt नहीं कहीं doubt नहीं। ठीक है। इसके बाद आएगा आपका pi 2px which is equals to pi 2py then sigma 2pz then pi star 2px which is equals to pi star 2py and then will come sigma star 2pz.
+
+28:55 
+तो ये आप इतना note करें पहले तभी हम आगे बढ़ सकते हैं else आगे बढ़ने का कोई फायदा नहीं है। 

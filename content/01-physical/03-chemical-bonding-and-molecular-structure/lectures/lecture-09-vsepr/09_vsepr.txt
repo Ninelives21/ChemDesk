@@ -1,0 +1,426 @@
+
+00:18 
+Hello बच्चों, आज हम बात करेंगे valence shell electron pair repulsion theory की। अब VSEPR valence shell electron pair repulsion theory.अब इससे related जितनी भी आपकी doubts हैं, जितनी भी problems हैं, सब इस video में solve होने वाली हैं। बस चैन से बैठे हैं, हाथ में notes ले लें, pen ले लें और note करते चलें चीजों को। थोड़ा सा learning है बीच-बीच में और काफी कुछ, काफी कुछ understanding है। अगर आपको hybridization निकालना नहीं आता है तो YouTube पर type करें hybridization Physicswala और hybridization कैसे निकालते हैं ये सीख लें। इस video में भी मैं आपको hybridization निकालना थोड़ा बहुत initially समझा दूंगा और तब बात करेंगे VSEPR। पहले ये जान लें कि VSEPR पढ़ने की जरूरत क्या है। VSEPR हमें molecule की exact shape बता देता है कि molecule का shape क्या होगा। Hybridization हमें molecule की geometry बताता है। क्या difference है geometry और shape के बीच में और क्या जरूरत हुई VSEPR की इसको समझने के लिए थोड़ा सा हम पीछे जाएंगे और चीजों को start करेंगे। So my name is Alok Pandey and the channel is Physicswala and today's topic is Chemical Bonding #9 VSEPR। Okay.
+
+01:37 
+इससे पहले कि मैं VSEPR start करूं, मैं आपके पास तीन molecule ले रहा हूं that is CH4 methane, NH3 ammonia and H2O water.इन तीनों molecule का मैं hybridization निकालूंगा। Hybridization निकालने के लिए जो formula हमारे पास होता है बच्चों वो होता है z is equals to half number of electrons, number of valence electron on central atom plus any negative charge minus any positive charge plus number of monovalent atom.
+
+02:25 
+क्या formula है?z is equals to half number of valence electron on central atom जैसे यहां पे central atom बीच का atom कौन है carbon, यहां पे central atom nitrogen, यहां पे central atom oxygen plus any negative charge अगर molecule पे कोई negative charge हो तो add कर लो minus any positive charge कोई positive charge है तो उसको minus कर दो plus number of monovalent atom.
+
+02:48 
+इसको बहुत detail में जानना है तो YouTube पे type करें hybridization Physicswala इसके बारे में detail discussion है। हम यहां से इन तीनों का z निकालेंगे। ठीक है, चलिए z निकालते हैं। यहां पे देखिए half number of valence electron carbon के valence electron कितने होते हैं four carbon का atomic number six configuration two comma four, four plus कोई negative charge नहीं है, positive charge नहीं है। Monovalent atom monovalent यानी जिसकी valency one हो.
+
+03:19 
+Monovalent atom like hydrogen, fluorine, chlorine, bromine, iodine ये सब क्या है monovalent atom इन सब की valency one है। तो यहां पे कितने monovalent atom हैं चार तो add कर लो चार plus चार आठ by दो कितना आया चार। यहां पे z निकालेंगे half nitrogen के valence electron होते हैं five atomic number seven two comma five valence electron five plus negative charge positive charge नहीं है monovalent atom hydrogen तीन है eight by two four। इसका निकालेंगे z half central atom हुआ oxygen, oxygen के valence electron, valence electron central atom six atomic number eight two comma six plus negative charge positive charge नहीं है monovalent atom two eight by two four। मतलब इन सब के z की value four है। z की value कितनी है four.
+
+04:12 
+बच्चों z होता क्या है?z किसी भी molecule का sum होता है bond pair और lone pair का। Central atom पे होने वाले कितने bonds हैं और कितने lone pair हैं ये z बताता है। What is z?z is sum of bond pair plus lone pair कितने bond हैं और कितने lone pair हैं। तो इसमें चार total है। अब यहां देख रहे हो carbon के पास चार atom हैं तो चार के चार bond pair होंगे। बच्चों चार, चार, चार आया है। जैसे यहां पे देखो कितने bond हैं तीन तो तीन bond होंगे और एक lone pair.
+
+04:49 
+जैसे यहां पे देख रहे हो oxygen के पास कितने atom हैं hydrogen दो हैं तो दो bond pair, दो lone pair.तो कई बार यही सवाल आ जाता है कि इस molecule में कितने bond pair हैं, कितने lone pair हैं। तो पहले z निकाल लो molecule का z निकालने का तरीका बता दिया। Number of valence electron on central atom plus negative charge minus positive charge plus number of monovalent atom.
+
+05:11 
+z की value आ गई। अब z दो चीज represent करता है bond pair और lone pair central atom के। तो अगर हमसे lone pair पूछता है तो z की value चार आई है। अब इसके अगल-बगल कितने atom हैं चार तो चारों के चारों bond pair है। इसके अगल-बगल तीन atom है तो तीन bond बनेंगे एक lone pair.
+
+05:27 
+इसके अगल-बगल दो atom है तो दो bond pair, दो lone pair.बच्चों जब भी z की value चार आती है तो जो hybridization होता है, जो hybridization होता है चार value के लिए वो होता है SP3, SP3 very sorry and SP3 तो z की value पे hybridization depend करता है। ये चीज आप यहां पे इस image में देख लीजिए जो मैं आपको दिखाने वाला हूं और इसको याद कर लीजिए। ठीक है, आप देख रहे हैं z की value जहां पे दो आएगी तो SP, z की value जहां पे तीन आएगी तो SP2, चार आएगी तो SP3, पांच आएगी तो SP3d, छह आएगी तो SP32d2.अब hybridization molecule की geometry बता देता है। hybridization क्या बता देता है molecule की geometry?
+
+06:17 
+बच्चों geometry क्या होती है?geometry होती है arrangement of bond pair and lone pair.Bond pair और lone pair के arrangement को geometry कहते हैं। तो जब हमारा hybridization बच्चों SP3 आता है तो geometry होती है tetrahedral। क्या होती है tetrahedral?
+
+06:39 
+मतलब इन सब की geometry tetrahedral होगी। इसकी, इसकी, इसकी। तो हमने geometry बनाई carbon चार hydrogen लगेंगे एक, दो, तीन, चार। चार hydrogen लगा लिए हमने hydrogen, hydrogen, hydrogen, hydrogen.Regular tetrahedral geometry में यह angle होगा 109 degree 28 minutes.
+
+06:58 
+Ammonia की geometry भी क्या होगी?Tetrahedral बना रहा हूं। तीन hydrogen है इसके पास एक, दो, तीन। जबकि z की value चार है तो एक होगा मेरे पास lone pair। तीन bond pair एक lone pair.Water के लिए oxygen के पास दो ही bond pair है hydrogen, hydrogen चार value है दो atom हो गए bond pair और दो lone pair एक lone pair ये, एक lone pair ये। अगर हम ideally बात करें बच्चों तो ये सारे angle कितने होने चाहिए?
+
+07:29 
+109 degree 28 minute इसका angle भी 109 degree 28 minute इसका angle भी 109 degree 28 ये सारे angle 109 degree 28 minute 109, 109 जैसे यहां पे ये angle भी होगा 109 degree 28 minute सभी bonds के बीच में angle 109 degree 28 चारों के बीच में चारों space में ऐसे हैं एक, दो, तीन, चार इस तरह से एक, दो, तीन, चार इस तरह से space में तो सबके बीच में आपस में angle 109 degree 28 minutes होना चाहिए। ये hybridization और valence bond theory कह रही थी। हमने जब check किया बच्चों तो ये angle कुछ, कुछ 107 degree के आसपास आया और ये angle कुछ, कुछ 105 degree के आसपास आया। अब सवाल उठता है ये क्यों हुआ?
+
+08:14 
+सबकी z की value चार, चार, चार सबका hybridization SP3, SP3, SP3 यहां carbon का hybridization SP3 nitrogen का hybridization SP3 oxygen का hybridization SP3 hybridization हमेशा central atom का निकालते हैं। तो तीनों के central atom का hybridization SP3 था। तीनों की geometry tetrahedral है। तीनों की geometry tetrahedral है। तीनों की geometry इन तीनों की geometry क्या है?
+
+08:41 
+Tetrahedral इसमें कोई doubt नहीं है। कोई आपसे बोलता है ऐसा नहीं है तो वो गलत बोल रहा है tetrahedral geometry तीनों की tetrahedral है। Still bond angle यहां 109 है यहां 107 है यहां 105 है ऐसा क्यों?बच्चों ऐसा हो रहा है because of different kinds of electron pair यहां पे जो electron pair है ये, ये, ये, ये, ये, ये, ये, ये, ये सभी एक ही तरह के electron pair है। यानी चारों के चारों bond pair वाले electron है जो bond बना के रखे हैं। पर यहां पे जो electron के pair है वो अलग है जैसे ये देखो bond pair है ये भी bond का pair है ये भी electron pair किसमें है?
+
+09:23 
+Bond तो इसके पास तीन bond pair है और एक lone pair है। यहां पे देखो एक ये electron pair ये electron pair bond pair, bond pair, lone pair, lone pair तो दो bond pair है दो lone pair है। तो कहीं ना कहीं बच्चों electron pair किस type का है ये भी decide करता है की angle क्या होगा। अगर electron pair सारे bond pair है तब तो कोई दिक्कत नहीं है जो geometry सोच रहे थे वही geometry आएगी। पर अगर electron pair में lone pair आ जाता है तो hybridization से आगे बढ़ना पड़ेगा। जैसे इस molecule का मैं आपसे shape पूछूं क्या पूछूं?
+
+10:06 
+Shape पूछूं आज मेरी बातें बहुत ध्यान से सुननी है आपको shape.Shape होता है arrangement of atoms around central atom arrangement of atoms तो lone pair को भूल जाओ सिर्फ इसके atoms का arrangement देखो। अब ये tetrahedral नहीं है tetrahedral में चार bond होने चाहिए। Shape में lone pair का कोई लेना देना नहीं है। कहां लिख दूं ये बात?
+
+10:30 
+यहां लिखता हूं ध्यान से, ध्यान से shape को lone pair से कोई लेना देना नहीं है। Shape को मतलब है सिर्फ surrounding atom से या ये कह लो सिर्फ bond pair से shape को मतलब है सिर्फ और सिर्फ किससे?Bond pair से surrounding atom से तो जब इसका हम lone pair छुपा लेंगे बच्चों तो इसका shape हमें कैसा दिख रहा है?
+
+10:58 
+कुछ, कुछ pyramid जैसा दिख रहा है कुछ, कुछ pyramid जैसा और जब इसके lone pair छुपा लेंगे और इसका shape देखेंगे तो इसका shape हमें कुछ, कुछ bent दिख रहा है angular दिख रहा है bent lone pair छुपा लो यानी shape में lone pair को नहीं देखना सिर्फ bond pair को देखना है। इसका shape बच्चों क्या है?
+
+11:21 
+Tetrahedral इसकी geometry क्या है?Tetrahedral इसकी geometry क्या है?Tetrahedral इसका shape क्या है?Pyramid इसकी geometry क्या है?Tetrahedral इसका shape क्या है?Angular bent V shape V दिख रहा है उल्टा angular bent V shape अब दूसरी बात आती है ये angle क्यों change हुआ?
+
+11:44 
+अभी geometry shape में आपको difference समझ में आया आज?Geometry bond pair lone pair दोनों को देखना है shape सिर्फ bond pair यानी सिर्फ atoms को देखना है। अब दूसरा सवाल आता है ये angle क्यों अलग, अलग है?
+
+11:57 
+यहां 109 यहां 107 यहां 105 और इस सवाल का answer देती है valence shell electron pair repulsion theory valence outer shell के electron pair की repulsion theory electron pair की repulsion theory थोड़ी अलग है यार।असल में ये electron ऐसे ऐसे क्यों दूर गए?
+
+12:18 
+electron के pair एक दूसरे से जितना हो सके उतना distance maintain करना चाहते हैं। क्यों?क्योंकि ये एक electron का pair, ये एक electron का pair आपस में क्या करेगा?Repulsion.इधर भी negative, इधर भी negative.
+
+12:31 
+Repulsion, repulsion करके दूर भागा, दूर भागा ताकि stable हो जाए। भाई repulsion जहां पे कम होगा वहां पे जाके molecule stable होगा। ठीक है, बहुत बढ़िया। तो हमने कहा जब भी चार आए तो tetrahedral समझ लेना। तो यहां पे tetrahedral क्यों नहीं हुआ?
+
+12:47 
+Geometry तो है पर shape tetrahedral क्यों नहीं?क्योंकि अलग अलग तरह के electron pair में repulsion भी अलग अलग तरह का होता है। ये जो lone pair है ना, ये इस bond pair को ज्यादा repel कर रहा है और ये bond pair, bond pair आपस में इतना repel नहीं कर रहे। Lone pair ने ज्यादा repel किया और सब bond को नीचे दबा दिया। Lone pair का repulsion बहुत ज्यादा था। Lone pair का bond pair से repulsion बहुत ज्यादा था तो उसने सारे bond pairs को नीचे दबा दिया जिससे angle कम हो गया। जैसे यहां पे आए। अब यहां पे कई तरह के repulsion हैं। एक तो bond pair bond pair के बीच में, एक bond pair lone pair के बीच में, bond pair lone pair के बीच में और एक lone pair lone pair के बीच में। तो जो lone pair lone pair का repulsion है इन दोनों का वो सबसे ज्यादा है। मतलब ये दोनों lone pair सबसे ज्यादा दूर रहना चाहेंगे और इस कोशिश में ये नीचे वाले bond pair को दबा देंगे जिससे नीचे वाले bond pair का angle होना चाहिए था 109 degree 28 minutes पर हो गया 105 degree। ये angle कितना होना चाहिए था?
+
+13:57 
+109 degree 28 minutes होना चाहिए था अगर ये चारों bond pair होते। पर क्योंकि यहां lone pair है तो ये angle बढ़ गया। Lone pair lone pair में repulsion जितना हमने सोचा था normally उससे ज्यादा होता है जिसकी वजह से ये angle 109 से बड़ा हुआ और बाकी angle 109 से छोटे हुए। कहानी यहीं से start होती है। चलिए अब पढ़ते हैं Valance Shell Electron Pair Repulsion Theory.
+
+14:27 
+Valance Shell Electron Pair Repulsion Theory.चलिए Valance Shell Electron Pair Repulsion Theory VSEPR क्या कहती है ये?Point number one, electron pair are always repelling each other and tries to remain far apart.
+
+15:04 
+दूर रहना चाहते हैं जिससे repulsion कम हो जाए। Second point, different electron pairs have different order of repulsion.जैसा electron pair होगा वैसा repulsion होगा। Different electron pair.कितने तरह के electron pair हैं?
+
+15:27 
+दो तरह के। एक electron pair ये वाला। कौन सा?Bond pair और एक electron pair ये वाला। कौन सा?Lone pair.तो जो repulsion का magnitude है वो सब में अलग अलग है। Lone pair lone pair में repulsion सबसे ज्यादा होता है। Lone pair bond pair के बीच का repulsion उससे कम होता है और bond pair bond pair का repulsion सबसे कम होता है। तो ये आपको याद रखना है। Basically this is Valance Shell Electron Pair Repulsion Theory.
+
+16:08 
+Valance shell के electron आपस में किस तरह से repel करते हैं?तो lone pair lone pair सबसे ज्यादा repel करते हैं। Lone pair bond pair उससे कम repel करते हैं और bond pair bond pair सबसे कम repel करते हैं। Point number three, if lone pair is zero then geometry is shape.
+
+16:39 
+यदि lone pair zero है तो geometry ही क्या बन जाएगी?Shape.जैसे methane में, methane में lone pair कितने थे?Zero.तो उसकी geometry भी tetrahedral, उसका shape भी tetrahedral। Else, else geometry is not equal to shape.
+
+17:03 
+अब यहां से बात आती है कि what is geometry and what is shape?तो इतना note कर लें। पहली बात ये थी की electron pair repel करके दूर होना चाहते हैं। दूसरी बात सबसे ज्यादा दूर दूर कौन रहेंगे?Lone pair lone pair उनमें repulsion सबसे ज्यादा है। फिर lone pair bond pair, फिर bond pair bond pair.
+
+17:21 
+फिर अगली बात आई अगर lone pair नहीं है तो जो geometry है वही shape है और अगर lone pair है तो geometry और shape equal नहीं। तो geometry shape पे discussion start कर देते हैं। Next देखिए geometry और lone pair shape पे थोड़ा सा discussion.
+
+17:39 
+Point number four geometry.Geometry depends upon, depends upon bond pair plus lone pair दोनों पे depend करती है। मतलब depends upon z जो z की value निकालते हैं उस पे depend करती है। ठीक है, ठीक है। किस value पे क्या होता है?
+
+18:03 
+किस value के लिए क्या होती है?Z की value है two geometry होगी linear.Z की value है three geometry होगी trigonal planar, trigonal planar.देख चुके हो आप पहले भी ऐसीTrigonal planar.Z की value होगी चार, geometry होगी tetrahedral, tetrahedral एक, दो, तीन, चार। ठीक geometry, uh, z की value होगी पांच geometry होगी geometry होगी trigonal bipyramidal.
+
+18:43 
+ये सब hybridization में बताया है मैंने पर धीमे धीमे समझो trigonal bipyramidal इसमें ये तीन जो bond हैं ये एक plane में हैं यानी इस plane में तीन bond हैं one, two, three और एक bond plane के ऊपर है एक bond plane के नीचे। ये तीनों same plane में हैं। ये तीनों same plane में, ये ऊपर और ये नीचे। Z की value होगी छह geometry होगी octahedral, octahedral और बच्चों octahedral का shape क्या होता है यहां बना दे रहा हूं octahedral। ए, ये छह bond octahedral linear मतलब ऐसा। ठीक तो ये कहानी थी z के ऊपर और geometry के ऊपर, किसके ऊपर?
+
+19:32 
+Geometry.Geometry को decide कौन कर देगा?Z की value.Z की value निकालना आ गया half number of valence electron on central atom मेरे साथ बोलो plus negative charge minus positive charge plus number of monovalent atom hydrogen, fluorine, chlorine, bromine, iodine वगैरह को जोड़ना है। अब अगर z की value ये आती है तो ये geometry होगी। क्या होगी geometry?
+
+19:56 
+बिना किसी doubt के ये geometry होगी दो पे linear, तीन पे trigonal planar ऐसी, चार पे tetrahedral, पांच पे trigonal bipyramidal, छह पे octahedral। अभी angle वगैरह सब discuss करेंगे। ये क्या हुई?Geometry.
+
+20:16 
+अब वो point याद करो जो अभी-अभी मैंने बोला था point number three कि अगर lone pair क्या है zero तो जो shape है वही geometry है या जो geometry है वही shape है अगर lone pair zero है। Z क्या-क्या include करता है?
+
+20:35 
+Z include करता है bond pair plus lone pair.पर यदि lone pair आ गया जैसे ammonia में lone pair आ गया z की value कितनी आई थी चार geometry तो tetrahedral ही थी पर shape change हो गया geometry तो tetrahedral ही थी पर shape change.
+
+20:55 
+तो अगर lone pair आएगा तो shape change होगा clear है। अगर lone pair आएगा तो shape change होगा। अगर lone pair zero है तो shape और geometry same.What is shape?Arrangement of atoms.Arrangement of bond pair is shape लिख सकते हैं इस बात को इसको मैं improve कर दूं। चलिए ये सब hybridization की video में बताया गया था ये बातें। अब point number five shape depends upon surrounding atoms.
+
+21:30 
+या ये कह लो depends upon bond pair only इसका lone pair से कोई लेना देना नहीं है। अब shape is equals to geometry if lone pair is zero shape is not equal to geometry if there is lone pair.अगर lone pair है तो shape और geometry अलग होगी और यही है valence shell electron pair repulsion theory क्योंकि lone pair के आने से repulsion जो हम सोच रहे थे उससे change हो गया। अभी तक हम सिर्फ bond pair, bond pair देख के geometry shape predict कर दे रहे थे पर lone pair के आते ही repulsion का एक order आ जाएगा जिसकी वजह से shape पूरा change हो जाएगा पर geometry वही रहेगी। Don't confuse geometry with shape.
+
+22:24 
+Geometry only depends upon value of z.Geometry को lone pair से मतलब नहीं है z total value से मतलब है shape को सिर्फ bond pair से मतलब है सिर्फ bond pair से। I hope मेरी बातें आपको कुछ कुछ समझ में आई होंगी। आइए अब मैं इस चीज को detail discussion में ले जाता हूं और आप देखिए कैसे कैसे कहानी बढ़ेगी आगे। Let us discuss with values of z suppose z की value मेरी आती है two और यहां मैं लिखता हूं bond pair यहां मैं लिखता हूं lone pair यहां मैं लिखता हूं geometry यहां मैं लिखता हूं shape चलिए और यहां पे side में hybridization भी थोड़ा बहुत revise करते हैं hybridization सब साथ-साथ चलेगा। Z की value two मान लो दोनों के दोनों bond pair है lone pair zero है दोनों के दोनों bond pair दूर रहना चाहेंगे linear geometry ऐसे। अब क्योंकि lone pair zero है तो shape भी वही होगा जो geometry ऐसे। hybridization की बात करें तो दो के लिए hybridization होता है SP shape linear geometry linear why both are same क्योंकि lone pair है zero चलिए z की value दो एक bond pair एक lone pair ऐसा भी हो सकता है तो यहां पे मैंने A बनाया एक lone pair एक bond pair इस shape को हम कुछ नहीं कह सकते भाई दो atoms आपस में जुड़े हैं क्या shape बोलोगे?
+
+23:48 
+कोई shape नहीं है या कोई geometry नहीं है। है ना?यहां पे भी आओगे तो भी कोई कहानी नहीं होगी इसमें भाई A, B जुड़े हैं इसको तुम linear थोड़ी ना बोलोगे दो atom के लिए कोई shape थोड़ी ना होता है कहीं भी रखे हो सकते हैं hybridization अभी भी क्या होगा SP hybridization depends upon value of z hybridization किससे निकालते हैं value of z से आगे बढ़ते हैं ध्यान देना अब z की value three हुई bond pair जो bond बने हैं अच्छा इसमें ये सोच रहे हो कि दो करके इसको zero दो करें यार कोई मतलब ही नहीं अगर bond pair zero हो जाते हैं तो कोई bond ही नहीं बन रहा।तो कोई molecule ही नहीं है तो इसकी बात तो नहीं करनी है। तीन, मान लेते हैं तीनों के तीनों bond pair हैं और zero lone pair है। मतलब तीन bond pair तो तीनों एक दूसरे से maximum distance पे, इसको हम बोलते हैं trigonal planar, trigonal planar। pen, paper उठा लो, note कर लो। ये angle one twenty degree, ये angle one twenty degree और तीसरा angle भी one twenty degree.
+
+24:50 
+क्योंकि lone pair zero है तो shape भी same होगा। shape will be again trigonal planar.hybridization तीन हो गया तो तीन के लिए hybridization होता है SP2.अच्छा, अब मान लो z की value तीन है, दो bond pair, एक lone pair ऐसा हो जाए। दो bond pair एक lone pair तो geometry को किससे मतलब होता है?
+
+25:14 
+Tell me.बोलें, बोलें, बोलें, बोलें बताएं हमको geometry को किससे मतलब होता है?Geometry को मतलब होता है सिर्फ z से। यानी lone pair plus bond pair और shape को मतलब होता है किससे?Bond pair से। तो यार z की value अभी भी कितनी है?
+
+25:31 
+Three.तो geometry will again remain what?Trigonal planar.जब तक z की value तीन रहेगी तब तक geometry trigonal planar ही चलेगी। geometry को सिर्फ z की value से मतलब है। इससे मतलब नहीं कितने bond pair के, तो उसको total से मतलब है। बनेगा कैसे इस बार?
+
+25:52 
+देखो एक lone pair लगा लो और दो bond pair लगा लो। Sir lone pair यहां क्यों लगाया?तुम जहां चाहो वहां लगा लो क्योंकि तीनों position same है। अगर तीनों position same नहीं होती तो सोचना पड़ता lone pair कहां लगाना है। पर क्योंकि तीनों position same है तो तुम कहीं पे भी लगा सकते हो। अब यहां पे एक important सवाल आएगा कि ये angle कितना होगा?
+
+26:15 
+ये angle कितना होगा?क्या ये अभी भी one twenty होगा?बिल्कुल नहीं। क्यों?क्योंकि lone pair और bond pair के बीच में repulsion ज्यादा होता है और bond pair, bond pair में repulsion कम होता है। मतलब अब lone pair इन दोनों bond pair को थोड़ा दबा देगा। lone pair का repulsion bond pair से और bond pair का bond pair से कम होता है और lone pair bond pair का ज्यादा। तो ये वाला repulsion इतना ज्यादा होगा की ये इसको दबा देगा, इधर भी दबा देगा। so this angle will be less than one twenty degree and this angle will be greater than one twenty degree.
+
+26:48 
+यही है VSEPR.What is VSEPR?That repulsion order is lone pair lone pair is greater than lone pair bond pair is greater than bond pair bond pair.तो यहां पे lone pair और bond pair में repulsion ज्यादा हुआ ये दब के less than one twenty.
+
+27:04 
+Note करते रहो याद भी करनी है कुछ चीजें इसमें धीमे धीमे। मैंने बोला था ना starting में थोड़ा सा learning है। आइए shape पे। Shape की बात करें। Shape में सिर्फ bond pair को देखना है तो मैं फिर से इसको बना रहा हूं ऐसे, ऐसे, ऐसे। क्या इस बार shape और geometry same होंगे?
+
+27:20 
+बिल्कुल नहीं क्योंकि lone pair zero नहीं है। जब lone pair zero हो तो shape geometry same.तब shape geometry same.जब lone pair क्या हो?Zero.जब lone pair क्या हो?Zero.पर यहां lone pair one है मतलब दोनों में कुछ difference आएगा। अब इसने इसको दबा दिया है। अब shape में सिर्फ bond pair को देखना है तो आप इसको छुपा दो। अब ये कैसा shape दिख रहा है?
+
+27:45 
+यहां central atom होगा मान लो A और यहां side के atom B, B लगे हैं। तो ये कैसा shape है?V बोल सकते हैं, उल्टा V है, bent बोल सकते हैं झुका हुआ, angular बोल सकते हैं। तो तीन नाम आप इसके लिख सकते हो this can be called bent, this can be called V, this can be called angular.
+
+28:03 
+क्या board यहां तक दिखाई पड़ रहा है?नहीं दिख रहा तो मैं बोल दे रहा हूं। ये shape या तो bent बोल सकते हो झुका हुआ या तो V बोल सकते हो उल्टा V या तो angular.hybridization z पे depend करेगा। z की value अभी भी तीन है तो hybridization will be SP2.
+
+28:19 
+तो इतनी बातों को note करें फिर मैं आगे बढ़ता हूं। z की value तीन है। तीन में तीन zero, तीन में दो एक और तीन में अगला option क्या होगा यही समझा देता हूं एक, दो। तो इसको discuss करने का कोई खास जरूरत है नहीं। फिर से कोई shape नहीं होगा। भाई एक bond pair है मतलब एक ऐसे लगा होगा atom.
+
+28:39 
+दो lone pair लगा लेना एक atom लगा होगा। अब एक atom अगर दूसरे atom से जुड़ा है तो क्या shape geometry की बात करोगे?Geometry तो फिर भी तुम बता सकते हो geometry क्या होगी?Trigonal planar.भाई दो lone pair लगा लेना एक bond pair.
+
+28:56 
+चलो करके दिखाता हूं यहां तक पहले कर लो आप। note कर लिया यहां तक?पक्का समझ लो मैं?चलिए बहुत बढ़िया। मजा आ रहा है?समझ में आ रहा है topic?थोड़ा सा interesting लग रहा है?बहुत बढ़िया भाई। चलिए आगे देखते हैं। तो z की value अभी भी हम रखेंगे तीन bond pair हमने कर लिया one lone pair कर लिया two.
+
+29:22 
+geometry सिर्फ z पे depend करती है। geometry अभी भी trigonal planar.पर दो bond pair है sorry दो lone pair है तो एक lone pair इधर लगा लिया ऐसे, एक lone pair इधर लगा लिया ऐसे और एक bond pair.angle जरूर change होगा। ये वाला angle बताओ one twenty से कम कि ज्यादा?
+
+29:42 
+ज्यादा क्योंकि lone pair lone pair पे repulsion ज्यादा तो this angle is greater than one twenty degree and this angle will be less than one twenty.इसमें repulsion ज्यादा हुआ और इसको इसने दबा दिया। ये सारे bond angle अब बराबर नहीं है। ये वाला सबसे ज्यादा फैलना चाहेगा क्योंकि ये lone pair lone pair का repulsion है और इसको दबना पड़ जाएगा क्योंकि इसका repulsion उतना नहीं है। geometry अभी भी क्या है?
+
+30:04 
+Trigonal planar.Still the geometry is trigonal planar.अच्छा shape की बात करें बच्चों shape में सिर्फ bond pair को देखते हैं, सिर्फ atom को देखते हैं तो A से B जुड़ा हुआ है ऐसा आप सोच सकते हो। इसको आपको देखना नहीं है तो कैसा shape है?
+
+30:21 
+Linear बोलना हो बोल दो वैसे कोई shape नहीं है। दो atoms का मेरी बात सुन लो।दो atoms का shape कुछ नहीं होता। बोलना चाहो तो बोल दो तुम linear हमें दिक्कत नहीं है। बोलना चाहो बोल दो linear वैसे कोई shape नहीं। hybridization Z की value पर depend करता है यानी hybridization अभी भी होगा SP2.
+
+30:38 
+तो यह Z is equals to three तक के सारे case discuss हो गए। अब zero three मत करना। zero bond pair का मतलब कोई item ही नहीं present है तो फिर क्या बात करोगे molecule की?तो यह Z is equals to three तक के मैंने सारे case आपको discuss कर दिए। चलिए मैं आपको इसी में कुछ question करा देता हूं। फिर हम आगे बढ़ते हैं। लगातार सवाल कराते रहे हैं आपको। एक बार इसको note कर लिया है copy में देखते रहो। चलो बहुत बढ़िया। कुछ question करा दें आपको। question find, find number of lone pair, hybridization, geometry, shape for सब निकालना है। number of lone pair निकालना है, hybridization निकालना है, geometry निकालना है, shape निकालना है for, for चलो start करते हैं for sulfur trioxide SO3.
+
+31:34 
+सबसे पहले Z निकालेंगे Z is equals to half number of valence electron on central atom sulfur का atomic number sixteen two eight six valence electron कितने हुए?छह plus negative charge नहीं है minus positive charge नहीं है plus monovalent atom oxygen को मत जोड़ना। oxygen monovalent नहीं है। किसको जोड़ते हैं hydrogen, fluorine, chlorine, bromine, iodine तो नहीं जोड़ेंगे। कुछ नहीं आएगा six छह by दो तीन तो Z की value आई तीन। चलो एक चीज खत्म हुई। आओ अब lone pair निकालें। बच्चों Z क्या होता है?
+
+32:10 
+Z होता है lone pair plus bond pair.कितने item जुड़े हैं sulfur से?तीन और कितना आ रहा है Z?तीन मतलब सारे के सारे bond pair हैं। एक भी lone pair नहीं। तीन oxygen से जुड़ना पड़ेगा तो lone pair is equals to Z minus number of surrounding atoms.
+
+32:29 
+formula बनाने को बना लो वरना समझने को समझ लो। Z की value तीन है और तीन item भी लगाने हैं तो सबके सब bond pair होंगे। तो तीन minus surrounding item भी तीन तो lone pair zero.तो पहला answer number of lone pair is zero.
+
+32:43 
+next is hybridization Z की value तीन के लिए hybridization कितना बता रखा है मैंने आपको SP2.next is geometry Z की value तीन के लिए geometry क्या होती है हमारी?trigonal planar, trigonal planar कैसी sulfur, oxygen, oxygen, oxygen angle कितना होगा?
+
+33:06 
+एक सौ बीस degree, एक सौ बीस degree, एक सौ बीस degree.अब JEE में सवाल आ जाएगा कि इस molecule में कितने one twenty degree के angle है तो आप बता दोगे तीन one twenty degree के angle है। फिर बात आई shape की। अब क्योंकि lone pair zero है तो shape is equals to geometry tension ही नहीं है तो shape भी क्या हो जाएगा?
+
+33:28 
+trigonal planar clear है। चलिए next सवाल करते हैं। ठीक है इसके यही सब सवाल आते हैं number of lone pair, hybridization, geometry या shape के बारे में। चलिए next question देखते हैं। पहले दो तीन question कर लो थोड़ी practice हो जाए। second HNO3 चलिए इसमें आपको central item कहाँ ये सब चीजें किसकी निकालनी है?
+
+33:53 
+central item की central item इसमें central item हमारा कौन है nitrogen.चलिए Z is equals to half nitrogen के valence electron पांच atomic number होता है seven two comma five plus negative charge नहीं है minus positive charge नहीं है monovalent item hydrogen एक है one छह बटे दो Z की value आई तीन Z की value अभी भी कितनी आ रही है?
+
+34:23 
+तीन आ रही है ठीक है इसको आप बल्कि चलो ठीक है Z की value आ रही है तीन.तीन का मतलब बच्चों lone pair plus bond pair.थोड़ा सा इसमें आपको चीजें समझनी पड़ेगी अभी है ना। अब बात आई इसमें lone pair कितने हैं तो थोड़ा सा structure समझो। यह जो hydrogen है वो oxygen से जुड़ता है है ना HNO3 में अगर आप देखोगे तो तीन oxygen तो nitrogen से जुड़ते हैं और जो hydrogen है वो oxygen से जुड़ता है तो इसको हम कहानी से हटा सकते हैं अभी के लिए या चाहो तो लगा रखो तुम्हारी मर्जी है any case तो तीन oxygen जुड़ जाएंगे तो बच्चों lone pair कितने आएंगे?
+
+34:59 
+zero तीनों के तीनों bond pair बन गए। angle कितना होगा?एक सौ बीस degree, एक सौ बीस degree, एक सौ बीस degree hybridization कितना होगा?SP2 geometry क्या है?trigonal planar shape क्या है?trigonal planar क्योंकि lone pair कितने हैं?
+
+35:17 
+zero नहीं समझ में आया lone pair zero क्यों है?क्योंकि तीनों के तीनों bond pair है। अब ये acid है ना acid में hydrogen किससे जुड़ता है?oxygen से थोड़ी logic याद रखनी है कि hydrogen को oxygen से जोड़ना है nitrogen से नहीं। सारे items नहीं जुड़ते हैं central item से कुछ items बाद के items से भी जुड़ सकते हैं तो थोड़ा बहुत structure का idea भी हो better होगा इस question को आप ऐसे solve करो मेरे लिए। फिर से ही सवाल दे रहा हूं मैं आपको same question like this NO3 minus one अब ठीक है चलो Z की value निकालो half nitrogen के valence electron पांच negative charge one positive charge नहीं है monovalent item hydrogen, fluorine, chlorine, bromine कुछ नहीं है छह by दो तीन hybridization SP2 तीन lone pair plus bond pair का sum है। अब nitrogen को surround करने वाले item भी तीन है यानी lone pair कितने होंगे?
+
+36:06 
+zero lone pair zero मतलब जो shape वही geometry तीन के लिए geometry कितनी होती है?trigonal planar, trigonal planar खत्म सवाल nitrogen, oxygen, oxygen, oxygen angle एक सौ बीस degree, एक सौ बीस degree, एक सौ बीस degree है ना ये भी सवाल आ जाता है angle के ऊपर। चलो थोड़ा सा बढ़ते हैं एक नए तरीके का example थोड़ा लेते हैं। चलो तैयार हैं next third चलो दिमाग लगाएंगे sulfur dioxide मैं आपको बताने हैं number of lone pairHybridization, geometry, shape और lone pair किस पे?
+
+36:44 
+Central atom का.Hybridization किसका?Central atom का.Geometry किसके about?Central atom के about.चलिए Z निकालेंगे half.Sulphur पे valence electron छह, atomic number सोलह, two eight six छह plus negative charge, positive charge नहीं है.
+
+37:00 
+Monovalent atom hydrogen, fluorine, chlorine, bromine नहीं है छोड़ देंगे। कितना आया?तीन। तीन क्या है?Lone pair plus bond pair.अब यहां sulphur के अगल-बगल कितने atom हैं?दो और Z की value है तीन मतलब lone pair इस बार कुछ ना कुछ होगा। Lone pair कितना होगा?
+
+37:19 
+एक। तीन Z की value है दो atoms है तो एक bond pair, एक bond pair और एक बचा हुआ lone pair.ठीक है। Next बात आई hybridization की hybridization तो hybridization Z की value depend करता है। तीन के लिए hybridization SP2.
+
+37:36 
+Next आई geometry तो geometry depend करता है Z की value पे तो geometry again is trigonal planar, trigonal planar.तो चलिए इसको बना लेते हैं SO2 को S और एक lone pair दो bond pair कहीं पे भी लगा सकते थे। तीनों identical हैं और एक lone pair.
+
+37:58 
+अब बात करें बच्चों shape की तो क्या इसका shape geometry के बराबर होगा?नहीं क्योंकि lone pair है। Shape में किसको देखना होता है?Shape में सिर्फ देखना होता है bond pair को तो lone pair को छुपा लो, छुपा लो। Shape क्या आया इसका bent या angular या V तो shape क्या हो जाएगा हमारा bent या क्या बोल सकते हो angular या क्या बोल सकते हो V.
+
+38:23 
+Bond angle की बात करें बच्चों तो ये bond angle less than one twenty हो जाएगा और ये bond angle greater than one twenty हो जाएगा क्योंकि यहां repulsion ज्यादा होगा lone pair और bond pair का और इसका repulsion कम होगा bond तो ये इसको दबा देगा। ये इसको भी ज्यादा repel करके दबाएगा। इसको ज्यादा जगह घेर नहीं है, ज्यादा घेर नहीं इसको दबा के छोटा कर देगा। So this will be the everything that you have been asked over here.
+
+38:50 
+clear है भाई समझ में आ रहा है, मजा आ रहा है। चलिए आगे बढ़ते हैं। अब Z की और values की बात कर लेते हैं। थोड़े बहुत example करा दिए। आगे बढ़ते हैं। Z की value तीन तक discussion हुआ है हमारा। आगे बढ़ते हैं Z की values को और बढ़ाते हैं। ओके। कैसी पहेली है ये कैसी पहेली Chemistry टी, टी, टी, टी। Geometry Z पे depend करेगा shape सिर्फ bond pair पे hybridization Z पे। चलो भाई start करते हैं। मान लेते हैं Z की value चार आई चार के चार bond pair lone pair है zero तो geometry चार के लिए होती है बच्चों tetrahedral। pen और notes को पास में रखें और सब कुछ note करते रहें tetrahedral। Bond angle होगा एक सौ नौ degree अट्ठाईस minute shape और geometry same होगी क्योंकि lone pair zero है तो इस case में मैं लिख देता हूं same कहानी। चार के लिए hybridization होता है SP3। चलिए आगे बढ़ते हैं। Z की value को चार रखते हैं। तीन bond pair एक lone pair पे आते हैं। अभी देखो इसमें चारों bond identical हैं तो lone pair कहीं पे भी लगा दो फर्क नहीं पड़ेगा। जब तक चार bond identical हों तब तक lone pair कहीं भी लगा दो कोई दिक्कत नहीं। इसमें से कहीं पे भी एक lone pair लगा दो और तीन bond pair होंगे तो A अब बताओ इसको tetrahedral कई बार लोग ऐसे भी दिखा देते हैं की एक bond ऊपर गया हुआ है या पीछे गया हुआ है behind the plane of paper.
+
+40:16 
+ठीक है। अगर आपको tetrahedral geometry चाहिए देखनी है तो चलो कोशिश करता हूं यहां image लगाता हूं editing में बड़ा problem होता है तो ये देखो ये tetrahedral geometry होती है एक bond पीछे की तरफ तो देखो ये हमने लगा दिया lone pair और ये तीन bond pair although आप यहां भी लगा सकते हो पर देखने में ये shape अच्छा लग रहा है। Geometry क्या रहेगी अभी भी बच्चों tetrahedral geometry में दोनों चीज count होती हैं क्या-क्या bond pair भी और lone pair भी। अब तो तुमको समझ में आने लगा होगा। Shape की बात करेंगे तो सिर्फ number of atoms को देखेंगे यानी सिर्फ bond pair देखेंगे। Atom यहां लगा है, यहां लगा है, यहां लगा है और ऊपर lone pair लगाया उसको छुपा लो। ये shape कैसा है?
+
+40:53 
+ये shape pyramid जैसा है तो shape हो जाएगा pyramidal, pyramidal.तो यदि तीन bond pair है एक lone pair तो shape will be pyramidal.Hybridization Z पे depend करेगा Z अभी भी चार है तो it will be SP3, SP3, SP3, SP3 oh my god SP3.
+
+41:10 
+Next is Z की value चार है और दो bond pair दो lone pair दो bond pair दो lone pair तो A ये बन जाएगा दो bond pair दो lone pair geometry अभी भी रहेगी tetrahedral। Shape की बात करेंगे तो उसमें आप सिर्फ atoms को देखेंगे lone pair को नहीं देखेंगे तो lone pair को छुपा लो और shape को देखो कैसा shape दिख रहा है वही bent या V या angular, angular.
+
+41:53 
+थोड़ा सा angle की बात करो। यहां पे tetrahedral में सारे angle कितने होते हैं?एक सौ नौ degree अट्ठाईस minute.क्या यहां पे ये angle एक सौ नौ होगा या उससे कम या उससे ज्यादा?और ये angle कैसा होगा सोच के बताओ। यहां पे किन bonds का angle कम होगा, किन bonds का angle बढ़ेगा?
+
+42:11 
+इन bonds का angle बढ़ेगा क्योंकि यहां repulsion ज्यादा है this is lone pair, this is bond pair so this angle will be greater than एक सौ नौ degree अट्ठाईस minute and this angle will be less than एक सौ नौ degree अट्ठाईस minute.
+
+42:23 
+जैसे यहां पे ये angle एक सौ नौ degree अट्ठाईस minute से बड़ा होगा क्योंकि ये repulsion होगा और ये दब जाएंगे bond तो this will be less than hundred nine degree twenty eight minutes.clear है भाई hybridization की बात करोगे तो यहां पे भी आएगा SP3 तो ये Z is equals to चार पे मैंने सारी बातें कर ली। Z is equals to दो पे हो गई, तीन पे हो गई और चार पे हो गई। चलिए आइए question कर लेते हैं फिर से लगातार question करते रहो concept बना रहेगाएक बार में सब याद करोगे तो काम नहीं बनेगा। याद करना जरूरी है इसमें थोड़ा बहुत। चलो Z is equals to चार पर example लेते हैं। क्या करना है आपको?
+
+42:57 
+Find करना है। Question find number of lone pair hybridization और क्या?और क्या?और क्या?Geometry.और क्या?और क्या?Shape.ठीक है चलो और सब किसके लिए निकालते हैं?Central atom के लिए। चलो भाई शुरू करते हैं तो सबसे पहला example लेते हैं CH4 चलो Z is equals to half.
+
+43:24 
+अब आप खुद से बता दोगे छह two comma four atomic number six two comma four चार plus negative charge नहीं है, positive charge नहीं है monovalent चार आठ बटे दो चार hybridization SP3 geometry, geometry tetrahedral, tetrahedral lone pair Z की value चार है। चार का मतलब bond pair plus lone pair मिलाकर चार। अगल बगल atom कितने हैं?
+
+43:55 
+चार मतलब lone pair zero lone pair zero तो shape is equals to geometry which is equals to tetrahedral बना सकते हैं इसको carbon hydrogen, hydrogen, hydrogen, hydrogen angle कितना होगा?109 degree 28 minute पूछा इसमें कितने angle 109 degree 28 minute यार regular tetrahedral के हैं तो आप बोलोगे चार के चार चार के चार clear है और कुछ बचा है इसमें नहीं बचा। चलिए next example देखिए इसी में next example अब मैं चाहूंगा आप खुद से करके दिखाएं next मैं देता हूं आपको H2O नहीं पहले मैं देता हूं आपको NH3 और उसके बाद मैं आपको देता हूं H2O जो की मैंने जहां से lecture start किया था Z की value चार लेके वहीं पे आ गए NH3 Z is equals to half nitrogen का valence electron पांच atomic number seven two comma five पांच monovalent atom तीन hydrogen आठ बटे दो कितना आ रहा चार, चार तो hybridization SP3 geometry बोलो बोल भाई tetrahedral, tetrahedral lone pair बोलो भाई Z की value चार है चार होता है bond pair plus lone pair atom कितने जुड़े हैं nitrogen से?
+
+45:12 
+तीन Z की value चार तो lone pair कितने हैं?एक, एक plus तीन चार है ना तीन होंगे इसमें bond pair इसके साथ एक है lone pair ठीक है तो क्या shape geometry के बराबर होगा?बिल्कुल नहीं क्योंकि lone pair आ गया है तो ammonia को हम बनाएंगे N lone pair को छुपाओ shape कैसा दिख रहा है?
+
+45:39 
+shape दिख रहा है pyramidal सर मुझे नहीं दिखा तभी तो बोला पहले से याद करो कुछ चीजें इसमें learning की है तो जो मैं बार बार chart बना रहा हूं उसको याद करते चलो और उसको थोड़ा बहुत use करना पड़ेगा learning तो करनी पड़ेगी तो इसको छुपाया तो ये pyramidal ठीक है। कोई आपसे पूछे bond angle बताओ ये वाला कितना होगा?
+
+45:57 
+109 से कम कि उससे ज्यादा कम less than 109 degree 28 minutes why because यहां पे repulsion ज्यादा this bond angle will be greater than 109 degree 28 minutes क्योंकि यहां पे repulsion ज्यादा हो गया और ये दब गए ये lone pair bond pair का repulsion ये bond pair bond ये कम है ये ज्यादा repulsion है तो ये bond angle फैल गया और ये दब गया। water की बात करें H2O पानी रे पानी तेरा रंग कैसा?
+
+46:23 
+पानी रे पानी तेरा रंग कैसा?ऐसा मैंने एक play किया था although YouTube पे भी पड़ा हुआ है पर उसमें acting नहीं कर रहा हूं। क्यों?ये कहानी फिर सही हमको किसके और चलो भाई Z is equals to half number of valence electron and oxygen छह monovalent atom दो छह दो आठ बाए दो चार, चार bond pair plus lone pair है hybridization की बात करो SP3 geometry की बात करो चार के लिए geometry tetrahedral आप समझ गए हो क्या, क्या चीजें Z से निकल आती हैं?
+
+46:55 
+hybridization geometry bond pair plus lone pair का sum बात करें lone pair की Z की value है चार oxygen से atom जुड़े हैं दो यानी lone pair होंगे दो क्या shape geometry के बराबर होगा?नहीं क्योंकि lone pair है तो इसको बनाएंगे oxygen ये अब lone pair को छुपा लो तो shape कैसा दिख रहा है?
+
+47:21 
+Bent angular भी the shape is bent v angular oh my god bond angle की बात करो this bond angle will be less than 109 degree 28 minute this bond angle will be greater than 109 degree 28 minutes this bond angle will be greater than okay let's compare over here यहां पे what क्या आता है?
+
+47:40 
+Question compare का theta one, theta two, theta three तीन angle दिए मैंने यहां पे comparison के सवाल बहुत आता है theta one, theta two, theta three हमसे पूछा इसका order क्या होगा?कौन सा angle सबसे बड़ा कौन सबसे छोटा तो definitely theta one सबसे बड़ा फिर theta two फिर theta three इनमें सबसे ज्यादा repulsion इनमें उससे कम इनमें सबसे कम so this will be the order of bond angle और कोई भी 109 degree 28 minute नहीं। इसमें कितने regular tetrahedral angle हैं?
+
+48:07 
+कितने regular tetrahedral angle हैं?zero एक भी नहीं clear है तो ये Z की value चार पर discussion था भाई Z की value चार पर आपको और example करने हैं तो आप ये कर लो number चार CH3 minus चलो Z is equals to half carbon पे valence electron चार atomic number होता है छह two comma four negative charge है इस बार जोड़ो negative को जोड़ते हैं positive को minus करते हैं monovalent atom भी है कितने हैं?
+
+48:37 
+तीन तो तीन hydrogen तीन है जोड़ दिया चार एक पांच तीन आठ बटे दो चार hybridization SP3 geometry tetrahedral what is this tetrahedralGeometry not shape.Geometry depends upon z.This is the sum of bond pair plus lone pair.
+
+48:57 
+अब हम बात करेंगे lone pair की बच्चों Z की value है चार bond pair lone pair मिलाकर चार carbon से atom जुड़े हैं तीन मतलब तीन तो bond बने हैं और एक lone pair है। क्या shape geometry के बराबर होगा?नहीं क्योंकि lone pair है तो इसको हम बनाएंगे carbon hydrogen, hydrogen, hydrogen टू टू टू टू टू। Sir आप बना कैसे रहे हो?
+
+49:20 
+क्योंकि मैंने अभी लिखा था वहां से बना रहा हूं मैं। एक lone pair होगा तीन bond pair, तीन bond pair एक lone pair मुझे याद है ये pyramidal बनेगा। आपको भी ये याद ही करना पड़ेगा learning का topic है यहां पे ये। क्या shape हो गया?
+
+49:37 
+Pyramidal.What is the shape?The shape is pyramidal, pyramidal.What is the geometry?Tetrahedral.Number of lone pair one.तो यही सब सवाल इसमें बहुत आते हैं की lone pair कितने हैं geometry क्या है shape क्या है?
+
+49:52 
+ठीक है चलिए आगे बढ़ते हैं पहुंचते हैं z की value पांच पे थोड़ा discussion अब detail होगा क्योंकि z की value पांच पे number of case भी ज्यादा बनेंगे और सारे bond identical नहीं होंगे। सारे bond identical नहीं होंगे तो मैं hybridization का section ही हटा देता हूं थोड़े बाकी sections को बड़ा करता हूं यहां से lone pair के section को भी पतला कर सकते हैं हम। इसमें सिर्फ एक number लिखना है। चलिए फिर से बना देते हैं z is equals to five को discuss करने जा रहे हैं हम ठीक है z is equals to five को z is equals to five को तो z lone pair bond pair तो इनको मैं thin lines में हटा दूं क्योंकि shape बड़े होने वाले हैं पांच के लिए। अब geometry which depends upon z that is bond pair plus lone pair good shape that depends upon only bond pair उम्म ओ और यहां पे hybridization। चलिए ये आपको बार बार बना लेना चाहिए table z की value हम लेने वाले हैं कितनी पांच। इसको change कर लेते हैं यहां पे bond pair यहां पे five के पांच bond pair lone pair zero z की value पांच पे geometry होती है trigonal bipyramidal, trigonal bipyramidal यानी तीन gonel और दो pyramid.
+
+51:26 
+ये तीनों bond एक plane में होते हैं। ये तीनों bond इस plane के अंदर हैं। एक bond plane के ऊपर एक bond plane के नीचे। ये जो plane में bond हैं इनमें angle 120 degree, 120 degree, 120 degree है और जो ऊपर और नीचे हैं उनका angle सबके साथ 90, 90, 90 तीनों के साथ और नीचे वाले का भी इन तीनों के साथ 90। जैसे ये तीन bond plane में हैं एक ऊपर है तो ऊपर वाले का इसके साथ भी angle कितना हुआ 90 इसके साथ भी 90 इसके साथ भी 90 नीचे वाले का भी तीनों के साथ 90। जैसे सवाल आता है इसमें कितने right angles हैं?
+
+52:06 
+सुनो ध्यान से how many right angles are here?तो आप बोलोगे कितने right angle हैं?छह, छह bond हैं 90 degree वाले एक ये वाला angle एक ये वाला एक ये वाला। कितने bond angle हैं जो 90 degree हैं?ऊपर वाला तीनों से 90, 90, 90 नीचे वाला तीनों से 90। कितने bond angle 120 के हैं?
+
+52:24 
+एक, दो, तीन तो तीन bond angle हैं 120 degree के। हर तरह के question के लिए तैयार रहिए। क्योंकि lone pair zero है तो shape वही होगा जो geometry है। पांच के लिए hybridization होता है SP3d.next आगे बढ़ते हैं पांच। इसमें मैं आपको एक important बात समझा दूं जैसे मान लो surrounding atom same नहीं हुए। मान लो surrounding atom different हो गए क्या ऐसा हो सकता है surrounding atom different हो?
+
+52:54 
+जैसे दो example मैं बोलता हूं पांच के लिए एक PCl5 इसमें Cl, Cl, Cl पांचों same है तो जहां जो लगा दो कोई दिक्कत नहीं। दूसरा example जैसे मैं आपको बोल दूं XeO3F2, Xe, Xe, XeO3F2 xenon try oxy fluoride, xenon try oxy fluoride xenon compounds बनाता है exceptional case है try oxy fluoride.
+
+53:22 
+z तो पांच आएगा चलो मैं निकाल के दिखाता हूं मैं बता रहा हूं अब थोड़ी detailing start होगी half number of valence electron and central atom xenon पे valence electron कितने होते हैं?आठ भाई Nobel gas है Nobel gas के आखिरी shell में आठ plus negative charge positive charge नहीं है plus monovalent atom दो fluorine आठ दो दस बटे पांच ध्यान देना important चीज आ रही है पांच, पांच क्या होगा?
+
+53:46 
+Bond pair plus lone pair xenon से कितने atom जुड़े हैं?तीन, दो, पांच यानी सारे के सारे bond pair lone pair तो नहीं है case यही वाला है तीन, दो, पांच xenon से तीन oxygen जुड़े हैं दो fluorine जुड़ा है तो तीन, दो, पांच हो गया lone pair zero है। बात ये आती है की structure कैसे बनाओगे इस compound का structure कैसे बनाओगे?
+
+54:09 
+तीन oxygen को ऐसे ऐसे ऐसे लगा दें और दो fluorine को ऐसे ऐसे कोई logic, कोई logic इसका की बस ऐसे ही बोल दिया ये why?क्योंकि symmetrical लग रहा है fluorine, fluorine को लगाना है why, why are you doing this?
+
+54:23 
+तो इसके लिए आपको एक point याद रखना है बात आपकी सही है यहां fluorine लगता है यहां fluorine लगता है यहां oxygen, oxygen, oxygen बात आपकी सही है। जैसे मैं आपको confuse कर दूंगा अभी example देखिए P F3Cl2 यहां आप गलत बना दोगे structure PF3Cl2 यहां definitely गलत करोगे structure को PF3Cl2 phosphorus trifluoro dichloride.
+
+54:50 
+अब आप क्या करोगे इसमें P एक, दो, तीन तो आप यहां fluorine यहां fluorine यहां fluorine लगाओगे ऊपर chlorine नीचे chlorine लगाओगे structure गलत हो जाएगा।Common misconception concept means conception है। आपको लग रहा है दो chlorine है तो एक ऊपर एक नीचे कर दे compound बन जाएगा नहीं। यहां तो बन गया यहां नहीं बन पाएगा compound। Concept होना चाहिए so what is the concept?
+
+55:14 
+What is the concept?क्यों fluorine ऊपर नीचे लगे concept?यहां पर मैं लिख रहा हूं इसको आप भी copy में डालें। More electronegative atom occupy equatorial position.इस position को और इस position को हम बोलते हैं equatorial ऊपर नीचे वाले को this is called equatorial position और इन सबको हम बोलते हैं axial position.
+
+55:48 
+तो अगर different तरह के atom मिले z is equals to five में तो ऊपर नीचे कौन से लगाने हैं जो ज्यादा electronegative है ऊपर नीचे। जैसे फिर से वही example अब अपने आप बता दोगे PF3Cl2 P एक, दो, तीन, चार, पांच ज्यादा electronegेटिव कौन होता है?
+
+56:08 
+Fluorine.यह तो पता है ना fluorine is more electronegative तो एक fluorine ऊपर एक fluorine नीचे और एक fluorine यहां एक chlorine और chlorine यहां। अब ये नहीं कि chlorine, chlorine ऊपर ऊपर लगा दिया। Sir इससे कुछ difference होगा मेरे answer में?
+
+56:20 
+बहुत बड़ा होगा भाई। मान लो आपसे पूछे chlorine की आपसे पूछ ले ClPCl angle कितना है?गए आप ClPCl angle कितना है?ClPCl angle कितना होगा?एक सौ बीस degree ClPCl और अगर आप यहां लगा लेते ClCl तो आप बोलते angle one eighty है और कहानी गलत हो जाती है। आप बोलते हैं ClPCl का angle एक सौ बीस, एक सौ अस्सी है जबकि angle कितना है एक सौ बीस। So you have to remember that more electronegative atom occupy equatorial position irrespective of the number of atom.
+
+56:53 
+इससे फर्क नहीं पड़ता कि दो atom किसी एक तरह के हैं। Cl के दो atom है तो ऊपर नीचे लगा दूं नहीं। पहले ज्यादा electronegेटिव को यहां लगाओ। फिर अब जगह नहीं बची तो इसलिए fluorine को यहां पर लगाया। शाबाश समझ गए बहुत बढ़िया। चलिए ये वाला case कर लेंगे z की value पांच आई है AXIO3F2 ज्यादा electronegेटिव कौन है?
+
+57:15 
+Fluorine तो एक fluorine ऊपर एक fluorine नीचे और यह oxygen, oxygen, oxygen multiple bond की बातें नहीं कर रहे यहां पर हम देख रहे हो लगातार हमने multiple सिर्फ arrangement of atoms की बातें हो रही हैं trigonal bipyramidal.
+
+57:28 
+चलिए भाई clear हो गया आपको यह भी am I clear with this thing?अब याद रखोगे एक important concept गलती नहीं करोगे। okay.बच्चों वाली हरकत नहीं करोगे okay z की value five चार bond pair एक lone pair चार bond pair एक lone pair तो geometry सिर्फ z पर depend करती है z की value अभी भी पांच है तो geometry will be again trigonal bipyramidal.
+
+57:56 
+इसमें कोई अंतर नहीं आएगा। चलो भाई अब चार bond pair एक lone pair अब सुनो इसका भी rule है lone pair are placed at axial position.अब यहां सारे bond एक जैसे नहीं है। अभी तक सारे bond एक जैसे हो रहे थे। सारी position एक जैसी थी तो lone pair कहीं भी रख दे रहे थे। अब यहां यह तीन position अलग है। यह दो position अलग तो lone pair को कहां रखते हैं?
+
+58:24 
+Axial position पर क्यों रखते हो?Lone pair थोड़ा बड़ा होता है कि bond pair बड़ा होता है?Lone pair बड़ा होता है। दो electron का set ऐसे फैला हुआ है ना bond pair तो बंधा हुआ है। जो bond pair होता है उसको दो nucleus पकड़ के रखे हैं। इधर से एक atom का nucleus इधर से एक atom nucleus तो ज्यादा भाग नहीं सकता। Lone pair सिर्फ एक nucleus से बंधा है। सिर्फ central atom से तो वो ज्यादा भागता है इधर उधर तो उसको जितनी ज्यादा जगह दोगे उतना better है। तो आप यहां देख रहे हो angle कितना-कितना मिल रहा एक सौ बीस, एक सौ बीस और ऊपर नीचे डालोगे तो angle कितना मिलेगा नब्बे, नब्बे तो भाई एक सौ बीस वाली जगह दो उसको ताकि वो घूम सके इधर उधर so lone pair are placed at axial position तो मैं lone pair को axial position पर रख दूं?
+
+59:05 
+जी sir okay ये रख दिया मैंने lone pair.मान लो कोई item A है ये bond pair, bond pair चार bond pair है एक ऊपर और एक नीचे। ठीक है अच्छा shape की बात करें shape geometry के same नहीं होगा क्योंकि lone pair है तो shape की बात करें इस case में चार bond pair plus एक lone pair के case में बात कर रहे हैं very important case.
+
+59:35 
+lone pair axial पर रखा एक ऊपर एक नीचे तो बच्चों इसका जो shape होता है उसको हम इसको छुपा के देखते हैं और थोड़ा सा इसको घुमा कर देखते हैं। इस molecule याद करना पड़ेगा इस molecule को थोड़ा घुमा देते हैं A ऐसे rotate कर दिया थोड़ा सा देखना ध्यान से मैं इस molecule को यहां से थोड़ा rotate कर दिया मैंने A.
+
+59:59 
+वही molecule है ऐसे रखा था मैंने थोड़ा यहां पर lone pair था इसको पकड़ के मैंने ऐसे rotate कर दिया। अब यह जो shape है अब आप lone pair को छुपाओगे तब shape देखोगे ऐसे तो ये जो shape है बच्चों ये सीसो झूले जैसा है सीसो झूले देखो ये इसका stand हो गया यहां पे एक बंदा बैठ जाएगा यहां पे एक बंदी बैठ जाएगी। बंदा बंदी sir क्या चल रहा है?
+
+01:00:22 
+कुछ नहीं chemistry अच्छा ठीक है तो ये दोनों stand हो गए और ये एक तरफ का झूला दूसरी तरफ का झूला सीसो anyways you have to learn it in the end चार bond pair एक lone pair पे सीसो hybridization की बात करें SP3D clear है lone pair कहां पे रखा है मैंने?
+
+01:00:41 
+Axial position में रखा है वो घुमा दिया दिखाने के लिए सिर्फ ठीक है रखते कहां है lone pair axial पे दो lone pair होंगे दो axis में तीन होंगे तीन axis पे आगे बढ़े बच्चों आगे बढ़े चलिए इसी case में आगे बढ़ते हैं मैं इसको rub करता हूं। पांच में number of cases ज्यादा बनेंगे क्योंकि z की value ज्यादा हो गई है तो definitely number of case will be more okay let us proceed ahead let us proceed aheadछह में और ज्यादा नहीं यार छह में बहुत कम बनते हैं। आते ही नहीं exam में z की value पांच bond pair हो गए तीन lone pair हो गए दो geometry की बात करें तो trigonal bipyramidal क्योंकि उसको sum से मतलब है individual से मतलब नहीं है trigonal bipyramidal चलिए अब दो lone pair कहां रखना चाहोगे बताओ, बताओ एक यहां रख दूं ऐसे एक यहां रख दूं ऐसे better है दो lone pair एक atom ऐसे एक ऐसे clear है shape की बात करें। lone pair axial पर रखे हैं shape की बात करें। अब इनको छुपा लो और इस molecule को थोड़ा फिर से टेढ़ा कर दो। इसको छुपा के इसको ऐसे rotate कर लो तो तुम्हें दिख रहा होगा T shape.
+
+01:01:56 
+दिख रहा है इसको यहां से छुपाओ molecule को थोड़ा टेढ़ा कर लो तो shape क्या हो जाएगा T shape अच्छा ये ना थोड़े से झुक जाते हैं because of repulsion exactly अब नब्बे degree का angle एक सौ बीस degree का angle नहीं बचा T shape समझ में आ रहा है इसको थोड़ा rotate कर लो hybridization की बात करें बच्चों फिर से SP3d next z की value पांच दो bond pair तीन lone pair अब तीन lone pair है तीनों axial position पर जाएंगे एक, दो, तीन एक ऐसे एक ऐसे geometry अभी भी trigonal bipyramidal shape की बात करें बच्चों। दिल भर मेरे ऐसी मुझे ये कैसा shape है?
+
+01:02:42 
+सारे lone pair को छुपा दो। सारे lone pair को छुपा दो। shape कैसा दिख रहा है सीधा मतलब linear सारे lone pair को छुपा दिया shape हो गया linear hybridization SP3d last would be पांच bond pair sorry पांच एक bond pair चार lone pair तो मैंने जब बोला तुमसे जब एक bond pair हो तो ज्यादा tension लेने की जरूरत नहीं है। एक bond pair मतलब एक atom जुड़ा है और एक atom को तुम linear चाहो तो linear लिख दो। चाहो तो कुछ मत लिखो। भाई एक atom के जुड़ने का कोई shape नहीं होता na shape होता है जब दो atom कम से कम हो so पांच में एक चार भी लगा सकते थे so this was all with z is equal to five z is equal to z is equal to five तो z is equal to five पर आइए सवाल कर लेते हैं z is equal to five पर question करते हैं फिर से question वही है find number of lone pair hybridization geometry shape form चलो शुरू करें इस बार सीधा सीधा चलो Xeo3F2 यहीं से शुरू करें ये कर लिया है हम लोगों ने चलो कर लेते हैं फिर भी z is equal to half xenon के valence electron eight minus charge नहीं positive charge नहीं plus monovalent atom दो fluorine oxygen को सिर्फ monovalent को hydrogen, fluorine, chlorine, bromine, iodine आठ दो दस बेटे दो पांच, पांच क्या है bond pair plus lone pair hybridization बोलो SP3d geometry बोलो geometry बोलो trigonal bipyramidal lone pair बोलो z की value पांच xenon से तीन oxygen जुड़े हैं दो fluorine यानी पांचों bond pair खत्म हो गए यानी पांचों value खत्म हो गई lone pair zero shape क्या होगा lone pair zero तो shape वही होगा जो geometry है मतलब की trigonal bipyramidal बनाएंगे xenon किचक कुचुक कुचक कचक कुचुक। अब बताओ axial position पर और equatorial position पर क्या लगेगा equatorial पे, equatorial पे, equatorial पे more electronegative यानी fluorine, fluorine या oxygen, oxygen, oxygen clear yes sir चलो next अपने आप करो मैं आपको next example देता हूं that you have to do by yourself the next example is Xef2, Xef2 चलो इसका सब बताओ मुझे lone pair geometry pause करें video को खुद से solve करें one, two, three, four, five math solve करने जा रहा हूं pause कर लिया है तो ठीक है वरना मैं करने जा रहा z is equal to half xenon pe valence electron आठ negative charge नहीं positive charge नहीं monovalent atom दो आठ दो दस by दो पांच, पांच हैं bond pair plus lone pair hybridization SP3d geometry trigonal bipyramidal कुछ कुछ idea लगने लगता है। अब आया lone pair lone pair तो भाई xenon से कितने atom जुड़े हैं दो और z की value कितनी है पांच मतलब दो तो bond बने होंगे lone pair कितने होंगे तीन मतलब case है दो bond pair plus तीन lone pair वाला तो मैंने बनाया मैंने trigonal bipyramidal geometry बनाई। अब मुझे पता है lone pair को axial position पर रखना है और तीनों lone pair है एक, दो, तीन और ये लग गए bonds यानी इधर fluorine इधर fluorine। अब बात करेंगे हम shape की shape में सिर्फ किसको देखते हैं atoms को या bond pair को तो lone pair को छुपा लो सभी lone pair को छुपा दिया shape is what linear सभी lone pair को छुपा लो shape कैसा आया linear clear है तो बस आपको values याद रखनी है shape याद रखने हैं और दिमाग को काबू में रखना है एक और सवाल मैं आपको करा देता हूं third चलो अपने आप करोगे Xof2, Xof2, Xof2, Xof2, Xof2 चलो z is equal to half valence electron आठ negative charge नहीं positive charge नहीं fluorine अपने आप पर लिया fluorine दो दस by दो कितना आया पांच bond pair plus lone pair speed पकड़ ले अब हम लोग अब तो खत्म ही है video SP3d hybridization geometry की बात करें trigonal bipyramidal, trigonal bipyramidal lone pair की बात करें कितने atom जुड़े हैं xenon से एक, दो, तीन तो lone pair कितने होंगे दो पांच है तीन bond pair दो lone pair यानी case है तीन bond pair plus दो lone pair का case है चलो तो xenon हरे हरे हां दो lone pair लगाने हैंऔर तीन bond pair लगाने हैं तो lone pair axial position पर लगा दूं। एक ऐसे, एक ऐसे। अब बचे क्या?
+
+01:07:28 
+Bond pair.अब equatorial position पर कौन जाता है?More electronegेटिव। More electronegेटिव कौन है?Fluorine.तो एक fluorine ऊपर, एक fluorine नीचे और oxygen यहां पे। अब जब shape की बात करेंगे, अब जब shape की बात करेंगे तो check करेंगे सिर्फ bond pair को। तो lone pair को छुपा लिया। ये shape कौन सा है?
+
+01:07:47 
+याद रखना पड़ेगा T shape.अभी पढ़ा था आपने। कौन सा shape है ये?T shape.तो shape is T shape.clear है?बहुत बढ़िया भाई। चलिए अब last case discuss करते हैं z की value छह पर। छह पर बहुत cases नहीं बनाऊंगा tension मत लो। आप डर रहे हो कि छह पर तो बहुत ही case बन जाएंगे। तो आते नहीं है ना यार बहुत case discuss करने को तो हम कर देंगे पर वो नहीं आ रहे। z की value छह, छह के छह bond pair lone pair zero.
+
+01:08:15 
+छह के लिए geometry होती है octahedral, octahedral। एक, दो, तीन, चार, पांच, छह। सब के सब bond angle ninety degree.सब के सब bond angle ninety degree.एक, दो, तीन, चार, पांच, छह यानी छह right angles हैं इसके अंदर। छह right angles हैं इसके अंदर। shape की बात करें क्योंकि lone pair zero है तो shape भी होगा same.
+
+01:08:42 
+hybridization की बात करें SP3 D2, SP3 D2.z की value छह, पांच bond pair एक lone pair.अब देखो यहां पर सभी atom symmetrical हैं क्योंकि सारे bond angle same हैं। मतलब फिर से lone pair कहीं पर भी रख सकते हैं। तो A हमने lone pair ऊपर रख दिया। थोड़ा सुंदर लगेगी कहानी और ऐसे बना दी। geometry अभी भी क्या होगी?
+
+01:09:11 
+Octahedral.geometry depend करती है z पे। shape पे आते हैं। shape पे आपको सिर्फ atoms देखने हैं। ठीक है। अब lone pair को छुपा लो और atoms को देखो। तो मैं इसको ऐसे बना लूं तो तुम्हें कोई दिक्कत?बनाओ sir फिर दिक्कत बताऊंगा मैं आपको। बनाओ तो आप। A.
+
+01:09:41 
+हां, ऐसे बना लिया। जरा ध्यान से देखो इसका shape समझाने के लिए मैं बता रहा हूं। एक तो square बना है और ये square इससे देखो एक pyramid बना रहा है। देखा?एक तो ये square बना ninety, ninety, ninety पे और ये square इस bond के साथ क्या बना रहा है?
+
+01:10:00 
+Pyramid.तो इसको हम बोलते हैं बच्चों square pyramidal.Square pyramidal which again you have to learn.So when you have five bond pair and one lone pair when you have पांच BP and one LP पांच bond pair एक lone pair then the shape is square pyramidal.
+
+01:10:18 
+पहुंच सकते हो यहां तक पहुंच जाओगे octahedral से यहां तक पहुंच जाओगे। फिर उसके बाद सोचना कि ये देखो पूरा एक square बना और ये square इसके साथ क्या बना रहा है?एक pyramid.एक pyramid तो square pyramidal hybridization will still be SP3 D2, SP3 D2 छह चार bond pair दो lone pair.
+
+01:10:43 
+तो यार दो lone pair लगाने को कहीं भी लगा लो थोड़ा सुंदर लगे इसलिए एक ऊपर एक नीचे। सारी position symmetrical है कहीं भी लगा सकते हैं। ये हो गया geometry अभी भी octahedral। shape की बात करें। shape की बात करें तो देखो एक square बन रहा है shape में। तो इसको हम बोलते हैं square planar.
+
+01:11:06 
+एक square बन रहा और सारे bond किसमें है same plane में तो square planar hybridization is again SP3 D2 square planar.कब आएगा?चार bond pair दो lone pair.इसके बाद आता है तीन bond pair तीन lone pair और वो सारे case हमारे exam में नहीं पूछे जा रहे तो उसकी tension लेने की जरूरत नहीं है। छह में सिर्फ यही तीन case discuss करने थे। इसको आप note करें, याद करें, इससे प्यार करें, इजहार करें, इकरार करें। इकरार करना मुश्किल है, इजहार करना मुश्किल ही है। मुश्किल है, मुश्किल है इस दुनिया में दिल लगाना। Chemistry में number पाना। नहीं यार ऐसा नहीं देखो chemistry ही सबसे most scoring है अगर JEE में जाओ तुम। Chemistry is the most scoring part of JEE mains specially.
+
+01:11:51 
+यहीं से बच्चे select होते हैं। Rank बनती है physics और maths से competition टूटता है maths से rank बनती है physics से। Selection सिर्फ chemistry से होता है। Physics से rank बनती है और maths से competition टूटता है। मतलब वो 500 under 500 वाली चीजें वो सब decide होती है maths पे करके। ये सबसे ज्यादा scoring होता है। clear है?
+
+01:12:12 
+चलिए मैं डाल देते हैं। अच्छा तो ये z is equals to छह पर सारी बातें हो गई। z is equal to छह पर एक दो example आपको करा दूं। वैसे अब आप खुद से बड़े हो गए होंगे। sir हम बड़ी हो गई। चलो सबसे पहले start करो SF6 z is equals to half number of valence electron छह monovalent atom छह छह बारह by दो छह छह bond pair plus lone pair hybridization SP3 D2 geometry octahedral, octahedral, octahedral अच्छा lone pair sulfur से छह atom जुड़े हैं तो lone pair zero तो shape भी, shape भी, shape भी octahedral तो sulfur एक, दो, तीन, चार, पांच, छह clear है?
+
+01:13:04 
+पूछ लेगा number of FSF number of FSF, FSF, FSF, FSF अच्छा ठीक है यहां छोड़ दो यहीं पे। next कर लोगे अब मुझे लग रहा है तुम खुद से सारी चीजें कर लोगे पक्का ना guarantee मान लूं तुम्हारा भरोसा एक और कर लो चलो चलो secondXEF4 z is equals to half Xenon आठ monovalent item चार आठ चार बारह by दो छह bond pair plus lone pair hybridization SP3 D2 geometry octahydral lone pair चार bond जुड़े हैं तो lone pair कितने होंगे?
+
+01:13:50 
+दो तो बनाए हम इसको Xenon एक, दो, तीन, चार lone pair एक ऊपर लगा लो एक नीचे वैसे कहीं भी लगा सकते हो shape की बात करें shape की बात करें तो देखो ये square है एक plane में है तो shape हो जाएगा square planar square planar so you can do lot of questions on this just किताब खोलनी है और चालू कर देना है और आप बहुत सवाल कर सकते हो इस तरह के कोई ऐसी कोई limit नहीं है ठीक है last case बता देते हैं आपको z is equals to seven का नहीं कुछ नहीं आता आ रहे हैं नहीं आ रहे हैं नहीं रोना आ रहा है बच्चा ना ना ना ना ना बस खत्म z सात एक case सात bond pair zero lone pair geometry pentagonal bipyramidal pentagonal bipyramidal pentagon बनाना पड़ेगा पहले हमें ठीक ये pentagon बन गया ठीक पांच item ऐसे लग गए एक item plane के ऊपर एक item plane के नीचे यानी पांच item plane में pentagon एक item ऊपर एक item नीचे सात item लग जाएंगे या सात electron के pair लग जाएंगे pentagon में angle बहत्तर degree बहत्तर degree बहत्तर degree बहत्तर degree यानी पांच bond होंगे seventy two degree वाले seventy two seventy two seventy two जो plane के ऊपर है वो सबसे कितना angle बनाएगा?
+
+01:15:16 
+ninety, ninety, ninety इससे ninety इससे ninety इससे ninety यानी plane के ऊपर वाला पांच नब्बे degree बनाएगा plane के नीचे वाला भी पांच नब्बे degree बनाएगा तो पांच bond angle होंगे नब्बे degree के sorry five into two दस ऊपर वाला भी पांचों से नब्बे, नब्बे, नब्बे, नब्बे और नीचे वाला भी नब्बे तो दस right angle shape will be same and hybridization will be SP3 D3 so that's it from VSEPR theory that's all that I can tell you इसके और बनने हो तो बहुत case बन सकते हैं but सब आते नहीं चलो एक homework एक homework दो homework दे देता हूं मैं आपको नीचे आप उसका shape चलो मैं लिख रहा हूं ठीक है आपको नीचे comment करना है कुछ तो लेकर जाओ इतनी बड़ी class से आप comment करो नीचे number of lone pair comma hybridization मत करना चलो number of lone आप comment करो नीचे z की value number of lone pair geometry and shape for ClO minus for ICl2 minus ICl3 बस इन तीनों का इन तीनों का ठीक है नाम दे देगा जिसका जो मन हो मैं इसे number दे देता हूं इसका number है मान लो A इसका number B इसका number C जिसका आपको अच्छा लगे तीनों का हो जाए तो तीनों का comment करो A, B, C का मेरे ख्याल से तुम्हें मजा आया होगा कहानी समझ में आई होगी सब चीजें याद करने वाली थी इसमें और थोड़ा बहुत समझने वाला भी तो all the very best

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "status_family": "content_status",
+  "description": "Primary lifecycle status for ChemDesk content items such as chapters, lectures, notes, concepts, and future pages.",
+  "statuses": [
+    {
+      "id": "raw",
+      "label": "Raw",
+      "description": "Initial scaffold or imported metadata. Not reviewed and not student-facing.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "draft",
+      "label": "Draft",
+      "description": "Work-in-progress content or structure. Not approved for student-facing publication.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "ready_for_review",
+      "label": "Ready for Review",
+      "description": "Prepared for agent or human review but not approved.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "approved",
+      "label": "Approved",
+      "description": "Reviewed and approved internally. May still need a publish step before public display.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "published",
+      "label": "Published",
+      "description": "Approved and available for student-facing use.",
+      "public_visible": true,
+      "rag_eligible": true,
+      "terminal": false,
+      "deprecated": false
+    },
+    {
+      "id": "archived",
+      "label": "Archived",
+      "description": "Retired from active use but preserved for history or rollback.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": true,
+      "deprecated": false
+    },
+    {
+      "id": "rejected",
+      "label": "Rejected",
+      "description": "Not suitable for use. Kept only if needed for audit/history.",
+      "public_visible": false,
+      "rag_eligible": false,
+      "terminal": true,
+      "deprecated": false
+    }
+  ],
+  "notes": "Only published content is public/RAG eligible by default."
+}
