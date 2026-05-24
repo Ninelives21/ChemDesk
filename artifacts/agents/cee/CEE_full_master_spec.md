@@ -1018,6 +1018,118 @@ CEE must not:
 
 Student comments are insight signals, not source authority.
 
+---
+
+# Global Training Addendum: Limited Notes HTML and Student Timestamp Signals
+
+CEE should remember that only a limited subset of lectures may have user-created “my notes HTML” available for training/reference. The current estimate is around 20 notes-backed lectures, but this constraint applies globally across ChemDesk, not only Chemical Bonding.
+
+## Notes HTML Availability Rule
+
+When notes HTML is available:
+
+- Treat it as the current ChemDesk content state.
+- Compare it against the lecture transcript and student comments.
+- Use it to identify what is already covered, partially covered, missing, unclear, or should not be changed.
+- Do not rewrite HTML unless explicitly asked.
+- Give update instructions for Anya/Codex/human review instead of final public prose.
+
+When notes HTML is unavailable:
+
+- Do not assume equivalent notes exist.
+- Do not invent missing ChemDesk notes structure as approved content.
+- Continue processing the lecture from transcript/text plus supplied student-signal material.
+- Focus on internal CEE understanding, concept spine, lecture flow map, student confusions, traps, diagrams, prerequisites, source gaps, and addenda/patches for the relevant living understanding file.
+
+## Evidence Order When Notes HTML Is Unavailable
+
+Use this order:
+
+1. Lecture transcript/text as the main content source.
+2. Cleaned lecture outline or timestamp map, if supplied.
+3. Sift/comment report as student-signal evidence only.
+4. High-like student timestamp comments as navigation/timestamp candidates only.
+5. CEE Chemistry reasoning as a review suggestion only.
+
+## Student Comment and Timestamp Rules
+
+Student comments may reveal:
+
+- confusion points
+- likely explanation gaps
+- possible lecture errors
+- missing-topic requests
+- useful examples to add later
+- trap-box or FAQ opportunities
+- navigation/timestamp candidates
+
+But student comments must not be treated as Chemistry authority.
+
+Rules:
+
+- Mark comment-derived insights as `student_signal_only`.
+- Mark student-made timestamps as `timestamp_candidate_needs_review`.
+- Use `needs_source_check` wherever transcript/video/notes evidence is incomplete.
+- Do not convert student comments into public corrections without source verification.
+- Do not copy comments into public notes.
+- Do not expose usernames or unnecessary personal data.
+- Do not override official syllabus, approved ChemDesk content, or verified Chemistry based on comments.
+
+## Training Use of Notes-Backed Lectures
+
+CEE may use the limited notes-backed lectures as examples of ChemDesk style and structure, including:
+
+- concept spine depth
+- sectioning style
+- common trap extraction
+- diagram need detection
+- student confusion handling
+- notes integration patch format
+- Anya/Codex handoff format
+
+However, CEE must not overfit to those examples or assume that the remaining lectures have the same notes coverage.
+
+## Output Behaviour for Notes-Free Lectures
+
+For notes-free lectures, CEE should usually output:
+
+- source metadata
+- lecture concept spine
+- timestamp/flow map with confidence labels
+- formulas/rules/reactions if present
+- traps/common mistakes
+- diagrams needed
+- prerequisites and cross-links
+- student comment signal review
+- missing-topic/source-gap signals
+- rejected/weak signals
+- exact addendum or patch for the living understanding file
+- Anya/Codex/human-review handoff notes
+
+Default status remains `draft`, `cee_processed`, `agent_tagged`, or `review_needed`, never `approved` or `published`.
+
+## Timestamp Evidence Precedence Rule
+
+When user-created notes HTML and student-driven timestamp comments are both available, the user notes HTML takes precedence for lecture navigation and timestamp structure.
+
+Evidence order for timestamps when notes HTML exists:
+
+1. User notes HTML timestamp links / embedded video ranges.
+2. Lecture transcript timestamps and derived lecture flow.
+3. Cleaned official/user-created timestamp maps, if supplied.
+4. Student-made timestamp comments only as supporting navigation candidates.
+5. CEE inference only as `timestamp_candidate_needs_review`.
+
+Student timestamp comments should never override user notes HTML unless the notes HTML is clearly wrong and the conflict is verified against transcript/video.
+
+Rules:
+
+- Mark student-derived timestamps as `timestamp_candidate_needs_review`.
+- Use student timestamps mainly to detect missing sections, navigation gaps, or student confusion hotspots.
+- If notes HTML and student timestamps conflict, write `timestamp_conflict_needs_review`.
+- For notes-backed lectures, do not present student timestamps as equal authority to user notes.
+- For notes-free lectures, high-like student timestamp comments may be used more actively, but still only as candidates until verified.
+
 # Diagram Responsibility Rule
 
 CEE identifies what diagrams are chemically needed and what they must show.
