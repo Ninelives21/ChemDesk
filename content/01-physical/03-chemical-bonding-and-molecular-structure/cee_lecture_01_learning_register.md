@@ -2800,3 +2800,1295 @@ CEE should standardize the final public Born–Haber notation before Anya writes
 ```
 
 ```
+
+LECTURE 04 : FAJAN's RULE
+
+Lecture 04 sources used: notes HTML as the primary notes/timestamp source, transcript for lecture flow and chemistry verification, and Sift comments as student-signal evidence only. The notes HTML covers Fajan’s rule, polarization, cation/anion factors, PNGC, applications, and examples; the Sift report flags thermal stability as the strongest missing-topic signal plus several high-value confusion clusters; the transcript confirms the lecture’s main flow and application examples.
+
+```md id="lecture-04-fajans-rule-addendum"
+---
+# Lecture 04 — Fajan’s Rule
+
+lecture_id: lecture-04-fajans-rule
+lecture_title: Fajan’s Rule
+chapter_id: chemical-bonding
+source_video: https://youtu.be/d3iFlT8SlvA
+
+source_files_used:
+  - 04_fajans_rule.txt
+  - 04_fajans_rule.html
+  - comments-04-fajans-rule.final.md
+
+source_status:
+  - transcript: raw_hinglish_internal_source
+  - notes_html: current_chemdesk_notes_state
+  - comments: sift_final_student_signal_only_unverified
+
+truth_status: review_needed
+public_display: false
+public_rag_eligible: false
+pagefind_index: false
+cee_review_required: true
+overall_status: cee_processed
+---
+
+## 0. Local Evidence Rules Applied
+
+timestamp_policy: notes_html_precedence
+
+Because notes HTML is available for Lecture 04, embedded notes HTML video ranges are the primary timestamp/navigation source. Transcript timestamps are used to verify and refine lecture flow. Student/Sift timestamps are support-only navigation candidates and must not override notes HTML unless verified against video.
+
+student_comments_policy: student_signal_only
+
+Sift comments are used only to detect student confusion, likely missing topics, possible weak corrections, and navigation candidates. They are not Chemistry authority.
+
+global_energy_sign_convention: not directly central in this lecture
+
+No Born–Haber-style energy-sign convention is central here. However, Fajan’s rule is connected to lattice energy, melting point, solubility, and ionic/covalent character, so comparison rules must be kept separate and not overgeneralized.
+
+---
+
+## 1. Lecture Concept Spine
+
+### 1. Fajan’s rule purpose
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed  
+source_evidence:
+
+- transcript
+- notes_html
+
+Fajan’s rule is introduced as a qualitative rule used to compare covalent character in ionic compounds.
+
+Core idea:
+
+- No bond is perfectly ionic or perfectly covalent.
+- Ionic compounds may show partial covalent character.
+- Fajan’s rule helps compare which ionic compound has more covalent character.
+
+Important limitation:
+
+- It is qualitative, not quantitative.
+- It cannot safely tell exact percentage covalent character.
+- It compares relative covalent character between given compounds.
+
+exam_relevance:
+
+- JEE/NEET-style comparison questions.
+- Melting point, boiling point, solubility, and colour trends based on covalent character.
+
+---
+
+### 2. Covalent character in ionic compounds
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed  
+source_evidence:
+
+- transcript
+- notes_html
+
+Lecture explains covalent character in ionic compounds through distortion of anion electron cloud by the cation.
+
+Mechanism:
+
+- Cation attracts/distorts the electron cloud of the anion.
+- Anion electron cloud becomes deformed/polarized.
+- This distortion gives partial sharing-like character.
+- More distortion means more covalent character.
+
+Terminology:
+
+- anion undergoes polarization
+- cation has polarizing power
+
+trap:
+Do not say electrons are fully shared as in a pure covalent bond. It is partial covalent character due to polarization.
+
+---
+
+### 3. Polarization of anion
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Polarization means deformation/distortion of the anion’s electron cloud due to attraction by the cation.
+
+More polarization of anion → more covalent character.
+
+Factors increasing anion polarization:
+
+- larger anion size
+- higher anion charge magnitude
+
+diagram_needed:
+
+- spherical anion electron cloud becoming distorted toward cation
+- label cation, anion, electron cloud, polarization
+
+---
+
+### 4. Polarizing power of cation
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Polarizing power is the ability of a cation to distort the electron cloud of the anion.
+
+More polarizing power of cation → more covalent character.
+
+Factors increasing cation polarizing power:
+
+- smaller cation size
+- higher cation charge
+- pseudo noble gas configuration / d10 configuration in certain cations
+
+---
+
+### 5. Effect of cation size
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Smaller cation has higher charge density and stronger polarizing power.
+
+Trend examples:
+
+- Li⁺ > Na⁺ > K⁺ > Rb⁺ in polarizing power
+- Be²⁺ > Mg²⁺ > Ca²⁺ > Sr²⁺ in polarizing power
+
+Application:
+For same anion and same cation charge, smaller cation gives more covalent character.
+
+---
+
+### 6. Effect of cation charge
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Higher cation charge increases polarizing power.
+
+Example:
+Na⁺ < Mg²⁺ < Al³⁺ in polarizing power, especially because they are nearby in the same period, so charge dominates over small size differences.
+
+Student confusion link:
+Students ask whether oxidation state affects polarizing power. Yes: higher positive charge/oxidation state generally increases polarizing power, when comparison is otherwise reasonable.
+
+---
+
+### 7. Pseudo noble gas configuration / PNGC
+
+concept_id: new_concept_needed  
+status: review_needed  
+confidence: confirmed_for_topic_presence
+
+Lecture teaches that some cations with pseudo noble gas configuration have unusually high polarizing power and hence high covalent character.
+
+Configuration pattern taught:
+
+- ns² np⁶ nd¹⁰ / d¹⁰-type pseudo noble gas configuration
+- often referred to as 18-electron pseudo noble gas configuration
+
+Important cation examples:
+
+- Cu⁺, Ag⁺, Au⁺
+- Zn²⁺, Cd²⁺, Hg²⁺
+
+Chemistry note:
+
+- The examples are important for JEE-style exception/trap questions.
+- Copper electronic configuration should be checked carefully because Sift retained one weak comment claiming possible copper configuration issue.
+- Transcript gives Cu as [Ar] 3d¹⁰ 4s¹ and Cu⁺ as [Ar] 3d¹⁰, which is chemically acceptable.
+
+status:
+
+- concept confirmed
+- weak possible correction about copper configuration rejected unless video/board shows actual mismatch
+
+trap:
+Do not compare only size when PNGC cations like Cu⁺/Ag⁺ appear. Their polarizing power can make compounds more covalent than expected.
+
+---
+
+### 8. Effect of anion size
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Larger anions are more easily polarized because their electron cloud is more diffuse and less tightly held.
+
+Trend:
+
+- I⁻ is more polarizable than Br⁻
+- Br⁻ is more polarizable than Cl⁻
+- Cl⁻ is more polarizable than F⁻
+
+Application:
+For same cation and same anion charge, larger anion gives more covalent character.
+
+Notes HTML issue:
+In the anion section, notes HTML says “larger the cation” under “Size of anion.” This is likely a typo. It should say “larger the anion.”
+
+status:
+
+- accepted_for_notes_correction
+- public wording still to be handled by Anya/Codex
+
+---
+
+### 9. Effect of anion charge
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Higher anion charge magnitude generally increases polarization.
+
+Example principle:
+O²⁻ is more polarizable than F⁻ if charge comparison is the key factor, but comparisons must consider actual ion size and context.
+
+trap:
+Compare charge magnitude, not algebraic negative value.
+
+---
+
+### 10. Fajan’s rule summary
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: confirmed
+
+Covalent character of an ionic compound increases when:
+
+Cation side:
+
+- smaller cation
+- higher cation charge
+- cation has PNGC / d¹⁰ configuration
+
+Anion side:
+
+- larger anion
+- higher anion charge
+
+Core summary:
+More cation polarizing power + more anion polarization → more covalent character.
+
+---
+
+### 11. Applications of Fajan’s rule
+
+concept_id: new_concept_needed  
+status: review_needed  
+confidence: confirmed_for_lecture_framework
+
+Lecture applies Fajan’s rule to:
+
+- melting point
+- boiling point
+- solubility in water
+- colour / colour imparting nature
+- volatility/physical state in examples like SnCl₄ vs SnCl₂
+
+Lecture trend:
+More covalent character usually implies:
+
+- less ionic character
+- lower melting/boiling point
+- lower solubility in water
+- greater colour imparting nature
+- more volatile / less strongly ionic behaviour in suitable examples
+
+Review note:
+These are useful exam heuristics, but should not be overextended blindly. Melting point and solubility can depend on additional factors. Add boundary-condition warning later.
+
+---
+
+### 12. Melting point and boiling point applications
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: probable
+
+Lecture uses:
+
+- BeF₂ vs MgF₂ → MgF₂ higher melting point because BeF₂ has more covalent character.
+- CaCl₂ vs CaBr₂ → CaCl₂ higher melting point because CaBr₂ has more covalent character.
+- NaCl vs CuCl → NaCl higher melting point because Cu⁺ PNGC increases covalent character in CuCl.
+- KCl vs AgCl → KCl higher melting point because Ag⁺ PNGC increases covalent character in AgCl.
+
+Student confusion:
+Students ask why melting point, lattice energy, and covalent character do not always align as one simple rule.
+
+Action:
+Add comparison-boundary note later.
+
+---
+
+### 13. Solubility applications
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: probable
+
+Lecture uses:
+
+- Fe(OH)₃ vs Fe(OH)₂ → Fe(OH)₂ more soluble because Fe³⁺ gives Fe(OH)₃ more covalent character.
+- Ag₂O vs Ag₂S → Ag₂O more soluble because S²⁻ is larger and makes Ag₂S more covalent.
+
+Student confusion:
+Fe(OH)₃ vs Fe(OH)₂ caused a precise student doubt about treating three OH⁻ ions as total -3 charge. This is a useful trap.
+
+Clarification needed later:
+For Fajan-style comparison in Fe(OH)₃ vs Fe(OH)₂, compare Fe³⁺ vs Fe²⁺ cation polarizing power with OH⁻ as the relevant anion unit. Do not treat “three OH⁻” as one anion with -3 charge.
+
+---
+
+### 14. Colour applications
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: probable
+
+Lecture uses:
+
+- AgF, AgCl, AgBr, AgI trend: AgI darkest due to largest anion and greatest covalent character.
+- PbCl₂ vs PbI₂: PbI₂ darker/yellow due to iodide’s higher polarizability; PbCl₂ is white.
+
+Review note:
+Colour explanations can involve more advanced electronic effects. Keep Fajan’s rule as a qualitative exam-level heuristic unless source depth is added.
+
+---
+
+### 15. Volatility / physical state application
+
+concept_id: new_concept_needed  
+status: cee_processed  
+confidence: probable
+
+Lecture uses:
+
+- SnCl₄ is volatile liquid while SnCl₂ is solid.
+- Explanation: Sn⁴⁺ has higher charge than Sn²⁺, so SnCl₄ has more covalent character.
+
+Review note:
+This example is useful but should be handled carefully in final notes because “both are ionic but one more covalent” is a simplification. Mark as lecture-framework probable.
+
+---
+
+## 2. Timestamp / Lecture Flow Map
+
+Primary source: notes HTML timestamp links.  
+Transcript used for verification/refinement.  
+Student timestamps are support-only.
+
+### Notes HTML primary section map
+
+- 00:19–02:57 — Intro to Fajan’s Rule
+- 03:09–08:16 — Why ionic bonds have covalent character / polarization
+- 08:16–19:18 — Cation factors affecting polarizing power
+- 19:21–21:20 — Anion factors affecting polarization
+- 21:29–25:06 — Fajan’s Rule summary
+- 29:16–31:14 — Applications: covalent character vs solubility, MP/BP, colour
+- 26:51–29:09 — Basic covalent-character comparison examples
+- 31:11–39:26 — Application examples: MP, solubility, colour, volatility
+
+timestamp_policy: notes_html_precedence  
+confidence: confirmed_for_notes_navigation
+
+### Transcript-supported refinement
+
+- 00:08–02:57 — Fajan’s rule purpose, qualitative nature, relation to covalent character and applications.
+- 03:12–08:13 — Polarization of anion by cation; origin of covalent character.
+- 08:13–11:45 — Cation size and cation charge.
+- 12:04–19:15 — PNGC / d10 cations: Cu⁺, Ag⁺, Au⁺, Zn²⁺, Cd²⁺, Hg²⁺.
+- 19:15–21:20 — Anion size and charge.
+- 21:29–26:48 — Summary of factors and lecture guidance.
+- 26:48–29:09 — Covalent-character comparison examples: NaCl/KCl/RbCl, BeCl₂/MgCl₂/CaCl₂, NaCl/NaBr/NaI.
+- 29:09–30:41 — Applications: solubility, melting/boiling point, colour.
+- 31:12–33:18 — Melting point examples.
+- 33:18–35:00 — Solubility examples.
+- 35:00–37:12 — Colour examples.
+- 37:12–39:26 — SnCl₄ vs SnCl₂ volatility/solid-state example.
+
+confidence: confirmed_for_transcript_flow
+
+### Student/Sift timeline candidates
+
+Student/Sift timestamp candidates:
+
+- 25:10 — possible key explanation point; support only.
+- 33:20 — Fe(OH)₃ vs Fe(OH)₂ application doubt.
+
+student_timestamps_status: timestamp_candidate_needs_review
+
+---
+
+## 3. Notes HTML Coverage Check
+
+### Already covered
+
+- Fajan’s rule introduction.
+- Qualitative nature of Fajan’s rule.
+- Ionic bonds having partial covalent character.
+- Polarization of anion.
+- Polarizing power of cation.
+- Cation size and charge factors.
+- PNGC/d10 examples.
+- Anion size and charge factors.
+- Summary of Fajan’s rule.
+- Applications to melting/boiling point, solubility, colour, volatility.
+- Multiple worked comparison examples.
+
+### Partially covered / needs refinement
+
+#### A. Anion size typo
+
+coverage_status: unclear/error_in_notes  
+status: review_needed
+
+Current notes HTML says under anion factors:
+“Size of anion → larger the cation...”
+
+Likely correction:
+“larger the anion...”
+
+recommended_action:
+Codex/Anya should correct after CEE/human review.
+
+#### B. Spelling standardization
+
+coverage_status: partially_covered  
+status: add_to_notes_later
+
+Standard spelling should be:
+Fajan’s Rule
+
+Do not use:
+Fazan’s Rule
+
+Comments report flags this as a weak metadata/search issue.
+
+#### C. PNGC explanation
+
+coverage_status: already_covered_but_needs_review  
+status: review_needed
+
+Notes cover PNGC and examples. Verify final wording:
+
+- “PNGC is a configuration like noble gas” may confuse because it is not simply normal noble gas octet.
+- Better internal concept: pseudo noble gas / 18-electron d10-type configuration that gives strong polarizing power.
+
+No final prose yet.
+
+#### D. Application boundary conditions
+
+coverage_status: partially_covered  
+status: add_to_notes_later
+
+Notes state application trends. Add later warning:
+Fajan’s rule gives qualitative covalent-character trends. Melting point, solubility, colour, and lattice energy may involve other factors. Do not collapse all trends into one universal rule.
+
+#### E. Thermal stability / thermal decomposition
+
+coverage_status: missing  
+status: needs_source_check
+
+Sift comments strongly flag thermal stability / thermal decomposition as missing application. Check exam scope and whether it belongs here or later.
+
+#### F. Fe(OH)₃ vs Fe(OH)₂ trap
+
+coverage_status: partially_covered  
+status: add_to_notes_later
+
+Notes include the example but should later add a trap:
+Do not combine three OH⁻ into one “-3 anion” for Fajan’s rule. Compare Fe³⁺ vs Fe²⁺ with OH⁻ as common anion unit.
+
+#### G. Older notes examples placeholders
+
+coverage_status: unclear/incomplete  
+status: review_needed
+
+HTML contains older examples with placeholders like q6/a6/q7/a7 and one apparent malformed item “CaCl₂, Ca₂”. These should be reviewed before public polish.
+
+recommended_action:
+Codex should not blindly preserve placeholders in final student-facing notes.
+
+---
+
+## 4. Student Comment Signal Review
+
+### Signal 1: Thermal stability / thermal decomposition missing
+
+decision: needs_source_check + add_to_notes_later  
+priority: high  
+timestamps_if_any: none  
+student_signal_summary:
+Students repeatedly say thermal stability, thermal decomposition, and heating effect as applications of Fajan’s rule are missing.
+
+chemistry_check:
+Thermal stability/decomposition can be related to ionic/covalent character in some inorganic trends, but it needs scope checking. It should not be added blindly as a direct universal Fajan’s rule consequence.
+
+source_check_result:
+Not clearly covered in Lecture 04 notes/transcript. Student signal is strong enough to create a source-gap task.
+
+recommended_action:
+Add source gap: thermal stability/decomposition under Fajan’s rule applications.
+
+confidence: probable_as_gap  
+workflow_owner_next: CEE/source_research/human_reviewer
+
+---
+
+### Signal 2: Confusion linking covalent character, ionic character, lattice energy, and melting point
+
+decision: useful_student_confusion  
+priority: high  
+timestamps_if_any: none  
+student_signal_summary:
+Students ask whether higher lattice energy means higher covalent character, whether ionic character is simply 100 minus covalent character, and why melting point trends do not always match expected covalent-character trends.
+
+chemistry_check:
+This is a real trap. Lattice energy depends strongly on charge and size. Fajan’s rule predicts covalent character through polarization. These concepts are related but not identical.
+
+source_check_result:
+Lecture applies Fajan’s rule to MP/BP and solubility. Student comments show students are overgeneralizing.
+
+recommended_action:
+Add a comparison framework:
+
+- Fajan’s rule → covalent character
+- lattice energy → charge/size electrostatic stabilization
+- melting point → often follows ionic strength but can have additional factors
+- ionic/covalent character percentages should not be assumed exact complements unless using a defined model
+
+confidence: confirmed_as_student_confusion  
+workflow_owner_next: CEE → Anya
+
+---
+
+### Signal 3: Both cation and anion changing in comparison
+
+decision: useful_student_confusion  
+priority: high  
+timestamps_if_any: none  
+student_signal_summary:
+Students ask how to compare when both cation and anion differ.
+
+chemistry_check:
+Valid application gap. Fajan’s rule comparisons are safest when one ion is common. When both ions change, multiple factors compete and answer may need a hierarchy or data.
+
+source_check_result:
+Lecture mostly uses common-cation/common-anion examples, with some PNGC exceptions.
+
+recommended_action:
+Add boundary-condition note:
+Use Fajan’s rule confidently when one ion is common; when both change, compare cation polarizing power and anion polarizability separately and mark uncertain if factors conflict.
+
+confidence: confirmed_as_student_confusion  
+workflow_owner_next: CEE → Anya
+
+---
+
+### Signal 4: Oxidation state affects polarizing power
+
+decision: useful_student_confusion  
+priority: medium  
+timestamps_if_any: none  
+student_signal_summary:
+Student asks whether oxidation state affects polarising power.
+
+chemistry_check:
+Higher positive charge on cation generally increases polarizing power.
+
+source_check_result:
+Lecture explicitly teaches higher cation charge increases polarizing power.
+
+recommended_action:
+Add this as a small FAQ/trap under cation charge.
+
+confidence: confirmed  
+workflow_owner_next: Anya
+
+---
+
+### Signal 5: Fe(OH)₃ vs Fe(OH)₂ grouped-ion confusion
+
+decision: useful_student_confusion  
+priority: medium  
+timestamps_if_any: 33:20  
+student_signal_summary:
+Student asks whether Fe(OH)₃ should be treated as having total -3 anion charge compared with Fe(OH)₂.
+
+chemistry_check:
+For this comparison, OH⁻ is the anion in both compounds; compare Fe³⁺ vs Fe²⁺. Do not treat multiple OH groups as one polyatomic anion of -3 for Fajan-style reasoning.
+
+source_check_result:
+Transcript includes Fe(OH)₃ vs Fe(OH)₂ solubility example around 33:18.
+
+recommended_action:
+Add trap note to example.
+
+confidence: confirmed_as_useful_confusion  
+workflow_owner_next: CEE → Anya
+
+---
+
+### Signal 6: Coordinate bond vs Fajan’s rule relation
+
+decision: useful_student_confusion  
+priority: low  
+timestamps_if_any: none  
+student_signal_summary:
+Student asks whether coordinate bond and Fajan’s rule are related.
+
+chemistry_check:
+Both involve covalent character/sharing language, but Fajan’s rule explains partial covalent character in ionic compounds through polarization. Coordinate bond is a covalent bond type where both shared electrons come from one donor.
+
+recommended_action:
+Add cross-link only if students repeatedly ask; not a core Lecture 04 note.
+
+confidence: probable  
+workflow_owner_next: Anya
+
+---
+
+### Signal 7: Isomorphism, back bonding, ionic mobility, coordination number, lattice enthalpy
+
+decision: needs_source_check  
+priority: medium  
+timestamps_if_any: none  
+student_signal_summary:
+Students request related or missing advanced topics.
+
+chemistry_check:
+These are mostly cross-links or later topics, not direct Lecture 04 corrections.
+
+recommended_action:
+Classify by destination:
+
+- isomorphism → Lecture 02 / ionic crystal properties
+- back bonding → advanced bonding/covalent discussion
+- ionic mobility → electrochemistry/transport or ionic properties
+- coordination number → solid state/crystal structure
+- lattice enthalpy → Lecture 03 terminology
+
+confidence: possible  
+workflow_owner_next: CEE/source_research
+
+---
+
+### Signal 8: Fajan’s vs Fazan’s spelling
+
+decision: accepted_for_metadata_cleanup  
+priority: low  
+timestamps_if_any: none  
+student_signal_summary:
+Student flags spelling.
+
+chemistry_check:
+Standard spelling is Fajan’s rule.
+
+recommended_action:
+Standardize title, metadata, aliases, and search terms to “Fajan’s Rule.” Keep “Fazan” only as possible search alias if useful.
+
+confidence: confirmed  
+workflow_owner_next: Codex/content_metadata
+
+---
+
+## 5. Confirmed / Likely Lecture Issues to Verify or Correct
+
+### Issue 1: Notes HTML typo in anion size rule
+
+issue_id: cb-l04-issue-anion-size-typo  
+issue: Under anion factors, notes HTML appears to say larger cation instead of larger anion.  
+decision: accepted_for_verification  
+status: review_needed  
+timestamp_candidates: notes_html section 19:21–21:20  
+chemistry_reason:
+For anion polarization, larger anion size increases polarizability and covalent character. “Larger cation” in that line is likely a typo.
+
+source_evidence:
+
+- notes_html
+- transcript
+
+what_to_verify:
+Confirm exact HTML line and correct to “larger anion.”
+
+recommended_file_update:
+Correct notes HTML after review.
+
+workflow_owner_next: CEE → Codex
+
+---
+
+### Issue 2: Fajan’s spelling standardization
+
+issue_id: cb-l04-issue-fajans-spelling  
+issue: Standardize spelling as Fajan’s Rule.  
+decision: accepted_for_metadata_cleanup  
+status: add_to_notes_later  
+timestamp_candidates: none  
+chemistry_reason:
+Standard naming/search metadata should use Fajan’s, not Fazan’s.
+
+source_evidence:
+
+- comments_signal
+- lecture/notes title already mostly uses Fajan’s
+
+what_to_verify:
+Check filenames, page titles, internal links, aliases.
+
+recommended_file_update:
+Use Fajan’s Rule consistently. Optional alias: Fazan’s Rule for search only.
+
+workflow_owner_next: Codex
+
+---
+
+### Issue 3: Copper configuration weak claim
+
+issue_id: cb-l04-issue-copper-configuration-weak  
+issue: One student suggests Cu configuration in PNGC may be wrong.  
+decision: rejected_or_low_priority_verify  
+status: weak_signal  
+timestamp_candidates: none  
+chemistry_reason:
+Transcript/notes use Cu = [Ar]3d¹⁰4s¹ and Cu⁺ = [Ar]3d¹⁰, which is chemically acceptable.
+
+source_evidence:
+
+- comments_signal
+- transcript
+- notes_html
+
+what_to_verify:
+Only verify if board screenshot/video review is already being done.
+
+recommended_file_update:
+No action unless video contradicts transcript/notes.
+
+workflow_owner_next: CEE
+
+---
+
+### Issue 4: Incomplete older notes examples/placeholders
+
+issue_id: cb-l04-issue-older-examples-placeholders  
+issue: Notes HTML contains placeholder-looking entries such as q6/a6/q7/a7 and possibly malformed “CaCl₂, Ca₂.”  
+decision: accepted_for_verification  
+status: review_needed  
+timestamp_candidates: older notes examples section  
+chemistry_reason:
+Placeholders should not be public-facing. Some examples may be incomplete or malformed.
+
+source_evidence:
+
+- notes_html
+
+what_to_verify:
+Check full HTML examples against transcript and intended notes.
+
+recommended_file_update:
+Codex should clean/remove placeholders only after CEE confirms intended examples.
+
+workflow_owner_next: CEE → Codex
+
+---
+
+## 6. Student Confusions to Address Later
+
+### cb-l04-confusion-covalent-vs-ionic-character-complement
+
+priority: high  
+source_signal: comments_md  
+chemistry_basis:
+Fajan’s rule is qualitative. Ionic and covalent character can be discussed as opposing trends, but exact percentage complement requires a defined quantitative model.
+
+suggested_note_type: FAQ/trap box  
+workflow_owner_next: Anya  
+status: add_to_notes_later
+
+---
+
+### cb-l04-confusion-lattice-energy-vs-covalent-character
+
+priority: high  
+source_signal: comments_md  
+chemistry_basis:
+Lattice energy is mainly electrostatic charge/size stabilization; Fajan’s rule predicts polarization/covalent character. They should not be collapsed into one rule.
+
+suggested_note_type: comparison table  
+workflow_owner_next: CEE → Anya  
+status: add_to_notes_later
+
+---
+
+### cb-l04-confusion-both-ions-changing
+
+priority: high  
+source_signal: comments_md  
+chemistry_basis:
+Comparisons are easiest when one ion is common. When both ions change, factors can compete and a strict answer may need deeper analysis or data.
+
+suggested_note_type: decision framework + boundary warning  
+workflow_owner_next: CEE → Anya  
+status: add_to_notes_later
+
+---
+
+### cb-l04-confusion-polyatomic-ion-charge-in-fajans-rule
+
+priority: medium  
+source_signal: Fe(OH)₃ vs Fe(OH)₂ comment  
+chemistry_basis:
+Do not combine multiple identical anions into one artificial charge for Fajan’s rule; compare actual cation charge/polarizing power and anion polarizability.
+
+suggested_note_type: trap note below Fe(OH)₃ vs Fe(OH)₂ example  
+workflow_owner_next: Anya  
+status: add_to_notes_later
+
+---
+
+### cb-l04-confusion-oxidation-state-and-polarizing-power
+
+priority: medium  
+source_signal: comments_md  
+chemistry_basis:
+Higher positive charge/oxidation state increases polarizing power.
+
+suggested_note_type: FAQ under cation charge  
+workflow_owner_next: Anya  
+status: add_to_notes_later
+
+---
+
+### cb-l04-confusion-coordinate-bond-vs-fajans-rule
+
+priority: low  
+source_signal: comments_md  
+chemistry_basis:
+Coordinate bond is a covalent bond subtype; Fajan’s rule explains partial covalent character in ionic compounds through polarization.
+
+suggested_note_type: cross-link note only if needed  
+workflow_owner_next: Anya  
+status: add_to_notes_later
+
+---
+
+## 7. Missing Topic / Source Gap Signals
+
+### Thermal stability / thermal decomposition
+
+gap_id: cb-l04-gap-thermal-stability-decomposition  
+priority: high  
+source_signal: repeated student comments, one high-like missing-topic signal  
+why_it_matters:
+Students expect Fajan’s rule application to thermal stability/heating/decomposition trends. This may be exam-relevant.
+
+check_needed:
+Check syllabus, notes sequence, and whether thermal stability belongs in Fajan’s rule page or a later inorganic trends page.
+
+possible_destination:
+Fajan’s rule applications addendum or separate “thermal stability trends” box.
+
+workflow_owner_next: CEE/source_research/human_reviewer  
+status: needs_source_check
+
+---
+
+### Isomorphism details and factors
+
+gap_id: cb-l04-gap-isomorphism-details  
+priority: medium  
+source_signal: comments_md  
+why_it_matters:
+Could be relevant to Lecture 02 rather than Fajan’s rule.
+
+check_needed:
+Check Lecture 02 isomorphism section and whether a dedicated crystal-property explanation is needed.
+
+possible_destination:
+Lecture 02 addendum / ionic compound properties.
+
+workflow_owner_next: CEE  
+status: needs_source_check
+
+---
+
+### Back bonding
+
+gap_id: cb-l04-gap-back-bonding  
+priority: medium  
+source_signal: comments_md  
+why_it_matters:
+Advanced bonding topic; likely not Lecture 04 core.
+
+check_needed:
+Check Chemical Bonding sequence for covalent/coordinate/back bonding coverage.
+
+possible_destination:
+Advanced bonding backlog.
+
+workflow_owner_next: CEE/source_research  
+status: needs_source_check
+
+---
+
+### Ionic mobility
+
+gap_id: cb-l04-gap-ionic-mobility  
+priority: low  
+source_signal: comments_md  
+why_it_matters:
+May belong in electrochemistry, conductivity, or ionic properties rather than Fajan’s rule.
+
+check_needed:
+Classify correct chapter/location.
+
+possible_destination:
+Cross-link/backlog.
+
+workflow_owner_next: CEE  
+status: needs_source_check
+
+---
+
+### Coordination number
+
+gap_id: cb-l04-gap-coordination-number  
+priority: low  
+source_signal: comments_md  
+why_it_matters:
+Likely belongs in solid state/crystal structure.
+
+check_needed:
+Check later lecture sequence.
+
+possible_destination:
+Solid state / ionic lattice cross-link.
+
+workflow_owner_next: CEE  
+status: needs_source_check
+
+---
+
+### Practice sheets / JEE Advanced examples
+
+gap_id: cb-l04-gap-practice-advanced  
+priority: low  
+source_signal: comments_md  
+why_it_matters:
+Resource planning signal.
+
+check_needed:
+Later practice module planning.
+
+possible_destination:
+Chapter practice section.
+
+workflow_owner_next: Anya/Codex  
+status: add_to_notes_later
+
+---
+
+## 8. Diagram Needs
+
+### cb-l04-diagram-polarization-of-anion
+
+status: needed  
+purpose:
+Show spherical anion electron cloud distorted toward a cation.
+
+required_labels:
+
+- cation
+- anion
+- electron cloud before polarization
+- polarized/deformed electron cloud
+- direction of pull
+- polarization of anion
+- polarizing power of cation
+
+common_incorrect_versions:
+
+- showing full covalent bond instead of partial distortion
+- showing cation being polarized instead of anion
+- omitting electron cloud deformation
+
+essential: yes  
+workflow_owner_next: Diagram/Visual Agent → Codex
+
+---
+
+### cb-l04-diagram-fajans-rule-factor-tree
+
+status: needed  
+purpose:
+Summarize factors increasing covalent character.
+
+required_labels:
+
+- cation polarizing power
+- small cation size
+- high cation charge
+- PNGC/d10
+- anion polarization
+- large anion size
+- high anion charge
+
+common_incorrect_versions:
+
+- mixing cation size rule with anion size rule
+- saying larger cation increases polarizing power
+
+essential: yes  
+workflow_owner_next: Diagram/Visual Agent → Codex
+
+---
+
+### cb-l04-diagram-application-flow
+
+status: useful  
+purpose:
+Show more covalent character leads to lower ionic character, lower MP/BP, lower water solubility, greater colour/volatility tendencies.
+
+required_labels:
+
+- more covalent character
+- less ionic character
+- lower MP/BP
+- lower water solubility
+- greater colour tendency
+- qualitative only
+
+common_incorrect_versions:
+
+- presenting trends as absolute universal laws
+- implying exact percentage complement without model
+
+essential: no  
+workflow_owner_next: Anya/Codex
+
+---
+
+## 9. Exact Updates Needed in Notes HTML Later
+
+### A. Correct anion size typo
+
+target_area: Anion - factors affecting polarisation  
+change_type: replace  
+instruction:
+Replace “larger the cation” with “larger the anion” in the size of anion rule.
+
+reason:
+Chemically, larger anions are more polarizable.
+
+depends_on:
+CEE/human quick review
+
+workflow_owner_next: Codex  
+status: review_needed
+
+---
+
+### B. Standardize spelling
+
+target_area: title, headings, metadata, search aliases  
+change_type: review  
+instruction:
+Use “Fajan’s Rule” consistently. Do not use “Fazan’s Rule” except possibly as a search alias.
+
+reason:
+Standard spelling and search reliability.
+
+depends_on:
+metadata cleanup decision
+
+workflow_owner_next: Codex  
+status: add_to_notes_later
+
+---
+
+### C. Add application-boundary note
+
+target_area: Applications section  
+change_type: insert  
+instruction:
+Add a later Anya-written caution that Fajan’s rule is qualitative; MP/BP, solubility, colour, and lattice energy may involve additional factors.
+
+reason:
+Student comments show overgeneralization.
+
+depends_on:
+CEE-approved wording
+
+workflow_owner_next: Anya  
+status: add_to_notes_later
+
+---
+
+### D. Add Fajan vs lattice energy comparison note
+
+target_area: Applications or trap section  
+change_type: insert  
+instruction:
+Add comparison note distinguishing Fajan’s rule/covalent character from lattice energy/charge-size electrostatics.
+
+reason:
+High-value student confusion.
+
+depends_on:
+CEE concept approval
+
+workflow_owner_next: CEE → Anya  
+status: add_to_notes_later
+
+---
+
+### E. Add thermal stability source-gap marker
+
+target_area: Applications section or source-gap backlog  
+change_type: review  
+instruction:
+Do not add final public thermal stability explanation yet. First check scope and source support.
+
+reason:
+Strong student missing-topic signal but not verified in lecture/notes.
+
+depends_on:
+source research / human review
+
+workflow_owner_next: CEE/source_research  
+status: needs_source_check
+
+---
+
+### F. Add Fe(OH)₃ vs Fe(OH)₂ trap note
+
+target_area: Fe(OH)₃ vs Fe(OH)₂ example  
+change_type: insert  
+instruction:
+Add later trap note explaining not to treat three OH⁻ as one -3 anion for Fajan’s rule; compare Fe³⁺ vs Fe²⁺ with OH⁻ common.
+
+reason:
+Timestamped student confusion at 33:20.
+
+depends_on:
+Anya wording
+
+workflow_owner_next: CEE → Anya  
+status: add_to_notes_later
+
+---
+
+### G. Clean older examples placeholders
+
+target_area: OLDER NOTES EXAMPLES accordion  
+change_type: review/replace  
+instruction:
+Review placeholder entries such as q6/a6/q7/a7 and malformed-looking examples before public polish.
+
+reason:
+HTML appears incomplete in older examples.
+
+depends_on:
+CEE review of transcript and intended examples
+
+workflow_owner_next: Codex  
+status: review_needed
+
+---
+
+## 10. Rejected or Weak Signals
+
+- praise-only comments: rejected
+- attendance/year-check comments: rejected
+- generic dependency/praise comments: rejected
+- practice-sheet requests: resource_planning_signal only
+- copper configuration issue: weak_signal; no action unless video review contradicts transcript/notes
+- Fajan/Fazan spelling: metadata cleanup, not Chemistry correction
+- 25:10 praised key section: timestamp_candidate_needs_review only
+- “lattice enthalpy is missing”: likely Lecture 03 terminology cross-link, not Lecture 04 correction
+
+---
+
+## 11. Review Checklist for Human / CEE
+
+- Verify notes HTML typo in anion factor.
+- Verify full older examples section and remove placeholders.
+- Decide whether thermal stability/decomposition belongs under Fajan’s rule for ChemDesk target exams.
+- Check if Fajan’s rule applications need a “qualitative only” warning.
+- Check colour examples for desired depth and avoid overclaiming.
+- Check SnCl₄/SnCl₂ explanation for wording safety.
+- Decide if “PNGC” should be named exactly this way or standardized as pseudo noble gas / d10 configuration.
+- Add cross-links to Lecture 03 lattice energy and Lecture 02 ionic properties.
+- Do not convert student comments into public wording.
+- Do not mark anything approved without human review.
+
+---
+
+## 12. Final Integration Summary
+
+accepted_corrections:
+
+- notes_html anion-size typo likely correction: larger anion, not larger cation
+- standardize spelling as Fajan’s Rule
+
+likely_lecture_issues_to_verify:
+
+- older notes examples placeholders/malformed entries
+- copper configuration weak claim only if video review is done
+- application examples should be checked for final wording safety
+
+needs_source_check:
+
+- thermal stability / thermal decomposition as Fajan’s rule application
+- both-cation-and-anion-changing comparison rules
+- isomorphism/back bonding/ionic mobility/coordination number destination
+- colour/volatility application depth for target exams
+
+student_confusions_to_add_later:
+
+- lattice energy vs covalent character
+- ionic character vs covalent character complement
+- Fajan’s rule when both ions change
+- oxidation state and polarizing power
+- Fe(OH)₃ vs Fe(OH)₂ polyatomic-ion trap
+- coordinate bond vs Fajan’s rule
+
+missing_topics_or_gaps:
+
+- thermal stability/decomposition
+- practice/examples for advanced comparisons
+- cross-links to isomorphism, lattice enthalpy, back bonding, coordination number
+
+diagram_needs:
+
+- polarization of anion
+- Fajan’s rule factor tree
+- application flow with qualitative warning
+
+rejected_signals:
+
+- praise/noise
+- unsupported weak correction claims
+- generic resource requests except planning signals
+
+overall_status: cee_processed
+
+next_best_action:
+Before Anya/Codex update public notes, CEE should verify the anion-size typo, clean incomplete older examples, and decide whether thermal stability/decomposition should be added as a Fajan’s rule application or kept as a source-gap/backlog item.
+```

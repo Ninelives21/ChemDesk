@@ -1,35 +1,9 @@
 .
 ├── archive
 │   ├── generated-scripts-old
+│   ├── old_setup-codex-task-1.mjs
 │   └── README.md
 ├── artifacts
-│   ├── agents
-│   │   ├── anya
-│   │   │   ├── anya_student_voice_editor_spec.md
-│   │   │   └── echo_student_signals_analyst_spec.md
-│   │   ├── cee
-│   │   │   ├── CEE_correction_rules.md
-│   │   │   ├── CEE_full_master_spec_old.md
-│   │   │   └── CEE_full_master_spec.md
-│   │   ├── future_agents
-│   │   ├── ira
-│   │   │   └── ira_source_research_verification_agent_spec.md
-│   │   ├── navi
-│   │   │   └── chemdesk_uiux_design_direction.md
-│   │   ├── README.md
-│   │   ├── sia
-│   │   │   ├── sia_system_intelligence_architect_spec.md
-│   │   │   └── sia_upload_pack_README.md
-│   │   └── vera
-│   │       ├── chemdesk_qa_starter_checklist.md
-│   │       ├── vera_qa_release_confidence_agent_spec.md
-│   │       └── vera_setup_pack
-│   │           ├── chemdesk_qa_starter_checklist.md
-│   │           └── vera_qa_release_confidence_agent_spec.md
-│   ├── chemdesk_agent_ecosystem.md
-│   ├── chemdesk_agent_setup_transfer_summary.md
-│   ├── chemdesk_master_context_sync.md
-│   ├── chemdesk_master_spec.md
 │   ├── decisions
 │   │   ├── adr_slice_1_foundation_skeleton.md
 │   │   ├── architecture_decisions.md
@@ -141,74 +115,120 @@
 │   │   │   │   └── README.md
 │   │   │   └── README.md
 │   │   ├── 03-chemical-bonding-and-molecular-structure
+│   │   │   ├── cee_lecture_01_learning_register.md
+│   │   │   ├── CEE_understanding_chemical_bonding.md
+│   │   │   ├── CEE_understanding_chemical_bonding.mp
 │   │   │   ├── chapter.meta.json
 │   │   │   ├── images
 │   │   │   ├── lectures
 │   │   │   │   ├── lecture-01-intro-to-chemical-bonds
+│   │   │   │   │   ├── 01_intro_to_chemical_bonds.html
+│   │   │   │   │   ├── comments-01-intro-to-chemical-bonds.final.md
+│   │   │   │   │   ├── comments-01-intro-to-chemical-bonds.md
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
-│   │   │   │   │   └── README.md
+│   │   │   │   │   ├── README.md
+│   │   │   │   │   └── transcript.md
 │   │   │   │   ├── lecture-02-ionic-bonds
+│   │   │   │   │   ├── 02_ionic_bond.txt
+│   │   │   │   │   ├── 02_ionic_bonds.html
+│   │   │   │   │   ├── Comments-02-ionic-bond.final.md
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-03-lattice-energy-and-born-haber-cycle
+│   │   │   │   │   ├── 03_lattice_energy_and_born_haber_cycle.html
+│   │   │   │   │   ├── 03_lattice_energy.txt
+│   │   │   │   │   ├── comments-03-lattice-energy-and-born-haber-cycle.final.md
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-04-fajans-rule
+│   │   │   │   │   ├── 04_fajans_rule.html
+│   │   │   │   │   ├── 04_fajans_rule.txt
+│   │   │   │   │   ├── comments-04-fajans-rule.final.md
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-05-lewis-dot-structure
+│   │   │   │   │   ├── 05_lewis_dot_structure.html
+│   │   │   │   │   ├── 05_lewis_dot.txt
+│   │   │   │   │   ├── comments-05-lewis-dot-structure.final.md
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-06-vbt
+│   │   │   │   │   ├── 06_vbt.html
+│   │   │   │   │   ├── 06_vbt.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-07-more-on-vbt-pi-bonds
+│   │   │   │   │   ├── 07_more_on_vbt_pi_bonds.html
+│   │   │   │   │   ├── 07_pi_bond.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-08-hybridisation
+│   │   │   │   │   ├── 08_hybridisation.html
+│   │   │   │   │   ├── 08_hybridisation.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-09-vsepr
+│   │   │   │   │   ├── 09_vsepr.html
+│   │   │   │   │   ├── 09_vsepr.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-10-mot-part-i
+│   │   │   │   │   ├── 10_mot_part_i.html
+│   │   │   │   │   ├── 10_mot1.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-11-mot-part-ii
+│   │   │   │   │   ├── 11_mot2.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-12-dipole-moment
+│   │   │   │   │   ├── 12_ Dipole Moment_ Polar and Non Polar Molecule.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-13-bond-angle
+│   │   │   │   │   ├── 13_Bond Angletxt.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-14-dragos-rule
+│   │   │   │   │   ├── 14_Drago'sRule.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-15-vanderwaals-force
+│   │   │   │   │   ├── 15_Vanderwaal Forces.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   ├── lecture-16-hydrogen-bonding
+│   │   │   │   │   ├── 16_Hydrogen Bonding.txt
 │   │   │   │   │   ├── images
 │   │   │   │   │   ├── lecture.meta.json
 │   │   │   │   │   └── README.md
 │   │   │   │   └── README.md
+│   │   │   ├── pankusdesk
+│   │   │   │   ├── 01_intro_to_chemical_bonds.html
+│   │   │   │   ├── 02_ionic_bonds.html
+│   │   │   │   ├── 03_lattice_energy_and_born_haber_cycle.html
+│   │   │   │   ├── 04_fajans_rule.html
+│   │   │   │   ├── 05_lewis_dot_structure.html
+│   │   │   │   ├── 06_vbt.html
+│   │   │   │   ├── 07_more_on_vbt_pi_bonds.html
+│   │   │   │   ├── 08_hybridisation.html
+│   │   │   │   ├── 09_vsepr.html
+│   │   │   │   └── 10_mot_part_i.html
 │   │   │   └── README.md
 │   │   ├── 04-states-of-matter
 │   │   │   ├── chapter.meta.json
@@ -1191,7 +1211,9 @@
 │   │   │   │   └── README.md
 │   │   │   └── README.md
 │   │   └── README.md
-│   └── README.md
+│   ├── README.md
+│   ├── youtube_comments_original.py
+│   └── youtube_comments_raw.py
 ├── data
 │   ├── content-registry.json
 │   ├── exams.json
@@ -1200,19 +1222,66 @@
 │   ├── README.md
 │   ├── registry-generation-notes.md
 │   ├── routes.json
-│   └── status-labels.json
+│   ├── status
+│   │   ├── content-status.json
+│   │   ├── copyright-review-status.json
+│   │   ├── README.md
+│   │   ├── review-status.json
+│   │   ├── source-status.json
+│   │   ├── status-map-template.json
+│   │   └── workflow-status.json
+│   ├── status-labels.json
+│   └── syllabus
+│       ├── bitsat.json
+│       ├── cbse.json
+│       ├── jee-main.json
+│       ├── README.md
+│       ├── syllabus-map-template.json
+│       ├── tg-eapcet.json
+│       └── tgipe.json
 ├── docs
+│   ├── agents
+│   │   ├── anya
+│   │   │   ├── anya_student_voice_editor_spec.md
+│   │   │   └── echo_student_signals_analyst_spec.md
+│   │   ├── cee
+│   │   │   ├── CEE_correction_rules.md
+│   │   │   ├── CEE_full_master_spec_old.md
+│   │   │   └── CEE_full_master_spec.md
+│   │   ├── future_agents
+│   │   ├── ira
+│   │   │   └── ira_source_research_verification_agent_spec.md
+│   │   ├── navi
+│   │   │   └── chemdesk_uiux_design_direction.md
+│   │   ├── README.md
+│   │   ├── shared
+│   │   │   ├── chemdesk_agent_ecosystem.md
+│   │   │   ├── chemdesk_agent_setup_transfer_summary.md
+│   │   │   ├── chemdesk_master_context_sync.md
+│   │   │   └── chemdesk_master_spec.md
+│   │   ├── sia
+│   │   │   ├── sia_system_intelligence_architect_spec.md
+│   │   │   └── sia_upload_pack_README.md
+│   │   ├── sift
+│   │   │   └── sift_master_spec.md
+│   │   └── vera
+│   │       ├── chemdesk_qa_starter_checklist.md
+│   │       ├── vera_qa_release_confidence_agent_spec.md
+│   │       └── vera_setup_pack
+│   │           ├── chemdesk_qa_starter_checklist.md
+│   │           └── vera_qa_release_confidence_agent_spec.md
 │   ├── architecture.md
 │   ├── change-management.md
+│   ├── chemdesk_project_structure_manual.md
+│   ├── current-project-checkpoint.md
 │   ├── future-ideas.md
 │   ├── manual-content-update-rules.md
 │   ├── publishing-rules.md
 │   ├── README.md
 │   └── validation-rules.md
-├── folder_contents.txt
+├── files.txt
 ├── folders.txt
 ├── index.html
-├── old_setup-codex-task-1.mjs
 ├── README.md
 ├── reports
 │   ├── chemdesk-folder-sync-report.json
@@ -1234,6 +1303,13 @@
 │   └── scaffolding
 │       ├── README.md
 │       └── sync-chemdesk-folders-with-metadata.js
-└── setup-chemdesk-content-from-master-lectures.mjs
+├── setup-chemdesk-content-from-master-lectures.mjs
+└── templates
+    ├── chapter-meta-template.json
+    ├── chapter-readme-template.md
+    ├── lecture-meta-template.json
+    ├── lecture-readme-template.md
+    ├── manual-lecture-addition-checklist.md
+    └── README.md
 
-594 directories, 643 files
+600 directories, 713 files

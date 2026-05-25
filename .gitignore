@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Node / Astro / build artifacts
+node_modules/
+dist/
+.astro/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment files / secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+.tmp/
+temp/
+.cache/
