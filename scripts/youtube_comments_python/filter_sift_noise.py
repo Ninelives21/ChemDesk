@@ -18,7 +18,8 @@ Current policy:
   - Likes alone do NOT save a comment.
   - All timestamp comments are kept.
   - Chemistry formula / ionic bond / electrovalency / correction signals are kept.
-  - Short replies are usually removed, EXCEPT when they belong to a kept parent thread.
+  - Short replies are usually removed, EXCEPT when they belong to a kept parent thread
+    and look like useful explanation/answer/correction context.
   - Sift still ranks/clusters later.
   - CEE still verifies Chemistry truth later.
 """
@@ -32,11 +33,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-
-# ---------------------------------------------------------------------
-# Reject patterns: remove obvious universal junk unless already kept by a
-# high-value rule.
-# ---------------------------------------------------------------------
 
 REJECT_PATTERNS = [
     # Praise / fandom / emotional support only
@@ -159,12 +155,10 @@ SHORT_JUNK_EXACT = {
     "op",
     "present",
     "oj",
+    "ss",
+    "hlw",
 }
 
-
-# ---------------------------------------------------------------------
-# Keep patterns: preserve possible Sift/CEE-useful signals.
-# ---------------------------------------------------------------------
 
 KEEP_PATTERNS = [
     # Notes / PDF / lecture material access
@@ -204,7 +198,28 @@ KEEP_PATTERNS = [
     r"\bmore ionic\b",
     r"\bless ionic\b",
     r"\belectron affinity\b",
+    r"\belectron gain enthalpy\b",
     r"\bexception\b",
+
+    # Lattice / Born-Haber / energy-cycle specific signals
+    r"\blattice energy\b",
+    r"\blatice energy\b",
+    r"\bborn haber\b",
+    r"\bheat of formation\b",
+    r"\benthalpy of formation\b",
+    r"\bdelta hf\b",
+    r"\bdissociation energy\b",
+    r"\bheat of atomisation\b",
+    r"\bheat of atomization\b",
+    r"\bea2\b",
+    r"\bea 2\b",
+    r"\be\.a\.2\b",
+    r"\belectron affinity 2\b",
+    r"\bsecond electron affinity\b",
+    r"\bcharge dominating factor\b",
+    r"\benergy release\b",
+    r"\brelease ho\b",
+    r"\brequired ho\b",
 
     # Chemical formula / compound comparison signals
     r"\bmgcl2?\b",
@@ -213,7 +228,10 @@ KEEP_PATTERNS = [
     r"\bcacl2\b",
     r"\bnacl\b",
     r"\bkcl\b",
+    r"\brbcl\b",
+    r"\blicl\b",
     r"\bnaf\b",
+    r"\bmgi2\b",
     r"\bcl\b.*\b-?1\b",
     r"\bisomorphous\b",
     r"\bsimilar structure\b",
@@ -245,7 +263,6 @@ KEEP_PATTERNS = [
     r"\bdipole\b",
     r"\bbond angle\b",
     r"\blattice\b",
-    r"\bborn haber\b",
     r"\benthalpy\b",
     r"\bsign convention\b",
 
@@ -352,11 +369,88 @@ KEEP_PATTERNS = [
 ]
 
 
-# Weak/off-topic chemistry-ish comments we do not want to rescue by keyword alone.
 WEAK_OFFTOPIC_PATTERNS = [
     r"\bvander\s*vall\b",
     r"\bvan der waal\b",
     r"\bvanderwaal\b",
+]
+
+
+# Replies under kept parent questions can be rescued if they look explanatory.
+# This specifically catches the EA2 / electron-affinity thread style.
+REPLY_EXPLANATION_PATTERNS = [
+    r"\bea2\b",
+    r"\bea 2\b",
+    r"\be\.a\.2\b",
+    r"\belectron affinity\b",
+    r"\belectron gain enthalpy\b",
+    r"\bgain e\b",
+    r"\bgain electron\b",
+    r"\btake electron\b",
+    r"\bsecond electron\b",
+    r"\be-\b",
+    r"\belectron\b",
+    r"\bcharge\b",
+    r"\bnegative\b",
+    r"\bpositive\b",
+    r"\b-1\b",
+    r"\b\+1\b",
+    r"\brepel\b",
+    r"\brepulsion\b",
+    r"\brepulsive\b",
+    r"\bforce\b",
+    r"\benergy\b",
+    r"\bprovide energy\b",
+    r"\benergy lagani\b",
+    r"\bgreater force\b",
+    r"\bactual state\b",
+    r"\bo actual state\b",
+    r"\boxygen\b",
+    r"\bo\b.*\bstate\b",
+    r"\bbecause\b",
+    r"\bbcs\b",
+    r"\bkyuki\b",
+    r"\bkyunki\b",
+    r"\btherefore\b",
+    r"\bso\b.*\benergy\b",
+
+    # Other chemistry answer/context replies
+    r"\blattice energy\b",
+    r"\binversely proportional\b",
+    r"\bsize of ions\b",
+    r"\bLiCl\b",
+    r"\bNaCl\b",
+    r"\bKCl\b",
+    r"\bRbCl\b",
+    r"\b1/2\b",
+    r"\bhalf\b",
+    r"\bbalancing\b",
+    r"\bdissociation energy\b",
+    r"\bheat of formation\b",
+    r"\bions?\b.*\bbaat\b",
+    r"\bcorrect\b",
+    r"\bgalat\b",
+    r"\bsahi\b",
+]
+
+
+REPLY_CONTEXT_REJECT_PATTERNS = [
+    r"\bthank\b",
+    r"\bthanks\b",
+    r"\bthnx\b",
+    r"\bthanku\b",
+    r"\blove\b",
+    r"\bgreat\b",
+    r"\bnice\b",
+    r"\bhaha\b",
+    r"\bhahaa\b",
+    r"\blol\b",
+    r"\bhlw\b",
+    r"\bhello\b",
+    r"\bsupport\b",
+    r"\bwatch again\b",
+    r"\bjust watch video\b",
+    r"\bonce more\b",
 ]
 
 
@@ -372,6 +466,8 @@ LONG_CONTEXT_TERMS = [
     r"\bchapter\b",
     r"\bionic\b",
     r"\belectrovalency\b",
+    r"\blattice\b",
+    r"\bborn haber\b",
 ]
 
 
@@ -405,8 +501,8 @@ def normalise(text: str) -> str:
     text = (text or "").lower()
     text = re.sub(r"https?://\S+", " ", text)
     text = re.sub(r"@\S+", " ", text)
-    # Keep digits, letters, colon, tilde, minus because formula-like comments can use them.
-    text = re.sub(r"[^a-z0-9:\s~\-]+", " ", text)
+    # Keep digits, letters, colon, tilde, plus, minus, slash, dot because formula/sign comments use them.
+    text = re.sub(r"[^a-z0-9:\s~\-\+\/\.]+", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -467,9 +563,6 @@ def is_long_context_comment(text: str) -> bool:
 
 
 def classify_comment_initial(comment: dict[str, Any]) -> tuple[str, str]:
-    """
-    First-pass classification without considering parent/reply relationship.
-    """
     raw_text = comment.get("raw_text") or ""
     clean_text = comment.get("clean_preview_text") or raw_text
     text = normalise(clean_text)
@@ -514,12 +607,6 @@ def classify_comment_initial(comment: dict[str, Any]) -> tuple[str, str]:
 
 
 def should_keep_reply_for_kept_parent(reply: dict[str, Any], kept_parent_ids: set[str]) -> bool:
-    """
-    Rescue short replies only when they belong to a kept parent thread
-    and look like they may answer/explain/clarify the parent.
-
-    This is intentionally small and conservative.
-    """
     parent_id = reply.get("parent_id") or ""
     if not parent_id or parent_id not in kept_parent_ids:
         return False
@@ -531,24 +618,16 @@ def should_keep_reply_for_kept_parent(reply: dict[str, Any], kept_parent_ids: se
     if mostly_emoji_or_empty(text):
         return False
 
-    # Short answer/explanation-like replies.
-    answer_patterns = [
-        r"\bions?\b.*\bbaat\b",
-        r"\bions?\b",
-        r"\barre\b",
-        r"\bbecause\b",
-        r"\bkyuki\b",
-        r"\bkyunki\b",
-        r"\bas\b",
-        r"\bno\b",
-        r"\byes\b",
-        r"\bnot\b",
-        r"\bcorrect\b",
-        r"\bgalat\b",
-        r"\bsahi\b",
-    ]
+    # Avoid rescuing casual replies under an official playlist/source comment.
+    if word_count(text) <= 3 and not has_pattern(text, REPLY_EXPLANATION_PATTERNS):
+        return False
 
-    if has_pattern(text, answer_patterns):
+    # Exclude praise/casual replies unless they also contain a strong explanation marker.
+    if has_pattern(text, REPLY_CONTEXT_REJECT_PATTERNS) and not has_pattern(text, REPLY_EXPLANATION_PATTERNS):
+        return False
+
+    # Rescue useful explanatory/corrective replies.
+    if has_pattern(text, REPLY_EXPLANATION_PATTERNS):
         return True
 
     return False
@@ -583,11 +662,12 @@ def build_curated_payload(
     payload["curation_metadata"] = {
         "raw_source_file": raw_path.name,
         "curation_method": "filter_sift_noise.py",
-        "curation_version": "v5_ionic_formula_timestamp_parent_reply",
+        "curation_version": "v6_kept_parent_explanatory_reply_rescue",
         "rejected_comments_physically_removed": True,
         "likes_alone_do_not_keep_comment": True,
         "all_timestamp_comments_kept": True,
         "parent_reply_rescue_enabled": True,
+        "explanatory_reply_rescue_enabled": True,
         "original_comment_count": original_count,
         "curated_comment_count": len(kept_comments),
         "removed_comment_count": rejected_count,
@@ -596,8 +676,8 @@ def build_curated_payload(
         "review_note": (
             "This curated file is intended as Sift input. "
             "Rejected/noise comments are not included. "
-            "This version keeps all timestamp comments, adds ionic/electrovalency/formula "
-            "signals, and rescues selected replies under kept parent questions."
+            "This version keeps all timestamp comments, preserves chemistry/formula/energy signals, "
+            "and rescues explanatory replies under kept parent questions."
         ),
     }
 
@@ -606,7 +686,7 @@ def build_curated_payload(
         "Obvious low-signal noise has been physically removed.",
         "All timestamp comments were kept.",
         "Likes alone were not used as a keep reason.",
-        "Selected replies under kept parent questions may be preserved for context.",
+        "Selected explanatory replies under kept parent questions may be preserved for context.",
         "This file does not decide Chemistry truth.",
         "Sift should scrub, cluster, prioritize, and create the .final report.",
         "CEE must verify Chemistry truth later.",
@@ -666,7 +746,7 @@ def main() -> int:
         if decision == "reject" and comment.get("type") == "reply":
             if should_keep_reply_for_kept_parent(comment, kept_parent_ids):
                 final_decision = "keep"
-                final_reason = "reply_context_for_kept_parent"
+                final_reason = "explanatory_reply_context_for_kept_parent"
 
         if final_decision == "keep":
             comment_copy = dict(comment)
