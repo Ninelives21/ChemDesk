@@ -10,13 +10,13 @@
   "max_pages": 5,
   "include_replies": true,
   "max_reply_pages": 1,
-  "comment_count": 193,
+  "comment_count": 183,
   "notes": [
     "This is curated Sift input.",
     "Obvious low-signal noise has been physically removed.",
     "All timestamp comments were kept.",
     "Likes alone were not used as a keep reason.",
-    "Selected replies under kept parent questions may be preserved for context.",
+    "Selected explanatory replies under kept parent questions may be preserved for context.",
     "This file does not decide Chemistry truth.",
     "Sift should scrub, cluster, prioritize, and create the .final report.",
     "CEE must verify Chemistry truth later."
@@ -114,24 +114,6 @@
     },
     {
       "type": "reply",
-      "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8ozk0HCkwcZ",
-      "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
-      "raw_text": "Yes sir I will support u",
-      "clean_preview_text": "Yes sir I will support u",
-      "likes": 9,
-      "published": "2018-12-18T06:53:28Z",
-      "updated": "2018-12-18T06:53:28Z",
-      "author": "@kumaribhawna14",
-      "timestamps": [],
-      "reply_order_within_parent": 10,
-      "fetch_order": 11,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
-      "type": "reply",
       "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8r-V4kQEeCF",
       "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
       "raw_text": "Sir 28.10 usme MgCl hoga ya MgCl2?",
@@ -168,24 +150,6 @@
     },
     {
       "type": "reply",
-      "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8sMDHTTzDsK",
-      "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
-      "raw_text": "yes sir",
-      "clean_preview_text": "yes sir",
-      "likes": 0,
-      "published": "2019-03-11T23:14:40Z",
-      "updated": "2019-03-11T23:14:40Z",
-      "author": "@minimilitiagaming3029",
-      "timestamps": [],
-      "reply_order_within_parent": 21,
-      "fetch_order": 22,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
-      "type": "reply",
       "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8tlozk1bLP8",
       "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
       "raw_text": "MgCl ya MgCl2",
@@ -201,24 +165,6 @@
       "page_number": 1,
       "curation_decision": "keep",
       "curation_reason": "high_value_student_signal"
-    },
-    {
-      "type": "reply",
-      "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8xWVBaaoipj",
-      "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
-      "raw_text": "@anusayapatil7386 Yes sir he is right",
-      "clean_preview_text": "@anusayapatil7386 Yes sir he is right",
-      "likes": 1,
-      "published": "2019-07-18T05:40:32Z",
-      "updated": "2019-07-18T05:40:32Z",
-      "author": "@pihusharma6119",
-      "timestamps": [],
-      "reply_order_within_parent": 23,
-      "fetch_order": 24,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -402,25 +348,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
-      "type": "reply",
-      "comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9im2i7_IhUx",
-      "parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
-      "raw_text": "@manasbijewar3221 brother selection ho gaya tha rrb alp/technician wale me. So currently 2.5 years se as a technician posted hu IR me. What about you brother?",
-      "clean_preview_text": "@manasbijewar3221 brother selection ho gaya tha rrb alp/technician wale me. So currently 2.5 years se as a technician posted hu IR me. What about you brother?",
-      "likes": 0,
-      "published": "2022-11-23T13:37:07Z",
-      "updated": "2022-11-23T13:37:07Z",
-      "author": "@anuraggangwar6644",
-      "timestamps": [],
-      "reply_order_within_parent": 65,
-      "fetch_order": 66,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -713,7 +641,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -731,7 +659,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "comment",
@@ -967,24 +895,6 @@
     },
     {
       "type": "reply",
-      "comment_id": "UgzMdFNbopyorI_iFft4AaABAg.911-lqQzW5q9BJY41je2r2",
-      "parent_id": "UgzMdFNbopyorI_iFft4AaABAg",
-      "raw_text": "@carguy7480 ppdtaker is.......not are....you have to  justify your english....and   thank you thank you thank you...for  giving me chance to become a bhai🤔🤔🤔🤔",
-      "clean_preview_text": "@carguy7480 ppdtaker is.......not are....you have to justify your english....and thank you thank you thank you...for giving me chance to become a bhai🤔🤔🤔🤔",
-      "likes": 3,
-      "published": "2020-07-20T00:46:30Z",
-      "updated": "2020-07-20T00:46:30Z",
-      "author": "@Rmusico933",
-      "timestamps": [],
-      "reply_order_within_parent": 13,
-      "fetch_order": 427,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
-      "type": "reply",
       "comment_id": "UgzMdFNbopyorI_iFft4AaABAg.911-lqQzW5q9BNKmkAAy0q",
       "parent_id": "UgzMdFNbopyorI_iFft4AaABAg",
       "raw_text": "@arrnavswami5139 because  this society is now in a negetive stage....we are the archietect of our own fate...we think that a peaple is very negetive...we dont know we are spreading negetevity   ....dont judge any one by his words....believe on human being...and yourself",
@@ -999,7 +909,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -1072,24 +982,6 @@
       "page_number": 1,
       "curation_decision": "keep",
       "curation_reason": "high_value_student_signal"
-    },
-    {
-      "type": "reply",
-      "comment_id": "UgzMdFNbopyorI_iFft4AaABAg.911-lqQzW5q9EOYyDqstoY",
-      "parent_id": "UgzMdFNbopyorI_iFft4AaABAg",
-      "raw_text": "@Rmusico933 arre kya Insaan hai tu?",
-      "clean_preview_text": "@Rmusico933 arre kya Insaan hai tu?",
-      "likes": 0,
-      "published": "2020-10-04T13:04:42Z",
-      "updated": "2020-10-04T13:04:42Z",
-      "author": "@Trying-f2w",
-      "timestamps": [],
-      "reply_order_within_parent": 46,
-      "fetch_order": 460,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -1283,24 +1175,6 @@
     },
     {
       "type": "reply",
-      "comment_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg.9-aGRmJzFHo9AL2grnP2HQ",
-      "parent_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg",
-      "raw_text": "@atharvchauhan2648 No I am in class 9 \nWhat about you?",
-      "clean_preview_text": "@atharvchauhan2648 No I am in class 9 What about you?",
-      "likes": 2,
-      "published": "2020-06-25T18:19:24Z",
-      "updated": "2020-06-25T18:27:53Z",
-      "author": "@debtanaysarkar9744",
-      "timestamps": [],
-      "reply_order_within_parent": 11,
-      "fetch_order": 697,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
-      "type": "reply",
       "comment_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg.9-aGRmJzFHo9AM8PIKTiYy",
       "parent_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg",
       "raw_text": "@atharvchauhan2648 Because jaan se zyada physics and chemistry pasand hai",
@@ -1315,7 +1189,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -1333,7 +1207,7 @@
       "youtube_order": "relevance",
       "page_number": 1,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -1352,24 +1226,6 @@
       "page_number": 1,
       "curation_decision": "keep",
       "curation_reason": "high_value_student_signal"
-    },
-    {
-      "type": "reply",
-      "comment_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg.9-aGRmJzFHo9AlYBb9CBrY",
-      "parent_id": "UgyFlrmGp1ZTUbg0Gnx4AaABAg",
-      "raw_text": "@debtanaysarkar9744 yes",
-      "clean_preview_text": "@debtanaysarkar9744 yes",
-      "likes": 1,
-      "published": "2020-07-06T10:34:07Z",
-      "updated": "2020-07-06T10:34:07Z",
-      "author": "@chudasmayashpalsinh9922",
-      "timestamps": [],
-      "reply_order_within_parent": 22,
-      "fetch_order": 708,
-      "youtube_order": "relevance",
-      "page_number": 1,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
     },
     {
       "type": "reply",
@@ -1865,24 +1721,6 @@
       "reply_count_reported": 1,
       "curation_decision": "keep",
       "curation_reason": "timestamp_comment"
-    },
-    {
-      "type": "reply",
-      "comment_id": "UgwU9yy3AQxLmTgjPzh4AaABAg.9ShYm1JFTgo9xzKGSdUNLb",
-      "parent_id": "UgwU9yy3AQxLmTgjPzh4AaABAg",
-      "raw_text": "Arre ions ki bat ho Rahi hai",
-      "clean_preview_text": "Arre ions ki bat ho Rahi hai",
-      "likes": 0,
-      "published": "2023-12-06T13:11:32Z",
-      "updated": "2023-12-06T13:11:32Z",
-      "author": "@Pardus08",
-      "timestamps": [],
-      "reply_order_within_parent": 1,
-      "fetch_order": 1223,
-      "youtube_order": "relevance",
-      "page_number": 2,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
     },
     {
       "type": "comment",
@@ -2656,7 +2494,7 @@
       "youtube_order": "relevance",
       "page_number": 3,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "comment",
@@ -2714,7 +2552,7 @@
       "youtube_order": "relevance",
       "page_number": 3,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "comment",
@@ -2806,7 +2644,7 @@
       "youtube_order": "relevance",
       "page_number": 3,
       "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
+      "curation_reason": "explanatory_reply_context_for_kept_parent"
     },
     {
       "type": "comment",
@@ -3403,24 +3241,6 @@
       "curation_reason": "long_study_context_comment"
     },
     {
-      "type": "reply",
-      "comment_id": "Ugwl38LdG4yH-9IdiIN4AaABAg.9yLoNeh4QE99yNfXuor_KO",
-      "parent_id": "Ugwl38LdG4yH-9IdiIN4AaABAg",
-      "raw_text": "True..glad someone is same as me 😂😂",
-      "clean_preview_text": "True..glad someone is same as me 😂😂",
-      "likes": 0,
-      "published": "2023-12-16T09:27:10Z",
-      "updated": "2023-12-16T09:27:10Z",
-      "author": "@sofi12340-v",
-      "timestamps": [],
-      "reply_order_within_parent": 1,
-      "fetch_order": 1778,
-      "youtube_order": "relevance",
-      "page_number": 5,
-      "curation_decision": "keep",
-      "curation_reason": "reply_context_for_kept_parent"
-    },
-    {
       "type": "comment",
       "comment_id": "UgwPI0_UDAfNQozt_N94AaABAg",
       "parent_id": "",
@@ -3687,33 +3507,31 @@
       "curation_reason": "timestamp_comment"
     }
   ],
-  "curated_at": "2026-05-27T07:38:59.369346+00:00",
+  "curated_at": "2026-05-27T16:08:32.701038+00:00",
   "curation_metadata": {
-    "raw_source_file": "comments-02-ionic-bonds.raw.json",
+    "raw_source_file": "comments-02-ionic-bonds.curated.json",
     "curation_method": "filter_sift_noise.py",
-    "curation_version": "v5_ionic_formula_timestamp_parent_reply",
+    "curation_version": "v6_kept_parent_explanatory_reply_rescue",
     "rejected_comments_physically_removed": true,
     "likes_alone_do_not_keep_comment": true,
     "all_timestamp_comments_kept": true,
     "parent_reply_rescue_enabled": true,
-    "original_comment_count": 1857,
-    "curated_comment_count": 193,
-    "removed_comment_count": 1664,
+    "explanatory_reply_rescue_enabled": true,
+    "original_comment_count": 193,
+    "curated_comment_count": 183,
+    "removed_comment_count": 10,
     "keep_reason_counts": {
       "source_or_playlist_metadata": 1,
       "high_value_student_signal": 114,
-      "reply_context_for_kept_parent": 19,
       "timestamp_comment": 56,
+      "explanatory_reply_context_for_kept_parent": 9,
       "long_study_context_comment": 3
     },
     "reject_reason_counts": {
-      "reject_noise_pattern": 240,
-      "reply_without_signal": 659,
-      "short_junk": 475,
-      "emoji_or_empty": 88,
-      "default_no_useful_signal": 201,
-      "weak_offtopic_chemistry_noise": 1
+      "reply_without_signal": 7,
+      "short_junk": 2,
+      "reject_noise_pattern": 1
     },
-    "review_note": "This curated file is intended as Sift input. Rejected/noise comments are not included. This version keeps all timestamp comments, adds ionic/electrovalency/formula signals, and rescues selected replies under kept parent questions."
+    "review_note": "This curated file is intended as Sift input. Rejected/noise comments are not included. This version keeps all timestamp comments, preserves chemistry/formula/energy signals, and rescues explanatory replies under kept parent questions."
   }
 }
