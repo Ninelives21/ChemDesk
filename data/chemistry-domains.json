@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "domain_id": "physical",
+      "title": "Physical Chemistry",
+      "status": "draft",
+      "visibility": "preview"
+    }
+  ]
+}

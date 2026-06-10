@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "chapter_id": "chemical-bonding",
+      "domain_id": "physical",
+      "title": "Chemical Bonding",
+      "slug": "physical/chemical-bonding",
+      "status": "draft",
+      "visibility": "preview",
+      "exam_scope": ["jee", "bitsat", "tg-eapcet", "cbse", "tgipe"],
+      "source_status": "not_started",
+      "review_status": "not_started"
+    }
+  ]
+}

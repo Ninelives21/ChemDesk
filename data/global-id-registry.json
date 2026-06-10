@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "physical",
+      "type": "domain"
+    },
+    {
+      "id": "chemical-bonding",
+      "type": "chapter"
+    },
+    {
+      "id": "chemical-bonding-lecture-01-intro-to-chemical-bonds",
+      "type": "lecture"
+    },
+    {
+      "id": "chemical-bonding-introduction",
+      "type": "concept"
+    },
+    {
+      "id": "chemical-bonding-octet-rule",
+      "type": "concept"
+    },
+    {
+      "id": "chemical-bonding-ionic-bond",
+      "type": "concept"
+    },
+    {
+      "id": "chemical-bonding-lecture-01-sec-001-why-atoms-bond",
+      "type": "lecture_section"
+    },
+    {
+      "id": "chemical-bonding-lecture-01-sec-002-stability-and-energy",
+      "type": "lecture_section"
+    },
+    {
+      "id": "chemical-bonding-lecture-01-sec-003-octet-rule",
+      "type": "lecture_section"
+    },
+    {
+      "id": "chemical-bonding-lecture-01-sec-004-types-of-chemical-bonds",
+      "type": "lecture_section"
+    }
+  ]
+}

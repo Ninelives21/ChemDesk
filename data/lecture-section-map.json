@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "lecture_id": "chemical-bonding-lecture-01-intro-to-chemical-bonds",
+      "sections": [
+        {
+          "section_id": "chemical-bonding-lecture-01-sec-001-why-atoms-bond",
+          "title": "Why atoms bond",
+          "concept_ids": ["chemical-bonding-introduction"]
+        },
+        {
+          "section_id": "chemical-bonding-lecture-01-sec-002-stability-and-energy",
+          "title": "Stability and energy",
+          "concept_ids": ["chemical-bonding-introduction"]
+        },
+        {
+          "section_id": "chemical-bonding-lecture-01-sec-003-octet-rule",
+          "title": "Octet rule",
+          "concept_ids": ["chemical-bonding-octet-rule"]
+        },
+        {
+          "section_id": "chemical-bonding-lecture-01-sec-004-types-of-chemical-bonds",
+          "title": "Types of chemical bonds",
+          "concept_ids": ["chemical-bonding-ionic-bond"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status": [
+    "raw",
+    "draft",
+    "cee_processed",
+    "content_edited",
+    "source_reviewed",
+    "user_reviewed",
+    "approved",
+    "published",
+    "needs_update",
+    "deprecated",
+    "rejected"
+  ],
+  "visibility": ["internal", "preview", "public", "archived"]
+}

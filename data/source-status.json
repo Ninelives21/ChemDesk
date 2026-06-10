@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "source_status": "not_started",
+      "title": "Not Started"
+    },
+    {
+      "source_status": "transcript_available",
+      "title": "Transcript Available"
+    },
+    {
+      "source_status": "cee_processed",
+      "title": "CEE Processed"
+    },
+    {
+      "source_status": "reviewed",
+      "title": "Reviewed"
+    }
+  ]
+}

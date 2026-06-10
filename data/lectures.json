@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "lecture_id": "chemical-bonding-lecture-01-intro-to-chemical-bonds",
+      "chapter_id": "chemical-bonding",
+      "domain_id": "physical",
+      "title": "Lecture 01: Intro to Chemical Bonds",
+      "slug": "physical/chemical-bonding/lecture-01-intro-to-chemical-bonds",
+      "status": "draft",
+      "visibility": "preview",
+      "exam_scope": ["jee", "bitsat", "tg-eapcet", "cbse", "tgipe"],
+      "source_status": "not_started",
+      "review_status": "not_started",
+      "section_ids": [
+        "chemical-bonding-lecture-01-sec-001-why-atoms-bond",
+        "chemical-bonding-lecture-01-sec-002-stability-and-energy",
+        "chemical-bonding-lecture-01-sec-003-octet-rule",
+        "chemical-bonding-lecture-01-sec-004-types-of-chemical-bonds"
+      ],
+      "concept_ids": [
+        "chemical-bonding-introduction",
+        "chemical-bonding-octet-rule",
+        "chemical-bonding-ionic-bond"
+      ]
+    }
+  ]
+}
