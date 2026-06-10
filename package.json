@@ -7,7 +7,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "validate:ids": "node scripts/validation/validate-ids.mjs"
+    "validate:ids": "node scripts/validation/validate-ids.mjs",
+    "validate:content": "node scripts/validation/validate-content.mjs",
+    "validate": "npm run validate:ids && npm run validate:content"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.0",
