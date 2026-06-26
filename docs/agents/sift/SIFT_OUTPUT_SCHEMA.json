@@ -1,0 +1,111 @@
+{
+  "schema": "chemdesk.youtube_comments.sift_scrubbed.v1",
+  "status": "sift_scrubbed_needs_cee_review",
+  "truth_status": "unverified",
+  "cee_review_required": true,
+  "public_display": false,
+  "public_rag_eligible": false,
+  "pagefind_index": false,
+  "lecture": {
+    "lecture_id": "",
+    "lecture_title": "",
+    "source_video": "",
+    "input_file": "",
+    "input_type": "raw_youtube_api_comments",
+    "output_file": "",
+    "generated_at": ""
+  },
+  "processing_summary": {
+    "raw_comment_count": null,
+    "clean_enough_for_direct_sift": null,
+    "noise_level": "low | medium | high",
+    "summary": ""
+  },
+  "top_signals": [
+    {
+      "signal_id": "",
+      "title": "",
+      "signal_type": "Correction | Conceptual doubt | Missing topic | Timeline | Resource gap | Other",
+      "priority": "High | Medium | Low",
+      "student_signal_summary": "",
+      "timestamps": [],
+      "likes_summary": "",
+      "replies_summary": "",
+      "evidence_comments": [
+        {
+          "comment_id": "",
+          "parent_id": "",
+          "comment_type": "comment | reply",
+          "author": "",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": ""
+        }
+      ],
+      "why_this_matters": "",
+      "cee_action_needed": "verify | reject | needs_source_check | consider_for_notes | ignore_if_out_of_scope",
+      "cee_verification_required": true
+    }
+  ],
+  "correction_error_claims": [
+    {
+      "claim_id": "",
+      "claim": "",
+      "evidence_comments": [],
+      "timestamps": [],
+      "confidence_from_comments_only": "Strong | Medium | Weak",
+      "cee_verification_required": true,
+      "truth_status": "unverified"
+    }
+  ],
+  "conceptual_doubts": [
+    {
+      "doubt_id": "",
+      "doubt_summary": "",
+      "evidence_comments": [],
+      "possible_concept_area": "",
+      "cee_action_needed": ""
+    }
+  ],
+  "missing_topic_resource_gaps": [
+    {
+      "gap_id": "",
+      "gap_type": "Missing topic | Resource gap | Cross-link need",
+      "summary": "",
+      "evidence_comments": [],
+      "cee_action_needed": ""
+    }
+  ],
+  "useful_timeline_comments": [
+    {
+      "timeline_id": "",
+      "timestamp": "",
+      "summary": "",
+      "evidence_comments": [],
+      "usefulness": ""
+    }
+  ],
+  "weak_signals": [
+    {
+      "weak_signal_id": "",
+      "summary": "",
+      "reason_weak_or_unclear": "",
+      "evidence_comments": [],
+      "cee_verification_required": true
+    }
+  ],
+  "noise_removed_summary": {
+    "praise_only": true,
+    "attendance_year_check": true,
+    "spam_promo": true,
+    "emoji_only": true,
+    "pure_timestamps": true,
+    "motivational_threads": true,
+    "unrelated_requests": true,
+    "generic_notes_pdf_requests": true,
+    "summary": ""
+  },
+  "final_cee_handoff": [
+    ""
+  ]
+}
