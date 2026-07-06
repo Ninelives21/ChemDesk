@@ -1,0 +1,1229 @@
+{
+  "schema": "chemdesk.youtube_comments.sift_scrubbed.v1",
+  "status": "sift_scrubbed_needs_cee_review",
+  "truth_status": "unverified",
+  "cee_review_required": true,
+  "public_display": false,
+  "public_rag_eligible": false,
+  "pagefind_index": false,
+  "lecture": {
+    "lecture_id": "chemical-bonding-lecture-16",
+    "lecture_title": "Hydrogen Bonding",
+    "source_video": "https://youtu.be/k8tYXDKb2yE",
+    "input_file": "comments-16-hydrogen-bonding.chatgpt-input.md",
+    "input_type": "raw_youtube_api_comments",
+    "output_file": "comments-16-hydrogen-bonding.chatgpt-input.json",
+    "generated_at": "2026-06-28T01:44:42.916898Z"
+  },
+  "processing_summary": {
+    "raw_comment_count": 1530,
+    "clean_enough_for_direct_sift": true,
+    "noise_level": "high",
+    "summary": "Bridge input reports 1530 flattened comments/replies and 900 selected comments/replies sent for Sift processing. Most selected items were praise, motivation, app/promo, attendance/year-check, generic notes, or social chat, but there are several useful timestamped correction/doubt signals and a repeated resource-gap cluster around resonance/back bonding."
+  },
+  "top_signals": [
+    {
+      "signal_id": "sig_001",
+      "title": "Possible option issue in example at 15:30",
+      "signal_type": "Correction",
+      "priority": "High",
+      "student_signal_summary": "One timestamped student reply claims the example around 15:30 may have option (a) as the answer, based on the student's reading of atom size in the A-H···B pattern. Treat only as an unverified lecture-error signal.",
+      "timestamps": [
+        "15:30"
+      ],
+      "likes_summary": "0 likes on the specific reply; priority comes from timestamp specificity and possible option-level correction.",
+      "replies_summary": "No useful confirming/challenging replies found in the selected set; the parent was a noisy promotional comment.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Q7dho8t6bf",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@Bhi7777",
+          "likes": 0,
+          "timestamp_refs": [
+            "15:30"
+          ],
+          "text": "Sir Ek problem h During 15:30 example me Usme option (a) hona chahiye kyuki oxygen ka size is smaller than nitrogen Jaise ki apne video k start me kaha th ki ko ( A_H::::B )b ka jagah small atom hona chahiye"
+        }
+      ],
+      "why_this_matters": "Option-level mistakes can mislead many students and are efficient for CEE to verify against the board/transcript at the timestamp.",
+      "cee_action_needed": "verify",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_002",
+      "title": "Possible positive-charge placement issue at 30:56",
+      "signal_type": "Correction",
+      "priority": "High",
+      "student_signal_summary": "A timestamped comment claims that the positive charge at 30:56 should be on the central atom. This is preserved as an unverified possible board/structure correction.",
+      "timestamps": [
+        "30:56"
+      ],
+      "likes_summary": "8 likes on the correction comment.",
+      "replies_summary": "A reply under this comment asks a separate boiling-point/Fajans-rule doubt, not a direct confirmation.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwDVeD_BGDxwp3IcGt4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@mayne4672",
+          "likes": 8,
+          "timestamp_refs": [
+            "30:56"
+          ],
+          "text": "30:56 positive charge must be on \"CENTRAL\" atom"
+        }
+      ],
+      "why_this_matters": "A charge-placement issue in a structure or example could cause a concrete Chemistry accuracy problem if verified by CEE.",
+      "cee_action_needed": "verify",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_003",
+      "title": "Possible solubility/interaction-strength issue around 31:51",
+      "signal_type": "Correction",
+      "priority": "Medium",
+      "student_signal_summary": "A timestamped comment argues that ion-dipole interaction should be stronger than NH4+ dipole-dipole/H-bond interaction and therefore more soluble. Keep as unverified because the student may be challenging the lecture's comparison or reasoning.",
+      "timestamps": [
+        "31:51"
+      ],
+      "likes_summary": "4 likes on one timestamped comment.",
+      "replies_summary": "No useful replies in the selected set.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugw1azTyPyLMQxYHrcR4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@malharpatil157",
+          "likes": 4,
+          "timestamp_refs": [
+            "31:51"
+          ],
+          "text": "31:51 sir ion-dipole strength is more and nh4+ is dipole dipole interaction (h bond) thus ion dipole will be strong and hence more soluble"
+        }
+      ],
+      "why_this_matters": "This targets a central comparison involving solubility and intermolecular forces; CEE can verify whether the lecture's explanation and example are clear/correct.",
+      "cee_action_needed": "verify",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_004",
+      "title": "Possible exception to H-bond strength rule involving F-H···F and F-H···O",
+      "signal_type": "Correction",
+      "priority": "Medium",
+      "student_signal_summary": "A student claims there is an exception to the lecture rule that electronegativity of B is inversely proportional to H-bond strength, citing F-H···F and F-H···O. This remains unverified.",
+      "timestamps": [],
+      "likes_summary": "4 likes on one chemistry-specific comment.",
+      "replies_summary": "No useful replies in the selected set.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgygDurDvIxpEQ2X4XJ4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@learnsomethinew",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "There is exception of ur rule that en of b indirectly proportional to strength of h bond.. F - H -- F And F - H --O Among these FH H Bond has more strength than FHO"
+        }
+      ],
+      "why_this_matters": "If the rule was stated too broadly or examples require conditions, CEE may want to verify the scope and add a clarification/trap note later.",
+      "cee_action_needed": "verify",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_005",
+      "title": "Amine vs alcohol solubility confusion at 33:41",
+      "signal_type": "Conceptual doubt",
+      "priority": "Medium",
+      "student_signal_summary": "A student reasons that amine has two hydrogens while alcohol has one, so amine should form more H-bonds and be more soluble in water. Replies suggest other students debated the 'number of H atoms' reasoning.",
+      "timestamps": [
+        "33:41"
+      ],
+      "likes_summary": "Main doubt has 1 like; related replies have 0-1 likes.",
+      "replies_summary": "Replies include one student saying the issue is about H-bonding rather than number of hydrogens and another brief disagreement; no authoritative resolution should be assumed.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck978nh9B3v80",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@trybest5217",
+          "likes": 1,
+          "timestamp_refs": [
+            "33:41"
+          ],
+          "text": "Sirji at 33:41 amine ke paas 2 H hai jabki alcohol ke paas to 1 hi H hai to amine jyada H-bond banayenga to usko jyada soluble hona chahiye na water me🤔🤔🤔🤔"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Cojw3I8KN1",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@ashutoshchaturvedi7490",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@trybest5217 Bhai unhone h bond ki baat ki hai na ki no of h ki😀"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Cz-wwOmrCe",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@papa_mugambo_CK",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@trybest5217 nahi because of hydrogen bonds it is not possible 😁😁"
+        }
+      ],
+      "why_this_matters": "This is a classic number-counting confusion around hydrogen-bond donor/acceptor roles, polarity, and solubility comparisons. CEE can decide whether an FAQ/trap box is needed.",
+      "cee_action_needed": "consider_for_notes",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_006",
+      "title": "O-H···O versus O-H···N stability/strength confusion at 33:46",
+      "signal_type": "Conceptual doubt",
+      "priority": "Medium",
+      "student_signal_summary": "A timestamped thread asks why the first structure is more stable when hydrogen appears to be attached to oxygen on both sides; replies discuss whether B or A is being compared and whether O-H···O is weaker than O-H···N.",
+      "timestamps": [
+        "33:46"
+      ],
+      "likes_summary": "Main doubt has 7 likes; one explanatory reply has 4 likes; one challenging reply has 0 likes.",
+      "replies_summary": "Useful replies show student debate, including an explanation attempt and a challenge about O-H···O versus O-H···N.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@sauravdani9542",
+          "likes": 7,
+          "timestamp_refs": [
+            "33:46"
+          ],
+          "text": "33:46 pe Jo structure bane hai unme hydrogen dono taraf oxygen hai To 1st structure me stability jyada kase hai .. App ke acc. H bonding directly proportional to A and inversely proportional to B"
+        },
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg.8tZwK4EwKAU8ujoMkx_h61",
+          "parent_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "comment_type": "reply",
+          "author": "@tanyatiwari8724",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "Dono structures me 'B' ki position pe Oxyzen hai to wahan compare karne ka sawal hi nahi banta hai... Aur 'A' ki position pe Alcohol me O hai Amine me N hai To bcz O is more electronegative than N, strength of H-bond is more in alcohol than in amine"
+        },
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg.8tZwK4EwKAU9EEcUjI0SrU",
+          "parent_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "comment_type": "reply",
+          "author": "@arceus36",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@tanyatiwari8724 what do u mean sir told us that O-H----O has weak h bond than O-H----N how is that possible??"
+        }
+      ],
+      "why_this_matters": "This indicates students may be mixing up donor/acceptor positions, electronegativity comparisons, and stability claims in hydrogen-bond examples.",
+      "cee_action_needed": "consider_for_notes",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_007",
+      "title": "Hydrogen duplet completion versus hydrogen bonding confusion",
+      "signal_type": "Conceptual doubt",
+      "priority": "Medium",
+      "student_signal_summary": "A student asks how hydrogen can form hydrogen bonding if its duplet is already complete. This is preserved as a beginner conceptual confusion, not as a Chemistry conclusion.",
+      "timestamps": [],
+      "likes_summary": "1 like on one useful reply hidden under a promotional parent.",
+      "replies_summary": "No useful replies found in the selected set.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Jr4pBKBiVg",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@TSTUSHARSONI01",
+          "likes": 1,
+          "timestamp_refs": [],
+          "text": "Sir very confusing questions jab hydrogen ka duplete comple h toh yeh hydrogen bond kese banayega 🙄🙄🙄🙄🙄🙄🙄 please reply 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏"
+        }
+      ],
+      "why_this_matters": "This shows confusion between covalent bond completion and intermolecular attraction; CEE may want a short clarification if this appears in notes.",
+      "cee_action_needed": "consider_for_notes",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_008",
+      "title": "Repeated resource gap: resonance and back bonding coverage/cross-links",
+      "signal_type": "Resource gap",
+      "priority": "Medium",
+      "student_signal_summary": "Many students ask for resonance, resonance structures, and back bonding coverage, with some claiming these topics are missing from the chapter/playlist and others saying resonance may be covered elsewhere.",
+      "timestamps": [],
+      "likes_summary": "Representative comments include 50, 45, 21, 21, 10, 7, 6, 5, 4, and 2 likes across independent comments/replies.",
+      "replies_summary": "Useful replies mention that resonance may have separate Organic/GOC videos, while back bonding was still perceived as missing by some students.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugwntzh0L_ORveZi8654AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@knowaboutuniverse4490",
+          "likes": 50,
+          "timestamp_refs": [],
+          "text": "Kuch resonance structure bhi bta do naa please.."
+        },
+        {
+          "comment_id": "UgyUt7Kg4Aps2LYKVGl4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@shubham8943",
+          "likes": 45,
+          "timestamp_refs": [],
+          "text": "Sir #resonance.. bhi please sir 👍👍"
+        },
+        {
+          "comment_id": "UgyLFbNQ_OZYSXuAIGB4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@tameemkhan7490",
+          "likes": 21,
+          "timestamp_refs": [],
+          "text": "sir *resonance* and*backbonding* ?? I know goc me resonance topic cover kiya apne but wht bout backbonding ???"
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@arvindjangid63",
+          "likes": 21,
+          "timestamp_refs": [],
+          "text": "Sir!!! Two topics missing hain. 1. Resonance and 2. Back bonding. Please in pr bhi video banaiye."
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg.8zAXg6-l6wU8zSSKZs_a6C",
+          "parent_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "comment_type": "reply",
+          "author": "@The.Equity.Empire",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "P block me backbanding padhayege Or resonance organic mai"
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg.8zAXg6-l6wU8zlnnT9_21n",
+          "parent_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "comment_type": "reply",
+          "author": "@rashmikarogal8157",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "Sir ne resonance ko organic mein complete kiya hain"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck8nbufociZ0i",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@awdheshprajapati2866",
+          "likes": 6,
+          "timestamp_refs": [],
+          "text": "Sir ek topic reh gaya hai resonance structures ka jo ncert mei de rakha hai.....plz use bhi explain kar dijiye ..."
+        },
+        {
+          "comment_id": "Ugy8lNyoUF_1LvGJTAp4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@anjalimishra7824",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "Sir , you haven't talked about the concept of resonance in any of your videos of this chapter but this topic is there in the ncert in this chapter only."
+        }
+      ],
+      "why_this_matters": "This is a repeated navigation/source-gap signal. CEE/Sia can decide whether ChemDesk needs cross-links, missing-topic flags, or a note that the topic is handled elsewhere.",
+      "cee_action_needed": "needs_source_check",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_009",
+      "title": "Boiling-point doubt: applying Fajans rule at 36.12",
+      "signal_type": "Conceptual doubt",
+      "priority": "Medium",
+      "student_signal_summary": "A reply asks why Fajans rule cannot be applied around 36.12 to predict boiling points for HF/HCl/HBr/HI, reasoning through anion size, covalent nature, and boiling point order.",
+      "timestamps": [
+        "36.12"
+      ],
+      "likes_summary": "0 likes, but chemistry-specific and timestamp-referenced.",
+      "replies_summary": "No useful replies in the selected set.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwDVeD_BGDxwp3IcGt4AaABAg.9BkM86YQipa9BlXEMe2v0I",
+          "parent_id": "UgwDVeD_BGDxwp3IcGt4AaABAg",
+          "comment_type": "reply",
+          "author": "@ASHJIN-kx9ho",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "Why we can't apply fajans rule here at 36.12 to find out boiling point. Large the size of anion more will be the covalent nature. So less will be bp. So hf>hcl>HBR>HI why this answer is not correct"
+        }
+      ],
+      "why_this_matters": "This is a cross-concept confusion between covalent character rules and boiling-point/H-bonding trends; CEE can decide whether to add an exam-trap clarification.",
+      "cee_action_needed": "consider_for_notes",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_010",
+      "title": "VSEPR shape versus H-bonding diagram confusion for H2O",
+      "signal_type": "Conceptual doubt",
+      "priority": "Low",
+      "student_signal_summary": "A student asks whether the H2O shape drawn for hydrogen bonding conflicts with VSEPR theory, suggesting confusion between schematic H-bond diagrams and molecular geometry.",
+      "timestamps": [],
+      "likes_summary": "4 likes on one comment.",
+      "replies_summary": "No useful replies in the selected set.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgxktGH-4ZKh5kDqnSV4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@Amjadkhan-lm3ro",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "Sir vsepr theory ke according h2o Ka shape ase nhe hog fir Apne ki bhi tarike se shape Bana ke H-bonding Kar Diya kase kya vsepr theory Galt hai kya sir"
+        }
+      ],
+      "why_this_matters": "May indicate that diagram conventions need clearer framing, but the wording is one-off and needs CEE interpretation.",
+      "cee_action_needed": "consider_for_notes",
+      "cee_verification_required": true
+    },
+    {
+      "signal_id": "sig_011",
+      "title": "Clean timeline/navigation comments for the lecture",
+      "signal_type": "Timeline",
+      "priority": "Low",
+      "student_signal_summary": "Multiple students posted a concise timestamp index for Hydrogen Bonding, Types of H-bonding, Intermolecular H-bonding, and Intramolecular H-bonding.",
+      "timestamps": [
+        "01:43",
+        "15:58",
+        "16:45",
+        "50:40",
+        "51:25",
+        "16:30"
+      ],
+      "likes_summary": "Main timeline comments have 82, 76, 12, 3, and 3 likes.",
+      "replies_summary": "A reply adds 16:30 as a possible timestamp for types of H-bond.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwEjii2zT4okflE00N4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@saurav_kr18",
+          "likes": 82,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugyqe5COXFHVndz-iV94AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@akashdeepsain3232",
+          "likes": 76,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz-99X3p3wDGkKvlpd4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@pwian3091",
+          "likes": 3,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "TIMESTAMPS: Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz0thIvXLvMClkF7oN4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@carguy7480",
+          "likes": 12,
+          "timestamp_refs": [
+            "51:25"
+          ],
+          "text": "Timestamps: 51:25 Intramolecular H bonding"
+        },
+        {
+          "comment_id": "Ugz0thIvXLvMClkF7oN4AaABAg.91q5rdiJewh9CXdQghTcB5",
+          "parent_id": "Ugz0thIvXLvMClkF7oN4AaABAg",
+          "comment_type": "reply",
+          "author": "@kingsclubgaming2284",
+          "likes": 3,
+          "timestamp_refs": [
+            "16:30"
+          ],
+          "text": "At 16:30 types of h bond"
+        }
+      ],
+      "why_this_matters": "Useful only as a navigation aid; student timestamps should be treated as approximate until checked against the video/transcript.",
+      "cee_action_needed": "needs_source_check",
+      "cee_verification_required": true
+    }
+  ],
+  "correction_error_claims": [
+    {
+      "claim_id": "cec_001",
+      "claim": "Student claims the example around 15:30 may have option (a) as the answer because of atom-size reasoning in the A-H···B pattern.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Q7dho8t6bf",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@Bhi7777",
+          "likes": 0,
+          "timestamp_refs": [
+            "15:30"
+          ],
+          "text": "Sir Ek problem h During 15:30 example me Usme option (a) hona chahiye kyuki oxygen ka size is smaller than nitrogen Jaise ki apne video k start me kaha th ki ko ( A_H::::B )b ka jagah small atom hona chahiye"
+        }
+      ],
+      "timestamps": [
+        "15:30"
+      ],
+      "confidence_from_comments_only": "Medium",
+      "cee_verification_required": true,
+      "truth_status": "unverified"
+    },
+    {
+      "claim_id": "cec_002",
+      "claim": "Student claims that at 30:56 the positive charge should be on the central atom.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwDVeD_BGDxwp3IcGt4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@mayne4672",
+          "likes": 8,
+          "timestamp_refs": [
+            "30:56"
+          ],
+          "text": "30:56 positive charge must be on \"CENTRAL\" atom"
+        }
+      ],
+      "timestamps": [
+        "30:56"
+      ],
+      "confidence_from_comments_only": "Medium",
+      "cee_verification_required": true,
+      "truth_status": "unverified"
+    },
+    {
+      "claim_id": "cec_003",
+      "claim": "Student claims/argues around 31:51 that ion-dipole interaction should be stronger than NH4+ dipole-dipole/H-bond interaction and hence more soluble.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugw1azTyPyLMQxYHrcR4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@malharpatil157",
+          "likes": 4,
+          "timestamp_refs": [
+            "31:51"
+          ],
+          "text": "31:51 sir ion-dipole strength is more and nh4+ is dipole dipole interaction (h bond) thus ion dipole will be strong and hence more soluble"
+        }
+      ],
+      "timestamps": [
+        "31:51"
+      ],
+      "confidence_from_comments_only": "Weak",
+      "cee_verification_required": true,
+      "truth_status": "unverified"
+    },
+    {
+      "claim_id": "cec_004",
+      "claim": "Student claims an exception to the lecture's H-bond strength rule involving F-H···F and F-H···O.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgygDurDvIxpEQ2X4XJ4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@learnsomethinew",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "There is exception of ur rule that en of b indirectly proportional to strength of h bond.. F - H -- F And F - H --O Among these FH H Bond has more strength than FHO"
+        }
+      ],
+      "timestamps": [],
+      "confidence_from_comments_only": "Weak",
+      "cee_verification_required": true,
+      "truth_status": "unverified"
+    }
+  ],
+  "conceptual_doubts": [
+    {
+      "doubt_id": "doubt_001",
+      "doubt_summary": "Amine versus alcohol solubility: student counts hydrogens and expects amine to form more H-bonds and be more soluble in water.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck978nh9B3v80",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@trybest5217",
+          "likes": 1,
+          "timestamp_refs": [
+            "33:41"
+          ],
+          "text": "Sirji at 33:41 amine ke paas 2 H hai jabki alcohol ke paas to 1 hi H hai to amine jyada H-bond banayenga to usko jyada soluble hona chahiye na water me🤔🤔🤔🤔"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Cojw3I8KN1",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@ashutoshchaturvedi7490",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@trybest5217 Bhai unhone h bond ki baat ki hai na ki no of h ki😀"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Cz-wwOmrCe",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@papa_mugambo_CK",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@trybest5217 nahi because of hydrogen bonds it is not possible 😁😁"
+        }
+      ],
+      "possible_concept_area": "hydrogen bonding, solubility, donor/acceptor roles, number-counting trap",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_002",
+      "doubt_summary": "Hydrogen duplet completion versus hydrogen bonding: student asks how hydrogen can form an H-bond after completing duplet.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck9Jr4pBKBiVg",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@TSTUSHARSONI01",
+          "likes": 1,
+          "timestamp_refs": [],
+          "text": "Sir very confusing questions jab hydrogen ka duplete comple h toh yeh hydrogen bond kese banayega 🙄🙄🙄🙄🙄🙄🙄 please reply 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏"
+        }
+      ],
+      "possible_concept_area": "hydrogen bonding versus covalent bond formation; intermolecular attraction",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_003",
+      "doubt_summary": "O-H···O versus O-H···N and stability: timestamped thread shows confusion about which atom/position is being compared and how H-bond strength is related to stability.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@sauravdani9542",
+          "likes": 7,
+          "timestamp_refs": [
+            "33:46"
+          ],
+          "text": "33:46 pe Jo structure bane hai unme hydrogen dono taraf oxygen hai To 1st structure me stability jyada kase hai .. App ke acc. H bonding directly proportional to A and inversely proportional to B"
+        },
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg.8tZwK4EwKAU8ujoMkx_h61",
+          "parent_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "comment_type": "reply",
+          "author": "@tanyatiwari8724",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "Dono structures me 'B' ki position pe Oxyzen hai to wahan compare karne ka sawal hi nahi banta hai... Aur 'A' ki position pe Alcohol me O hai Amine me N hai To bcz O is more electronegative than N, strength of H-bond is more in alcohol than in amine"
+        },
+        {
+          "comment_id": "UgxNeXSQePQh-L_eCnJ4AaABAg.8tZwK4EwKAU9EEcUjI0SrU",
+          "parent_id": "UgxNeXSQePQh-L_eCnJ4AaABAg",
+          "comment_type": "reply",
+          "author": "@arceus36",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "@tanyatiwari8724 what do u mean sir told us that O-H----O has weak h bond than O-H----N how is that possible??"
+        }
+      ],
+      "possible_concept_area": "hydrogen-bond strength, donor/acceptor positions, electronegativity comparison, stability reasoning",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_004",
+      "doubt_summary": "Fajans rule and boiling point trend: student asks why Fajans rule cannot be used at about 36.12 for HF/HCl/HBr/HI boiling point ordering.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwDVeD_BGDxwp3IcGt4AaABAg.9BkM86YQipa9BlXEMe2v0I",
+          "parent_id": "UgwDVeD_BGDxwp3IcGt4AaABAg",
+          "comment_type": "reply",
+          "author": "@ASHJIN-kx9ho",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "Why we can't apply fajans rule here at 36.12 to find out boiling point. Large the size of anion more will be the covalent nature. So less will be bp. So hf>hcl>HBR>HI why this answer is not correct"
+        }
+      ],
+      "possible_concept_area": "boiling point trends, hydrogen bonding, covalent character/Fajans rule cross-topic confusion",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_005",
+      "doubt_summary": "H2O shape/VSEPR versus schematic hydrogen-bonding drawing: student asks whether the drawn shape conflicts with VSEPR.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgxktGH-4ZKh5kDqnSV4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@Amjadkhan-lm3ro",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "Sir vsepr theory ke according h2o Ka shape ase nhe hog fir Apne ki bhi tarike se shape Bana ke H-bonding Kar Diya kase kya vsepr theory Galt hai kya sir"
+        }
+      ],
+      "possible_concept_area": "VSEPR, molecular geometry, schematic representation of hydrogen bonding",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_006",
+      "doubt_summary": "Chlorine-carbon versus HF electronegativity comparison: student asks why carbon becomes highly electronegative in one comparison while hydrogen becomes electropositive in HF.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwCUIRX_Jvaszn-89J4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@abhi-23.25",
+          "likes": 4,
+          "timestamp_refs": [],
+          "text": "Sir aapne kaha jab chlorine carbon se electron Apni Taraf attract kar lega tab carbon highly electronegative ban jayega But other molecules Me To Aisa nahi ho raha tha jaise ki HF Jab F electron Apni Taraf khich raha tha tab hydrogen electropositive ban raha tha Jab ki Yahan carbon highly electronegative Ban Ja Raha hai Yeh Kaise sir"
+        },
+        {
+          "comment_id": "UgwCUIRX_Jvaszn-89J4AaABAg.8mKC3ohylZg8szuNaHD22Z",
+          "parent_id": "UgwCUIRX_Jvaszn-89J4AaABAg",
+          "comment_type": "reply",
+          "author": "@surajbaishya7566",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "carbon is becoming E.N in respect to Hydrogen bt H-F meh hydrogen kitna bhi electro -ve ho jaega bt flourine ko beat nahi kar paega. hope ur doubt is cleared."
+        }
+      ],
+      "possible_concept_area": "relative electronegativity, inductive effect/polarity language, comparison basis",
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "doubt_id": "doubt_007",
+      "doubt_summary": "Ortho/para nitrophenol H-bonding: one student asks whether ortho and para nitrophenol can make H-bonds.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgzXidkr8wR9NDXn7_d4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@panjaban5794",
+          "likes": 5,
+          "timestamp_refs": [],
+          "text": "Can ortho n para Nitro phenol make h bond..."
+        }
+      ],
+      "possible_concept_area": "intra/intermolecular hydrogen bonding, substituted phenols, ortho/para comparison",
+      "cee_action_needed": "consider_for_notes"
+    }
+  ],
+  "missing_topic_resource_gaps": [
+    {
+      "gap_id": "gap_001",
+      "gap_type": "Resource gap",
+      "summary": "Repeated student requests for resonance/resonance structures and back bonding coverage or cross-links; some replies indicate resonance may be covered in Organic/GOC while back bonding is still perceived as missing.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugwntzh0L_ORveZi8654AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@knowaboutuniverse4490",
+          "likes": 50,
+          "timestamp_refs": [],
+          "text": "Kuch resonance structure bhi bta do naa please.."
+        },
+        {
+          "comment_id": "UgyUt7Kg4Aps2LYKVGl4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@shubham8943",
+          "likes": 45,
+          "timestamp_refs": [],
+          "text": "Sir #resonance.. bhi please sir 👍👍"
+        },
+        {
+          "comment_id": "UgyLFbNQ_OZYSXuAIGB4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@tameemkhan7490",
+          "likes": 21,
+          "timestamp_refs": [],
+          "text": "sir *resonance* and*backbonding* ?? I know goc me resonance topic cover kiya apne but wht bout backbonding ???"
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@arvindjangid63",
+          "likes": 21,
+          "timestamp_refs": [],
+          "text": "Sir!!! Two topics missing hain. 1. Resonance and 2. Back bonding. Please in pr bhi video banaiye."
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg.8zAXg6-l6wU8zSSKZs_a6C",
+          "parent_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "comment_type": "reply",
+          "author": "@The.Equity.Empire",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "P block me backbanding padhayege Or resonance organic mai"
+        },
+        {
+          "comment_id": "UgyDbSBh4nTkMRzXMXp4AaABAg.8zAXg6-l6wU8zlnnT9_21n",
+          "parent_id": "UgyDbSBh4nTkMRzXMXp4AaABAg",
+          "comment_type": "reply",
+          "author": "@rashmikarogal8157",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "Sir ne resonance ko organic mein complete kiya hain"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck8nbufociZ0i",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@awdheshprajapati2866",
+          "likes": 6,
+          "timestamp_refs": [],
+          "text": "Sir ek topic reh gaya hai resonance structures ka jo ncert mei de rakha hai.....plz use bhi explain kar dijiye ..."
+        },
+        {
+          "comment_id": "Ugy8lNyoUF_1LvGJTAp4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@anjalimishra7824",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "Sir , you haven't talked about the concept of resonance in any of your videos of this chapter but this topic is there in the ncert in this chapter only."
+        },
+        {
+          "comment_id": "UgwxgUGZKiaoejlpbdt4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@anshulkumar8571",
+          "likes": 10,
+          "timestamp_refs": [],
+          "text": "sir ek video resonance pr bhi"
+        },
+        {
+          "comment_id": "UgwxgUGZKiaoejlpbdt4AaABAg.8jicZ70xjiK8jimkHIRaIc",
+          "parent_id": "UgwxgUGZKiaoejlpbdt4AaABAg",
+          "comment_type": "reply",
+          "author": "@harshitsingh3644",
+          "likes": 1,
+          "timestamp_refs": [],
+          "text": "Ekdam sahi hai bhai Sir ko ek vedio resonance me banana chahiye"
+        }
+      ],
+      "cee_action_needed": "needs_source_check"
+    },
+    {
+      "gap_id": "gap_002",
+      "gap_type": "Missing topic",
+      "summary": "Requests for Bent's rule, banana bonding, and back bonding as related chemical bonding topics.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck8wN6TDEXPf-",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@kinshukkumar2090",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "Video on bents rule please (chemical bonding class 11)"
+        },
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck984BZLm9cZL",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@movie...wallah",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "Sir please make a video of banana bonding back bonding bent rule"
+        },
+        {
+          "comment_id": "Ugx2yFohDXCIPKtKfAp4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@shikhayadav2281",
+          "likes": 2,
+          "timestamp_refs": [],
+          "text": "Nothing left just back bonding and banana bond 😊"
+        }
+      ],
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "gap_id": "gap_003",
+      "gap_type": "Resource gap",
+      "summary": "Student asks for a hydrogen bonding question-practice video.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugwc3n1ib7nXT5xbWmt4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@ManjeetKaur-pp5hn",
+          "likes": 10,
+          "timestamp_refs": [],
+          "text": "Sir if possible toh hydrogen bonding ke ek video jisme ache ache questions ho plss krwaiyee .."
+        }
+      ],
+      "cee_action_needed": "consider_for_notes"
+    },
+    {
+      "gap_id": "gap_004",
+      "gap_type": "Cross-link need",
+      "summary": "Student asks where the NCERT Hydrogen chapter 9 video is; this may be a cross-link/navigation request rather than a lecture-error signal.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck8ov3eB_UxQr",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@serendipityqueen",
+          "likes": 1,
+          "timestamp_refs": [],
+          "text": "Sir ..whr is video on hydrogen chap 9 of ncrt?"
+        }
+      ],
+      "cee_action_needed": "needs_source_check"
+    }
+  ],
+  "useful_timeline_comments": [
+    {
+      "timeline_id": "timeline_001",
+      "timestamp": "01:43",
+      "summary": "Student timeline labels 01:43 as Hydrogen Bonding.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwEjii2zT4okflE00N4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@saurav_kr18",
+          "likes": 82,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugyqe5COXFHVndz-iV94AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@akashdeepsain3232",
+          "likes": 76,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz-99X3p3wDGkKvlpd4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@pwian3091",
+          "likes": 3,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "TIMESTAMPS: Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        }
+      ],
+      "usefulness": "Navigation candidate only; verify against video/transcript before using."
+    },
+    {
+      "timeline_id": "timeline_002",
+      "timestamp": "15:58",
+      "summary": "Student timeline labels 15:58 as Types of H-bonding.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwEjii2zT4okflE00N4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@saurav_kr18",
+          "likes": 82,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugyqe5COXFHVndz-iV94AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@akashdeepsain3232",
+          "likes": 76,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz-99X3p3wDGkKvlpd4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@pwian3091",
+          "likes": 3,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "TIMESTAMPS: Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        }
+      ],
+      "usefulness": "Navigation candidate only; verify against video/transcript before using."
+    },
+    {
+      "timeline_id": "timeline_003",
+      "timestamp": "16:45",
+      "summary": "Student timeline labels 16:45 as Intermolecular H-bonding.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwEjii2zT4okflE00N4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@saurav_kr18",
+          "likes": 82,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugyqe5COXFHVndz-iV94AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@akashdeepsain3232",
+          "likes": 76,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz-99X3p3wDGkKvlpd4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@pwian3091",
+          "likes": 3,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "TIMESTAMPS: Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        }
+      ],
+      "usefulness": "Navigation candidate only; verify against video/transcript before using."
+    },
+    {
+      "timeline_id": "timeline_004",
+      "timestamp": "50:40",
+      "summary": "Student timeline labels 50:40 as Intramolecular H-bonding.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgwEjii2zT4okflE00N4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@saurav_kr18",
+          "likes": 82,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugyqe5COXFHVndz-iV94AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@akashdeepsain3232",
+          "likes": 76,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        },
+        {
+          "comment_id": "Ugz-99X3p3wDGkKvlpd4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@pwian3091",
+          "likes": 3,
+          "timestamp_refs": [
+            "01:43",
+            "15:58",
+            "16:45",
+            "50:40"
+          ],
+          "text": "TIMESTAMPS: Hydrogen Bonding - 01:43 Types of H-bonding - 15:58 Intermolecular H-bonding- 16:45 Intramolecular H-bonding- 50:40"
+        }
+      ],
+      "usefulness": "Navigation candidate only; verify against video/transcript before using."
+    },
+    {
+      "timeline_id": "timeline_005",
+      "timestamp": "51:25",
+      "summary": "Another student marks 51:25 as Intramolecular H bonding.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugz0thIvXLvMClkF7oN4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@carguy7480",
+          "likes": 12,
+          "timestamp_refs": [
+            "51:25"
+          ],
+          "text": "Timestamps: 51:25 Intramolecular H bonding"
+        }
+      ],
+      "usefulness": "Alternative navigation timestamp; verify before use."
+    },
+    {
+      "timeline_id": "timeline_006",
+      "timestamp": "16:30",
+      "summary": "A reply marks 16:30 as types of H bond.",
+      "evidence_comments": [
+        {
+          "comment_id": "Ugz0thIvXLvMClkF7oN4AaABAg.91q5rdiJewh9CXdQghTcB5",
+          "parent_id": "Ugz0thIvXLvMClkF7oN4AaABAg",
+          "comment_type": "reply",
+          "author": "@kingsclubgaming2284",
+          "likes": 3,
+          "timestamp_refs": [
+            "16:30"
+          ],
+          "text": "At 16:30 types of h bond"
+        }
+      ],
+      "usefulness": "Alternative navigation timestamp; verify before use."
+    }
+  ],
+  "weak_signals": [
+    {
+      "weak_signal_id": "weak_001",
+      "summary": "One student asks what de-mineralisation of water by ion-exchange resin means.",
+      "reason_weak_or_unclear": "Chemistry-related but likely outside this specific hydrogen-bonding lecture and not tied to a timestamp.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyjlIQTYUfeoAvUISp4AaABAg.8ktxYDlPuck8zt_27fpyw-",
+          "parent_id": "UgyjlIQTYUfeoAvUISp4AaABAg",
+          "comment_type": "reply",
+          "author": "@GurdeepSingh-jb2li",
+          "likes": 0,
+          "timestamp_refs": [],
+          "text": "Sir de- mineralisation of water by ion exchange resin ka keya mean hai..??"
+        }
+      ],
+      "cee_verification_required": true
+    },
+    {
+      "weak_signal_id": "weak_002",
+      "summary": "One student asks whether ortho and para nitrophenol can make H-bonds.",
+      "reason_weak_or_unclear": "Useful but one-line, no timestamp, and may belong to Organic Chemistry cross-linking rather than this lecture's core flow.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgzXidkr8wR9NDXn7_d4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@panjaban5794",
+          "likes": 5,
+          "timestamp_refs": [],
+          "text": "Can ortho n para Nitro phenol make h bond..."
+        }
+      ],
+      "cee_verification_required": true
+    },
+    {
+      "weak_signal_id": "weak_003",
+      "summary": "A vague comment says a little content is missing compared with Kota/coaching coverage.",
+      "reason_weak_or_unclear": "No specific missing subtopic except nearby resonance context; useful only as support for source-gap review.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgxijmJs6tZIj8FsanB4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@imn8848",
+          "likes": 5,
+          "timestamp_refs": [],
+          "text": "Sir I’m from Kota resonance and mostly your lecture is similar but a little inconsiderable content is missing"
+        }
+      ],
+      "cee_verification_required": true
+    },
+    {
+      "weak_signal_id": "weak_004",
+      "summary": "One student asks how to make the structures shown in the lecture.",
+      "reason_weak_or_unclear": "No timestamp or named structure is provided, so it is too vague for direct correction but may suggest diagram-construction confusion.",
+      "evidence_comments": [
+        {
+          "comment_id": "UgyNvK8kphYShyr-QaB4AaABAg",
+          "parent_id": "",
+          "comment_type": "comment",
+          "author": "@laxmifor",
+          "likes": 3,
+          "timestamp_refs": [],
+          "text": "Can anyone tell me how to make these structures?"
+        }
+      ],
+      "cee_verification_required": true
+    }
+  ],
+  "noise_removed_summary": {
+    "praise_only": true,
+    "attendance_year_check": true,
+    "spam_promo": true,
+    "emoji_only": true,
+    "pure_timestamps": true,
+    "motivational_threads": true,
+    "unrelated_requests": true,
+    "generic_notes_pdf_requests": true,
+    "summary": "Excluded/down-ranked high-like praise and motivational comments, app/course promotion, social chat, attendance/year-check threads, pure timestamps, jokes, country/fandom conversations, generic notes/PDF requests, and unrelated Physics/Maths/channel requests. Likes were used only as supporting metadata, not as the primary ranking criterion."
+  },
+  "final_cee_handoff": [
+    "Verify timestamped correction claims first: 15:30 option issue, 30:56 positive-charge placement, 31:51 solubility/interaction comparison, and the F-H···F/F-H···O rule exception claim.",
+    "Review conceptual doubts for possible future FAQ/trap notes: amine vs alcohol solubility, hydrogen duplet vs H-bonding, O-H···O versus O-H···N strength/stability, Fajans-rule boiling-point confusion, and schematic H2O/VSEPR confusion.",
+    "Check whether resonance, back bonding, Bent's rule, and banana bonding are covered elsewhere and whether ChemDesk needs cross-links rather than treating them as lecture errors.",
+    "Treat all student timestamps as approximate and all Chemistry claims as unverified until CEE review."
+  ]
+}

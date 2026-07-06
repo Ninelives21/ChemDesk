@@ -1,0 +1,2 @@
+updated_at,lecture_id,lecture_title,video_id,status,raw_comments_path,scrubbed_comments_path,raw_top_level_count,raw_reply_count,model,error
+2026-06-27T02:41:58.088563+00:00,chemical-bonding-lecture-16,,,error,,,,,gpt-5.5,Manifest not found: /Users/swetamuppidi/Documents/Sweta/swetaTech/ChemDesk/tools/youtube_comments_python/tools/youtube_comments_python/sift_agent_manifest_revised_paths.csv
