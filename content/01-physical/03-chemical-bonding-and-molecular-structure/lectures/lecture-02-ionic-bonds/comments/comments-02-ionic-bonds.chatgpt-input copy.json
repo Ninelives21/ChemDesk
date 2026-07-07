@@ -1,0 +1,1200 @@
+{
+	"schema": "chemdesk.youtube_comments.sift_scrubbed.v1",
+	"status": "sift_scrubbed_needs_cee_review",
+	"truth_status": "unverified",
+	"cee_review_required": true,
+	"public_display": false,
+	"public_rag_eligible": false,
+	"pagefind_index": false,
+	"lecture": {
+		"lecture_id": "chemical-bonding-lecture-02",
+		"lecture_title": "Ionic Bonds",
+		"source_video": "https://youtu.be/OqdNZTHxPxM",
+		"input_file": "comments-02-ionic-bonds.chatgpt-input.md",
+		"input_type": "raw_youtube_api_comments",
+		"output_file": "comments-02-ionic-bonds.chatgpt-input.json",
+		"generated_at": "2026-07-06T15:52:19.603586+00:00"
+	},
+	"processing_summary": {
+		"raw_comment_count": 1830,
+		"clean_enough_for_direct_sift": false,
+		"noise_level": "high",
+		"summary": "Processed the complete bridge input: 900 conservatively preselected flattened comments/replies from 1,830 raw items. The supplied set still contained heavy praise, attendance/year-checking, promotion, social chat, emoji-only, pure-timestamp, and unrelated-request noise. Useful Chemistry signals were clustered and ranked; comment-derived Chemistry truth remains unverified for CEE review."
+	},
+	"top_signals": [
+		{
+			"signal_id": "SIG-001",
+			"title": "Possible MgCl / MgCl2 formula issue tied to the isomorphism example",
+			"signal_type": "Correction",
+			"priority": "High",
+			"student_signal_summary": "A large repeated cluster claims that the lecture's isomorphism example used MgCl where students expected MgCl2, and several students ask whether that changes the comparison with NaCl. One reply offers an alternate MgCl+ comparison interpretation and another student challenges that reasoning.",
+			"timestamps": [
+				"28:50",
+				"28:52",
+				"29:11",
+				"29:18",
+				"29:25",
+				"29:30",
+				"29:36",
+				"29:40"
+			],
+			"likes_summary": "19 related correction/doubt items in the supplied bridge carried 203 combined likes; representative evidence is preserved below.",
+			"replies_summary": "Seven replies were part of the broader cluster. A retained reply argues that the comparison may involve MgCl+ with the same number of anions; another retained reply questions that interpretation.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugw2XgbSa57hQ4ALnJh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@-CantHurtMe-",
+					"likes": 50,
+					"timestamp_refs": ["29:11"],
+					"text": "29:11 i think it should be mgcl2"
+				},
+				{
+					"comment_id": "Ugw_n2GbZRGTN3vBoKB4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@dikshantbadesara2838",
+					"likes": 33,
+					"timestamp_refs": ["29:11"],
+					"text": "Sir at 29:11 it will be MgCl2 , to unke formula similar kaise hong aur ye isomorphism kaise hua"
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@upanishadegala111",
+					"likes": 24,
+					"timestamp_refs": ["29:11"],
+					"text": "29:11 Mg has a valency of 2. I think the formula should be MgCl2"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8lhVFv836g-",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@ShadowwasKage",
+					"likes": 18,
+					"timestamp_refs": [],
+					"text": "SIR lekin mgcl to nehi hota mgcl2 hota hai, yaha toh grbar ho gaya, ki karu?"
+				},
+				{
+					"comment_id": "UgxcHQ3vw9u0en_Ypc54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@finwizards",
+					"likes": 17,
+					"timestamp_refs": ["29:40"],
+					"text": "29:40 It should not be MgCl it should be MgCl2 instead"
+				},
+				{
+					"comment_id": "UgygNIQJfyQT9V3C2JV4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@itslivingmeme",
+					"likes": 3,
+					"timestamp_refs": ["28:50"],
+					"text": "28:50 mgcl should have been MgCl2 and nacl and mgcl2 cant be isomorphes"
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg.99-29hoFa9s9C_WymIIs2h",
+					"parent_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"comment_type": "reply",
+					"author": "@nandinisharan7572",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "nii wo mgcl+ h....bcoz hmein same no of anions rkhne h comparison ke liye...kyuki 1 cl aur 1 mg ke becch bhi electrostaticforce lag rha h ..hence +charge le saath its still ionic..bcoz Mg aur Na almost size me same h ..isliye anion same rkhke sir dono ko compare kiye h..MgCl me + charge lagega ..hope it helps.."
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg.99-29hoFa9s9Cg_uutnZU0",
+					"parent_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"comment_type": "reply",
+					"author": "@sarthaksingh231",
+					"likes": 0,
+					"timestamp_refs": [],
+					"text": "@nandinisharan7572 Par Ek baat btao yaar.... MgCl kaise ban sakta hai.. I mean Phir Toh Unstable Rahega Compound"
+				}
+			],
+			"why_this_matters": "This is the strongest repeated, timestamp-specific correction cluster. It may affect both the formula shown/spoken and the conceptual isomorphism example, so CEE should inspect the board, audio, and intended species before deciding anything.",
+			"cee_action_needed": "verify",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-002",
+			"title": "Possible group-range issue in the d-block / variable-valency segment",
+			"signal_type": "Correction",
+			"priority": "High",
+			"student_signal_summary": "Multiple students independently claim that the lecture showed or said group 2 to 12 for d-block elements, while they expected group 3 to 12. One student explicitly asks whether group 2 elements were intended to be included for variable valency.",
+			"timestamps": ["11:57", "12:05", "12:06", "12:08", "12:21", "12:30"],
+			"likes_summary": "Seven related items in the supplied bridge carried 94 combined likes.",
+			"replies_summary": "Two replies under a noisy parent repeat the same group-range concern with timestamps.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwTnS0r1VyYmnNc7Td4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@ravindersingh-re9kr",
+					"likes": 44,
+					"timestamp_refs": ["11:57"],
+					"text": "11:57 sir it must be 3-12 😃"
+				},
+				{
+					"comment_id": "UgwWT0eU4nogj5bRQ9Z4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@AnoopSingh-ko1sf",
+					"likes": 33,
+					"timestamp_refs": ["11:57"],
+					"text": "for this time 11:57 mistake 😮. Not a Group 2 sir Group 3 to group 12 ."
+				},
+				{
+					"comment_id": "UgzoPwC-D7Id9UeeYJp4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@dpn2007",
+					"likes": 6,
+					"timestamp_refs": ["12:06"],
+					"text": "12:06 d block starts from grp 3 sir small correction"
+				},
+				{
+					"comment_id": "UgxcQMbcFD1LqBPpKm54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@nikhilgalhotra2001",
+					"likes": 6,
+					"timestamp_refs": ["12:08"],
+					"text": "Sir, at 12:08..d block elements consist 3 to 12 but why you have written 2 to 12? Do group 2 elements also show variable valency?"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9KuGLAHeL7A",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@arvindpatel4473",
+					"likes": 1,
+					"timestamp_refs": ["12:30"],
+					"text": "12:30 sir group 2 to s block me lie karta hai na?? To Appne d block kyi kaha??"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9VQKQH6Klb4",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@yogeshbihani9138",
+					"likes": 0,
+					"timestamp_refs": ["12:05"],
+					"text": "12:05 Sir grp 3 se 12 hona chaiye na D block starts from grp 3 to grp 12"
+				}
+			],
+			"why_this_matters": "The claim is repeated, specific, and timestamped. CEE should verify the exact board notation and spoken context before classifying it as a lecture error or rejecting the student correction.",
+			"cee_action_needed": "verify",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-003",
+			"title": "Electrovalency sign convention challenged",
+			"signal_type": "Correction",
+			"priority": "High",
+			"student_signal_summary": "One timestamped student correction says electrovalence can be positive or negative, using Na and Cl as examples. A separate student asks whether the electrovalency of Cl in NaCl can be -1.",
+			"timestamps": ["9:38"],
+			"likes_summary": "Two related comments carried 11 combined likes.",
+			"replies_summary": "No useful reply thread was present in the supplied bridge.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgyU8EsIEBHYmAkrZKl4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@lofifeelingsofficial",
+					"likes": 10,
+					"timestamp_refs": ["9:38"],
+					"text": "9:38 sir there is a small correction that electrovalence can be positive as well as negative for example : Na has +1 and Cl has -1 electrovalence"
+				},
+				{
+					"comment_id": "Ugyl7oGhjZDH5o0tUVJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@djnag47",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "In some places it is said that the electrovalency of Cl~ in NaCl is -1.... Is it correct??"
+				}
+			],
+			"why_this_matters": "This may indicate a definition or sign-convention mismatch between the lecture and other study sources. CEE should verify the lecture wording and source convention before deciding.",
+			"cee_action_needed": "verify",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-004",
+			"title": "NaCl versus NaF ionicity comparison is disputed by students",
+			"signal_type": "Correction",
+			"priority": "High",
+			"student_signal_summary": "Two timestamped comments challenge the apparent NaF/NaCl comparison and argue for NaCl using different reasoning. Replies introduce a distinction among non-metallic character, electronegativity, electron affinity, and electron-gain enthalpy, showing an unresolved debate.",
+			"timestamps": ["19:40", "19:50"],
+			"likes_summary": "The two comments and two substantive replies carried 56 combined likes.",
+			"replies_summary": "One reply gives a competing explanation involving F and Cl trends; another says the student is confusing electronegativity with electron-gain enthalpy.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@sanscystar8104",
+					"likes": 33,
+					"timestamp_refs": ["19:50"],
+					"text": "19:50 sir chlorine ka non metallic character flourine se zyada hota hai due to flourine's small atomic radii to ans NaCl hona chahiye??(correct me if i am wrong )"
+				},
+				{
+					"comment_id": "UgztaRl5rtdsIQ_QHZJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@lamishajoshi7480",
+					"likes": 8,
+					"timestamp_refs": ["19:40"],
+					"text": "19:40 NaCl should be more ionic than NaF becoz electron affinity of Cl >F ..........this is an exception which Alakh sir has taught in chapter 3"
+				},
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg.8y0RhAeDJMx8zKcQ2wCekY",
+					"parent_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"comment_type": "reply",
+					"author": "@nerdingouttillfebruary866",
+					"likes": 15,
+					"timestamp_refs": [],
+					"text": "Hey! *F is the most non-metallic element in the entire periodic table.* Also, F is the most reactive non-metal, and has the highest electronegativity. Cl is the one with the most electron affinity. Hope this helped."
+				},
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg.8y0RhAeDJMx9fapHMZ0_lj",
+					"parent_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"comment_type": "reply",
+					"author": "@AdarshSingh-kg4ft",
+					"likes": 0,
+					"timestamp_refs": [],
+					"text": "U are confusing between electronegativity and electron gain enthalpy"
+				}
+			],
+			"why_this_matters": "The comments may point to either a lecture-comparison issue or a recurring student confusion about which property controls the comparison. CEE should verify the exact question and criterion used.",
+			"cee_action_needed": "verify",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-005",
+			"title": "Energy-term cluster: lattice, hydration, and ionization quantities remain confused",
+			"signal_type": "Conceptual doubt",
+			"priority": "Medium",
+			"student_signal_summary": "Students ask for clearer differentiation among lattice enthalpy/energy, hydration enthalpy/energy, and ionization enthalpy/energy. Related comments ask whether lattice energy can be treated as heat of formation and how it relates to electrostatic attraction.",
+			"timestamps": [],
+			"likes_summary": "Three representative comments carried 33 combined likes.",
+			"replies_summary": "A generic reply suggesting NCERT reading was omitted because it did not resolve the Chemistry signal.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwXbZ4nxdjkbof-5Xh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@ayushgupta533",
+					"likes": 25,
+					"timestamp_refs": [],
+					"text": "SIR PLS MORE EASILY ABOUT LATICE ENTHALPY , LATTICE ENERGY, HYDRATION ENTHALPY AND ENERGY, INONIZATION ENTHALPY AND ENERGY IS MORE CONFUSIOUS IN NEXT CHAPTERS"
+				},
+				{
+					"comment_id": "Ugy5gKORk9d1Ny5_v-14AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@niradbaransamal9178",
+					"likes": 7,
+					"timestamp_refs": [],
+					"text": "Can we say lattice energy is the heat of formation of that compound?"
+				},
+				{
+					"comment_id": "Ugyd5YsVEoiodgOkkDp4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@anilkumarsingh2502",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir lattice energy is the amount of energy released during bond formation with metal and non metal but as u can say that ionic bond haven't any bond it has attraction called as electrostatic force of attraction like karo jisse answer pata ho and sir plz reply"
+				}
+			],
+			"why_this_matters": "This cluster suggests terminology and relationship boundaries among energy quantities may not be landing clearly. CEE can verify the lecture coverage and decide whether a clarification or cross-link is needed.",
+			"cee_action_needed": "consider_for_notes",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-006",
+			"title": "Gaseous-state condition and stability wording causes confusion",
+			"signal_type": "Conceptual doubt",
+			"priority": "Medium",
+			"student_signal_summary": "Students ask why electron removal is defined for a gaseous atom when other states exist, and one student challenges an apparent statement that gaseous state implies instability by citing noble gases. Another comment attempts to connect the example to the ionization-energy definition.",
+			"timestamps": ["4:05", "4:15", "4:25"],
+			"likes_summary": "Three related comments carried 12 combined likes.",
+			"replies_summary": "No substantive reply thread was present in the supplied bridge.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwU9yy3AQxLmTgjPzh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@jyotirana803",
+					"likes": 7,
+					"timestamp_refs": ["4:25"],
+					"text": "4:25 sir apne kaha \"agar gaseous state hai to ye unstable hai\". But noble gases bhi to gases hoti hai or wo gases to stable hoti hai."
+				},
+				{
+					"comment_id": "UgwFatEfArFo6nCkf4N4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@thesouravvv",
+					"likes": 0,
+					"timestamp_refs": ["4:05"],
+					"text": "4:05 but sir an electron from Na can also be removed in a aqueous solution or different states so why Gaseous state only"
+				},
+				{
+					"comment_id": "UgyLybv7hsIZ_XFX4_N4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@warrior6757",
+					"likes": 5,
+					"timestamp_refs": ["4:15"],
+					"text": "4:15 Generally Na is solid but here Na is gaseous because Ionization Energy term is involved which says that \"Amount of energy required to remove the valence electron from isolated,neutral,gaseous atom\". So here Na will be gaseous..."
+				}
+			],
+			"why_this_matters": "The cluster may reflect a wording/scope problem around isolated gaseous species versus physical-state stability. CEE should verify the exact lecture statement before deciding whether a correction or FAQ is needed.",
+			"cee_action_needed": "verify",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-007",
+			"title": "Isomorphism criteria remain unclear beyond the MgCl/MgCl2 cluster",
+			"signal_type": "Conceptual doubt",
+			"priority": "Medium",
+			"student_signal_summary": "One student asks why NaCl and KCl are not isomorphous despite perceived similarity in structure and formula. Another says repeated viewing still did not clarify the distinction between isomerism and isomorphism.",
+			"timestamps": [],
+			"likes_summary": "Two additional top-level comments carried 6 combined likes.",
+			"replies_summary": "No useful reply thread was retained for these two comments.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgyoICtz8E4tAn2K-2Z4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@Abhi0440",
+					"likes": 4,
+					"timestamp_refs": [],
+					"text": "why nacl and kcl aren't isomorphous ? they have similar structure and formula"
+				},
+				{
+					"comment_id": "Ugx_dDstHV-jXLVexiF4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@SAVITAPAUL-mr8pp",
+					"likes": 2,
+					"timestamp_refs": [],
+					"text": "Very good explanation sir thank you for the hardwork you hv done..however I have a doubt in the last topic in the property of isomerism and isomorphism..I had to repeat the lecture 5 times still feeling little confusion in that.."
+				}
+			],
+			"why_this_matters": "This shows a broader concept-gap signal separate from the possible formula issue. CEE should verify the lecture treatment and decide whether criteria/examples need clearer contrast.",
+			"cee_action_needed": "consider_for_notes",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-008",
+			"title": "Students struggle with ranking ionic-bond formation and strength",
+			"signal_type": "Conceptual doubt",
+			"priority": "Medium",
+			"student_signal_summary": "A timestamped student reasons through LiCl versus NaCl/KCl/RbCl using ionic size and lattice energy, while other students ask how to identify which compound is more ionic and which alkaline-earth chloride forms an ionic bond least easily.",
+			"timestamps": ["20:37"],
+			"likes_summary": "Three representative items carried 20 combined likes.",
+			"replies_summary": "Two useful questions were replies under a noisy promotional parent and were retained.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgydRP_YafEPf7z72IB4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@deepayanswain6946",
+					"likes": 10,
+					"timestamp_refs": ["20:37"],
+					"text": "20:37 sir in LiCl ,Li + ion ka ionic size sabse minimum hota hae in comparision to Na+,K+,Rb+ , to lattice energy LiCl compound ka maximum hoga ,to LiCl ka ionic bond will be more stronger than NaCl,KCl aur RbCl"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9vL0AR6CkzH",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@ramkishankaspate7361",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir yeh kaise pechane ki ionic jadha kisme samaja nahi"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8ls9P-QY3tG",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@anuraggangwar6644",
+					"likes": 9,
+					"timestamp_refs": [],
+					"text": "Sir which has least ease in forming an ionic bond BeCl2, MgCl2, BaCl2, CaCl2"
+				}
+			],
+			"why_this_matters": "The comments reveal uncertainty about how multiple factors are combined when comparing ionic character, bond strength, or ease of formation. CEE should verify the relevant criteria and decide whether a worked comparison is needed.",
+			"cee_action_needed": "consider_for_notes",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-009",
+			"title": "Possible missing coverage of factors affecting solubility",
+			"signal_type": "Missing topic",
+			"priority": "Medium",
+			"student_signal_summary": "One student specifically says factors affecting solubility, including dielectric constant, are missing. A separate reply asks for the meaning of solubility itself.",
+			"timestamps": [],
+			"likes_summary": "Two related items carried 10 combined likes.",
+			"replies_summary": "The basic solubility question was a reply under a noisy promotional parent and was retained.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgxKPlb1jjNcSyhL4n54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@sarojahonavar5508",
+					"likes": 6,
+					"timestamp_refs": [],
+					"text": "Sir factors affecting solubility is missing in your lecture 1. Dielectric constant.!!!!? Pls sir help!!!!"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8n3US1TUDOj",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@omprakashsenapati5807",
+					"likes": 4,
+					"timestamp_refs": [],
+					"text": "Sir please what is solubility"
+				}
+			],
+			"why_this_matters": "This is a lecture-linked coverage and prerequisite-clarity signal. CEE should check whether the topic is covered elsewhere, intentionally deferred, or missing from the chapter path.",
+			"cee_action_needed": "needs_source_check",
+			"cee_verification_required": true
+		},
+		{
+			"signal_id": "SIG-010",
+			"title": "Repeated request for Kossel-Lewis approach coverage",
+			"signal_type": "Missing topic",
+			"priority": "Low",
+			"student_signal_summary": "Two separate replies ask where the Kossel-Lewis approach to chemical bonding is covered or request that it be uploaded.",
+			"timestamps": [],
+			"likes_summary": "Two replies carried 2 combined likes.",
+			"replies_summary": "Both useful replies were found under a noisy promotional parent comment.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9AviXacZTge",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@sheikhmomin2386",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir kössel-lewis approach to chemical bonding kaha h?"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9B0M1rfawRy",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@polavarapucharan9200",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Where is Kossel’s Lewis approach Pls upload Sir"
+				}
+			],
+			"why_this_matters": "The repeated request may indicate a chapter-navigation or cross-link gap rather than a lecture error. CEE should check existing coverage before considering notes or links.",
+			"cee_action_needed": "needs_source_check",
+			"cee_verification_required": true
+		}
+	],
+	"correction_error_claims": [
+		{
+			"claim_id": "CLAIM-001",
+			"claim": "Students repeatedly claim that the isomorphism example around 28:50-29:40 uses MgCl where they expected MgCl2, and several say this may affect the comparison with NaCl. A reply proposes an MgCl+ interpretation, which another student challenges.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugw2XgbSa57hQ4ALnJh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@-CantHurtMe-",
+					"likes": 50,
+					"timestamp_refs": ["29:11"],
+					"text": "29:11 i think it should be mgcl2"
+				},
+				{
+					"comment_id": "Ugw_n2GbZRGTN3vBoKB4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@dikshantbadesara2838",
+					"likes": 33,
+					"timestamp_refs": ["29:11"],
+					"text": "Sir at 29:11 it will be MgCl2 , to unke formula similar kaise hong aur ye isomorphism kaise hua"
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@upanishadegala111",
+					"likes": 24,
+					"timestamp_refs": ["29:11"],
+					"text": "29:11 Mg has a valency of 2. I think the formula should be MgCl2"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8lhVFv836g-",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@ShadowwasKage",
+					"likes": 18,
+					"timestamp_refs": [],
+					"text": "SIR lekin mgcl to nehi hota mgcl2 hota hai, yaha toh grbar ho gaya, ki karu?"
+				},
+				{
+					"comment_id": "UgxcHQ3vw9u0en_Ypc54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@finwizards",
+					"likes": 17,
+					"timestamp_refs": ["29:40"],
+					"text": "29:40 It should not be MgCl it should be MgCl2 instead"
+				},
+				{
+					"comment_id": "UgygNIQJfyQT9V3C2JV4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@itslivingmeme",
+					"likes": 3,
+					"timestamp_refs": ["28:50"],
+					"text": "28:50 mgcl should have been MgCl2 and nacl and mgcl2 cant be isomorphes"
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg.99-29hoFa9s9C_WymIIs2h",
+					"parent_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"comment_type": "reply",
+					"author": "@nandinisharan7572",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "nii wo mgcl+ h....bcoz hmein same no of anions rkhne h comparison ke liye...kyuki 1 cl aur 1 mg ke becch bhi electrostaticforce lag rha h ..hence +charge le saath its still ionic..bcoz Mg aur Na almost size me same h ..isliye anion same rkhke sir dono ko compare kiye h..MgCl me + charge lagega ..hope it helps.."
+				},
+				{
+					"comment_id": "UgwSZ5XMK2eis2X-0ax4AaABAg.99-29hoFa9s9Cg_uutnZU0",
+					"parent_id": "UgwSZ5XMK2eis2X-0ax4AaABAg",
+					"comment_type": "reply",
+					"author": "@sarthaksingh231",
+					"likes": 0,
+					"timestamp_refs": [],
+					"text": "@nandinisharan7572 Par Ek baat btao yaar.... MgCl kaise ban sakta hai.. I mean Phir Toh Unstable Rahega Compound"
+				}
+			],
+			"timestamps": [
+				"28:50",
+				"28:52",
+				"29:11",
+				"29:18",
+				"29:25",
+				"29:30",
+				"29:36",
+				"29:40"
+			],
+			"confidence_from_comments_only": "Strong",
+			"cee_verification_required": true,
+			"truth_status": "unverified"
+		},
+		{
+			"claim_id": "CLAIM-002",
+			"claim": "Students repeatedly claim that the d-block range in the lecture segment around 11:57-12:30 should begin at group 3 rather than group 2.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwTnS0r1VyYmnNc7Td4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@ravindersingh-re9kr",
+					"likes": 44,
+					"timestamp_refs": ["11:57"],
+					"text": "11:57 sir it must be 3-12 😃"
+				},
+				{
+					"comment_id": "UgwWT0eU4nogj5bRQ9Z4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@AnoopSingh-ko1sf",
+					"likes": 33,
+					"timestamp_refs": ["11:57"],
+					"text": "for this time 11:57 mistake 😮. Not a Group 2 sir Group 3 to group 12 ."
+				},
+				{
+					"comment_id": "UgzoPwC-D7Id9UeeYJp4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@dpn2007",
+					"likes": 6,
+					"timestamp_refs": ["12:06"],
+					"text": "12:06 d block starts from grp 3 sir small correction"
+				},
+				{
+					"comment_id": "UgxcQMbcFD1LqBPpKm54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@nikhilgalhotra2001",
+					"likes": 6,
+					"timestamp_refs": ["12:08"],
+					"text": "Sir, at 12:08..d block elements consist 3 to 12 but why you have written 2 to 12? Do group 2 elements also show variable valency?"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9KuGLAHeL7A",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@arvindpatel4473",
+					"likes": 1,
+					"timestamp_refs": ["12:30"],
+					"text": "12:30 sir group 2 to s block me lie karta hai na?? To Appne d block kyi kaha??"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9VQKQH6Klb4",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@yogeshbihani9138",
+					"likes": 0,
+					"timestamp_refs": ["12:05"],
+					"text": "12:05 Sir grp 3 se 12 hona chaiye na D block starts from grp 3 to grp 12"
+				}
+			],
+			"timestamps": ["11:57", "12:05", "12:06", "12:08", "12:21", "12:30"],
+			"confidence_from_comments_only": "Strong",
+			"cee_verification_required": true,
+			"truth_status": "unverified"
+		},
+		{
+			"claim_id": "CLAIM-003",
+			"claim": "A timestamped student claims the lecture's treatment of electrovalence needs correction because electrovalence may be positive or negative; another student independently asks whether Cl in NaCl can have electrovalency -1.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgyU8EsIEBHYmAkrZKl4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@lofifeelingsofficial",
+					"likes": 10,
+					"timestamp_refs": ["9:38"],
+					"text": "9:38 sir there is a small correction that electrovalence can be positive as well as negative for example : Na has +1 and Cl has -1 electrovalence"
+				},
+				{
+					"comment_id": "Ugyl7oGhjZDH5o0tUVJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@djnag47",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "In some places it is said that the electrovalency of Cl~ in NaCl is -1.... Is it correct??"
+				}
+			],
+			"timestamps": ["9:38"],
+			"confidence_from_comments_only": "Medium",
+			"cee_verification_required": true,
+			"truth_status": "unverified"
+		},
+		{
+			"claim_id": "CLAIM-004",
+			"claim": "Students challenge the apparent NaF versus NaCl ionicity comparison around 19:40-19:50 and argue for NaCl using differing trend-based reasoning; the reply thread shows disagreement over the relevant property.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@sanscystar8104",
+					"likes": 33,
+					"timestamp_refs": ["19:50"],
+					"text": "19:50 sir chlorine ka non metallic character flourine se zyada hota hai due to flourine's small atomic radii to ans NaCl hona chahiye??(correct me if i am wrong )"
+				},
+				{
+					"comment_id": "UgztaRl5rtdsIQ_QHZJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@lamishajoshi7480",
+					"likes": 8,
+					"timestamp_refs": ["19:40"],
+					"text": "19:40 NaCl should be more ionic than NaF becoz electron affinity of Cl >F ..........this is an exception which Alakh sir has taught in chapter 3"
+				},
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg.8y0RhAeDJMx8zKcQ2wCekY",
+					"parent_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"comment_type": "reply",
+					"author": "@nerdingouttillfebruary866",
+					"likes": 15,
+					"timestamp_refs": [],
+					"text": "Hey! *F is the most non-metallic element in the entire periodic table.* Also, F is the most reactive non-metal, and has the highest electronegativity. Cl is the one with the most electron affinity. Hope this helped."
+				},
+				{
+					"comment_id": "Ugzrq_z94I9mNfKUhnx4AaABAg.8y0RhAeDJMx9fapHMZ0_lj",
+					"parent_id": "Ugzrq_z94I9mNfKUhnx4AaABAg",
+					"comment_type": "reply",
+					"author": "@AdarshSingh-kg4ft",
+					"likes": 0,
+					"timestamp_refs": [],
+					"text": "U are confusing between electronegativity and electron gain enthalpy"
+				}
+			],
+			"timestamps": ["19:40", "19:50"],
+			"confidence_from_comments_only": "Medium",
+			"cee_verification_required": true,
+			"truth_status": "unverified"
+		},
+		{
+			"claim_id": "CLAIM-005",
+			"claim": "A student challenges an apparent lecture statement around 4:25 that gaseous state implies instability, while another timestamped student asks why electron removal is restricted to the gaseous-state definition.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwU9yy3AQxLmTgjPzh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@jyotirana803",
+					"likes": 7,
+					"timestamp_refs": ["4:25"],
+					"text": "4:25 sir apne kaha \"agar gaseous state hai to ye unstable hai\". But noble gases bhi to gases hoti hai or wo gases to stable hoti hai."
+				},
+				{
+					"comment_id": "UgwFatEfArFo6nCkf4N4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@thesouravvv",
+					"likes": 0,
+					"timestamp_refs": ["4:05"],
+					"text": "4:05 but sir an electron from Na can also be removed in a aqueous solution or different states so why Gaseous state only"
+				}
+			],
+			"timestamps": ["4:05", "4:25"],
+			"confidence_from_comments_only": "Medium",
+			"cee_verification_required": true,
+			"truth_status": "unverified"
+		}
+	],
+	"conceptual_doubts": [
+		{
+			"doubt_id": "DOUBT-001",
+			"doubt_summary": "Students are unclear about the criteria separating isomorphism from isomerism and ask why NaCl and KCl are not isomorphous despite perceived structural/formula similarity.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgyoICtz8E4tAn2K-2Z4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@Abhi0440",
+					"likes": 4,
+					"timestamp_refs": [],
+					"text": "why nacl and kcl aren't isomorphous ? they have similar structure and formula"
+				},
+				{
+					"comment_id": "Ugx_dDstHV-jXLVexiF4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@SAVITAPAUL-mr8pp",
+					"likes": 2,
+					"timestamp_refs": [],
+					"text": "Very good explanation sir thank you for the hardwork you hv done..however I have a doubt in the last topic in the property of isomerism and isomorphism..I had to repeat the lecture 5 times still feeling little confusion in that.."
+				}
+			],
+			"possible_concept_area": "Isomorphism versus isomerism; criteria for comparing ionic solids and formulas.",
+			"cee_action_needed": "Verify the lecture examples and decide whether a contrast table, FAQ, or cross-link is warranted."
+		},
+		{
+			"doubt_id": "DOUBT-002",
+			"doubt_summary": "Students have difficulty distinguishing lattice enthalpy/energy, hydration enthalpy/energy, and ionization enthalpy/energy, and ask how lattice energy relates to heat of formation and electrostatic attraction.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwXbZ4nxdjkbof-5Xh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@ayushgupta533",
+					"likes": 25,
+					"timestamp_refs": [],
+					"text": "SIR PLS MORE EASILY ABOUT LATICE ENTHALPY , LATTICE ENERGY, HYDRATION ENTHALPY AND ENERGY, INONIZATION ENTHALPY AND ENERGY IS MORE CONFUSIOUS IN NEXT CHAPTERS"
+				},
+				{
+					"comment_id": "Ugy5gKORk9d1Ny5_v-14AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@niradbaransamal9178",
+					"likes": 7,
+					"timestamp_refs": [],
+					"text": "Can we say lattice energy is the heat of formation of that compound?"
+				},
+				{
+					"comment_id": "Ugyd5YsVEoiodgOkkDp4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@anilkumarsingh2502",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir lattice energy is the amount of energy released during bond formation with metal and non metal but as u can say that ionic bond haven't any bond it has attraction called as electrostatic force of attraction like karo jisse answer pata ho and sir plz reply"
+				}
+			],
+			"possible_concept_area": "Energy terms in ionic-bond formation; definitions, sign conventions, and relationships.",
+			"cee_action_needed": "Verify terminology and lecture scope, then decide whether a comparison table or prerequisite link is needed."
+		},
+		{
+			"doubt_id": "DOUBT-003",
+			"doubt_summary": "Students ask why ionization-related definitions use isolated gaseous atoms and whether a general statement linking gaseous state with instability has exceptions or a narrower intended scope.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwU9yy3AQxLmTgjPzh4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@jyotirana803",
+					"likes": 7,
+					"timestamp_refs": ["4:25"],
+					"text": "4:25 sir apne kaha \"agar gaseous state hai to ye unstable hai\". But noble gases bhi to gases hoti hai or wo gases to stable hoti hai."
+				},
+				{
+					"comment_id": "UgwFatEfArFo6nCkf4N4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@thesouravvv",
+					"likes": 0,
+					"timestamp_refs": ["4:05"],
+					"text": "4:05 but sir an electron from Na can also be removed in a aqueous solution or different states so why Gaseous state only"
+				},
+				{
+					"comment_id": "UgyLybv7hsIZ_XFX4_N4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@warrior6757",
+					"likes": 5,
+					"timestamp_refs": ["4:15"],
+					"text": "4:15 Generally Na is solid but here Na is gaseous because Ionization Energy term is involved which says that \"Amount of energy required to remove the valence electron from isolated,neutral,gaseous atom\". So here Na will be gaseous..."
+				}
+			],
+			"possible_concept_area": "Isolated gaseous species, ionization-energy definitions, and physical-state versus stability language.",
+			"cee_action_needed": "Verify the exact wording at 4:05-4:25 and decide whether a clarification is needed."
+		},
+		{
+			"doubt_id": "DOUBT-004",
+			"doubt_summary": "Students are uncertain how to rank compounds by ionic character, ionic-bond strength, or ease of ionic-bond formation when size, lattice energy, and other factors are involved.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgydRP_YafEPf7z72IB4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@deepayanswain6946",
+					"likes": 10,
+					"timestamp_refs": ["20:37"],
+					"text": "20:37 sir in LiCl ,Li + ion ka ionic size sabse minimum hota hae in comparision to Na+,K+,Rb+ , to lattice energy LiCl compound ka maximum hoga ,to LiCl ka ionic bond will be more stronger than NaCl,KCl aur RbCl"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9vL0AR6CkzH",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@ramkishankaspate7361",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir yeh kaise pechane ki ionic jadha kisme samaja nahi"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8ls9P-QY3tG",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@anuraggangwar6644",
+					"likes": 9,
+					"timestamp_refs": [],
+					"text": "Sir which has least ease in forming an ionic bond BeCl2, MgCl2, BaCl2, CaCl2"
+				}
+			],
+			"possible_concept_area": "Comparative ionic character and bond strength; factor selection and ranking method.",
+			"cee_action_needed": "Verify the lecture's comparison rules and consider a worked-example note after CEE review."
+		},
+		{
+			"doubt_id": "DOUBT-005",
+			"doubt_summary": "Students question whether electrovalency can be negative as well as positive and how the sign is assigned to ions such as Cl in NaCl.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgyU8EsIEBHYmAkrZKl4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@lofifeelingsofficial",
+					"likes": 10,
+					"timestamp_refs": ["9:38"],
+					"text": "9:38 sir there is a small correction that electrovalence can be positive as well as negative for example : Na has +1 and Cl has -1 electrovalence"
+				},
+				{
+					"comment_id": "Ugyl7oGhjZDH5o0tUVJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@djnag47",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "In some places it is said that the electrovalency of Cl~ in NaCl is -1.... Is it correct??"
+				}
+			],
+			"possible_concept_area": "Electrovalency definition and sign convention.",
+			"cee_action_needed": "Verify source convention and lecture wording before deciding whether a definition clarification is needed."
+		},
+		{
+			"doubt_id": "DOUBT-006",
+			"doubt_summary": "A student asks why hydrogen does not form ionic compounds.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugwe2PYzHtJcFJq6fvl4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@SagarSingh-pr5yu",
+					"likes": 9,
+					"timestamp_refs": [],
+					"text": "Sir hydrogen ionic compound kyu nhi bnata .....plZ answer sirrrrr"
+				}
+			],
+			"possible_concept_area": "Conditions for ionic-bond formation and hydrogen behavior.",
+			"cee_action_needed": "Verify intended syllabus scope and decide whether the question belongs in an FAQ or prerequisite link."
+		},
+		{
+			"doubt_id": "DOUBT-007",
+			"doubt_summary": "Students ask whether Lewis dot structure and electron-dot structure are the same and whether they must learn dot structures for polyatomic ions/species such as nitrite or HCN.",
+			"evidence_comments": [
+				{
+					"comment_id": "Ugx8La0TlDNz7zgtJCl4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@Prachi-ef9uy",
+					"likes": 8,
+					"timestamp_refs": [],
+					"text": "Sir do I hve to learn Lewis dot structure of anion or cations like nitrite or hydrogen cyanide (HCN)?"
+				},
+				{
+					"comment_id": "Ugz64om_iO4OYp_qvXJ4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@jassidaksingh656",
+					"likes": 5,
+					"timestamp_refs": [],
+					"text": "Is lewis dot structure and electron dot structure same?"
+				}
+			],
+			"possible_concept_area": "Lewis/electron-dot notation terminology and expected scope of structures to learn.",
+			"cee_action_needed": "Verify course scope and consider a terminology/scope clarification."
+		}
+	],
+	"missing_topic_resource_gaps": [
+		{
+			"gap_id": "GAP-001",
+			"gap_type": "Missing topic",
+			"summary": "A student specifically says factors affecting solubility, including dielectric constant, are missing; another asks for the basic meaning of solubility.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgxKPlb1jjNcSyhL4n54AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@sarojahonavar5508",
+					"likes": 6,
+					"timestamp_refs": [],
+					"text": "Sir factors affecting solubility is missing in your lecture 1. Dielectric constant.!!!!? Pls sir help!!!!"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8n3US1TUDOj",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@omprakashsenapati5807",
+					"likes": 4,
+					"timestamp_refs": [],
+					"text": "Sir please what is solubility"
+				}
+			],
+			"cee_action_needed": "Check whether these points are covered elsewhere, deferred to a later lecture, or genuinely missing before considering notes/cross-links."
+		},
+		{
+			"gap_id": "GAP-002",
+			"gap_type": "Cross-link need",
+			"summary": "Two students ask where the Kossel-Lewis approach to chemical bonding is covered.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9AviXacZTge",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@sheikhmomin2386",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Sir kössel-lewis approach to chemical bonding kaha h?"
+				},
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby9B0M1rfawRy",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@polavarapucharan9200",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Where is Kossel’s Lewis approach Pls upload Sir"
+				}
+			],
+			"cee_action_needed": "Search existing lecture/chapter coverage and cross-link if available; otherwise decide whether the topic belongs in the planned content path."
+		},
+		{
+			"gap_id": "GAP-003",
+			"gap_type": "Resource gap",
+			"summary": "One reply requests a video focused on problems/practice.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8lC5WIyXScU",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@RaviKumar-qo6fe",
+					"likes": 12,
+					"timestamp_refs": [],
+					"text": "Plz do video on problems pls"
+				}
+			],
+			"cee_action_needed": "Treat as low-priority unless existing practice coverage is absent or similar requests recur elsewhere."
+		}
+	],
+	"useful_timeline_comments": [
+		{
+			"timeline_id": "TIME-001",
+			"timestamp": "0:04-34:20",
+			"summary": "Detailed student-made navigation covering ionic-bond introduction, formation, Lewis dot structure, electrovalency, energy terms, ionic character, properties, physical state, melting/boiling point, conductivity, isomerism, isomorphism, reaction type, solubility, and upcoming topics.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwpXClaKjWut6k-yU94AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@BCMBOYSHOSTELUNIT-1",
+					"likes": 2,
+					"timestamp_refs": [
+						"0:04",
+						"0:54",
+						"0:55",
+						"5:48",
+						"5:49",
+						"8:58",
+						"9:00",
+						"12:56",
+						"12:57",
+						"18:16",
+						"18:17",
+						"20:45",
+						"20:46",
+						"27:39",
+						"21:01",
+						"22:08",
+						"22:09",
+						"22:32",
+						"22:33",
+						"25:46",
+						"25:47",
+						"27:39",
+						"27:40",
+						"30:38",
+						"30:39",
+						"32:43",
+						"32:44",
+						"33:10",
+						"33:11",
+						"34:20"
+					],
+					"text": "Introduction to Ionic Bond (Electrovalent Bond) (0:04 - 0:54) Formation of Ionic Bond (0:55 - 5:48) Lewis Dot Structure (5:49 - 8:58) Electrovalence/Electrovalency (9:00 - 12:56) Favorable Conditions for Ionic Bond Formation (Energy Terms Involved) (12:57 - 18:16) Stronger Ionic Bond (More Ionic Character) (18:17 - 20:45) Properties of Ionic Compounds (20:46 - 27:39) Physical State (21:01 - 22:08) Melting Point & Boiling Point (22:09 - 22:32) Conductivity (22:33 - 25:46) Isomerism (25:47 - 27:39) Isomorphism (27:40 - 30:38) Type of Reaction (30:39 - 32:43) Solubility (32:44 - 33:10) Upcoming Topics (Lattice Energy, Fajan's Rule) (33:11 - 34:20)"
+				}
+			],
+			"usefulness": "Comprehensive navigation candidate only; student timestamps must be verified against the video/transcript."
+		},
+		{
+			"timeline_id": "TIME-002",
+			"timestamp": "2:16-23:47",
+			"summary": "Popular concise timeline pointing to electrostatic-bond discussion, Lewis dot structure, electrovalency, energy terms, ionic-character comparison, and ionic-compound properties.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgykKE226zNhhVXxnhB4AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@pradipsahu2275",
+					"likes": 527,
+					"timestamp_refs": [
+						"2:16",
+						"3:14",
+						"6:27",
+						"9:00",
+						"10:44",
+						"13:00",
+						"17:53",
+						"18:29",
+						"20:48",
+						"23:47"
+					],
+					"text": "Sahi baat 2:16 Why electrostatic bond 3:14 Lewis dot structure 6:27 Electrovalency 9:00 10:44 Energy terms and favourable conditions 13:00 17:53 Which is more ionic 18:29 Properties of ionic compound 20:48 23:47"
+				}
+			],
+			"usefulness": "High-engagement navigation support only; verify labels and timestamps before reuse."
+		}
+	],
+	"weak_signals": [
+		{
+			"weak_signal_id": "WEAK-001",
+			"summary": "One student asks why NaCl would form as a solid if potential energy in the solid state is thought to be maximum.",
+			"reason_weak_or_unclear": "One-off wording is difficult to interpret and has no timestamp or supporting thread.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwuV9TTNRZZlI6Mvk94AaABAg",
+					"parent_id": "",
+					"comment_type": "comment",
+					"author": "@aasthasingh3639",
+					"likes": 0,
+					"timestamp_refs": [],
+					"text": "Sir potential energy solid state main maximum hota to fir wo NaCl bankey vo solid kyu bana chate hain"
+				}
+			],
+			"cee_verification_required": true
+		},
+		{
+			"weak_signal_id": "WEAK-002",
+			"summary": "One student asks about conductivity in the gaseous state.",
+			"reason_weak_or_unclear": "Single brief reply with no timestamp, context, or supporting discussion.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8zNwfzng2no",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@rajbirpoonia4105",
+					"likes": 2,
+					"timestamp_refs": [],
+					"text": "Sir gaseous state m conductivity kya hogi??"
+				}
+			],
+			"cee_verification_required": true
+		},
+		{
+			"weak_signal_id": "WEAK-003",
+			"summary": "One student asks why group 14 does not show electrovalency.",
+			"reason_weak_or_unclear": "Single brief reply under a noisy parent with no timestamp or follow-up context.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgzV56A1be3OwgbZ8uR4AaABAg.8ktxf6CkGby8odMTwxOWdO",
+					"parent_id": "UgzV56A1be3OwgbZ8uR4AaABAg",
+					"comment_type": "reply",
+					"author": "@MdSameer-vx9oe",
+					"likes": 1,
+					"timestamp_refs": [],
+					"text": "Physics Wallah - sir group 14 kyu electovalency nahi battati?"
+				}
+			],
+			"cee_verification_required": true
+		},
+		{
+			"weak_signal_id": "WEAK-004",
+			"summary": "A student who is not fully comfortable with Hindi asks what was said at 26:36 and 26:47 in the isomerism segment.",
+			"reason_weak_or_unclear": "This may be a language/transcript accessibility issue rather than a Chemistry error, but the timestamps could help CEE inspect clarity.",
+			"evidence_comments": [
+				{
+					"comment_id": "UgwVDzD3ZKtIVw7JX9J4AaABAg.9FvKrPQuig79hIdLmATsIr",
+					"parent_id": "UgwVDzD3ZKtIVw7JX9J4AaABAg",
+					"comment_type": "reply",
+					"author": "@ivythedazzlinggirl2289",
+					"likes": 0,
+					"timestamp_refs": ["26:36", "26:47"],
+					"text": "Yaar help Karo, mujhe Hindi perfectly nai samaj aati, can ANYONE tell what sir said at timestamp 26:36 ?? \"Ionic compounds _____ math karna isomerism ki\" Aur yaha 26:47 mey single molecule ______ ??"
+				}
+			],
+			"cee_verification_required": true
+		}
+	],
+	"noise_removed_summary": {
+		"praise_only": true,
+		"attendance_year_check": true,
+		"spam_promo": true,
+		"emoji_only": true,
+		"pure_timestamps": true,
+		"motivational_threads": true,
+		"unrelated_requests": true,
+		"generic_notes_pdf_requests": true,
+		"summary": "Excluded high-like praise and motivation, attendance/year-checking, course/app promotion and links, social chat, emoji-only replies, pure timestamp spam, generic exam-sufficiency and notes/PDF requests, and unrelated topic requests. Useful Chemistry replies hidden under noisy promotional parents were retained."
+	},
+	"final_cee_handoff": [
+		"First verify the repeated MgCl/MgCl2 and isomorphism cluster around 28:50-29:40 using the board, audio, and intended species.",
+		"Verify the repeated d-block group-range claim around 11:57-12:30 before accepting or rejecting the student correction.",
+		"Verify the electrovalency sign-convention claim at 9:38 and compare the lecture wording with the intended source convention.",
+		"Review the NaF/NaCl comparison around 19:40-19:50 because the comment thread shows both a possible correction signal and conflicting student reasoning.",
+		"Review the gaseous-state wording around 4:05-4:25 and the energy-term/isomorphism confusion clusters for possible clarification after Chemistry verification.",
+		"Check whether solubility factors and the Kossel-Lewis approach are covered elsewhere before treating them as missing content.",
+		"All Chemistry claims in this file remain unverified; CEE must decide truth and any later note/public action."
+	]
+}
