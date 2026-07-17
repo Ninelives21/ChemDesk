@@ -1,0 +1,930 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Section 8 — CEE-Approved Lecture-Aligned Notes Draft</title>
+		<style>
+			:root {
+				--bg: #f7f4ee;
+				--paper: #fffdf8;
+				--text: #24211d;
+				--muted: #6b6258;
+				--line: #ded6ca;
+				--accent: #5d4a2f;
+				--soft: #f1eadf;
+				--review: #fff3c4;
+				--trap: #eef4ff;
+			}
+			* {
+				box-sizing: border-box;
+			}
+			body {
+				margin: 0;
+				background: var(--bg);
+				color: var(--text);
+				font-family:
+					system-ui,
+					-apple-system,
+					BlinkMacSystemFont,
+					'Segoe UI',
+					sans-serif;
+				line-height: 1.65;
+				font-size: 17px;
+			}
+			main {
+				max-width: 980px;
+				margin: 28px auto;
+				padding: 28px;
+				background: var(--paper);
+				border: 1px solid var(--line);
+				border-radius: 18px;
+				box-shadow: 0 12px 36px rgba(44, 37, 28, 0.08);
+			}
+			h1,
+			h2,
+			h3,
+			h4 {
+				line-height: 1.25;
+				color: var(--accent);
+				margin-top: 2.2rem;
+				margin-bottom: 0.7rem;
+			}
+			h1 {
+				margin-top: 0;
+				font-size: 2rem;
+				border-bottom: 3px solid var(--line);
+				padding-bottom: 0.75rem;
+			}
+			h2 {
+				font-size: 1.55rem;
+				padding-top: 1rem;
+				border-top: 1px solid var(--line);
+			}
+			h3 {
+				font-size: 1.25rem;
+			}
+			h4 {
+				font-size: 1.08rem;
+			}
+			p {
+				margin: 0.7rem 0;
+			}
+			ul,
+			ol {
+				padding-left: 1.35rem;
+			}
+			li {
+				margin: 0.35rem 0;
+			}
+			.toc {
+				background: var(--soft);
+				border: 1px solid var(--line);
+				border-radius: 14px;
+				padding: 16px 18px;
+				margin: 18px 0 26px;
+			}
+			.toc h2 {
+				margin-top: 0;
+				padding-top: 0;
+				border-top: 0;
+				font-size: 1.15rem;
+			}
+			.toc ol {
+				margin: 0.5rem 0 0;
+			}
+			a {
+				color: #5b4a8b;
+				text-decoration-thickness: 1px;
+			}
+			.segment {
+				display: inline-block;
+				font-size: 0.88rem;
+				color: var(--muted);
+				background: #faf4e8;
+				border: 1px solid var(--line);
+				border-radius: 999px;
+				padding: 3px 10px;
+				margin: 0.2rem 0 0.55rem;
+			}
+			.note-box,
+			.trap-box,
+			.review-box {
+				border-radius: 12px;
+				padding: 13px 15px;
+				margin: 14px 0;
+			}
+			.note-box {
+				background: #f8f5ee;
+				border: 1px solid var(--line);
+			}
+			.trap-box {
+				background: var(--trap);
+				border: 1px solid #cddaf1;
+			}
+			.review-box {
+				background: var(--review);
+				border: 1px solid #e5c66d;
+			}
+			.label {
+				font-weight: 700;
+				color: var(--accent);
+			}
+			.math {
+				font-family: 'Segoe UI', system-ui, sans-serif;
+				white-space: nowrap;
+			}
+			.table-wrap {
+				overflow-x: auto;
+				margin: 14px 0;
+				border: 1px solid var(--line);
+				border-radius: 12px;
+				background: white;
+			}
+			table {
+				width: 100%;
+				border-collapse: collapse;
+				min-width: 620px;
+				font-size: 0.98rem;
+			}
+			th,
+			td {
+				border-bottom: 1px solid var(--line);
+				border-right: 1px solid var(--line);
+				padding: 10px 12px;
+				vertical-align: top;
+				text-align: left;
+			}
+			th {
+				background: #eee5d6;
+				color: var(--accent);
+				font-weight: 700;
+			}
+			tr:last-child td {
+				border-bottom: 0;
+			}
+			th:last-child,
+			td:last-child {
+				border-right: 0;
+			}
+			code {
+				background: #f1eadf;
+				padding: 2px 5px;
+				border-radius: 5px;
+				font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+				font-size: 0.95em;
+			}
+			.equation {
+				display: block;
+				margin: 8px 0;
+				padding: 8px 12px;
+				background: #fbf7ef;
+				border-left: 4px solid #c8b38f;
+				border-radius: 8px;
+				font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+				overflow-x: auto;
+			}
+			.small {
+				color: var(--muted);
+				font-size: 0.94rem;
+			}
+			@media (max-width: 680px) {
+				body {
+					font-size: 16px;
+				}
+				main {
+					margin: 0;
+					border-radius: 0;
+					padding: 20px;
+				}
+				h1 {
+					font-size: 1.65rem;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<section id="section-8">
+				<h1>8. CEE-Approved Lecture-Aligned Notes Draft</h1>
+
+				<div class="toc" aria-label="Table of contents">
+					<h2>Quick Section List</h2>
+					<ol>
+						<li><a href="#ionic-bond">Ionic Bond / Electrovalent Bond</a></li>
+						<li><a href="#lewis-dot">Lewis Dot Structure in Ionic Bonds</a></li>
+						<li><a href="#electrovalency">Electrovalency</a></li>
+						<li>
+							<a href="#energy-terms">Energy Terms / Favourable Conditions</a>
+						</li>
+						<li>
+							<a href="#stronger-ionic-bond">Which Is a Stronger Ionic Bond?</a>
+						</li>
+						<li><a href="#properties">Properties of Ionic Compounds</a></li>
+					</ol>
+				</div>
+
+				<section id="ionic-bond">
+					<h2>8.1 Ionic Bond / Electrovalent Bond</h2>
+					<p><span class="segment">Approx. video segment: 00:45–05:48</span></p>
+
+					<p>
+						An ionic bond is also called an <strong>electrovalent bond</strong>.
+						It forms when a
+						<strong>metal completely transfers electron(s)</strong> to a
+						<strong>non-metal</strong>.
+					</p>
+
+					<ul>
+						<li>
+							The metal loses electron(s) and becomes a
+							<strong>positive ion</strong> or cation.
+						</li>
+						<li>
+							The non-metal gains electron(s) and becomes a
+							<strong>negative ion</strong> or anion.
+						</li>
+						<li>
+							The main aim is to get a stable electronic configuration, usually
+							an octet.
+						</li>
+					</ul>
+
+					<h3>Example: Formation of NaCl</h3>
+					<p>Sodium has atomic number 11.</p>
+					<p class="equation">Na: 2,8,1 → Na⁺: 2,8 + e⁻</p>
+
+					<p>Chlorine has electronic configuration 2,8,7.</p>
+					<p class="equation">Cl: 2,8,7 + e⁻ → Cl⁻: 2,8,8</p>
+
+					<p>
+						Sodium loses one electron and chlorine gains that electron. So
+						<strong>Na⁺</strong> and <strong>Cl⁻</strong> are formed.
+					</p>
+
+					<div class="note-box">
+						<p>
+							<span class="label">Important point:</span> The electron loss and
+							electron gain are considered for gaseous atoms/ions first. After
+							that, the oppositely charged ions come together and form solid
+							NaCl.
+						</p>
+					</div>
+
+					<h3>Why do Na⁺ and Cl⁻ stay together?</h3>
+					<p>
+						Na⁺ and Cl⁻ have opposite charges, so they attract each other
+						strongly. This attraction is called
+						<strong>electrostatic force of attraction</strong>.
+					</p>
+
+					<p class="equation">F = Kq₁q₂ / r²</p>
+
+					<ul>
+						<li>
+							<span class="math">q₁</span> and <span class="math">q₂</span> are
+							the charges.
+						</li>
+						<li>
+							<span class="math">r</span> is the distance between the ions.
+						</li>
+						<li>
+							When ions come close, <span class="math">r</span> becomes small,
+							so attraction becomes strong.
+						</li>
+					</ul>
+
+					<p>
+						This strong attraction holds the ions in a solid lattice. That is
+						why ionic compounds are usually strong and solid.
+					</p>
+
+					<div class="trap-box">
+						<p>
+							<span class="label">Do not draw a dash bond:</span> Ionic
+							compounds are not shown with a single line like covalent
+							compounds. There is no fixed directional bond between two atoms.
+							The attraction is non-directional.
+						</p>
+					</div>
+
+					<ul>
+						<li>Ionic bonds have <strong>no fixed shape</strong>.</li>
+						<li>Ionic bonds are <strong>non-directional</strong>.</li>
+						<li>
+							A negative ion can attract a positive ion from any direction.
+						</li>
+					</ul>
+				</section>
+
+				<section id="lewis-dot">
+					<h2>8.2 Lewis Dot Structure in Ionic Bonds</h2>
+					<p><span class="segment">Approx. video segment: 06:02–09:00</span></p>
+
+					<p>
+						Lewis dot structure shows the
+						<strong>valence-shell electrons</strong>. For ionic compounds, show
+						which electron is lost by the metal and gained by the non-metal.
+					</p>
+
+					<h3>NaCl Lewis dot structure</h3>
+					<ul>
+						<li>Na has one valence electron.</li>
+						<li>Cl has seven valence electrons.</li>
+						<li>Na gives its one electron to Cl.</li>
+						<li>Na becomes Na⁺ and Cl becomes Cl⁻.</li>
+						<li>Cl⁻ now has eight electrons in its outer shell.</li>
+					</ul>
+
+					<p>
+						One electron on chlorine may be shown differently, such as by a
+						cross, to show that it came from sodium.
+					</p>
+
+					<h3>MgCl₂ Lewis dot structure</h3>
+					<ul>
+						<li>
+							Magnesium has atomic number 12: <span class="math">2,8,2</span>.
+						</li>
+						<li>Mg loses two electrons and becomes <strong>Mg²⁺</strong>.</li>
+						<li>
+							Two chlorine atoms are needed because each chlorine accepts one
+							electron.
+						</li>
+						<li>
+							Each chlorine becomes <strong>Cl⁻</strong> with a complete octet.
+						</li>
+					</ul>
+
+					<p class="equation">Mg → Mg²⁺ + 2e⁻</p>
+					<p class="equation">2Cl + 2e⁻ → 2Cl⁻</p>
+
+					<p>Final ionic arrangement:</p>
+					<p class="equation">Mg²⁺ + 2Cl⁻ → MgCl₂</p>
+
+					<div class="note-box">
+						<p><span class="label">Two acceptable ways to show LDS:</span></p>
+						<ul>
+							<li>
+								Show the electrons before transfer: metal electron(s) moving
+								towards non-metal.
+							</li>
+							<li>
+								Show the ions after transfer: cation with positive charge and
+								anion with complete octet.
+							</li>
+						</ul>
+					</div>
+				</section>
+
+				<section id="electrovalency">
+					<h2>8.3 Electrovalency</h2>
+					<p><span class="segment">Approx. video segment: 09:00–12:46</span></p>
+
+					<p>
+						<strong>Electrovalency</strong> means the number of electrons lost
+						by a metal or gained by a non-metal during formation of an
+						electrovalent bond.
+					</p>
+
+					<div class="trap-box">
+						<p>
+							<span class="label">Remember:</span> Electrovalency is written as
+							a positive number because it counts electrons lost or gained. If
+							chlorine gains one electron, its electrovalency is 1, not -1.
+						</p>
+					</div>
+
+					<h3>Group-wise electrovalency</h3>
+
+					<div class="table-wrap">
+						<table>
+							<thead>
+								<tr>
+									<th>Group</th>
+									<th>Examples</th>
+									<th>Usual electrovalency</th>
+									<th>Reason</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Group 1</td>
+									<td>Li, Na, K, Rb, Cs</td>
+									<td>1</td>
+									<td>They lose 1 valence electron.</td>
+								</tr>
+								<tr>
+									<td>Group 2</td>
+									<td>Be, Mg, Ca, Sr, Ba</td>
+									<td>2</td>
+									<td>They lose 2 valence electrons.</td>
+								</tr>
+								<tr>
+									<td>Group 13</td>
+									<td>Al, Ga, etc.</td>
+									<td>3</td>
+									<td>They can lose 3 valence electrons.</td>
+								</tr>
+								<tr>
+									<td>Group 14</td>
+									<td>C, Si, Ge, etc.</td>
+									<td>Not usually used for ionic bond formation</td>
+									<td>
+										They have 4 valence electrons, so they usually prefer
+										sharing instead of losing or gaining 4 electrons.
+									</td>
+								</tr>
+								<tr>
+									<td>Group 15</td>
+									<td>N, P, As, etc.</td>
+									<td>3</td>
+									<td>They gain 3 electrons to complete octet.</td>
+								</tr>
+								<tr>
+									<td>Group 16</td>
+									<td>O, S, Se, etc.</td>
+									<td>2</td>
+									<td>They gain 2 electrons to complete octet.</td>
+								</tr>
+								<tr>
+									<td>Group 17</td>
+									<td>F, Cl, Br, I</td>
+									<td>1</td>
+									<td>They gain 1 electron to complete octet.</td>
+								</tr>
+								<tr>
+									<td>Group 3 to 12</td>
+									<td>d-block / transition elements</td>
+									<td>Variable</td>
+									<td>Their valency can change from compound to compound.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<h3>Variable electrovalency examples</h3>
+					<ul>
+						<li>Fe can show 2 and 3.</li>
+						<li>Cu can show 1 and 2.</li>
+					</ul>
+
+					<div class="review-box">
+						<p>
+							<span class="label">Review-only check:</span> Use
+							<strong>Group 3 to 12</strong> for d-block elements. If a source
+							line says “Group 2 to 12” for d-block, keep it for review and do
+							not put it in final public notes without correction.
+						</p>
+					</div>
+				</section>
+
+				<section id="energy-terms">
+					<h2>
+						8.4 Energy Terms Involved in Ionic Bond Formation / Favourable
+						Conditions
+					</h2>
+					<p><span class="segment">Approx. video segment: 12:58–18:14</span></p>
+
+					<p>
+						Ionic bond formation is favourable when the final compound becomes
+						more stable. Stability is connected with energy.
+					</p>
+
+					<ul>
+						<li>If energy is released, stability increases.</li>
+						<li>
+							If energy has to be absorbed, the absorbed energy should be as
+							small as possible.
+						</li>
+					</ul>
+
+					<h3>Step 1: Ionization Energy</h3>
+					<p>
+						A metal atom loses electron(s) in gaseous state to form a cation.
+						Energy is required for this step.
+					</p>
+
+					<p class="equation">M(g) → M⁺(g) + e⁻</p>
+
+					<ul>
+						<li>
+							This required energy is called <strong>ionization energy</strong>.
+						</li>
+						<li>
+							For easy ionic bond formation, ionization energy should be low.
+						</li>
+					</ul>
+
+					<p class="equation">IE → minimum</p>
+
+					<h3>Step 2: Electron Affinity</h3>
+					<p>
+						A non-metal atom gains electron(s) in gaseous state to form an
+						anion. Energy is usually released in this step.
+					</p>
+
+					<p class="equation">X(g) + e⁻ → X⁻(g)</p>
+
+					<ul>
+						<li>
+							This energy released is related to
+							<strong>electron affinity</strong>.
+						</li>
+						<li>
+							For stable ionic compound formation, electron affinity should be
+							high.
+						</li>
+					</ul>
+
+					<p class="equation">EA → maximum</p>
+
+					<h3>Step 3: Lattice Energy</h3>
+					<p>
+						The gaseous cation and gaseous anion come together to form a solid
+						ionic compound. Energy is released here also.
+					</p>
+
+					<p class="equation">M⁺(g) + X⁻(g) → MX(s)</p>
+
+					<p>
+						<strong>Lattice energy</strong> is the energy released when one mole
+						of an ionic compound is formed from its gaseous cations and gaseous
+						anions.
+					</p>
+
+					<ul>
+						<li>
+							More lattice energy released means a more stable ionic solid.
+						</li>
+						<li>
+							It also means more energy will be needed to break the lattice
+							again.
+						</li>
+					</ul>
+
+					<p class="equation">LE → maximum</p>
+
+					<h3>Favourable conditions for ionic bond formation</h3>
+					<div class="table-wrap">
+						<table>
+							<thead>
+								<tr>
+									<th>Condition</th>
+									<th>Should be</th>
+									<th>Why?</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Ionization energy of metal</td>
+									<td>Minimum</td>
+									<td>Metal should lose electron easily.</td>
+								</tr>
+								<tr>
+									<td>Electron affinity of non-metal</td>
+									<td>Maximum</td>
+									<td>
+										Non-metal should gain electron easily and release energy.
+									</td>
+								</tr>
+								<tr>
+									<td>Lattice energy</td>
+									<td>Maximum</td>
+									<td>Strong solid lattice should form with high stability.</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</section>
+
+				<section id="stronger-ionic-bond">
+					<h2>8.5 Which Is a Stronger Ionic Bond?</h2>
+					<p><span class="segment">Approx. video segment: 18:17–20:39</span></p>
+
+					<p>
+						Ionic character is more when the metal is strongly metallic and the
+						non-metal is strongly non-metallic.
+					</p>
+
+					<ul>
+						<li>Metal should lose electron easily.</li>
+						<li>Non-metal should gain electron strongly.</li>
+						<li>
+							Greater difference in metallic and non-metallic character usually
+							means more ionic character.
+						</li>
+					</ul>
+
+					<p>
+						Francium is taken as a highly metallic element because it is at the
+						bottom of Group 1. Fluorine is highly non-metallic. So
+						<strong>FrF</strong> is a strong ionic example in this basic
+						comparison style.
+					</p>
+
+					<h3>Example 1: NaF, NaCl, NaBr, NaI</h3>
+					<p>The metal is the same in all: Na. So compare the non-metal.</p>
+
+					<ul>
+						<li>Non-metallic character: F &gt; Cl &gt; Br &gt; I</li>
+						<li>Most ionic: <strong>NaF</strong></li>
+						<li>Most covalent character among these: <strong>NaI</strong></li>
+					</ul>
+
+					<h3>Example 2: LiCl, NaCl, KCl, RbCl</h3>
+					<p>The non-metal is the same in all: Cl. So compare the metal.</p>
+
+					<ul>
+						<li>Metallic character increases down Group 1.</li>
+						<li>Most ionic: <strong>RbCl</strong></li>
+						<li>Most covalent character among these: <strong>LiCl</strong></li>
+					</ul>
+
+					<div class="note-box">
+						<p>
+							<span class="label">Quick method:</span> If one side is fixed,
+							compare the other side using periodic trends. More metallic metal
+							+ more non-metallic non-metal gives more ionic character.
+						</p>
+					</div>
+				</section>
+
+				<section id="properties">
+					<h2>8.6 Properties of Ionic Compounds</h2>
+					<p><span class="segment">Main segment: 20:47–33:13</span></p>
+
+					<section id="physical-state">
+						<h3>8.6.1 Physical State</h3>
+						<p>
+							<span class="segment">Approx. video segment: 20:47–21:58</span>
+						</p>
+
+						<ul>
+							<li>Ionic compounds are usually <strong>solids</strong>.</li>
+							<li>They form a <strong>3D lattice</strong>.</li>
+							<li>
+								The ions are held together by strong electrostatic forces.
+							</li>
+						</ul>
+
+						<p>
+							NaCl is commonly discussed as a rock-salt type structure. A full
+							crystal has a repeated 3D arrangement of ions.
+						</p>
+					</section>
+
+					<section id="mp-bp">
+						<h3>8.6.2 Melting Point and Boiling Point</h3>
+						<p>
+							<span class="segment">Approx. video segment: 21:58–22:31</span>
+						</p>
+
+						<ul>
+							<li>Ionic compounds have very high melting points.</li>
+							<li>Ionic compounds have very high boiling points.</li>
+						</ul>
+
+						<p>
+							Reason: the ions are strongly attracted to each other. A lot of
+							energy is needed to separate the ions.
+						</p>
+					</section>
+
+					<section id="conductivity">
+						<h3>8.6.3 Conductivity</h3>
+						<p>
+							<span class="segment">Approx. video segment: 22:32–25:42</span>
+						</p>
+
+						<p>
+							Electricity is carried when charges can move. Ionic compounds
+							contain ions, but the ions are not always free to move.
+						</p>
+
+						<div class="table-wrap">
+							<table>
+								<thead>
+									<tr>
+										<th>State</th>
+										<th>Conductivity</th>
+										<th>Reason</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>Solid state</td>
+										<td>Bad conductor</td>
+										<td>
+											Ions are fixed in the lattice and cannot move freely.
+										</td>
+									</tr>
+									<tr>
+										<td>Molten state</td>
+										<td>Good conductor</td>
+										<td>Heat separates the ions enough for movement.</td>
+									</tr>
+									<tr>
+										<td>Aqueous state</td>
+										<td>Good conductor</td>
+										<td>
+											Water reduces attraction between ions, so ions become free
+											to move.
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+
+						<p>
+							Water has a strong <strong>dielectric property</strong>. It
+							reduces the force of attraction between opposite charges by about
+							81 times.
+						</p>
+
+						<div class="trap-box">
+							<p>
+								<span class="label">Common exam trap:</span> Do not write “ionic
+								compounds always conduct electricity.” Solid ionic compounds do
+								not conduct well. Molten and aqueous ionic compounds conduct
+								because ions are mobile.
+							</p>
+						</div>
+					</section>
+
+					<section id="isomerism">
+						<h3>8.6.4 Isomerism</h3>
+						<p>
+							<span class="segment">Approx. video segment: 25:42–27:30</span>
+						</p>
+
+						<p>
+							<strong>Isomerism</strong> means same molecular formula but
+							different structural formula.
+						</p>
+
+						<ul>
+							<li>
+								Isomerism is common in covalent compounds, especially organic
+								compounds.
+							</li>
+							<li>
+								Ionic compounds do not have fixed directional bonds like
+								covalent compounds.
+							</li>
+							<li>
+								So ionic compounds do not show normal structural isomerism.
+							</li>
+						</ul>
+
+						<p>
+							A single NaCl unit is not treated like a fixed molecule with a
+							fixed shape. Ionic compounds are better understood as lattices of
+							ions.
+						</p>
+					</section>
+
+					<section id="isomorphism">
+						<h3>8.6.5 Isomorphism</h3>
+						<p>
+							<span class="segment">Approx. video segment: 27:30–30:23</span>
+						</p>
+
+						<p>
+							<strong>Isomorphism</strong> means two ionic compounds have
+							identical or very similar crystalline / lattice / 3D structures.
+						</p>
+
+						<p>Isomorphism is expected when:</p>
+						<ol>
+							<li>The formula pattern is same or similar.</li>
+							<li>The sizes of the cations and anions are nearly the same.</li>
+						</ol>
+
+						<h4>Examples used for this idea</h4>
+						<ul>
+							<li>
+								<strong>NaF and MgO</strong>: Na and Mg are neighbouring
+								elements; F and O are also neighbouring elements, so their ion
+								sizes can be close.
+							</li>
+							<li>
+								<strong>NaCl and KCl</strong>: not a good isomorphism example
+								here because Na⁺ and K⁺ have quite different sizes.
+							</li>
+						</ul>
+
+						<div class="review-box">
+							<p>
+								<span class="label"
+									>Review-only check before final publishing:</span
+								>
+								The NaCl / MgCl₂ or MgCl comparison needs source and Chemistry
+								review before it is used as a final student-facing example. Keep
+								the rule of isomorphism, but verify this example carefully.
+							</p>
+						</div>
+					</section>
+
+					<section id="type-of-reaction">
+						<h3>8.6.6 Type of Reaction</h3>
+						<p>
+							<span class="segment">Approx. video segment: 30:23–32:42</span>
+						</p>
+
+						<p>
+							Ionic compounds usually give <strong>ionic reactions</strong>.
+							These reactions are very fast because ions are already present and
+							can combine quickly.
+						</p>
+
+						<ul>
+							<li>
+								Ionic reactions are much faster than many covalent / molecular
+								reactions.
+							</li>
+							<li>Precipitation reactions are especially fast.</li>
+							<li>
+								Approximate time mentioned for such fast ionic reactions:
+								<span class="math">10⁻⁶ s</span>.
+							</li>
+						</ul>
+
+						<h4>Example: Precipitation of AgCl</h4>
+						<p class="equation">NaCl(aq) + AgNO₃(aq) → AgCl(s) + NaNO₃(aq)</p>
+
+						<p>
+							In aqueous solution, ions are free. Ag⁺ and Cl⁻ quickly combine to
+							form a white precipitate of AgCl.
+						</p>
+
+						<div class="note-box">
+							<p>
+								<span class="label">MCQ clue:</span> If options contain one
+								ionic precipitation reaction and other slow molecular/organic
+								reactions, the ionic precipitation reaction is usually the
+								fastest.
+							</p>
+						</div>
+					</section>
+
+					<section id="solubility">
+						<h3>8.6.7 Solubility — Hydration Energy / Solvation Energy</h3>
+						<p>
+							<span class="segment">Approx. video segment: 32:42–33:13</span>
+						</p>
+
+						<p>
+							Ionic compounds are generally more soluble in polar solvents like
+							water than covalent compounds.
+						</p>
+
+						<ul>
+							<li>Water surrounds the ions and stabilizes them.</li>
+							<li>
+								This process is called <strong>hydration</strong> in water.
+							</li>
+							<li>
+								In general solvents, the same idea is called
+								<strong>solvation</strong>.
+							</li>
+							<li>
+								Solubility depends on the balance between lattice energy and
+								hydration / solvation energy.
+							</li>
+						</ul>
+
+						<p>
+							The detailed comparison of lattice energy and solvation energy can
+							be studied separately.
+						</p>
+					</section>
+
+					<div class="note-box">
+						<p><span class="label">Final quick revision:</span></p>
+						<ul>
+							<li>
+								Ionic bond = complete electron transfer + electrostatic
+								attraction.
+							</li>
+							<li>Do not draw a dash bond for ionic compounds.</li>
+							<li>Electrovalency is always counted as positive.</li>
+							<li>
+								Favourable conditions: IE minimum, EA maximum, LE maximum.
+							</li>
+							<li>
+								More metallic metal + more non-metallic non-metal = more ionic
+								character.
+							</li>
+							<li>
+								Ionic compounds are solid, high MP/BP, conduct in molten/aqueous
+								state, do not show normal isomerism, can show isomorphism, and
+								usually give fast ionic reactions.
+							</li>
+						</ul>
+					</div>
+				</section>
+			</section>
+		</main>
+	</body>
+</html>

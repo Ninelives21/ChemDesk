@@ -1,0 +1,2289 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CEE Review HTML — generated from Markdown for personal review only</title>
+  <style>
+:root {
+  --bg: #f7f7f3;
+  --paper: #ffffff;
+  --ink: #1f2933;
+  --muted: #667085;
+  --border: #d9dee7;
+  --soft-border: #eceff4;
+  --accent-bg: #fff7dc;
+  --accent-border: #f0c95a;
+  --link: #174ea6;
+  --code-bg: #f3f4f6;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+.page {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+.header {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px 28px;
+  margin-bottom: 24px;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+}
+.header h1 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  border: 0;
+  font-size: 1.75rem;
+}
+.note {
+  margin: 12px 0 0; 
+  color: var(--muted);
+}
+.source-file {
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.toc-box {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin-bottom: 28px;
+}
+.toc-box h2 {
+  margin: 0 0 10px;
+  padding: 0;
+  border: 0;
+  font-size: 1.25rem;
+}
+.toc ol {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+.toc li { margin: 0.25rem 0; }
+.toc-level-2 { margin-left: 1.15rem; }
+.toc a {
+  color: var(--link);
+  text-decoration: none;
+}
+.toc a:hover { text-decoration: underline; }
+
+.content {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 26px 30px;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+}
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  line-height: 1.25;
+  color: #111827;
+  scroll-margin-top: 18px;
+}
+.content h1 {
+  font-size: 2rem;
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 2px solid var(--border);
+}
+.content h2 {
+  font-size: 1.55rem;
+  margin-top: 3rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid var(--soft-border);
+}
+.content h3 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+.content h4 {
+  font-size: 1.08rem;
+  margin-top: 1.6rem;
+}
+.content p { margin: 0.75rem 0; }
+.content ul,
+.content ol { padding-left: 1.55rem; }
+.content li { margin: 0.25rem 0; }
+.content blockquote {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--border);
+  background: #fafafa;
+  color: #344054;
+}
+.content hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+.content a {
+  color: var(--link);
+  overflow-wrap: anywhere;
+}
+.review-heading {
+  background: var(--accent-bg);
+  border-left: 6px solid var(--accent-border) !important;
+  padding: 0.8rem 1rem !important;
+  border-radius: 8px;
+}
+.table-wrap {
+  overflow-x: auto;
+  margin: 1rem 0 1.35rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 640px;
+  font-size: 0.94rem;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.65rem 0.75rem;
+  vertical-align: top;
+}
+th {
+  background: #f8fafc;
+  font-weight: 700;
+}
+tr:nth-child(even) td { background: #fcfcfd; }
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  background: var(--code-bg);
+  padding: 0.12rem 0.32rem;
+  border-radius: 4px;
+  font-size: 0.92em;
+}
+pre {
+  overflow-x: auto;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  line-height: 1.5;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  font-size: 0.9rem;
+}
+.muted { color: var(--muted); }
+@media (max-width: 720px) {
+  .page { padding: 18px 12px 42px; }
+  .header, .toc-box, .content {
+    border-radius: 12px;
+    padding: 18px;
+  }
+  .content h1 { font-size: 1.65rem; }
+  .content h2 { font-size: 1.35rem; }
+  .toc-level-2 { margin-left: 0.5rem; }
+}
+</style>
+</head>
+<body>
+  <main class="page">
+    <header class="header">
+      <h1>CEE Review HTML — generated from Markdown for personal review only</h1>
+      <p class="note">Canonical source remains the Markdown file. This HTML is only a readable review view.</p>
+      <p class="source-file">Source Markdown: <code>chemical-bonding-lecture-02.cee-output.md</code></p>
+    </header>
+
+    <section class="toc-box">
+      <h2>Table of contents</h2>
+      <nav class="toc" aria-label="Table of contents"><ol>
+<li class=" toc-level-1"><a href="#chemical-bonding-lecture-02cee-outputmd">chemical-bonding-lecture-02.cee-output.md</a></li>
+<li class=" toc-level-2"><a href="#1-source-inventory">1. Source Inventory</a></li>
+<li class=" toc-level-2"><a href="#2-lecture-first-understanding">2. Lecture-First Understanding</a></li>
+<li class=" toc-level-2"><a href="#3-concept-spine">3. Concept Spine</a></li>
+<li class=" toc-level-2"><a href="#4-lecture-section-map">4. Lecture Section Map</a></li>
+<li class=" toc-level-2"><a href="#5-definitions-rules-formulas-and-examples">5. Definitions, Rules, Formulas, and Examples</a></li>
+<li class=" toc-level-2"><a href="#6-traps-confusions-and-diagram-needs">6. Traps, Confusions, and Diagram Needs</a></li>
+<li class=" toc-level-2"><a href="#7-sift-secondary-review">7. Sift Secondary Review</a></li>
+<li class=" toc-level-2"><a href="#8-cee-approved-lecture-aligned-notes-draft">8. CEE-Approved Lecture-Aligned Notes Draft</a></li>
+<li class=" toc-level-2"><a href="#9-proposed-updates-to-chapter-knowledgemd">9. Proposed Updates to chapter-knowledge.md</a></li>
+<li class=" toc-level-2"><a href="#10-review-queue">10. Review Queue</a></li>
+<li class=" toc-level-2"><a href="#11-learning-candidates">11. Learning Candidates</a></li>
+<li class=" toc-level-2"><a href="#12-final-output-summary">12. Final Output Summary</a></li>
+</ol></nav>
+    </section>
+
+    <article class="content">
+<h1 id="chemical-bonding-lecture-02cee-outputmd">chemical-bonding-lecture-02.cee-output.md</h1>
+<blockquote>
+<p><strong>ChemDesk / CEE working-review document only</strong><br />
+<strong>Publishing status:</strong> <code>review_needed</code><br />
+<strong>PYQ tagging status:</strong> not started; no PYQ mappings created<br />
+<strong>Authority rule applied:</strong> <code>lecture.meta.json</code> is authoritative for lecture identity and paths. Transcript and manual notes are used for lecture content. Sift is used only as secondary student-signal evidence.</p>
+</blockquote>
+<h2 id="1-source-inventory" class="review-heading">1. Source Inventory</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Source</th>
+  <th style="text-align:right">Present / missing</th>
+  <th>How it was used</th>
+  <th>Consistency check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>transcript.md</code></td>
+  <td style="text-align:right">present</td>
+  <td>Core source for what was actually taught, lecture order, explanations, examples, approximate timestamps, and teacher flow.</td>
+  <td>Header says “Chemical Bonding Lecture 02: Ionic Bonds.” It does not itself provide the YouTube URL, but the content sequence matches Lecture 02 and the manual notes.</td>
+</tr>
+<tr>
+  <td><code>lecture.meta.json</code></td>
+  <td style="text-align:right">present</td>
+  <td>Authoritative source for lecture identity, chapter/category folder, canonical path, source URL, and scaffold status fields.</td>
+  <td>Confirms <code>lecture_id: chemical-bonding-and-molecular-structure-lecture-02</code>, lecture number <code>02</code>, title <code>Ionic Bonds</code>, chapter <code>chemical-bonding-and-molecular-structure</code>, URL <code>https://youtu.be/OqdNZTHxPxM</code>.</td>
+</tr>
+<tr>
+  <td><code>manual-notes.md</code> converted from user HTML</td>
+  <td style="text-align:right">present as <code>02_ionic_bonds.manual-notes.md</code></td>
+  <td>Strong evidence for meaningful section boundaries, note hierarchy, preserved examples, formulas, and user compression style. Used after transcript verification.</td>
+  <td>Title and URL match <code>lecture.meta.json</code>. It gives timestamped lecture sections from ionic bond to properties of ionic compounds.</td>
+</tr>
+<tr>
+  <td>Existing <code>cee-notes.md</code></td>
+  <td style="text-align:right">missing</td>
+  <td>Not used.</td>
+  <td>No previous CEE note draft supplied.</td>
+</tr>
+<tr>
+  <td>Existing <code>sections.json</code></td>
+  <td style="text-align:right">missing</td>
+  <td>Not used.</td>
+  <td>No previous section map supplied.</td>
+</tr>
+<tr>
+  <td>Existing <code>chapter-knowledge.md</code></td>
+  <td style="text-align:right">missing</td>
+  <td>Not used directly. This means all concept IDs below are candidates, not approved existing IDs.</td>
+  <td>Missing source means duplicate concept checks remain limited.</td>
+</tr>
+<tr>
+  <td>Sift JSON</td>
+  <td style="text-align:right">present as <code>comments-02-ionic-bonds.chatgpt-input.json</code></td>
+  <td>Used only after lecture-first analysis to identify student-signal doubts, possible corrections, timestamp clues, clarity gaps, and review items.</td>
+  <td>Title and source URL match Lecture 02. Sift uses shorter <code>lecture_id: chemical-bonding-lecture-02</code>, while metadata uses <code>chemical-bonding-and-molecular-structure-lecture-02</code>. This is an ID-scheme mismatch, not a lecture mismatch.</td>
+</tr>
+<tr>
+  <td>Visual / board context</td>
+  <td style="text-align:right">missing</td>
+  <td>Not available. Any board-dependent claim is marked <code>visual_context_needed</code>.</td>
+  <td>Needed especially for the isomorphism example around 28:50–29:40 and possible d-block group notation around 11:57–12:30.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Source mismatches / conflicts noted</strong></p>
+<ul>
+<li><code>lecture.meta.json</code> and manual notes agree on lecture number, title, chapter family, and YouTube URL.</li>
+<li>Sift title and URL match, but Sift lecture ID is shorter than the authoritative metadata ID.</li>
+<li>Transcript repeatedly uses the word “Electronegativity” in the 09:12–12:36 segment, but the lecture context and manual notes clearly indicate <strong>electrovalency</strong>. This is treated as a likely transcript/translation term issue.</li>
+<li>Manual notes list ionic reaction completion time as approximately (10^{-6}) s, while the transcript says (10^{-8}) s. This exact numerical value needs review.</li>
+<li>The isomorphism section has a strong unresolved source issue: transcript/Sift point to possible <code>MgCl</code> vs <code>MgCl2</code> confusion, and the manual notes preserve <code>NaCl</code> and <code>MgCl2</code> as an example. This must not be approved without visual/source verification.</li>
+</ul>
+<p><strong>Input package confidence:</strong> <code>probable-high</code> for lecture identity and boundary; <code>needs_review</code> for a few chemistry examples and board-dependent claims.</p>
+<h2 id="2-lecture-first-understanding">2. Lecture-First Understanding</h2>
+<p>This lecture introduces ionic bonding as electron transfer between a metal and a non-metal followed by electrostatic attraction between the resulting ions. The teacher begins with NaCl to show electron loss by sodium, electron gain by chlorine, octet completion, and the idea that the so-called “bond” is really a non-directional electrostatic force rather than a covalent-style dash bond.</p>
+<p>The lecture then moves into Lewis dot structures for ionic compounds, especially NaCl and (MgCl_2), followed by electrovalency: the number of electrons lost or gained during electrovalent bond formation. It gives group-wise electrovalency for representative elements and briefly introduces variable electrovalency for d-block elements.</p>
+<p>The central energetic idea is that ionic compound formation becomes favourable when energy absorption is low and energy release is high. The lecture introduces ionization energy, electron affinity, and lattice energy as the key energy terms. It then connects ionic character / ionic bond strength to metallic and non-metallic character, while also previewing that Fajan’s rule will be needed later for a more careful treatment of covalent character in ionic compounds.</p>
+<p>The final and largest part explains properties of ionic compounds: crystalline solid state, high melting and boiling points, conductivity in molten/aqueous states but not solid state, absence of normal structural isomerism, isomorphism, fast ionic reactions, and basic solubility ideas involving hydration/solvation.</p>
+<p>After this lecture, students should understand that ionic compounds are not discrete directional molecules like typical covalent compounds. They are better thought of as lattices of ions held by strong electrostatic forces. This lecture prepares for lattice energy, Fajan’s rule, hydration/solvation energy, solubility, ionic radius comparisons, and later solid-state crystal structure discussions.</p>
+<h2 id="3-concept-spine">3. Concept Spine</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Candidate concept / idea</th>
+  <th>Proposed concept_id, if any</th>
+  <th>Classification</th>
+  <th>Source basis</th>
+  <th>Why it matters</th>
+  <th>Action</th>
+  <th>Confidence</th>
+  <th>Review note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic bond / electrovalent bond as electrostatic attraction after electron transfer</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-bond-electrovalent-bond</code></td>
+  <td>core_now</td>
+  <td>Transcript 00:53–02:21; manual notes section 1</td>
+  <td>This is the main concept of the lecture and the basis for all later properties.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>Use careful wording: “complete electron transfer model” followed by attraction between ions; avoid implying a covalent-style fixed stick bond.</td>
+</tr>
+<tr>
+  <td>Non-directional nature of ionic bonds</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-bond-nondirectional-nature</code></td>
+  <td>core_now</td>
+  <td>Transcript 02:21–02:58, 25:42–27:30; manual notes sections 1 and 6.4</td>
+  <td>Explains why ionic compounds do not show ordinary structural isomerism and why lattice description is preferred.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>May be combined under ionic bond concept if concept granularity should stay tight.</td>
+</tr>
+<tr>
+  <td>Lewis dot structures for ionic compounds</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-lewis-dot-structures</code></td>
+  <td>core_now</td>
+  <td>Transcript 05:48–08:59; manual notes section 2</td>
+  <td>Students need to show electron transfer and final ion charges correctly in NaCl and (MgCl_2).</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>Could also be a method page rather than a concept page.</td>
+</tr>
+<tr>
+  <td>Electrovalency</td>
+  <td><code>concept_id_candidate: chemical-bonding-electrovalency</code></td>
+  <td>core_now</td>
+  <td>Transcript 09:12–12:36; manual notes section 3</td>
+  <td>Links valence electrons, ion charge, group trends, and ionic formula formation.</td>
+  <td>create_candidate</td>
+  <td>probable</td>
+  <td>Transcript says “electronegativity” but context/manual notes show electrovalency. Sign convention needs careful wording.</td>
+</tr>
+<tr>
+  <td>Group-wise electrovalency of representative elements</td>
+  <td><code>concept_id_candidate: chemical-bonding-electrovalency-group-trends</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 09:38–11:48; manual notes section 3</td>
+  <td>Helps students quickly decide likely ions and formulae in ionic compounds.</td>
+  <td>update_candidate</td>
+  <td>probable</td>
+  <td>Avoid over-creating if this belongs inside electrovalency. Group 3–12 issue needs review.</td>
+</tr>
+<tr>
+  <td>Variable electrovalency of d-block elements</td>
+  <td><code>concept_id_candidate: chemical-bonding-variable-electrovalency-d-block</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 11:48–12:36; manual notes section 3</td>
+  <td>Explains why elements such as Fe and Cu may show more than one electrovalency.</td>
+  <td>create_candidate</td>
+  <td>probable</td>
+  <td>Board/transcript conflict around group range. Use Group 3–12 pending review.</td>
+</tr>
+<tr>
+  <td>Energy terms in ionic bond formation</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-bond-formation-energy-terms</code></td>
+  <td>core_now</td>
+  <td>Transcript 13:21–18:13; manual notes section 4</td>
+  <td>Central framework for favourable ionic bond formation.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>Could be parent concept with IE, EA, and LE as linked terms.</td>
+</tr>
+<tr>
+  <td>Ionization energy as a favourable-condition factor</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionization-energy-ionic-formation</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 13:43–14:19; manual notes 4.1</td>
+  <td>Low metal ionization energy favours cation formation.</td>
+  <td>update_candidate</td>
+  <td>probable</td>
+  <td>Ionization energy is a cross-chapter / periodic properties concept reused here.</td>
+</tr>
+<tr>
+  <td>Electron affinity as a favourable-condition factor</td>
+  <td><code>concept_id_candidate: chemical-bonding-electron-affinity-ionic-formation</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 14:19–15:06; manual notes 4.2</td>
+  <td>High energy release on electron gain favours anion formation.</td>
+  <td>update_candidate</td>
+  <td>probable</td>
+  <td>Exact wording should distinguish electron affinity from electron gain enthalpy later.</td>
+</tr>
+<tr>
+  <td>Lattice energy</td>
+  <td><code>concept_id_candidate: chemical-bonding-lattice-energy-introduction</code></td>
+  <td>core_now</td>
+  <td>Transcript 15:29–17:53; manual notes 4.3</td>
+  <td>Explains stability of ionic solids and connects to strength, melting point, and solubility later.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>Full factors and calculations are future-linked to next lecture.</td>
+</tr>
+<tr>
+  <td>Ionic character / strength comparison by metallic and non-metallic character</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-character-comparison-basic</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 18:23–20:37; manual notes section 5</td>
+  <td>Useful for quick ranking questions, but needs separation from lattice energy and Fajan’s rule.</td>
+  <td>create_candidate</td>
+  <td>needs_review</td>
+  <td>Phrase “stronger ionic bond” can mean different things; add caution.</td>
+</tr>
+<tr>
+  <td>Fajan’s rule preview</td>
+  <td><code>concept_id_candidate: chemical-bonding-fajans-rule</code></td>
+  <td>future_link</td>
+  <td>Transcript 19:04, 33:53–34:10; manual notes section 5 does not develop it</td>
+  <td>Lecture says Fajan’s rule will be taught later; it should not be fully tagged here.</td>
+  <td>no_action</td>
+  <td>confirmed</td>
+  <td>Future lecture should own this concept.</td>
+</tr>
+<tr>
+  <td>Ionic lattice / crystalline arrangement</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-lattice-crystal-arrangement</code></td>
+  <td>core_now</td>
+  <td>Transcript 20:51–21:56; manual notes 6.1</td>
+  <td>Explains solid state, high m.p./b.p., conductivity restrictions, and isomorphism.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>May connect to solid-state chapter later.</td>
+</tr>
+<tr>
+  <td>Properties of ionic compounds</td>
+  <td>no standalone concept recommended</td>
+  <td>grouping_only</td>
+  <td>Manual notes section 6; transcript 20:37–33:34</td>
+  <td>This is a lecture section bucket containing multiple concepts/properties.</td>
+  <td>no_action</td>
+  <td>confirmed</td>
+  <td>Do not create as a standalone concept merely because it is a heading.</td>
+</tr>
+<tr>
+  <td>Conductivity of ionic compounds</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-compound-conductivity</code></td>
+  <td>core_now</td>
+  <td>Transcript 22:32–25:42; manual notes 6.3</td>
+  <td>Frequently tested idea: solid ionic compounds do not conduct, molten/aqueous do.</td>
+  <td>create_candidate</td>
+  <td>confirmed</td>
+  <td>Include ion mobility as the real reason.</td>
+</tr>
+<tr>
+  <td>Dielectric property of water reducing ionic attraction</td>
+  <td><code>concept_id_candidate: chemical-bonding-water-dielectric-ion-separation</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 24:23–25:42; manual notes 6.3</td>
+  <td>Explains aqueous conductivity and previews solubility.</td>
+  <td>update_candidate</td>
+  <td>probable</td>
+  <td>“81 times” should be treated as lecture approximation; exact condition/source needed.</td>
+</tr>
+<tr>
+  <td>Isomerism absence in ionic compounds</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-compounds-no-structural-isomerism</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 25:42–27:30; manual notes 6.4</td>
+  <td>Prevents students from applying covalent molecule ideas to ionic lattices.</td>
+  <td>create_candidate</td>
+  <td>probable</td>
+  <td>Depends on precise level; avoid overgeneralizing advanced exceptions.</td>
+</tr>
+<tr>
+  <td>Isomorphism in ionic compounds</td>
+  <td><code>concept_id_candidate: chemical-bonding-isomorphism-ionic-compounds</code></td>
+  <td>core_now</td>
+  <td>Transcript 27:30–30:50; manual notes 6.5</td>
+  <td>Distinct property introduced in contrast with isomerism.</td>
+  <td>create_candidate</td>
+  <td>needs_review</td>
+  <td>Criteria/examples need visual/source check before publication.</td>
+</tr>
+<tr>
+  <td>Ionic reactions are fast</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-reaction-speed</code></td>
+  <td>supporting_now</td>
+  <td>Transcript 31:26–32:21; manual notes 6.6</td>
+  <td>Helps students identify fast reactions, especially precipitation reactions.</td>
+  <td>create_candidate</td>
+  <td>probable</td>
+  <td>Exact time (10^{-6}) vs (10^{-8}) conflict; use qualitative wording until checked.</td>
+</tr>
+<tr>
+  <td>Solubility of ionic compounds in polar solvents</td>
+  <td><code>concept_id_candidate: chemical-bonding-ionic-solubility-hydration-solvation</code></td>
+  <td>future_link</td>
+  <td>Transcript 32:43–33:34; manual notes 6.7</td>
+  <td>Preview for hydration/solvation energy and solubility conditions.</td>
+  <td>no_action</td>
+  <td>confirmed</td>
+  <td>Lecture explicitly says detailed condition will come later.</td>
+</tr>
+<tr>
+  <td>Octet rule / noble gas configuration</td>
+  <td>likely existing concept</td>
+  <td>prerequisite</td>
+  <td>Transcript 01:19–03:27; manual notes section 1</td>
+  <td>Needed to understand why electron transfer occurs.</td>
+  <td>reuse</td>
+  <td>probable</td>
+  <td>Belongs to earlier bonding intro/basic structure knowledge.</td>
+</tr>
+<tr>
+  <td>Electronic configuration of atoms/ions</td>
+  <td>likely existing concept</td>
+  <td>prerequisite</td>
+  <td>Transcript 01:19, 07:36; manual notes sections 1–2</td>
+  <td>Needed for Lewis dot structures and electrovalency.</td>
+  <td>reuse</td>
+  <td>confirmed</td>
+  <td>Cross-link to atomic structure / periodic classification if needed.</td>
+</tr>
+<tr>
+  <td>Periodic trends in metallic character, non-metallic character, and size</td>
+  <td>likely existing concept</td>
+  <td>prerequisite</td>
+  <td>Transcript 18:42–20:37, 28:53–30:23; manual notes sections 5 and 6.5</td>
+  <td>Used for comparing ionic character and isomorphism.</td>
+  <td>reuse</td>
+  <td>probable</td>
+  <td>Cross-chapter/periodic table reference.</td>
+</tr>
+<tr>
+  <td>“Properties of ionic compounds” as a page title</td>
+  <td>none</td>
+  <td>grouping_only</td>
+  <td>Manual notes section 6</td>
+  <td>Organizes several properties but is too broad as a concept ID.</td>
+  <td>no_action</td>
+  <td>confirmed</td>
+  <td>Approved correction rule on concept granularity applies.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="concept-spine-judgment">Concept-Spine Judgment</h3>
+<p>The truly central lecture concepts are ionic bond/electrovalent bond, non-directional electrostatic attraction, Lewis dot structures for ionic compounds, electrovalency, energy terms in ionic bond formation, lattice energy introduction, ionic lattice behavior, conductivity of ionic compounds, and isomorphism. Supporting ideas include group-wise electrovalency, ionic-character ranking, dielectric property of water, no ordinary isomerism, ionic reaction speed, and solubility preview. Octet rule, electronic configuration, and periodic trends are prerequisites or reused concepts. “Properties of ionic compounds” is a useful section bucket, not a standalone durable concept page.</p>
+<h2 id="4-lecture-section-map">4. Lecture Section Map</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th style="text-align:right">Section no.</th>
+  <th>Section title</th>
+  <th>Approx. timestamp range</th>
+  <th>Source basis</th>
+  <th>Short summary</th>
+  <th>Linked concept candidates</th>
+  <th>Definitions / rules / formulas / examples</th>
+  <th>Traps or cautions</th>
+  <th>Review status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:right">1</td>
+  <td>Lecture roadmap and ionic bond introduction</td>
+  <td>00:05–00:53</td>
+  <td>Transcript intro; manual notes topic list</td>
+  <td>Announces ionic bond, Lewis dot structure, electronegativity/electrovalency, energy terms, ionic character, strength, and properties.</td>
+  <td>grouping_only</td>
+  <td>Roadmap only.</td>
+  <td>Do not convert roadmap into concept IDs.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">2</td>
+  <td>Ionic bond / electrovalent bond</td>
+  <td>00:53–02:58</td>
+  <td>Transcript 00:53–02:58; manual notes section 1</td>
+  <td>Defines ionic bond as formation between metal and non-metal through electron transfer, followed by attraction between ions.</td>
+  <td>ionic bond; non-directional nature</td>
+  <td>Na loses electron to form Na+; Cl gains electron to form Cl−; electrostatic attraction.</td>
+  <td>Do not draw covalent dash for ionic bond; ionic bond is non-directional.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">3</td>
+  <td>Why Na+ and Cl− still combine</td>
+  <td>03:13–05:48</td>
+  <td>Transcript 03:13–05:48; manual notes section 1</td>
+  <td>Explains that isolated gaseous ions are not the final stable state; solid ionic compound formation releases energy through strong attraction.</td>
+  <td>ionic bond; lattice energy intro</td>
+  <td>(F = Kq_1q_2/r^2); smaller (r) gives stronger attraction.</td>
+  <td>Avoid saying “gaseous means unstable” too broadly; phrase in terms of separated ions gaining stability by lattice formation.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">4</td>
+  <td>Lewis dot structure of ionic compounds</td>
+  <td>05:48–08:59</td>
+  <td>Transcript 05:48–08:59; manual notes section 2</td>
+  <td>Shows before/after electron transfer representation for NaCl and (MgCl_2).</td>
+  <td>ionic Lewis dot structures; electrovalency</td>
+  <td>NaCl dot structure; (Mg \rightarrow Mg^{2+}+2e^-); two Cl atoms each gain one electron.</td>
+  <td>Need charges on ions; show transferred electron clearly; avoid covalent dash.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">5</td>
+  <td>Electrovalency</td>
+  <td>09:12–12:36</td>
+  <td>Transcript 09:12–12:36; manual notes section 3</td>
+  <td>Defines electrovalency as number of electrons lost or gained in electrovalent bond formation; gives group-wise values and variable electrovalency for d-block elements.</td>
+  <td>electrovalency; group-wise electrovalency; variable electrovalency</td>
+  <td>Group 1 → 1, Group 2 → 2, Group 13 → 3, Group 15 → 3, Group 16 → 2, Group 17 → 1; Fe 2/3, Cu 1/2.</td>
+  <td>Transcript term “electronegativity” likely should be electrovalency. Group 3–12 vs 2–12 needs review.</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td style="text-align:right">6</td>
+  <td>Energy terms and favourable conditions</td>
+  <td>13:21–18:13</td>
+  <td>Transcript 13:21–18:13; manual notes section 4</td>
+  <td>Explains why ionic bond formation is favoured by low ionization energy, high electron affinity, and high lattice energy.</td>
+  <td>energy terms; IE; EA; lattice energy</td>
+  <td>IE should be minimum; EA should be maximum; LE should be maximum. Lattice energy defined for gaseous cation + gaseous anion forming one mole of ionic solid.</td>
+  <td>Separate energy absorbed from energy released; do not equate lattice energy casually with heat of formation.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">7</td>
+  <td>Which ionic bond has more ionic character / strength</td>
+  <td>18:23–20:37</td>
+  <td>Transcript 18:23–20:37; manual notes section 5</td>
+  <td>Gives basic ranking using metallic character of metal and non-metallic character of non-metal. Examples: NaF vs NaCl vs NaBr vs NaI; LiCl vs NaCl vs KCl vs RbCl.</td>
+  <td>ionic character comparison; periodic trends; Fajan preview</td>
+  <td>NaF more ionic in NaX series by non-metallic character; RbCl more ionic in MCl series by metallic character.</td>
+  <td>Must distinguish ionic character from lattice energy / bond strength. Fajan’s rule is future-linked.</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td style="text-align:right">8</td>
+  <td>Physical state and lattice of ionic compounds</td>
+  <td>20:37–21:56</td>
+  <td>Transcript 20:37–21:56; manual notes 6.1</td>
+  <td>Explains ionic compounds as 3D lattices, usually crystalline solids due to strong electrostatic attraction.</td>
+  <td>ionic lattice</td>
+  <td>NaCl rock salt structure mentioned; cations/anions arranged in 3D.</td>
+  <td>Visual lattice diagram needed. Avoid “molecule” wording for ionic lattices.</td>
+  <td>visual_context_needed</td>
+</tr>
+<tr>
+  <td style="text-align:right">9</td>
+  <td>High melting and boiling points</td>
+  <td>21:56–22:32</td>
+  <td>Transcript 21:56–22:32; manual notes 6.2</td>
+  <td>Strong electrostatic forces require high energy to separate ions.</td>
+  <td>ionic lattice; electrostatic attraction</td>
+  <td>High m.p./b.p. due to strong attractions.</td>
+  <td>“All ionic compounds” should be softened to “generally/high for common ionic solids.”</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">10</td>
+  <td>Conductivity in solid, molten, and aqueous states</td>
+  <td>22:32–25:42</td>
+  <td>Transcript 22:32–25:42; manual notes 6.3</td>
+  <td>Solid ionic compounds do not conduct because ions are fixed; molten and aqueous ionic compounds conduct because ions can move.</td>
+  <td>ionic conductivity; water dielectric property</td>
+  <td>Electricity = movement of charge; water reduces attraction, lecture approximation: dielectric effect about 81 times.</td>
+  <td>Avoid saying heat “breaks the bond” too loosely; say ions become mobile in molten state.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">11</td>
+  <td>Isomerism and non-directional nature</td>
+  <td>25:42–27:30</td>
+  <td>Transcript 25:42–27:30; manual notes 6.4</td>
+  <td>Explains why ionic compounds do not show ordinary covalent-style isomerism: no fixed directional molecular structure.</td>
+  <td>no isomerism; non-directional nature</td>
+  <td>Isomerism = same molecular formula but different structural formula; ionic compounds lack directional shape.</td>
+  <td>Avoid advanced overclaim; keep school/JEE introductory context.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">12</td>
+  <td>Isomorphism</td>
+  <td>27:30–30:50</td>
+  <td>Transcript 27:30–30:50; manual notes 6.5</td>
+  <td>Introduces similar 3D/lattice arrangement and conditions such as similar formula type and similar ion sizes.</td>
+  <td>isomorphism in ionic compounds</td>
+  <td>Examples discussed include NaCl/MgCl or MgCl2 issue, NaF/MgO, NaCl/KCl.</td>
+  <td>Strong visual/source verification needed. Do not approve examples yet.</td>
+  <td>visual_context_needed</td>
+</tr>
+<tr>
+  <td style="text-align:right">13</td>
+  <td>Type and speed of ionic reactions</td>
+  <td>31:26–32:43</td>
+  <td>Transcript 31:26–32:43; manual notes 6.6</td>
+  <td>Ionic reactions, especially precipitation reactions, are fast because ions are already present in aqueous solution.</td>
+  <td>ionic reaction speed</td>
+  <td>NaCl(aq) + AgNO3(aq) precipitation example.</td>
+  <td>Exact reaction time conflict: transcript (10^{-8}) s; manual notes (10^{-6}) s.</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td style="text-align:right">14</td>
+  <td>Solubility preview: hydration / solvation energy</td>
+  <td>32:43–33:34</td>
+  <td>Transcript 32:43–33:34; manual notes 6.7</td>
+  <td>Introduces solubility of ionic compounds in polar solvents and previews hydration/solvation energy versus lattice energy.</td>
+  <td>solubility future link; hydration/solvation energy</td>
+  <td>Ionic compounds are generally soluble in polar solvents like water.</td>
+  <td>Detailed condition is future-linked; do not overbuild now.</td>
+  <td>ok_for_draft</td>
+</tr>
+<tr>
+  <td style="text-align:right">15</td>
+  <td>Preview of next topics</td>
+  <td>33:34–34:10</td>
+  <td>Transcript 33:34–34:10</td>
+  <td>Mentions lattice energy, hydration/solvation energy, and Fajan’s rule for covalent character in ionic compounds.</td>
+  <td>lattice energy future; Fajan’s rule</td>
+  <td>No full teaching here.</td>
+  <td>Do not tag as fully taught.</td>
+  <td>ok_for_draft</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="section-map-notes">Section-Map Notes</h3>
+<p>Manual notes strongly shaped the meaningful section boundaries because they preserve six broad lecture sections and several property subsections. The transcript was used to verify flow, expand reasoning, and detect issues such as the electrovalency terminology problem, d-block group issue, isomorphism example confusion, and reaction-time conflict. Manual headings were treated as section evidence, not automatic concept IDs.</p>
+<h2 id="5-definitions-rules-formulas-and-examples">5. Definitions, Rules, Formulas, and Examples</h2>
+<h3 id="a-definitions">A. Definitions</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Term</th>
+  <th>Linked concept</th>
+  <th>Source basis</th>
+  <th>Student-facing meaning</th>
+  <th>Common mistake or limitation</th>
+  <th>Permanent ID later?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic bond / electrovalent bond</td>
+  <td>ionic bond</td>
+  <td>Transcript 00:53–02:21; manual notes section 1</td>
+  <td>A bond model in which electrons are transferred from a metal to a non-metal and the resulting oppositely charged ions attract each other.</td>
+  <td>Do not draw a covalent-style dash as if one fixed pair of atoms is sharing electrons.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Electrostatic force of attraction</td>
+  <td>ionic bond; lattice energy</td>
+  <td>Transcript 01:57–05:48</td>
+  <td>Attraction between positive and negative ions; this attraction holds ionic compounds together.</td>
+  <td>Do not treat it as directional like a covalent bond.</td>
+  <td>maybe</td>
+</tr>
+<tr>
+  <td>Lewis dot structure in ionic compounds</td>
+  <td>ionic Lewis dot structures</td>
+  <td>Transcript 05:48–08:59; manual notes section 2</td>
+  <td>A dot/cross representation showing valence electrons before/after transfer and final ion charges.</td>
+  <td>Students may omit ion charges or show a covalent dash.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Electrovalency</td>
+  <td>electrovalency</td>
+  <td>Transcript 09:12–12:36; manual notes section 3</td>
+  <td>Number of electrons lost by a metal or gained by a non-metal while forming an electrovalent bond; commonly treated as a positive magnitude in this lecture.</td>
+  <td>Do not confuse electrovalency with electronegativity or with signed oxidation state.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionization energy</td>
+  <td>energy terms in ionic formation</td>
+  <td>Transcript 13:43–14:19; manual notes 4.1</td>
+  <td>Energy absorbed to remove an electron from a gaseous atom to form a cation.</td>
+  <td>Low IE favours cation formation, but IE alone does not decide full compound stability.</td>
+  <td>maybe, likely existing</td>
+</tr>
+<tr>
+  <td>Electron affinity</td>
+  <td>energy terms in ionic formation</td>
+  <td>Transcript 14:19–15:06; manual notes 4.2</td>
+  <td>Energy released when a gaseous atom accepts an electron to form an anion, in the simplified lecture framing.</td>
+  <td>Later sources may use electron gain enthalpy conventions; sign wording must be checked.</td>
+  <td>maybe, likely existing</td>
+</tr>
+<tr>
+  <td>Lattice energy</td>
+  <td>lattice energy</td>
+  <td>Transcript 15:57–17:53; manual notes 4.3</td>
+  <td>Energy released when gaseous cations and gaseous anions combine to form one mole of solid ionic compound.</td>
+  <td>Do not equate casually with the full heat of formation; detailed Born-Haber treatment is later.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionic lattice</td>
+  <td>ionic lattice</td>
+  <td>Transcript 20:51–21:56; manual notes 6.1</td>
+  <td>A 3D arrangement of cations and anions held by electrostatic forces.</td>
+  <td>Avoid treating NaCl as a single isolated molecule.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Dielectric property of water</td>
+  <td>water dielectric property</td>
+  <td>Transcript 24:23–25:42; manual notes 6.3</td>
+  <td>Water reduces the electrostatic attraction between ions, helping ions separate and move in aqueous solution.</td>
+  <td>Exact numerical factor depends on conditions; the lecture’s “81 times” should be reviewed before publication.</td>
+  <td>maybe</td>
+</tr>
+<tr>
+  <td>Isomerism</td>
+  <td>no ordinary ionic isomerism</td>
+  <td>Transcript 25:42–27:30; manual notes 6.4</td>
+  <td>Same formula but different structures, mainly meaningful for directional covalent compounds at this level.</td>
+  <td>Do not force covalent molecular-structure logic onto ionic lattices.</td>
+  <td>maybe</td>
+</tr>
+<tr>
+  <td>Isomorphism</td>
+  <td>isomorphism in ionic compounds</td>
+  <td>Transcript 27:30–30:50; manual notes 6.5</td>
+  <td>Similar crystalline/lattice structure shown by different compounds under suitable conditions.</td>
+  <td>Lecture examples and criteria need source/visual check.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Hydration / solvation energy</td>
+  <td>solubility future link</td>
+  <td>Transcript 32:43–33:34; manual notes 6.7</td>
+  <td>Energy-related idea used to explain how solvents stabilize ions.</td>
+  <td>Only previewed here; detailed conditions belong later.</td>
+  <td>future</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="b-rules-principles">B. Rules / Principles</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Rule / principle</th>
+  <th>Linked concept</th>
+  <th>Source basis</th>
+  <th>Student-facing meaning</th>
+  <th>Common mistake or limitation</th>
+  <th>Permanent ID later?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic bond formation needs electron transfer plus ion attraction</td>
+  <td>ionic bond</td>
+  <td>Transcript 00:53–05:48</td>
+  <td>Electron transfer creates ions, but the compound becomes stable when oppositely charged ions come together in a lattice.</td>
+  <td>Do not stop explanation at octet completion only.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionic attraction follows Coulombic dependence</td>
+  <td>ionic bond; lattice energy</td>
+  <td>Transcript 05:13–05:30</td>
+  <td>Greater charges and smaller separation increase attraction.</td>
+  <td>(F = Kq_1q_2/r^2) is a force relation, not a complete lattice energy formula.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Favourable ionic formation requires low IE, high EA, high LE</td>
+  <td>energy terms</td>
+  <td>Transcript 13:43–18:13; manual notes section 4</td>
+  <td>Less energy absorbed and more energy released favour stable ionic compound formation.</td>
+  <td>Sign conventions for energy terms must be handled carefully.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Electrovalency is treated as positive magnitude in this lecture</td>
+  <td>electrovalency</td>
+  <td>Transcript 09:38; manual notes section 3</td>
+  <td>Whether electrons are lost or gained, electrovalency is counted by number of electrons.</td>
+  <td>Signed species charges or oxidation states are different from this magnitude convention.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionic compounds conduct only when ions are mobile</td>
+  <td>conductivity</td>
+  <td>Transcript 22:32–25:42; manual notes 6.3</td>
+  <td>Solid: ions fixed, poor conductor. Molten/aqueous: ions mobile, good conductor.</td>
+  <td>Do not say “ionic compound has ions, so it always conducts.”</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionic compounds generally have high melting/boiling points due to strong attraction</td>
+  <td>lattice properties</td>
+  <td>Transcript 21:56–22:32; manual notes 6.2</td>
+  <td>More energy is needed to separate strongly held ions.</td>
+  <td>Avoid absolute wording without exceptions.</td>
+  <td>maybe</td>
+</tr>
+<tr>
+  <td>Ionic compounds do not show ordinary structural isomerism because ionic bonding is non-directional</td>
+  <td>no isomerism</td>
+  <td>Transcript 25:42–27:30; manual notes 6.4</td>
+  <td>No fixed molecular shape/structural formula like covalent compounds.</td>
+  <td>Needs level-appropriate wording; advanced coordination/solid-state cases not discussed.</td>
+  <td>maybe</td>
+</tr>
+<tr>
+  <td>Isomorphism depends on similar formula type and comparable ionic sizes</td>
+  <td>isomorphism</td>
+  <td>Transcript 27:46–30:23; manual notes 6.5</td>
+  <td>Similar lattice structures need comparable arrangement conditions.</td>
+  <td>Examples in lecture need verification before being approved.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Ionic reactions in solution are fast because ions are already present</td>
+  <td>ionic reaction speed</td>
+  <td>Transcript 31:26–32:43; manual notes 6.6</td>
+  <td>In aqueous ionic reactions, reacting ions can meet and form products quickly.</td>
+  <td>Exact time value conflict; avoid publishing number until checked.</td>
+  <td>maybe</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="c-formulas">C. Formulas</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Formula</th>
+  <th>Linked concept</th>
+  <th>Source basis</th>
+  <th>Use</th>
+  <th>Review note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>(F = \dfrac{Kq_1q_2}{r^2})</td>
+  <td>electrostatic attraction in ionic bond</td>
+  <td>Transcript 05:13; manual notes section 1</td>
+  <td>Shows that ionic attraction increases with ion charges and decreases as distance increases.</td>
+  <td>Keep as Coulombic force relation, not as full lattice energy expression.</td>
+</tr>
+<tr>
+  <td>(\text{Na} \rightarrow \text{Na}^+ + e^-)</td>
+  <td>ionic bond; Lewis dot structure</td>
+  <td>Manual notes section 1; transcript 01:19</td>
+  <td>Shows sodium losing one electron.</td>
+  <td>Good for notes.</td>
+</tr>
+<tr>
+  <td>(\text{Cl} + e^- \rightarrow \text{Cl}^-)</td>
+  <td>ionic bond; Lewis dot structure</td>
+  <td>Manual notes section 1; transcript 01:19</td>
+  <td>Shows chlorine gaining one electron.</td>
+  <td>Good for notes.</td>
+</tr>
+<tr>
+  <td>(IE \rightarrow \min)</td>
+  <td>energy terms</td>
+  <td>Manual notes 4.1; transcript 13:58–14:19</td>
+  <td>Low ionization energy favours cation formation.</td>
+  <td>Use as condition, not literal formula.</td>
+</tr>
+<tr>
+  <td>(EA \rightarrow \max)</td>
+  <td>energy terms</td>
+  <td>Manual notes 4.2; transcript 14:37–15:06</td>
+  <td>Greater energy release on electron gain favours anion formation in lecture framing.</td>
+  <td>Sign convention needs source care.</td>
+</tr>
+<tr>
+  <td>(LE \rightarrow \max)</td>
+  <td>lattice energy</td>
+  <td>Manual notes 4.3; transcript 16:32–17:53</td>
+  <td>Greater lattice energy release favours ionic solid stability.</td>
+  <td>Full lattice energy factors are next lecture.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="d-important-examples">D. Important Examples</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Example</th>
+  <th>Linked concept</th>
+  <th>Why it is useful</th>
+  <th style="text-align:right">Should appear in <code>cee-notes.md</code>?</th>
+  <th>Lecture-only or reusable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>NaCl formation from Na and Cl</td>
+  <td>ionic bond; Lewis dot structures</td>
+  <td>Best basic example of metal losing electron, non-metal gaining electron, ion attraction, and dot structure.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable</td>
+</tr>
+<tr>
+  <td>(MgCl_2) Lewis dot structure</td>
+  <td>Lewis dot structures; electrovalency</td>
+  <td>Shows one metal losing two electrons and two chlorine atoms gaining one each.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable</td>
+</tr>
+<tr>
+  <td>Group-wise electrovalency table</td>
+  <td>electrovalency</td>
+  <td>Helps students quickly predict ion charges for representative elements.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable</td>
+</tr>
+<tr>
+  <td>Fe showing 2 and 3; Cu showing 1 and 2</td>
+  <td>variable electrovalency</td>
+  <td>Introduces variable electrovalency in d-block elements.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable</td>
+</tr>
+<tr>
+  <td>NaF, NaCl, NaBr, NaI comparison</td>
+  <td>ionic character comparison</td>
+  <td>Shows trend with non-metallic character down a halogen group.</td>
+  <td style="text-align:right">yes, with caution</td>
+  <td>reusable after wording review</td>
+</tr>
+<tr>
+  <td>LiCl, NaCl, KCl, RbCl comparison</td>
+  <td>ionic character comparison</td>
+  <td>Shows trend with metallic character down an alkali-metal group.</td>
+  <td style="text-align:right">yes, with caution</td>
+  <td>reusable after wording review</td>
+</tr>
+<tr>
+  <td>NaCl lattice / rock salt arrangement</td>
+  <td>ionic lattice</td>
+  <td>Helps students visualize why ionic compounds are solids and non-directional.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable, diagram needed</td>
+</tr>
+<tr>
+  <td>Solid vs molten vs aqueous NaCl conductivity</td>
+  <td>ionic conductivity</td>
+  <td>Classic exam trap: ions exist in solid but cannot move.</td>
+  <td style="text-align:right">yes</td>
+  <td>reusable</td>
+</tr>
+<tr>
+  <td>NaCl(aq) + AgNO3(aq) precipitation</td>
+  <td>ionic reaction speed</td>
+  <td>Shows why aqueous ionic reactions are fast.</td>
+  <td style="text-align:right">maybe</td>
+  <td>reusable, but exact time value needs review</td>
+</tr>
+<tr>
+  <td>NaF and MgO as possible isomorphism example</td>
+  <td>isomorphism</td>
+  <td>Potentially useful for similar formula type/size idea.</td>
+  <td style="text-align:right">maybe</td>
+  <td>needs source verification</td>
+</tr>
+<tr>
+  <td>NaCl with MgCl/MgCl2 in isomorphism segment</td>
+  <td>isomorphism</td>
+  <td>Major lecture/student-signal issue.</td>
+  <td style="text-align:right">no, not until verified</td>
+  <td>review-only</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="e-lecture-only-explanations">E. Lecture-Only Explanations</h3>
+<ul>
+<li>The teacher’s repeated question “Na+ and Cl− are stable, then why do they combine?” is useful as a lecture-note hook but not a separate permanent concept.</li>
+<li>The “do not draw a dash” warning is a high-value note/trap, not a standalone concept.</li>
+<li>The comparison of “ionic bond stronger than covalent bond” should be softened because bond strength depends on context; it is useful lecture emphasis, not a universal rule.</li>
+<li>Memory tricks for group elements are lecture-only and not needed in ChemDesk permanent concept pages.</li>
+<li>“If a question gives four reactions, mark ionic reaction as fastest” is an exam-style heuristic, but it needs careful context and should not become a chemistry law.</li>
+<li>The final preview of Fajan’s rule and hydration/solvation energy belongs to future lecture links, not current concept creation.</li>
+</ul>
+<h2 id="6-traps-confusions-and-diagram-needs">6. Traps, Confusions, and Diagram Needs</h2>
+<h3 id="a-chemistry-traps-common-confusions">A. Chemistry Traps / Common Confusions</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Trap / confusion</th>
+  <th>Linked concept</th>
+  <th>Source basis</th>
+  <th>CEE status</th>
+  <th>How it should affect notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Thinking ionic bond is a covalent-style dash between two atoms</td>
+  <td>ionic bond; non-directional nature</td>
+  <td>Transcript 01:57–02:58; manual notes section 1</td>
+  <td>confirmed</td>
+  <td>Add a clear warning: ionic compounds are held by electrostatic attraction in a lattice; no shared electron-pair dash.</td>
+</tr>
+<tr>
+  <td>Stopping at octet completion and missing lattice stabilization</td>
+  <td>ionic bond; lattice energy</td>
+  <td>Transcript 03:13–05:48</td>
+  <td>confirmed</td>
+  <td>Explain that isolated gaseous ions are not the final compound; lattice formation gives additional stability.</td>
+</tr>
+<tr>
+  <td>Confusing electrovalency with electronegativity</td>
+  <td>electrovalency</td>
+  <td>Transcript wording 09:12–12:36; manual notes section 3</td>
+  <td>confirmed as transcript risk</td>
+  <td>Use “electrovalency” consistently; add review note that transcript likely has term error.</td>
+</tr>
+<tr>
+  <td>Confusing electrovalency magnitude with signed ionic charge / oxidation state</td>
+  <td>electrovalency</td>
+  <td>Manual notes section 3; Sift SIG-003</td>
+  <td>probable</td>
+  <td>Add note: in this lecture, electrovalency is counted as positive number of electrons; charges remain (Na^+), (Cl^-).</td>
+</tr>
+<tr>
+  <td>Including Group 2 in d-block / variable valency</td>
+  <td>variable electrovalency</td>
+  <td>Transcript 10:24 and 11:48; manual notes section 3; Sift SIG-002</td>
+  <td>needs_review</td>
+  <td>Notes should state d-block as Group 3–12, but review board/audio before calling it a teacher error.</td>
+</tr>
+<tr>
+  <td>Treating ionic character and lattice energy/bond strength as identical</td>
+  <td>ionic character comparison; lattice energy</td>
+  <td>Transcript 18:23–20:37; Sift SIG-004 and SIG-008</td>
+  <td>needs_review</td>
+  <td>Add careful wording: “more ionic character” and “stronger lattice attraction” may require different criteria.</td>
+</tr>
+<tr>
+  <td>Saying ionic compounds always conduct because they contain ions</td>
+  <td>conductivity</td>
+  <td>Transcript 22:32–25:42; manual notes 6.3</td>
+  <td>confirmed</td>
+  <td>Emphasize ion mobility: solid fixed ions vs molten/aqueous mobile ions.</td>
+</tr>
+<tr>
+  <td>Treating NaCl as a single molecule rather than lattice</td>
+  <td>ionic lattice</td>
+  <td>Transcript 20:51–21:56</td>
+  <td>confirmed</td>
+  <td>Use lattice diagram and avoid molecule wording.</td>
+</tr>
+<tr>
+  <td>Assuming ionic compounds show ordinary structural isomerism</td>
+  <td>non-directional nature; no isomerism</td>
+  <td>Transcript 25:42–27:30</td>
+  <td>confirmed</td>
+  <td>Explain structural isomerism requires directional bonding / definite molecular structures.</td>
+</tr>
+<tr>
+  <td>Isomorphism examples and criteria</td>
+  <td>isomorphism</td>
+  <td>Transcript 27:30–30:50; manual notes 6.5; Sift SIG-001/SIG-007</td>
+  <td>needs_review</td>
+  <td>Keep concept but mark examples for visual/source verification.</td>
+</tr>
+<tr>
+  <td>Solubility explained only as “ionic compounds dissolve in water”</td>
+  <td>solubility preview</td>
+  <td>Transcript 32:43–33:34; Sift SIG-009</td>
+  <td>probable</td>
+  <td>State that solubility depends on balance of lattice energy and hydration/solvation energy; details later.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="b-diagram-or-visual-needs">B. Diagram or Visual Needs</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Diagram idea</th>
+  <th>Linked concept</th>
+  <th>Purpose</th>
+  <th>Essential / useful / optional</th>
+  <th>Source basis</th>
+  <th>Copyright/source caution</th>
+  <th>visual_context_needed?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>NaCl electron transfer and final ion dot structure</td>
+  <td>Lewis dot structures</td>
+  <td>Show before/after transfer and charges.</td>
+  <td>essential</td>
+  <td>Transcript 05:48–06:51; manual notes section 2</td>
+  <td>Create original diagram; do not recreate board exactly.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>(MgCl_2) Lewis dot structure</td>
+  <td>Lewis dot structures; electrovalency</td>
+  <td>Show Mg losing two electrons to two Cl atoms.</td>
+  <td>essential</td>
+  <td>Transcript 07:36–08:59; manual notes section 2</td>
+  <td>Create original diagram.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>Positive and negative ions attracting non-directionally</td>
+  <td>ionic bond</td>
+  <td>Make “no dash / non-directional” idea visual.</td>
+  <td>useful</td>
+  <td>Transcript 01:57–02:58</td>
+  <td>Use generic charge diagram.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>Coulombic force relation with (q_1,q_2,r)</td>
+  <td>electrostatic attraction</td>
+  <td>Clarify why small distance and higher charge increase attraction.</td>
+  <td>useful</td>
+  <td>Transcript 05:13–05:30</td>
+  <td>Simple original schematic.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>Ionic lattice / rock salt structure</td>
+  <td>ionic lattice</td>
+  <td>Show 3D arrangement and why ionic compounds are solids.</td>
+  <td>essential</td>
+  <td>Transcript 20:51–21:56; manual notes 6.1</td>
+  <td>Use original simplified lattice diagram; source-check coordination claims.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>Conductivity in solid vs molten vs aqueous states</td>
+  <td>ionic conductivity</td>
+  <td>Show fixed ions vs mobile ions.</td>
+  <td>essential</td>
+  <td>Transcript 22:32–25:42</td>
+  <td>Original side-by-side schematic.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>Water dielectric effect separating ions</td>
+  <td>water dielectric property</td>
+  <td>Explain aqueous conductivity and solvation concept.</td>
+  <td>useful</td>
+  <td>Transcript 24:23–25:42</td>
+  <td>Avoid exact molecular water orientation unless checked.</td>
+  <td>no</td>
+</tr>
+<tr>
+  <td>Isomerism vs isomorphism comparison</td>
+  <td>isomorphism</td>
+  <td>Prevent confusion between molecular structure and lattice similarity.</td>
+  <td>useful</td>
+  <td>Transcript 25:42–30:50; Sift SIG-007</td>
+  <td>Need verified examples before final diagram.</td>
+  <td>yes</td>
+</tr>
+<tr>
+  <td>NaCl/MgCl or MgCl2 board example</td>
+  <td>isomorphism</td>
+  <td>Determine what was actually written/spoken.</td>
+  <td>essential for review</td>
+  <td>Transcript 28:50–29:40; Sift SIG-001</td>
+  <td>Must inspect source video/board before public use.</td>
+  <td>yes</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="c-comparison-tables-that-may-help">C. Comparison Tables That May Help</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Comparison table</th>
+  <th>Purpose</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic bond vs covalent bond</td>
+  <td>Show electron transfer/non-directional lattice vs sharing/directional molecule.</td>
+  <td>useful; should be concise</td>
+</tr>
+<tr>
+  <td>Electrovalency vs ionic charge vs oxidation state</td>
+  <td>Prevent sign convention confusion.</td>
+  <td>high priority</td>
+</tr>
+<tr>
+  <td>Solid vs molten vs aqueous ionic conductivity</td>
+  <td>Classic exam trap table.</td>
+  <td>essential</td>
+</tr>
+<tr>
+  <td>Ionization energy vs electron affinity vs lattice energy</td>
+  <td>Separate absorbed/released energy terms.</td>
+  <td>essential</td>
+</tr>
+<tr>
+  <td>Ionic character vs lattice energy / bond strength</td>
+  <td>Avoid misleading rankings.</td>
+  <td>needs careful review</td>
+</tr>
+<tr>
+  <td>Isomerism vs isomorphism</td>
+  <td>Important because lecture teaches both in sequence.</td>
+  <td>useful, but examples need verification</td>
+</tr>
+<tr>
+  <td>Lattice energy vs hydration/solvation energy</td>
+  <td>Preview for solubility; detailed version later.</td>
+  <td>future-linked</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="d-wording-that-must-be-handled-carefully">D. Wording That Must Be Handled Carefully</h3>
+<ul>
+<li>Say <strong>electrovalency</strong>, not electronegativity, for the 09:12–12:36 topic.</li>
+<li>Say “electrovalency is treated as a positive count of electrons transferred in this lecture” rather than “charge is always positive.”</li>
+<li>Say “most/common ionic compounds are crystalline solids under ordinary conditions” rather than an unrestricted universal claim.</li>
+<li>Say “ionic compounds conduct when ions are mobile” rather than “ionic compounds conduct because they contain ions.”</li>
+<li>Say “lattice energy is energy released when gaseous ions form one mole of ionic solid” in this lecture framing; avoid equating it directly to heat of formation.</li>
+<li>Say “ionic character” and “bond strength/lattice strength” separately unless a source explicitly asks one criterion.</li>
+<li>Avoid approving NaCl–MgCl/MgCl2 isomorphism examples without board/source verification.</li>
+<li>Avoid “gaseous state is unstable” as a general statement; noble gases are stable in gaseous state, but separated gaseous ions can become more stable by lattice formation.</li>
+<li>Avoid “covalent bonds are weak compared to ionic bonds” as a universal rule; use it only as lecture emphasis with context.</li>
+</ul>
+<h2 id="7-sift-secondary-review" class="review-heading">7. Sift Secondary Review</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Sift signal ID</th>
+  <th>Signal summary</th>
+  <th>Signal type</th>
+  <th>Source strength</th>
+  <th>CEE judgment</th>
+  <th>Action taken</th>
+  <th>Affected section/concept</th>
+  <th>Public/notes impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>SIG-001</td>
+  <td>Students repeatedly flag MgCl vs (MgCl_2) in the isomorphism example around 28:50–29:40.</td>
+  <td>correction</td>
+  <td>high student-signal strength; not authority</td>
+  <td>needs_visual_context</td>
+  <td>added_review_item</td>
+  <td>Section 12; isomorphism</td>
+  <td>Do not publish this example until source video/board is checked.</td>
+</tr>
+<tr>
+  <td>SIG-002</td>
+  <td>Students challenge “Group 2 to 12” for d-block/variable valency and expect Group 3 to 12.</td>
+  <td>correction</td>
+  <td>high; repeated and timestamped</td>
+  <td>partially_valid</td>
+  <td>added_review_item</td>
+  <td>Section 5; variable electrovalency</td>
+  <td>Draft notes should use Group 3–12, while review checks exact board/audio.</td>
+</tr>
+<tr>
+  <td>SIG-003</td>
+  <td>Students challenge positive-only electrovalency convention, asking if Cl can be −1.</td>
+  <td>confusion</td>
+  <td>medium</td>
+  <td>clarity_gap</td>
+  <td>added_trap</td>
+  <td>Section 5; electrovalency</td>
+  <td>Add distinction between electrovalency magnitude and signed ionic charge/oxidation state.</td>
+</tr>
+<tr>
+  <td>SIG-004</td>
+  <td>Students dispute NaF/NaCl ionicity comparison and reasoning.</td>
+  <td>correction/confusion</td>
+  <td>medium-high</td>
+  <td>needs_source_check</td>
+  <td>added_review_item</td>
+  <td>Section 7; ionic character comparison</td>
+  <td>Add caution separating ionic character from lattice energy/strength and future Fajan’s rule.</td>
+</tr>
+<tr>
+  <td>SIG-005</td>
+  <td>Students remain confused among lattice energy, hydration energy, and ionization energy.</td>
+  <td>confusion</td>
+  <td>medium</td>
+  <td>clarity_gap</td>
+  <td>changed_notes</td>
+  <td>Section 6 and 14; energy terms</td>
+  <td>Add energy-term comparison and defer hydration/solvation detail.</td>
+</tr>
+<tr>
+  <td>SIG-006</td>
+  <td>Students question gaseous-state condition and “gaseous = unstable” wording.</td>
+  <td>confusion</td>
+  <td>medium</td>
+  <td>clarity_gap</td>
+  <td>changed_notes</td>
+  <td>Section 3; why ions combine</td>
+  <td>Use wording about separated gaseous ions gaining stability on lattice formation; avoid broad claim about gases.</td>
+</tr>
+<tr>
+  <td>SIG-007</td>
+  <td>Students find isomorphism criteria unclear beyond MgCl/MgCl2 issue.</td>
+  <td>confusion</td>
+  <td>medium</td>
+  <td>needs_review</td>
+  <td>added_review_item</td>
+  <td>Section 12; isomorphism</td>
+  <td>Add comparison table need and mark examples for verification.</td>
+</tr>
+<tr>
+  <td>SIG-008</td>
+  <td>Students struggle with ranking ionic-bond formation/strength.</td>
+  <td>confusion</td>
+  <td>medium</td>
+  <td>clarity_gap</td>
+  <td>added_trap</td>
+  <td>Section 7; ionic character comparison</td>
+  <td>Notes should distinguish formation favourability, ionic character, and lattice strength.</td>
+</tr>
+<tr>
+  <td>SIG-009</td>
+  <td>Students say factors affecting solubility are missing.</td>
+  <td>missing-topic</td>
+  <td>medium</td>
+  <td>cross_link_or_gap</td>
+  <td>deferred</td>
+  <td>Section 14; solubility preview</td>
+  <td>Mark detailed solubility as future-linked; do not overbuild from this lecture.</td>
+</tr>
+<tr>
+  <td>SIG-010</td>
+  <td>Students request Kossel-Lewis approach coverage.</td>
+  <td>missing-topic</td>
+  <td>low</td>
+  <td>ignore</td>
+  <td>no_action</td>
+  <td>Lecture roadmap / outside current scope</td>
+  <td>No content change; can be future source-planning note only.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="sift-influence-summary">Sift Influence Summary</h3>
+<ul>
+<li>Sift did <strong>not</strong> change the lecture concept spine; the spine was built from transcript and manual notes first.</li>
+<li>Sift added review pressure on the isomorphism examples, especially the MgCl/MgCl2 issue.</li>
+<li>Sift improved the notes by forcing clearer wording on electrovalency vs charge/oxidation state.</li>
+<li>Sift confirmed that energy terms need a comparison table, especially IE vs EA vs LE vs hydration/solvation.</li>
+<li>Sift added caution to ionic-character ranking because students may mix up ionic character, lattice energy, and bond strength.</li>
+<li>Sift did not justify adding Kossel-Lewis coverage to this lecture output.</li>
+</ul>
+<h2 id="8-cee-approved-lecture-aligned-notes-draft">8. CEE-Approved Lecture-Aligned Notes Draft</h2>
+<blockquote>
+<p><strong>Status:</strong> <code>agent_tagged</code> / <code>review_needed</code><br />
+These notes are lecture-aligned and Chemistry-corrected where safe. They are not final Luna-polished public MDX. Board-dependent examples remain marked for review.</p>
+</blockquote>
+<h3 id="1-ionic-bond-electrovalent-bond">1. Ionic bond / electrovalent bond</h3>
+<p>An <strong>ionic bond</strong>, also called an <strong>electrovalent bond</strong>, is formed when electron transfer takes place between a metal and a non-metal.</p>
+<p>A simple example is sodium chloride:</p>
+<p>[
+Na \rightarrow Na^+ + e^-
+]</p>
+<p>[
+Cl + e^- \rightarrow Cl^-
+]</p>
+<p>Sodium loses one electron and forms (Na^+). Chlorine gains one electron and forms (Cl^-). Both ions now have stable noble-gas-like outer electronic arrangements in the basic octet-rule model.</p>
+<p>But the important point is this: the ionic compound is not formed just because octets are complete. The oppositely charged ions attract each other strongly and come together in a solid lattice. This attraction is the real force holding the ionic compound together.</p>
+<p>In ionic bonding, we should avoid drawing a covalent-style dash between atoms. A dash usually suggests a shared electron pair in a fixed direction. Ionic attraction is <strong>non-directional</strong>: a positive ion attracts negative ions around it through electrostatic force.</p>
+<h3 id="2-why-ionic-attraction-is-strong">2. Why ionic attraction is strong</h3>
+<p>The electrostatic attraction between ions can be understood using Coulomb’s law:</p>
+<p>[
+F = \frac{Kq_1q_2}{r^2}
+]</p>
+<p>Here, (q_1) and (q_2) are the ionic charges and (r) is the distance between ions. If the charges are larger, attraction increases. If the distance is smaller, attraction increases.</p>
+<p>This explains why ionic compounds are usually strongly held together. However, do not turn this into the careless statement “ionic bonds are always stronger than covalent bonds.” Bond strength depends on context. For this lecture, the key takeaway is that electrostatic attraction in ionic lattices can be very strong.</p>
+<h3 id="3-lewis-dot-structures-for-ionic-compounds">3. Lewis dot structures for ionic compounds</h3>
+<p>In ionic Lewis dot structures, show electron transfer and final ion charges clearly.</p>
+<p>For NaCl:</p>
+<ul>
+<li>Na has one valence electron.</li>
+<li>Cl has seven valence electrons.</li>
+<li>Na transfers one electron to Cl.</li>
+<li>Final ions are (Na^+) and (Cl^-).</li>
+<li>Chloride has eight valence electrons after gaining the electron.</li>
+</ul>
+<p>For (MgCl_2):</p>
+<ul>
+<li>Mg has two valence electrons.</li>
+<li>Mg loses both electrons to form (Mg^{2+}).</li>
+<li>Two chlorine atoms are needed.</li>
+<li>Each chlorine gains one electron and becomes (Cl^-).</li>
+<li>Final formula is (MgCl_2).</li>
+</ul>
+<p><strong>Trap:</strong> Do not forget the charges. (Mg) becomes (Mg^{2+}), not (Mg^+), because it loses two electrons.</p>
+<h3 id="4-electrovalency">4. Electrovalency</h3>
+<p><strong>Electrovalency</strong> is the number of electrons lost by a metal or gained by a non-metal during formation of an electrovalent bond.</p>
+<p>In this lecture’s convention, electrovalency is treated as a positive number because it counts the number of electrons transferred.</p>
+<p>Examples:</p>
+<ul>
+<li>(Na) loses 1 electron → electrovalency = 1.</li>
+<li>(Mg) loses 2 electrons → electrovalency = 2.</li>
+<li>(Cl) gains 1 electron → electrovalency = 1.</li>
+<li>(O) gains 2 electrons → electrovalency = 2.</li>
+</ul>
+<p>Do not confuse electrovalency with ionic charge. The ion (Cl^-) has a negative charge, but its electrovalency is counted as 1 in this convention.</p>
+<p>Group-wise pattern from the lecture:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Element group</th>
+  <th style="text-align:right">Usual electrovalency in simple ionic compounds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Group 1</td>
+  <td style="text-align:right">1</td>
+</tr>
+<tr>
+  <td>Group 2</td>
+  <td style="text-align:right">2</td>
+</tr>
+<tr>
+  <td>Group 13</td>
+  <td style="text-align:right">3</td>
+</tr>
+<tr>
+  <td>Group 14</td>
+  <td style="text-align:right">Generally not treated as forming simple ionic bonds in this lecture</td>
+</tr>
+<tr>
+  <td>Group 15</td>
+  <td style="text-align:right">3</td>
+</tr>
+<tr>
+  <td>Group 16</td>
+  <td style="text-align:right">2</td>
+</tr>
+<tr>
+  <td>Group 17</td>
+  <td style="text-align:right">1</td>
+</tr>
+<tr>
+  <td>d-block, generally Groups 3–12</td>
+  <td style="text-align:right">Variable electrovalency</td>
+</tr>
+</tbody>
+</table></div>
+<p>Examples of variable electrovalency:</p>
+<ul>
+<li>Fe can show 2 and 3.</li>
+<li>Cu can show 1 and 2.</li>
+</ul>
+<p><strong>Review note:</strong> The transcript/board context around the d-block group range needs review because Sift students flagged a possible “Group 2 to 12” issue.</p>
+<h3 id="5-energy-terms-in-ionic-bond-formation">5. Energy terms in ionic bond formation</h3>
+<p>Ionic compound formation involves both energy absorption and energy release. A stable ionic compound is favoured when the energy absorbed is low and the energy released is high.</p>
+<h4 id="ionization-energy">Ionization energy</h4>
+<p>Ionization energy is the energy required to remove an electron from a gaseous atom.</p>
+<p>For ionic bond formation, the metal should have low ionization energy because it must lose electron(s) easily.</p>
+<p>[
+IE \rightarrow \min
+]</p>
+<h4 id="electron-affinity">Electron affinity</h4>
+<p>Electron affinity is treated in this lecture as the energy released when a gaseous atom accepts an electron.</p>
+<p>For ionic bond formation, the non-metal should release more energy on accepting electron(s).</p>
+<p>[
+EA \rightarrow \max
+]</p>
+<h4 id="lattice-energy">Lattice energy</h4>
+<p>Lattice energy is the energy released when gaseous cations and gaseous anions combine to form one mole of solid ionic compound.</p>
+<p>[
+M^+(g) + X^-(g) \rightarrow MX(s)
+]</p>
+<p>For stable ionic compounds:</p>
+<p>[
+LE \rightarrow \max
+]</p>
+<p>The lecture gives the three favourable conditions as:</p>
+<ol>
+<li>Metal ionization energy should be low.</li>
+<li>Non-metal electron affinity should be high.</li>
+<li>Lattice energy should be high.</li>
+</ol>
+<p><strong>Trap:</strong> Lattice energy is not the same thing as the full heat of formation. It is one energy term related to formation of the ionic solid from gaseous ions.</p>
+<h3 id="6-which-compound-has-more-ionic-character">6. Which compound has more ionic character?</h3>
+<p>The lecture gives a basic trend method:</p>
+<ul>
+<li>More metallic character in the metal favours ionic character.</li>
+<li>More non-metallic character in the non-metal favours ionic character.</li>
+</ul>
+<p>Example 1:</p>
+<p>[
+NaF,\ NaCl,\ NaBr,\ NaI
+]</p>
+<p>The metal is the same in all four. Among halogens, non-metallic character is highest for fluorine and decreases down the group. So, by the lecture’s basic trend method:</p>
+<p>[
+NaF
+]</p>
+<p>has the highest ionic character in this series.</p>
+<p>Example 2:</p>
+<p>[
+LiCl,\ NaCl,\ KCl,\ RbCl
+]</p>
+<p>The non-metal is the same in all four. Metallic character increases down Group 1. So, by the lecture’s basic trend method:</p>
+<p>[
+RbCl
+]</p>
+<p>has the highest ionic character in this series.</p>
+<p><strong>Careful wording:</strong> “More ionic character” is not always the same as “higher lattice energy” or “stronger bond” in every question. Lattice energy depends strongly on charge and size. Covalent character in ionic compounds is treated more carefully by Fajan’s rule, which is only previewed here and belongs to a later lecture.</p>
+<h3 id="7-ionic-compounds-as-lattices">7. Ionic compounds as lattices</h3>
+<p>Ionic compounds are not best imagined as single independent molecules. They usually form a 3D lattice of cations and anions.</p>
+<p>For example, NaCl is commonly discussed using the rock-salt lattice idea: each ion is surrounded by oppositely charged ions in a repeating arrangement. This lattice structure explains why ionic compounds are usually crystalline solids.</p>
+<p><strong>Diagram needed:</strong> A simplified NaCl lattice diagram should be added later. It must be original and source-checked.</p>
+<h3 id="8-melting-point-and-boiling-point">8. Melting point and boiling point</h3>
+<p>Ionic compounds generally have high melting and boiling points because strong electrostatic attractions hold the ions together. A large amount of energy is required to separate the ions enough for melting or boiling.</p>
+<h3 id="9-conductivity-of-ionic-compounds">9. Conductivity of ionic compounds</h3>
+<p>The key idea is <strong>mobility of ions</strong>.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>State</th>
+  <th>Conductivity</th>
+  <th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Solid ionic compound</td>
+  <td>Poor conductor</td>
+  <td>Ions are present but fixed in the lattice; they cannot move freely.</td>
+</tr>
+<tr>
+  <td>Molten ionic compound</td>
+  <td>Good conductor</td>
+  <td>Ions become mobile after melting.</td>
+</tr>
+<tr>
+  <td>Aqueous ionic compound</td>
+  <td>Good conductor</td>
+  <td>Ions are separated/stabilized by water and can move.</td>
+</tr>
+</tbody>
+</table></div>
+<p>Electricity requires movement of charge. Solid NaCl contains charged ions, but the ions are locked in fixed positions, so charge cannot move through the solid.</p>
+<p>In molten NaCl, ions become free to move. In aqueous NaCl, water weakens the attraction between ions and allows them to move. The lecture connects this to the dielectric property of water.</p>
+<p><strong>Careful wording:</strong> Use the “81 times” dielectric reduction only after source review. For now, the safe concept is that water has a high dielectric effect and can reduce attraction between ions.</p>
+<h3 id="10-isomerism-in-ionic-compounds">10. Isomerism in ionic compounds</h3>
+<p>Structural isomerism usually means compounds have the same molecular formula but different structural arrangements.</p>
+<p>At this level, ordinary ionic compounds are not treated as showing covalent-style structural isomerism because ionic bonding is non-directional and ionic compounds form lattices rather than discrete directional molecules.</p>
+<p>So, ionic compounds generally do not show ordinary structural isomerism in the way covalent compounds do.</p>
+<h3 id="11-isomorphism">11. Isomorphism</h3>
+<p>Isomorphism means two different compounds have the same or very similar crystalline/lattice arrangement.</p>
+<p>The lecture gives two broad conditions:</p>
+<ol>
+<li>Similar formula type.</li>
+<li>Similar sizes of corresponding ions.</li>
+</ol>
+<p>This concept is useful, but the examples in this lecture need source verification before public use. The student-signal file strongly flags the MgCl/MgCl2 example, and visual board context is missing. So for now, the final public notes should explain the concept and keep examples under review.</p>
+<p><strong>Safe student takeaway:</strong> Isomerism is about different structures for the same formula, usually in covalent compounds. Isomorphism is about different compounds having similar crystal structures.</p>
+<h3 id="12-ionic-reactions">12. Ionic reactions</h3>
+<p>Ionic reactions in aqueous solution are often very fast because the reacting species are already present as ions.</p>
+<p>Example discussed:</p>
+<p>[
+NaCl(aq) + AgNO_3(aq)
+]</p>
+<p>In solution, ions such as (Na^+), (Cl^-), (Ag^+), and (NO_3^-) are available. When (Ag^+) meets (Cl^-), precipitation can occur quickly.</p>
+<p><strong>Review note:</strong> The exact time quoted for ionic reactions differs between transcript and manual notes. Use “very fast” until the exact value is verified.</p>
+<h3 id="13-solubility-preview">13. Solubility preview</h3>
+<p>Ionic compounds are generally more soluble in polar solvents like water than in non-polar solvents. Water can stabilize separated ions, helping the ionic solid dissolve.</p>
+<p>The lecture only previews the deeper explanation. A full solubility discussion needs lattice energy, hydration energy, and solvation energy, which are future-linked topics.</p>
+<h3 id="14-final-lecture-takeaway">14. Final lecture takeaway</h3>
+<p>This lecture’s main message is:</p>
+<ul>
+<li>Ionic bonding begins with electron transfer.</li>
+<li>The compound is held by electrostatic attraction between ions.</li>
+<li>Ionic attraction is non-directional.</li>
+<li>Ionic compounds form lattices, not ordinary discrete molecules.</li>
+<li>Their properties follow from strong electrostatic forces and ion mobility.</li>
+<li>Energy terms like IE, EA, and LE explain why ionic bond formation becomes favourable.</li>
+<li>Some examples, especially isomorphism examples, need review before publication.</li>
+</ul>
+<h2 id="9-proposed-updates-to-chapter-knowledgemd" class="review-heading">9. Proposed Updates to chapter-knowledge.md</h2>
+<h3 id="a-new-concept-candidates">A. New Concept Candidates</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Concept title</th>
+  <th>Proposed concept_id</th>
+  <th>Reason for creation</th>
+  <th>Taught in lecture section(s)</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic Bond / Electrovalent Bond</td>
+  <td><code>chemical-bonding-ionic-bond-electrovalent-bond</code></td>
+  <td>Main lecture concept; needed for later bonding, properties, lattice energy, and Fajan’s rule.</td>
+  <td>Sections 2–3</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Non-Directional Nature of Ionic Bond</td>
+  <td><code>chemical-bonding-ionic-bond-nondirectional-nature</code></td>
+  <td>Explains no dash bond, no ordinary isomerism, and lattice behavior.</td>
+  <td>Sections 2, 11</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Lewis Dot Structures for Ionic Compounds</td>
+  <td><code>chemical-bonding-ionic-lewis-dot-structures</code></td>
+  <td>Needed for NaCl and (MgCl_2) representation and formula logic.</td>
+  <td>Section 4</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Electrovalency</td>
+  <td><code>chemical-bonding-electrovalency</code></td>
+  <td>Important definition connecting electron transfer, group valency, and ionic formulae.</td>
+  <td>Section 5</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Energy Terms in Ionic Bond Formation</td>
+  <td><code>chemical-bonding-ionic-bond-formation-energy-terms</code></td>
+  <td>Parent concept for IE, EA, and LE conditions.</td>
+  <td>Section 6</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Lattice Energy Introduction</td>
+  <td><code>chemical-bonding-lattice-energy-introduction</code></td>
+  <td>Core stability concept introduced here and expanded next lecture.</td>
+  <td>Section 6</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Conductivity of Ionic Compounds</td>
+  <td><code>chemical-bonding-ionic-compound-conductivity</code></td>
+  <td>High-value exam trap involving solid/molten/aqueous states.</td>
+  <td>Section 10</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic Lattice / Crystal Arrangement</td>
+  <td><code>chemical-bonding-ionic-lattice-crystal-arrangement</code></td>
+  <td>Explains physical state, high m.p./b.p., non-directionality, and isomorphism.</td>
+  <td>Sections 8–12</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Isomorphism in Ionic Compounds</td>
+  <td><code>chemical-bonding-isomorphism-ionic-compounds</code></td>
+  <td>Substantially taught but examples need review.</td>
+  <td>Section 12</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td>Ionic Reaction Speed</td>
+  <td><code>chemical-bonding-ionic-reaction-speed</code></td>
+  <td>Useful property of ionic compounds and precipitation reactions.</td>
+  <td>Section 13</td>
+  <td>candidate</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="b-existing-concepts-to-reuse-or-update">B. Existing Concepts to Reuse or Update</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Concept title or concept_id</th>
+  <th>Reuse/update reason</th>
+  <th>Source basis</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Octet rule / noble gas configuration</td>
+  <td>Used to explain why atoms lose/gain electrons, but not newly taught here.</td>
+  <td>Transcript 01:19–03:27</td>
+  <td>candidate reuse</td>
+</tr>
+<tr>
+  <td>Electronic configuration</td>
+  <td>Needed for Na, Cl, Mg electron arrangements and dot structures.</td>
+  <td>Transcript 01:19, 07:36</td>
+  <td>candidate reuse</td>
+</tr>
+<tr>
+  <td>Periodic trends: metallic and non-metallic character</td>
+  <td>Used to compare ionic character in NaX and MCl series.</td>
+  <td>Transcript 18:42–20:37</td>
+  <td>candidate reuse</td>
+</tr>
+<tr>
+  <td>Periodic trends: atomic/ionic size</td>
+  <td>Used in isomorphism and lattice discussion.</td>
+  <td>Transcript 28:53–30:23</td>
+  <td>candidate reuse</td>
+</tr>
+<tr>
+  <td>Ionization energy</td>
+  <td>Reused from periodic properties; applied to ionic formation.</td>
+  <td>Transcript 13:43–14:19</td>
+  <td>candidate update</td>
+</tr>
+<tr>
+  <td>Electron affinity / electron gain enthalpy</td>
+  <td>Reused from periodic properties; applied to anion formation.</td>
+  <td>Transcript 14:19–15:06</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td>Fajan’s rule</td>
+  <td>Preview only; not taught here.</td>
+  <td>Transcript 19:04, 33:53–34:10</td>
+  <td>future_link</td>
+</tr>
+<tr>
+  <td>Hydration energy / solvation energy</td>
+  <td>Preview only; not taught in detail here.</td>
+  <td>Transcript 32:43–33:34</td>
+  <td>future_link</td>
+</tr>
+<tr>
+  <td>Solid-state crystal structures</td>
+  <td>NaCl rock salt lattice mentioned; detailed treatment belongs later.</td>
+  <td>Transcript 21:28</td>
+  <td>cross_chapter_reference_needs_check</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="c-relationships-to-add">C. Relationships to Add</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>From concept</th>
+  <th>Relationship type</th>
+  <th>To concept</th>
+  <th>Reason</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Ionic bond / electrovalent bond</td>
+  <td>requires</td>
+  <td>Octet rule / electronic configuration</td>
+  <td>Students need electron arrangements to understand transfer.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic bond / electrovalent bond</td>
+  <td>supports</td>
+  <td>Lewis dot structures for ionic compounds</td>
+  <td>Dot structures visualize the transfer.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic bond / electrovalent bond</td>
+  <td>supports</td>
+  <td>Ionic lattice / crystal arrangement</td>
+  <td>Ion attraction leads to lattice formation.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Electrovalency</td>
+  <td>supports</td>
+  <td>Ionic formula writing</td>
+  <td>Number of electrons lost/gained determines ion charges and formula ratios.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionization energy</td>
+  <td>applies</td>
+  <td>Ionic bond formation conditions</td>
+  <td>Low IE favours metal cation formation.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Electron affinity</td>
+  <td>applies</td>
+  <td>Ionic bond formation conditions</td>
+  <td>High energy release favours anion formation.</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td>Lattice energy introduction</td>
+  <td>supports</td>
+  <td>Stability of ionic solids</td>
+  <td>Energy release on lattice formation explains stability.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic lattice</td>
+  <td>supports</td>
+  <td>High melting and boiling points</td>
+  <td>Strong lattice attraction requires high energy to overcome.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic lattice</td>
+  <td>supports</td>
+  <td>Conductivity of ionic compounds</td>
+  <td>Fixed vs mobile ions explain conduction behavior.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Non-directional nature of ionic bond</td>
+  <td>supports</td>
+  <td>No ordinary structural isomerism in ionic compounds</td>
+  <td>Lack of fixed direction/shape explains absence of typical isomerism.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Isomorphism</td>
+  <td>commonly_confused_with</td>
+  <td>Isomerism</td>
+  <td>Similar names but different meanings.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic character comparison</td>
+  <td>prepares_for</td>
+  <td>Fajan’s rule</td>
+  <td>Basic trend method is later refined by polarization/covalent character.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Solubility preview</td>
+  <td>prepares_for</td>
+  <td>Hydration / solvation energy</td>
+  <td>Full solubility explanation needs energy balance.</td>
+  <td>candidate</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="d-traps-rules-diagrams-to-add-later">D. Traps / Rules / Diagrams to Add Later</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Durable candidate</th>
+  <th>Type</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Do not draw a covalent dash for ionic bond</td>
+  <td>trap</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Electrovalency is magnitude; ionic charge is signed</td>
+  <td>trap</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Solid ionic compounds contain ions but do not conduct because ions are fixed</td>
+  <td>trap</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Ionic character vs lattice energy vs bond strength distinction</td>
+  <td>trap/rule</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td>Ionic compounds as lattices, not isolated molecules</td>
+  <td>diagram/trap</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>NaCl and (MgCl_2) Lewis dot structures</td>
+  <td>diagram</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Solid/molten/aqueous conductivity comparison</td>
+  <td>diagram/table</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Isomerism vs isomorphism comparison</td>
+  <td>comparison table</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>Isomorphism examples</td>
+  <td>diagram/table</td>
+  <td>needs_review</td>
+</tr>
+<tr>
+  <td>Energy terms table: IE, EA, LE, hydration/solvation</td>
+  <td>comparison table</td>
+  <td>candidate</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="e-cross-chapter-references">E. Cross-Chapter References</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Concept</th>
+  <th>Canonical location possibility</th>
+  <th>Reason</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Electronic configuration</td>
+  <td>Atomic structure / classification</td>
+  <td>Needed for valence electron counts.</td>
+</tr>
+<tr>
+  <td>Ionization energy</td>
+  <td>Periodic properties</td>
+  <td>Applied here to ionic bond formation.</td>
+</tr>
+<tr>
+  <td>Electron affinity / electron gain enthalpy</td>
+  <td>Periodic properties</td>
+  <td>Applied here to anion formation.</td>
+</tr>
+<tr>
+  <td>Metallic and non-metallic character</td>
+  <td>Periodic classification</td>
+  <td>Used for ionic-character ranking.</td>
+</tr>
+<tr>
+  <td>Atomic/ionic radius</td>
+  <td>Periodic properties / solid state</td>
+  <td>Used in isomorphism and lattice energy.</td>
+</tr>
+<tr>
+  <td>Crystal lattice / rock salt structure</td>
+  <td>Solid state</td>
+  <td>Mentioned here but detailed coordination belongs later.</td>
+</tr>
+<tr>
+  <td>Hydration / solvation energy</td>
+  <td>Solutions / thermodynamics / ionic equilibrium depending on syllabus structure</td>
+  <td>Only previewed here.</td>
+</tr>
+<tr>
+  <td>Dielectric constant of water</td>
+  <td>Electrostatics / solutions</td>
+  <td>Used here to explain aqueous conductivity.</td>
+</tr>
+<tr>
+  <td>Fajan’s rule</td>
+  <td>Chemical bonding later section</td>
+  <td>Previewed, not taught.</td>
+</tr>
+</tbody>
+</table></div>
+<p>Do not create global registry entries now.</p>
+<h2 id="10-review-queue" class="review-heading">10. Review Queue</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Issue ID</th>
+  <th>Category</th>
+  <th>Issue summary</th>
+  <th>Source basis</th>
+  <th>Why it matters</th>
+  <th>Recommended next step</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>RQ-001</td>
+  <td>possible_transcript_error</td>
+  <td>Transcript uses “Electronegativity” in the 09:12–12:36 segment, but context/manual notes indicate electrovalency.</td>
+  <td>Transcript 09:12–12:36; manual notes section 3</td>
+  <td>Wrong term would mislead students and concept tagging.</td>
+  <td>Verify transcript/audio; use electrovalency in notes unless source disproves.</td>
+</tr>
+<tr>
+  <td>RQ-002</td>
+  <td>possible_teacher_error</td>
+  <td>d-block group range appears as “Group Two to 12” in transcript; manual notes use Group 3 to 12; Sift flags error.</td>
+  <td>Transcript 10:24, 11:48; manual notes section 3; Sift SIG-002</td>
+  <td>Group 2 is s-block, not d-block in standard classification.</td>
+  <td>Check board/audio around 11:57–12:30.</td>
+</tr>
+<tr>
+  <td>RQ-003</td>
+  <td>source_convention_conflict</td>
+  <td>Electrovalency positive-only convention challenged by students.</td>
+  <td>Manual notes section 3; Sift SIG-003</td>
+  <td>Need to avoid conflict with signed ionic charge/oxidation state.</td>
+  <td>Add convention note; check preferred ChemDesk standard definition.</td>
+</tr>
+<tr>
+  <td>RQ-004</td>
+  <td>source_convention_conflict</td>
+  <td>Electron affinity sign/wording may conflict with electron gain enthalpy conventions.</td>
+  <td>Transcript 14:19–15:06; manual notes 4.2</td>
+  <td>Exam sources may use enthalpy sign conventions differently.</td>
+  <td>Source-check with approved syllabus/NCERT/JEE framing before final concept page.</td>
+</tr>
+<tr>
+  <td>RQ-005</td>
+  <td>missing_source_or_syllabus_evidence</td>
+  <td>No official syllabus/NCERT source supplied for exact definition conventions.</td>
+  <td>Source inventory</td>
+  <td>Limits confidence for permanent definitions.</td>
+  <td>Later compare with official/approved ChemDesk chapter knowledge.</td>
+</tr>
+<tr>
+  <td>RQ-006</td>
+  <td>visual_context_needed</td>
+  <td>NaCl/MgCl/MgCl2 isomorphism example is unresolved.</td>
+  <td>Transcript 28:50–29:40; manual notes 6.5; Sift SIG-001</td>
+  <td>Could publish chemically wrong example if not checked.</td>
+  <td>Inspect source video board and audio; verify intended species and standard isomorphism.</td>
+</tr>
+<tr>
+  <td>RQ-007</td>
+  <td>possible_teacher_error</td>
+  <td>Claim that NaCl and KCl are not isomorphous because of cation size may need source check.</td>
+  <td>Transcript 29:55–30:23; Sift SIG-007</td>
+  <td>Isomorphism examples are high-risk.</td>
+  <td>Verify against reliable chemistry source before public notes.</td>
+</tr>
+<tr>
+  <td>RQ-008</td>
+  <td>source_convention_conflict</td>
+  <td>“Which is stronger ionic bond?” is mixed with “more ionic character.”</td>
+  <td>Transcript 18:23–20:37; manual notes section 5; Sift SIG-004/SIG-008</td>
+  <td>Ionic character and lattice energy/bond strength can require different reasoning.</td>
+  <td>Separate these in final notes; source-check examples.</td>
+</tr>
+<tr>
+  <td>RQ-009</td>
+  <td>visual_context_needed</td>
+  <td>NaCl rock salt coordination described as six around six; board diagram missing.</td>
+  <td>Transcript 21:28–21:56</td>
+  <td>Diagram and coordination claim need visual verification.</td>
+  <td>Add original diagram after source verification.</td>
+</tr>
+<tr>
+  <td>RQ-010</td>
+  <td>possible_transcript_error</td>
+  <td>Ionic reaction completion time conflict: transcript (10^{-8}) s, manual notes (10^{-6}) s.</td>
+  <td>Transcript 31:26; manual notes 6.6</td>
+  <td>Exact value affects notes and possible exam memory.</td>
+  <td>Check source video/board or remove exact number.</td>
+</tr>
+<tr>
+  <td>RQ-011</td>
+  <td>missing_source_or_syllabus_evidence</td>
+  <td>Water reduces force by “81 times” is a lecture approximation and needs conditions.</td>
+  <td>Transcript 25:00–25:42; manual notes 6.3</td>
+  <td>Avoid publishing a context-free exact number.</td>
+  <td>Verify dielectric constant framing; use qualitative wording if unverified.</td>
+</tr>
+<tr>
+  <td>RQ-012</td>
+  <td>new_concept_needs_approval</td>
+  <td>Multiple concept IDs proposed but no <code>chapter-knowledge.md</code> supplied.</td>
+  <td>Source inventory; concept spine</td>
+  <td>Cannot know duplicates/approved IDs.</td>
+  <td>Human/Sia review against chapter concept registry.</td>
+</tr>
+<tr>
+  <td>RQ-013</td>
+  <td>cross_chapter_reference_needs_check</td>
+  <td>Ionization energy, electron affinity, periodic trends, and crystal lattice may belong in other chapters.</td>
+  <td>Lecture sections 5–12</td>
+  <td>Avoid duplicate concept pages.</td>
+  <td>Map as reuse/cross-link after chapter knowledge review.</td>
+</tr>
+<tr>
+  <td>RQ-014</td>
+  <td>visual_context_needed</td>
+  <td>Isomorphism vs isomerism explanation may need final examples and diagrams.</td>
+  <td>Transcript 25:42–30:50; Sift SIG-007</td>
+  <td>Students are confused; public notes need clarity.</td>
+  <td>Build verified comparison table after source check.</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="11-learning-candidates" class="review-heading">11. Learning Candidates</h2>
+<h3 id="a-correction-rule-candidates">A. Correction Rule Candidates</h3>
+<p>These are <strong>not approved</strong>. They are candidate reusable rules for user review.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+  <th>Candidate rule</th>
+  <th>Why it may be reusable</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>When a transcript repeatedly uses a chemistry term that conflicts with context and manual notes, mark <code>possible_transcript_error</code> and use the context-supported term only with a review note.</td>
+  <td>The electrovalency/electronegativity issue is likely to recur in translated transcripts.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>For ionic bonding content, always separate electrovalency magnitude from signed ionic charge and oxidation state.</td>
+  <td>Prevents a common student confusion and source-convention conflict.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>For trend questions, do not merge “ionic character,” “lattice energy,” and “bond strength” unless the source explicitly defines the criterion.</td>
+  <td>This protects ranking explanations from oversimplification.</td>
+  <td>candidate</td>
+</tr>
+<tr>
+  <td>For isomorphism examples from old lecture boards, require visual/source verification before approving examples.</td>
+  <td>Isomorphism is example-sensitive and student comments flagged likely board/example mistakes.</td>
+  <td>candidate</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="b-process-learning-candidates" class="review-heading">B. Process Learning Candidates</h3>
+<ul>
+<li>Manual notes should guide lecture section boundaries strongly, but not automatically create concept IDs.</li>
+<li>Transcript should remain the core lecture-flow source because it reveals reasoning that manual notes compress, such as “why do Na+ and Cl− combine after octet completion?”</li>
+<li>Sift should be reviewed only after the lecture-first spine is drafted; in this lecture it mostly added review flags and clarity traps rather than new concepts.</li>
+<li>When manual notes and transcript disagree on exact numerical values, final notes should avoid the number until source verification.</li>
+<li>For board-dependent topics such as Lewis structures, lattice structures, and isomorphism examples, missing visual evidence should be explicitly marked.</li>
+<li>Broad property headings should usually become section groups; only reusable property mechanisms should become concept candidates.</li>
+</ul>
+<h3 id="c-chapter-knowledge-learning-candidates" class="review-heading">C. Chapter Knowledge Learning Candidates</h3>
+<ul>
+<li>Ionic bonding needs a central concept page that explains electron transfer plus electrostatic lattice stabilization, not just octet completion.</li>
+<li>Non-directionality is a high-value cross-link connecting ionic bond definition, absence of ordinary structural isomerism, and lattice structure.</li>
+<li>Conductivity of ionic compounds should be a durable trap/rule because the key variable is ion mobility, not merely presence of ions.</li>
+<li>Lattice energy should become a bridge concept connecting ionic bond formation, melting/boiling points, solubility, and later Born-Haber cycle or lattice-energy factors.</li>
+<li>Ionic character comparison should be treated carefully and later linked to Fajan’s rule.</li>
+<li>Isomerism vs isomorphism needs a student-facing comparison table because the similar names create confusion.</li>
+<li>Hydration/solvation energy is only previewed here and should be built after the dedicated lecture/source, not overexpanded from this lecture.</li>
+</ul>
+<h2 id="12-final-output-summary">12. Final Output Summary</h2>
+<ul>
+<li>concept spine drafted: yes</li>
+<li>section map drafted: yes</li>
+<li>lecture-aligned notes drafted: yes</li>
+<li>Sift reviewed: yes</li>
+<li>chapter-knowledge updates proposed: yes</li>
+<li>unresolved review items: 14</li>
+<li>ready for human review: yes</li>
+</ul>
+<p><strong>Final status:</strong> <code>review_needed</code><br />
+<strong>Reason:</strong> Lecture identity is consistent enough for processing, but isomorphism examples, d-block group wording, exact reaction time, and several source-convention points require human/source review before any approved or public ChemDesk content is created.</p>
+
+    </article>
+  </main>
+</body>
+</html>
